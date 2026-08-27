@@ -1,0 +1,3430 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2025-07-23",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Gaborone",
+    "dates": [
+      "2025-07-21"
+    ],
+    "event": {
+      "name": "ICC Women's T20 World Cup Africa Region Division Two Qualifier",
+      "match_number": 6,
+      "group": "A"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2413,
+    "officials": {
+      "match_referees": [
+        "J Chibhabha"
+      ],
+      "reserve_umpires": [
+        "Patric Makumbi"
+      ],
+      "umpires": [
+        "K Klaaste",
+        "R D'Mello"
+      ]
+    },
+    "outcome": {
+      "winner": "Rwanda",
+      "by": {
+        "runs": 67
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "H Ishimwe"
+    ],
+    "players": {
+      "Rwanda": [
+        "MD Bimenyimana",
+        "M Uwase",
+        "G Ishimwe",
+        "C Uwase",
+        "S Niyomuhoza",
+        "H Ishimwe",
+        "A Ikuzwe",
+        "B Murekatete",
+        "Geovanis Uwase",
+        "R Shimwamana",
+        "Rosine Irera"
+      ],
+      "Malawi": [
+        "S Chinawa",
+        "S Kananji",
+        "T Luka",
+        "LL Dimba",
+        "A Lumbe",
+        "P Maziya",
+        "F Malefula",
+        "KM Chingaipe",
+        "C Bwanali",
+        "E Kabwere",
+        "L Malino"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Ikuzwe": "6762a445",
+        "A Lumbe": "7e421645",
+        "B Murekatete": "2d4317da",
+        "C Bwanali": "b26a30f9",
+        "C Uwase": "808bb510",
+        "E Kabwere": "b6358ee8",
+        "F Malefula": "6a405883",
+        "G Ishimwe": "b5ae57ee",
+        "Geovanis Uwase": "088f22fd",
+        "H Ishimwe": "ffa296f7",
+        "J Chibhabha": "4c5c47a4",
+        "K Klaaste": "6cc1d918",
+        "KM Chingaipe": "db32d60a",
+        "L Malino": "7a81836e",
+        "LL Dimba": "53f88bf1",
+        "M Uwase": "7d6ce83f",
+        "MD Bimenyimana": "c1a0cebe",
+        "P Maziya": "4f85f02c",
+        "Patric Makumbi": "e4c69c16",
+        "R D'Mello": "f3c22863",
+        "R Shimwamana": "03fb10bd",
+        "Rosine Irera": "b84718fd",
+        "S Chinawa": "bdbde085",
+        "S Kananji": "23917bf0",
+        "S Niyomuhoza": "a5424013",
+        "T Luka": "44e008a5"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Rwanda",
+      "Malawi"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Rwanda"
+    },
+    "venue": "Botswana Cricket Association Oval 2, Gaborone"
+  },
+  "innings": [
+    {
+      "team": "Rwanda",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "MD Bimenyimana",
+              "bowler": "S Kananji",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "MD Bimenyimana",
+              "bowler": "S Kananji",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "MD Bimenyimana",
+              "bowler": "S Kananji",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "M Uwase",
+              "bowler": "S Kananji",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "M Uwase",
+              "bowler": "S Kananji",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Uwase",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "G Ishimwe",
+              "bowler": "S Kananji",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.7",
+              "batter": "G Ishimwe",
+              "bowler": "S Kananji",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "G Ishimwe",
+              "bowler": "E Kabwere",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "G Ishimwe",
+              "bowler": "S Kananji",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "G Ishimwe",
+              "bowler": "S Kananji",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "G Ishimwe",
+              "bowler": "S Kananji",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "G Ishimwe",
+              "bowler": "S Kananji",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "G Ishimwe",
+              "bowler": "S Kananji",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "G Ishimwe",
+              "bowler": "S Kananji",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "G Ishimwe",
+              "bowler": "S Kananji",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "G Ishimwe",
+              "bowler": "E Kabwere",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "G Ishimwe",
+              "bowler": "S Kananji",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "G Ishimwe",
+              "bowler": "S Kananji",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "G Ishimwe",
+              "bowler": "S Kananji",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "G Ishimwe",
+              "bowler": "S Kananji",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "MD Bimenyimana",
+              "bowler": "S Kananji",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "G Ishimwe",
+              "bowler": "S Kananji",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "MD Bimenyimana",
+              "bowler": "S Kananji",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "MD Bimenyimana",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MD Bimenyimana",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "G Ishimwe",
+              "bowler": "KM Chingaipe",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "G Ishimwe",
+              "bowler": "KM Chingaipe",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "C Uwase",
+              "bowler": "KM Chingaipe",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "C Uwase",
+              "bowler": "KM Chingaipe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "C Uwase",
+              "bowler": "KM Chingaipe",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "C Uwase",
+              "bowler": "KM Chingaipe",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "G Ishimwe",
+              "bowler": "KM Chingaipe",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "C Uwase",
+              "bowler": "L Malino",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "C Uwase",
+              "bowler": "L Malino",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "C Uwase",
+              "bowler": "L Malino",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "G Ishimwe",
+              "bowler": "L Malino",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "G Ishimwe",
+              "bowler": "L Malino",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "G Ishimwe",
+              "bowler": "L Malino",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "G Ishimwe",
+              "bowler": "L Malino",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "C Uwase",
+              "bowler": "KM Chingaipe",
+              "extras": {
+                "byes": 3
+              },
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "G Ishimwe",
+              "bowler": "KM Chingaipe",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "G Ishimwe",
+              "bowler": "KM Chingaipe",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "C Uwase",
+              "bowler": "KM Chingaipe",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "C Uwase",
+              "bowler": "KM Chingaipe",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "C Uwase",
+              "bowler": "KM Chingaipe",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "C Uwase",
+              "bowler": "L Malino",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "C Uwase",
+              "bowler": "L Malino",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "C Uwase",
+              "bowler": "L Malino",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "C Uwase",
+              "bowler": "L Malino",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "G Ishimwe",
+              "bowler": "L Malino",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "G Ishimwe",
+              "bowler": "L Malino",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              },
+              "wickets": [
+                {
+                  "player_out": "C Uwase",
+                  "fielders": [
+                    {
+                      "name": "LL Dimba"
+                    },
+                    {
+                      "name": "L Malino"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "G Ishimwe",
+              "bowler": "L Malino",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "G Ishimwe",
+              "bowler": "LL Dimba",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "S Niyomuhoza",
+              "bowler": "LL Dimba",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "S Niyomuhoza",
+              "bowler": "LL Dimba",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "S Niyomuhoza",
+              "bowler": "LL Dimba",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "S Niyomuhoza",
+              "bowler": "LL Dimba",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "S Niyomuhoza",
+              "bowler": "LL Dimba",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "G Ishimwe",
+              "bowler": "L Malino",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "G Ishimwe",
+              "bowler": "L Malino",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "G Ishimwe",
+              "bowler": "L Malino",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "S Niyomuhoza",
+              "bowler": "L Malino",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Niyomuhoza",
+                  "fielders": [
+                    {
+                      "name": "S Chinawa"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "H Ishimwe",
+              "bowler": "L Malino",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "G Ishimwe",
+              "bowler": "L Malino",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "H Ishimwe",
+              "bowler": "LL Dimba",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "H Ishimwe",
+              "bowler": "LL Dimba",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "G Ishimwe",
+              "bowler": "LL Dimba",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "H Ishimwe",
+              "bowler": "LL Dimba",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "H Ishimwe",
+              "bowler": "LL Dimba",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "G Ishimwe",
+              "bowler": "LL Dimba",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "H Ishimwe",
+              "bowler": "L Malino",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "H Ishimwe",
+              "bowler": "L Malino",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "H Ishimwe",
+              "bowler": "L Malino",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "H Ishimwe",
+              "bowler": "L Malino",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "H Ishimwe",
+              "bowler": "L Malino",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "H Ishimwe",
+              "bowler": "L Malino",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "G Ishimwe",
+              "bowler": "LL Dimba",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "G Ishimwe",
+              "bowler": "LL Dimba",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "H Ishimwe",
+              "bowler": "LL Dimba",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "H Ishimwe",
+              "bowler": "LL Dimba",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "G Ishimwe",
+              "bowler": "LL Dimba",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "G Ishimwe",
+              "bowler": "LL Dimba",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "H Ishimwe",
+              "bowler": "P Maziya",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "H Ishimwe",
+              "bowler": "P Maziya",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "G Ishimwe",
+              "bowler": "P Maziya",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "G Ishimwe",
+              "bowler": "P Maziya",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "G Ishimwe",
+              "bowler": "P Maziya",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "G Ishimwe",
+              "bowler": "P Maziya",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "G Ishimwe",
+              "bowler": "LL Dimba",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "H Ishimwe",
+              "bowler": "LL Dimba",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "H Ishimwe",
+              "bowler": "LL Dimba",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "G Ishimwe",
+              "bowler": "LL Dimba",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "G Ishimwe",
+              "bowler": "LL Dimba",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "G Ishimwe",
+              "bowler": "LL Dimba",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "H Ishimwe",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "H Ishimwe",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "H Ishimwe",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "H Ishimwe",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Ishimwe",
+                  "fielders": [
+                    {
+                      "name": "S Chinawa"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "A Ikuzwe",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "A Ikuzwe",
+              "bowler": "E Kabwere",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "G Ishimwe",
+              "bowler": "S Kananji",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "A Ikuzwe",
+              "bowler": "S Kananji",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "A Ikuzwe",
+              "bowler": "S Kananji",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "A Ikuzwe",
+              "bowler": "S Kananji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "A Ikuzwe",
+              "bowler": "S Kananji",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "A Ikuzwe",
+              "bowler": "S Kananji",
+              "non_striker": "G Ishimwe",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "G Ishimwe",
+              "bowler": "S Kananji",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "G Ishimwe",
+              "bowler": "S Kananji",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Ishimwe",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "A Ikuzwe",
+              "bowler": "P Maziya",
+              "non_striker": "B Murekatete",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "A Ikuzwe",
+              "bowler": "P Maziya",
+              "non_striker": "B Murekatete",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "B Murekatete",
+              "bowler": "P Maziya",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "B Murekatete",
+              "bowler": "P Maziya",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "A Ikuzwe",
+              "bowler": "P Maziya",
+              "non_striker": "B Murekatete",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "A Ikuzwe",
+              "bowler": "P Maziya",
+              "non_striker": "B Murekatete",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "miscounted_overs": {
+        "0": {
+          "balls": "7"
+        }
+      }
+    },
+    {
+      "team": "Malawi",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "S Chinawa",
+              "bowler": "B Murekatete",
+              "non_striker": "S Kananji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "S Chinawa",
+              "bowler": "B Murekatete",
+              "non_striker": "S Kananji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "S Chinawa",
+              "bowler": "B Murekatete",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Kananji",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "S Kananji",
+              "bowler": "B Murekatete",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "S Kananji",
+              "bowler": "B Murekatete",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "S Kananji",
+              "bowler": "B Murekatete",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "S Chinawa",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "S Kananji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "S Chinawa",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "S Kananji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "S Chinawa",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "S Kananji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "S Chinawa",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "S Kananji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "S Chinawa",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "S Kananji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "S Chinawa",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "S Kananji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "S Kananji",
+              "bowler": "B Murekatete",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "S Kananji",
+              "bowler": "B Murekatete",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "S Kananji",
+              "bowler": "B Murekatete",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Kananji",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "T Luka",
+              "bowler": "B Murekatete",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Luka",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "LL Dimba",
+              "bowler": "B Murekatete",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "LL Dimba",
+              "bowler": "B Murekatete",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "LL Dimba",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "LL Dimba",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "S Chinawa",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "S Chinawa",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "LL Dimba",
+              "bowler": "Geovanis Uwase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "LL Dimba",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "LL Dimba",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "S Chinawa",
+              "bowler": "B Murekatete",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "S Chinawa",
+              "bowler": "B Murekatete",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "S Chinawa",
+              "bowler": "B Murekatete",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "S Chinawa",
+              "bowler": "B Murekatete",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "S Chinawa",
+              "bowler": "B Murekatete",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "A Lumbe",
+              "bowler": "B Murekatete",
+              "non_striker": "LL Dimba",
+              "replacements": {
+                "role": [
+                  {
+                    "in": "A Lumbe",
+                    "out": "S Chinawa",
+                    "reason": "injury",
+                    "role": "batter"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "LL Dimba",
+              "bowler": "A Ikuzwe",
+              "non_striker": "A Lumbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "A Lumbe",
+              "bowler": "A Ikuzwe",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "A Lumbe",
+              "bowler": "A Ikuzwe",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "A Lumbe",
+              "bowler": "A Ikuzwe",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Lumbe",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "P Maziya",
+              "bowler": "A Ikuzwe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "P Maziya",
+              "bowler": "A Ikuzwe",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "P Maziya",
+              "bowler": "A Ikuzwe",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Maziya",
+                  "fielders": [
+                    {
+                      "name": "MD Bimenyimana"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "F Malefula",
+              "bowler": "A Ikuzwe",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "LL Dimba",
+              "bowler": "Rosine Irera",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "F Malefula",
+              "bowler": "Rosine Irera",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "F Malefula",
+              "bowler": "Rosine Irera",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "F Malefula",
+              "bowler": "Rosine Irera",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "LL Dimba",
+              "bowler": "Rosine Irera",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "F Malefula",
+              "bowler": "Rosine Irera",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "LL Dimba",
+              "bowler": "A Ikuzwe",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "LL Dimba",
+              "bowler": "A Ikuzwe",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "LL Dimba",
+              "bowler": "A Ikuzwe",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "F Malefula",
+              "bowler": "A Ikuzwe",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "F Malefula",
+              "bowler": "A Ikuzwe",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "F Malefula",
+              "bowler": "A Ikuzwe",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "F Malefula",
+              "bowler": "Rosine Irera",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "F Malefula",
+              "bowler": "Rosine Irera",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "F Malefula",
+              "bowler": "Rosine Irera",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "F Malefula",
+              "bowler": "Rosine Irera",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "F Malefula",
+              "bowler": "Rosine Irera",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "LL Dimba",
+              "bowler": "Rosine Irera",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "LL Dimba",
+              "bowler": "A Ikuzwe",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "LL Dimba",
+              "bowler": "A Ikuzwe",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "LL Dimba",
+              "bowler": "A Ikuzwe",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "LL Dimba",
+              "bowler": "A Ikuzwe",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "LL Dimba",
+              "bowler": "A Ikuzwe",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "LL Dimba",
+              "bowler": "A Ikuzwe",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "LL Dimba",
+              "bowler": "Rosine Irera",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "F Malefula",
+              "bowler": "Rosine Irera",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "F Malefula",
+              "bowler": "Rosine Irera",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "LL Dimba",
+              "bowler": "Rosine Irera",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "LL Dimba",
+              "bowler": "Rosine Irera",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "F Malefula",
+              "bowler": "Rosine Irera",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "LL Dimba",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "LL Dimba",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "F Malefula",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "LL Dimba",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "LL Dimba",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "F Malefula",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "LL Dimba",
+              "bowler": "H Ishimwe",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "LL Dimba",
+              "bowler": "H Ishimwe",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "F Malefula",
+              "bowler": "H Ishimwe",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "LL Dimba",
+              "bowler": "H Ishimwe",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "LL Dimba",
+              "bowler": "H Ishimwe",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "F Malefula",
+              "bowler": "H Ishimwe",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "LL Dimba",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "F Malefula",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "LL Dimba",
+              "bowler": "MD Bimenyimana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "LL Dimba",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "F Malefula",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "F Malefula",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "F Malefula",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "F Malefula",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "F Malefula",
+              "bowler": "H Ishimwe",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F Malefula",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "S Chinawa",
+              "bowler": "H Ishimwe",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "S Chinawa",
+              "bowler": "H Ishimwe",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "S Chinawa",
+              "bowler": "H Ishimwe",
+              "non_striker": "LL Dimba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "LL Dimba",
+              "bowler": "H Ishimwe",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LL Dimba",
+                  "fielders": [
+                    {
+                      "name": "S Niyomuhoza"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "KM Chingaipe",
+              "bowler": "H Ishimwe",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "S Chinawa",
+              "bowler": "R Shimwamana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KM Chingaipe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.1",
+              "batter": "S Chinawa",
+              "bowler": "R Shimwamana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KM Chingaipe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.1",
+              "batter": "S Chinawa",
+              "bowler": "R Shimwamana",
+              "non_striker": "KM Chingaipe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "S Chinawa",
+              "bowler": "R Shimwamana",
+              "non_striker": "KM Chingaipe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "S Chinawa",
+              "bowler": "R Shimwamana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KM Chingaipe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "S Chinawa",
+              "bowler": "R Shimwamana",
+              "non_striker": "KM Chingaipe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "KM Chingaipe",
+              "bowler": "R Shimwamana",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "KM Chingaipe",
+              "bowler": "R Shimwamana",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "S Chinawa",
+              "bowler": "R Shimwamana",
+              "non_striker": "KM Chingaipe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "KM Chingaipe",
+              "bowler": "H Ishimwe",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "KM Chingaipe",
+              "bowler": "H Ishimwe",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "S Chinawa",
+              "bowler": "H Ishimwe",
+              "non_striker": "KM Chingaipe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "S Chinawa",
+              "bowler": "H Ishimwe",
+              "non_striker": "KM Chingaipe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "S Chinawa",
+              "bowler": "H Ishimwe",
+              "non_striker": "KM Chingaipe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "KM Chingaipe",
+              "bowler": "H Ishimwe",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "S Chinawa",
+              "bowler": "A Ikuzwe",
+              "non_striker": "KM Chingaipe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "KM Chingaipe",
+              "bowler": "A Ikuzwe",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "KM Chingaipe",
+              "bowler": "A Ikuzwe",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "KM Chingaipe",
+              "bowler": "A Ikuzwe",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "KM Chingaipe",
+              "bowler": "A Ikuzwe",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KM Chingaipe",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "C Bwanali",
+              "bowler": "A Ikuzwe",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "S Chinawa",
+              "bowler": "B Murekatete",
+              "non_striker": "C Bwanali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "C Bwanali",
+              "bowler": "B Murekatete",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Bwanali",
+                  "fielders": [
+                    {
+                      "name": "M Uwase"
+                    },
+                    {
+                      "name": "Rosine Irera"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "E Kabwere",
+              "bowler": "B Murekatete",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "E Kabwere",
+              "bowler": "B Murekatete",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "E Kabwere",
+              "bowler": "B Murekatete",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "E Kabwere",
+              "bowler": "B Murekatete",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "S Chinawa",
+              "bowler": "H Ishimwe",
+              "non_striker": "E Kabwere",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "S Chinawa",
+              "bowler": "H Ishimwe",
+              "non_striker": "E Kabwere",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "E Kabwere",
+              "bowler": "H Ishimwe",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Kabwere",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "L Malino",
+              "bowler": "H Ishimwe",
+              "non_striker": "S Chinawa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "S Chinawa",
+              "bowler": "H Ishimwe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Malino",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "S Chinawa",
+              "bowler": "H Ishimwe",
+              "non_striker": "L Malino",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "S Chinawa",
+              "bowler": "H Ishimwe",
+              "non_striker": "L Malino",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 139
+      }
+    }
+  ]
+}

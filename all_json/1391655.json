@@ -1,0 +1,1652 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2023-08-29",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Vantaa",
+    "dates": [
+      "2023-08-25"
+    ],
+    "event": {
+      "name": "Nordic Women T20 Cup",
+      "match_number": 3
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 1546,
+    "officials": {
+      "reserve_umpires": [
+        "T Koralage"
+      ],
+      "umpires": [
+        "SB Ravindra",
+        "UH Sahi"
+      ]
+    },
+    "outcome": {
+      "winner": "Sweden",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "SK Ravuri"
+    ],
+    "players": {
+      "Denmark": [
+        "NP Dalgaard",
+        "S Brunsgaard",
+        "K Brock-Nielsen",
+        "L Leisner",
+        "S Ostergaard",
+        "RT Nielsen",
+        "D Golechha",
+        "AMN Andersen",
+        "LM Christensen",
+        "ML Karlsen",
+        "Samanvita Vijay"
+      ],
+      "Sweden": [
+        "S Lundell",
+        "E Bogdanova",
+        "Kanchan Rana",
+        "G Shukla",
+        "A Vaidya",
+        "D Gangwani",
+        "E Thelander",
+        "Eman Asim",
+        "H Chamto",
+        "SK Ravuri",
+        "Maria Ahsan"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Vaidya": "b7d8c07d",
+        "AMN Andersen": "49589e51",
+        "D Gangwani": "9ee105bc",
+        "D Golechha": "c2c12f2a",
+        "E Bogdanova": "c7859708",
+        "E Thelander": "45cb4feb",
+        "Eman Asim": "fd8038e1",
+        "G Shukla": "6b4817d9",
+        "H Chamto": "5e181be6",
+        "K Brock-Nielsen": "c14ba87c",
+        "Kanchan Rana": "d5d87f3f",
+        "L Leisner": "ed614ded",
+        "LM Christensen": "30dc80e6",
+        "ML Karlsen": "4302af3d",
+        "Maria Ahsan": "0efdea1f",
+        "NP Dalgaard": "40283617",
+        "RT Nielsen": "b4c38c22",
+        "S Brunsgaard": "b15f8b0f",
+        "S Lundell": "0d298cc9",
+        "S Ostergaard": "a19e799b",
+        "SB Ravindra": "394ba7a8",
+        "SK Ravuri": "0398fc0f",
+        "Samanvita Vijay": "2e889952",
+        "T Koralage": "f81e1875",
+        "UH Sahi": "2a66cc06"
+      }
+    },
+    "season": "2023",
+    "team_type": "international",
+    "teams": [
+      "Denmark",
+      "Sweden"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Sweden"
+    },
+    "venue": "Tikkurila Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Denmark",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "NP Dalgaard",
+              "bowler": "G Shukla",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "NP Dalgaard",
+              "bowler": "G Shukla",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "NP Dalgaard",
+              "bowler": "G Shukla",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "NP Dalgaard",
+              "bowler": "G Shukla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "NP Dalgaard",
+              "bowler": "G Shukla",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "S Brunsgaard",
+              "bowler": "G Shukla",
+              "non_striker": "NP Dalgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "S Brunsgaard",
+              "bowler": "G Shukla",
+              "non_striker": "NP Dalgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "NP Dalgaard",
+              "bowler": "H Chamto",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "S Brunsgaard",
+              "bowler": "H Chamto",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NP Dalgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "S Brunsgaard",
+              "bowler": "H Chamto",
+              "non_striker": "NP Dalgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NP Dalgaard",
+                  "fielders": [
+                    {
+                      "name": "G Shukla"
+                    },
+                    {
+                      "name": "E Thelander"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "K Brock-Nielsen",
+              "bowler": "H Chamto",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "K Brock-Nielsen",
+              "bowler": "H Chamto",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "S Brunsgaard",
+              "bowler": "H Chamto",
+              "non_striker": "K Brock-Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "S Brunsgaard",
+              "bowler": "H Chamto",
+              "non_striker": "K Brock-Nielsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "S Brunsgaard",
+              "bowler": "G Shukla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Brock-Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.1",
+              "batter": "S Brunsgaard",
+              "bowler": "G Shukla",
+              "non_striker": "K Brock-Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "S Brunsgaard",
+              "bowler": "G Shukla",
+              "non_striker": "K Brock-Nielsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "K Brock-Nielsen",
+              "bowler": "G Shukla",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "K Brock-Nielsen",
+              "bowler": "G Shukla",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "S Brunsgaard",
+              "bowler": "G Shukla",
+              "non_striker": "K Brock-Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "S Brunsgaard",
+              "bowler": "G Shukla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Brock-Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "S Brunsgaard",
+              "bowler": "G Shukla",
+              "non_striker": "K Brock-Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "K Brock-Nielsen",
+              "bowler": "H Chamto",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "K Brock-Nielsen",
+              "bowler": "H Chamto",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "K Brock-Nielsen",
+              "bowler": "H Chamto",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "K Brock-Nielsen",
+              "bowler": "H Chamto",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "K Brock-Nielsen",
+              "bowler": "H Chamto",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "S Brunsgaard",
+              "bowler": "H Chamto",
+              "non_striker": "K Brock-Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "K Brock-Nielsen",
+              "bowler": "A Vaidya",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.1",
+              "batter": "K Brock-Nielsen",
+              "bowler": "A Vaidya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.1",
+              "batter": "K Brock-Nielsen",
+              "bowler": "A Vaidya",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "K Brock-Nielsen",
+              "bowler": "A Vaidya",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "K Brock-Nielsen",
+              "bowler": "A Vaidya",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "K Brock-Nielsen",
+              "bowler": "A Vaidya",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "K Brock-Nielsen",
+              "bowler": "A Vaidya",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "K Brock-Nielsen",
+              "bowler": "A Vaidya",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "K Brock-Nielsen",
+              "bowler": "A Vaidya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "K Brock-Nielsen",
+              "bowler": "A Vaidya",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "K Brock-Nielsen",
+              "bowler": "SK Ravuri",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Brock-Nielsen",
+                  "fielders": [
+                    {
+                      "name": "G Shukla"
+                    },
+                    {
+                      "name": "SK Ravuri"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "L Leisner",
+              "bowler": "SK Ravuri",
+              "non_striker": "S Brunsgaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Brunsgaard",
+                  "fielders": [
+                    {
+                      "name": "G Shukla"
+                    },
+                    {
+                      "name": "SK Ravuri"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "S Ostergaard",
+              "bowler": "SK Ravuri",
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "S Ostergaard",
+              "bowler": "SK Ravuri",
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "S Ostergaard",
+              "bowler": "SK Ravuri",
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Ostergaard",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "RT Nielsen",
+              "bowler": "SK Ravuri",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "RT Nielsen",
+              "bowler": "SK Ravuri",
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "L Leisner",
+              "bowler": "Maria Ahsan",
+              "non_striker": "RT Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "L Leisner",
+              "bowler": "Maria Ahsan",
+              "non_striker": "RT Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "L Leisner",
+              "bowler": "Maria Ahsan",
+              "non_striker": "RT Nielsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "RT Nielsen",
+              "bowler": "Maria Ahsan",
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "RT Nielsen",
+              "bowler": "Maria Ahsan",
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "RT Nielsen",
+              "bowler": "Maria Ahsan",
+              "non_striker": "L Leisner",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "L Leisner",
+              "bowler": "SK Ravuri",
+              "non_striker": "RT Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Leisner",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "D Golechha",
+              "bowler": "SK Ravuri",
+              "non_striker": "RT Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Golechha",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "AMN Andersen",
+              "bowler": "SK Ravuri",
+              "non_striker": "RT Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "AMN Andersen",
+              "bowler": "SK Ravuri",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RT Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "AMN Andersen",
+              "bowler": "SK Ravuri",
+              "non_striker": "RT Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "AMN Andersen",
+              "bowler": "SK Ravuri",
+              "non_striker": "RT Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "AMN Andersen",
+              "bowler": "SK Ravuri",
+              "non_striker": "RT Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "RT Nielsen",
+              "bowler": "Maria Ahsan",
+              "non_striker": "AMN Andersen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "AMN Andersen",
+              "bowler": "Maria Ahsan",
+              "non_striker": "RT Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "AMN Andersen",
+              "bowler": "Maria Ahsan",
+              "non_striker": "RT Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AMN Andersen",
+                  "fielders": [
+                    {
+                      "name": "D Gangwani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "LM Christensen",
+              "bowler": "Maria Ahsan",
+              "non_striker": "RT Nielsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "RT Nielsen",
+              "bowler": "Maria Ahsan",
+              "non_striker": "LM Christensen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "RT Nielsen",
+              "bowler": "Maria Ahsan",
+              "non_striker": "LM Christensen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "LM Christensen",
+              "bowler": "SK Ravuri",
+              "non_striker": "RT Nielsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "RT Nielsen",
+              "bowler": "SK Ravuri",
+              "non_striker": "LM Christensen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "RT Nielsen",
+              "bowler": "SK Ravuri",
+              "non_striker": "LM Christensen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "RT Nielsen",
+              "bowler": "SK Ravuri",
+              "non_striker": "LM Christensen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "LM Christensen",
+              "bowler": "SK Ravuri",
+              "non_striker": "RT Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LM Christensen",
+                  "fielders": [
+                    {
+                      "name": "E Thelander"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "ML Karlsen",
+              "bowler": "SK Ravuri",
+              "non_striker": "RT Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "RT Nielsen",
+              "bowler": "Maria Ahsan",
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "RT Nielsen",
+              "bowler": "Maria Ahsan",
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "ML Karlsen",
+              "bowler": "Maria Ahsan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "RT Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "ML Karlsen",
+              "bowler": "Maria Ahsan",
+              "non_striker": "RT Nielsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "ML Karlsen",
+              "bowler": "Maria Ahsan",
+              "non_striker": "RT Nielsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "RT Nielsen",
+              "bowler": "Maria Ahsan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "RT Nielsen",
+              "bowler": "Maria Ahsan",
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RT Nielsen",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Samanvita Vijay",
+              "bowler": "Maria Ahsan",
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Samanvita Vijay",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sweden",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "S Lundell",
+              "bowler": "S Brunsgaard",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "S Lundell",
+              "bowler": "S Brunsgaard",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "S Lundell",
+              "bowler": "S Brunsgaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "S Lundell",
+              "bowler": "S Brunsgaard",
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "S Lundell",
+              "bowler": "S Brunsgaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "S Lundell",
+              "bowler": "S Brunsgaard",
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "S Lundell",
+              "bowler": "S Brunsgaard",
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "S Lundell",
+              "bowler": "S Brunsgaard",
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "S Lundell",
+              "bowler": "S Brunsgaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "S Lundell",
+              "bowler": "S Brunsgaard",
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "S Lundell",
+              "bowler": "S Brunsgaard",
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "S Lundell",
+              "bowler": "D Golechha",
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "S Lundell",
+              "bowler": "D Golechha",
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "E Bogdanova",
+              "bowler": "D Golechha",
+              "non_striker": "S Lundell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "E Bogdanova",
+              "bowler": "D Golechha",
+              "non_striker": "S Lundell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "E Bogdanova",
+              "bowler": "D Golechha",
+              "non_striker": "S Lundell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "S Lundell",
+              "bowler": "D Golechha",
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "S Lundell",
+              "bowler": "AMN Andersen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.1",
+              "batter": "S Lundell",
+              "bowler": "AMN Andersen",
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "E Bogdanova",
+              "bowler": "AMN Andersen",
+              "non_striker": "S Lundell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "S Lundell",
+              "bowler": "AMN Andersen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "S Lundell",
+              "bowler": "AMN Andersen",
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "S Lundell",
+              "bowler": "AMN Andersen",
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "S Lundell",
+              "bowler": "AMN Andersen",
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "S Lundell",
+              "bowler": "AMN Andersen",
+              "non_striker": "E Bogdanova",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "E Bogdanova",
+              "bowler": "D Golechha",
+              "non_striker": "S Lundell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Bogdanova",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Kanchan Rana",
+              "bowler": "D Golechha",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Lundell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "S Lundell",
+              "bowler": "D Golechha",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "S Lundell",
+              "bowler": "D Golechha",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "S Lundell",
+              "bowler": "D Golechha",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "S Lundell",
+              "bowler": "D Golechha",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "S Lundell",
+              "bowler": "AMN Andersen",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Kanchan Rana",
+              "bowler": "AMN Andersen",
+              "non_striker": "S Lundell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Kanchan Rana",
+              "bowler": "AMN Andersen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Lundell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Kanchan Rana",
+              "bowler": "AMN Andersen",
+              "non_striker": "S Lundell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "S Lundell",
+              "bowler": "AMN Andersen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "S Lundell",
+              "bowler": "AMN Andersen",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 4.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 36
+      }
+    }
+  ]
+}

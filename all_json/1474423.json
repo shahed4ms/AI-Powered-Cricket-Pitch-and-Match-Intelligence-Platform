@@ -1,0 +1,3581 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2025-03-22",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Noumea",
+    "dates": [
+      "2025-03-10"
+    ],
+    "event": {
+      "name": "The Pacific-France Women Championship",
+      "match_number": 1
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2188,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Vanuatu",
+      "by": {
+        "runs": 8
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "N Navaika"
+    ],
+    "players": {
+      "Vanuatu": [
+        "R Andrew",
+        "V Langiatu",
+        "N Navaika",
+        "S Solman",
+        "A Chilia",
+        "S Stephen",
+        "V Mansale",
+        "G Chilia",
+        "V Vira",
+        "M Tarimiala",
+        "N Kakor"
+      ],
+      "Samoa": [
+        "F Sisifo",
+        "J Sanele",
+        "NJM Salima",
+        "AF Aoina",
+        "TH Semau",
+        "T Iosefo",
+        "O Lefaga",
+        "AF Mapu",
+        "A Sootaga",
+        "F Malotutoatasi",
+        "MFL Tafea"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Chilia": "a0d07fd6",
+        "A Sootaga": "967984d0",
+        "AF Aoina": "217f5194",
+        "AF Mapu": "d9238aee",
+        "F Malotutoatasi": "3e2a2df8",
+        "F Sisifo": "eff8319a",
+        "G Chilia": "daf255ce",
+        "J Sanele": "67bd483c",
+        "M Tarimiala": "0030a57d",
+        "MFL Tafea": "01733928",
+        "N Kakor": "1bc685ee",
+        "N Navaika": "b0023708",
+        "NJM Salima": "13cc5f9d",
+        "O Lefaga": "540fb139",
+        "R Andrew": "66c1accf",
+        "S Solman": "24ed1f75",
+        "S Stephen": "b48304b5",
+        "T Iosefo": "335b2768",
+        "TH Semau": "175d59dd",
+        "V Langiatu": "fdd18ca0",
+        "V Mansale": "7163637f",
+        "V Vira": "94271647"
+      }
+    },
+    "season": "2024/25",
+    "team_type": "international",
+    "teams": [
+      "Vanuatu",
+      "Samoa"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Vanuatu"
+    },
+    "venue": "N'Du Stadium, Noumea, New Caledonia"
+  },
+  "innings": [
+    {
+      "team": "Vanuatu",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "R Andrew",
+              "bowler": "J Sanele",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "R Andrew",
+              "bowler": "J Sanele",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "R Andrew",
+              "bowler": "J Sanele",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "R Andrew",
+              "bowler": "J Sanele",
+              "non_striker": "V Langiatu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "V Langiatu",
+              "bowler": "J Sanele",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "V Langiatu",
+              "bowler": "J Sanele",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Langiatu",
+                  "fielders": [
+                    {
+                      "name": "A Sootaga"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "N Navaika",
+              "bowler": "J Sanele",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "N Navaika",
+              "bowler": "J Sanele",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "R Andrew",
+              "bowler": "O Lefaga",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "R Andrew",
+              "bowler": "O Lefaga",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "R Andrew",
+              "bowler": "O Lefaga",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "N Navaika",
+              "bowler": "O Lefaga",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "N Navaika",
+              "bowler": "O Lefaga",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "R Andrew",
+              "bowler": "O Lefaga",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "N Navaika",
+              "bowler": "J Sanele",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "R Andrew",
+              "bowler": "J Sanele",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "R Andrew",
+              "bowler": "J Sanele",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "N Navaika",
+              "bowler": "J Sanele",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "N Navaika",
+              "bowler": "J Sanele",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "N Navaika",
+              "bowler": "J Sanele",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "R Andrew",
+              "bowler": "O Lefaga",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "R Andrew",
+              "bowler": "O Lefaga",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "R Andrew",
+              "bowler": "O Lefaga",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "R Andrew",
+              "bowler": "O Lefaga",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "R Andrew",
+              "bowler": "O Lefaga",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "R Andrew",
+              "bowler": "O Lefaga",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "N Navaika",
+              "bowler": "J Sanele",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "R Andrew",
+              "bowler": "J Sanele",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "R Andrew",
+              "bowler": "J Sanele",
+              "non_striker": "N Navaika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "N Navaika",
+              "bowler": "J Sanele",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Navaika",
+                  "fielders": [
+                    {
+                      "name": "NJM Salima"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "S Solman",
+              "bowler": "J Sanele",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "R Andrew",
+              "bowler": "J Sanele",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "S Solman",
+              "bowler": "O Lefaga",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.1",
+              "batter": "S Solman",
+              "bowler": "O Lefaga",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "S Solman",
+              "bowler": "O Lefaga",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "S Solman",
+              "bowler": "O Lefaga",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "R Andrew",
+              "bowler": "O Lefaga",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "R Andrew",
+              "bowler": "O Lefaga",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "S Solman",
+              "bowler": "O Lefaga",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "R Andrew",
+              "bowler": "T Iosefo",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "R Andrew",
+              "bowler": "T Iosefo",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "R Andrew",
+              "bowler": "T Iosefo",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "R Andrew",
+              "bowler": "T Iosefo",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "R Andrew",
+              "bowler": "T Iosefo",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "R Andrew",
+              "bowler": "T Iosefo",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "S Solman",
+              "bowler": "AF Aoina",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "R Andrew",
+              "bowler": "AF Aoina",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "R Andrew",
+              "bowler": "AF Aoina",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "R Andrew",
+              "bowler": "AF Aoina",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "R Andrew",
+              "bowler": "AF Aoina",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "S Solman",
+              "bowler": "AF Aoina",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "R Andrew",
+              "bowler": "AF Aoina",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "R Andrew",
+              "bowler": "T Iosefo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.1",
+              "batter": "R Andrew",
+              "bowler": "T Iosefo",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "R Andrew",
+              "bowler": "T Iosefo",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "S Solman",
+              "bowler": "T Iosefo",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "R Andrew",
+              "bowler": "T Iosefo",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "R Andrew",
+              "bowler": "T Iosefo",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "S Solman",
+              "bowler": "T Iosefo",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "R Andrew",
+              "bowler": "AF Aoina",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "S Solman",
+              "bowler": "AF Aoina",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "R Andrew",
+              "bowler": "AF Aoina",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "R Andrew",
+              "bowler": "AF Aoina",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "S Solman",
+              "bowler": "AF Aoina",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "S Solman",
+              "bowler": "AF Aoina",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "S Solman",
+              "bowler": "AF Aoina",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "R Andrew",
+              "bowler": "T Iosefo",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "S Solman",
+              "bowler": "T Iosefo",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "R Andrew",
+              "bowler": "T Iosefo",
+              "non_striker": "S Solman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "S Solman",
+              "bowler": "T Iosefo",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Solman",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "A Chilia",
+              "bowler": "T Iosefo",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "A Chilia",
+              "bowler": "T Iosefo",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "R Andrew",
+              "bowler": "AF Aoina",
+              "non_striker": "A Chilia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "A Chilia",
+              "bowler": "AF Aoina",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "A Chilia",
+              "bowler": "AF Aoina",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "A Chilia",
+              "bowler": "AF Aoina",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "A Chilia",
+              "bowler": "AF Aoina",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "A Chilia",
+              "bowler": "AF Aoina",
+              "non_striker": "R Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "R Andrew",
+              "bowler": "AF Aoina",
+              "non_striker": "A Chilia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "R Andrew",
+              "bowler": "AF Aoina",
+              "non_striker": "A Chilia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "R Andrew",
+              "bowler": "F Sisifo",
+              "non_striker": "A Chilia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Andrew",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "S Stephen",
+              "bowler": "F Sisifo",
+              "non_striker": "A Chilia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "S Stephen",
+              "bowler": "F Sisifo",
+              "non_striker": "A Chilia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "S Stephen",
+              "bowler": "F Sisifo",
+              "non_striker": "A Chilia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "A Chilia",
+              "bowler": "F Sisifo",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "S Stephen",
+              "bowler": "F Sisifo",
+              "non_striker": "A Chilia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "A Chilia",
+              "bowler": "TH Semau",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "A Chilia",
+              "bowler": "TH Semau",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "A Chilia",
+              "bowler": "TH Semau",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "A Chilia",
+              "bowler": "TH Semau",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "A Chilia",
+              "bowler": "TH Semau",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "A Chilia",
+              "bowler": "TH Semau",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "A Chilia",
+              "bowler": "TH Semau",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "A Chilia",
+              "bowler": "F Sisifo",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "S Stephen",
+              "bowler": "F Sisifo",
+              "non_striker": "A Chilia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "A Chilia",
+              "bowler": "F Sisifo",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "A Chilia",
+              "bowler": "F Sisifo",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "A Chilia",
+              "bowler": "F Sisifo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "A Chilia",
+              "bowler": "F Sisifo",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "A Chilia",
+              "bowler": "F Sisifo",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "A Chilia",
+              "bowler": "TH Semau",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "S Stephen",
+              "bowler": "TH Semau",
+              "non_striker": "A Chilia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "S Stephen",
+              "bowler": "TH Semau",
+              "non_striker": "A Chilia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "A Chilia",
+              "bowler": "TH Semau",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "A Chilia",
+              "bowler": "TH Semau",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Chilia",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "V Mansale",
+              "bowler": "TH Semau",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "V Mansale",
+              "bowler": "F Sisifo",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "V Mansale",
+              "bowler": "F Sisifo",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "V Mansale",
+              "bowler": "F Sisifo",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "V Mansale",
+              "bowler": "F Sisifo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "V Mansale",
+              "bowler": "F Sisifo",
+              "non_striker": "S Stephen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "S Stephen",
+              "bowler": "F Sisifo",
+              "extras": {
+                "byes": 1,
+                "noballs": 1
+              },
+              "non_striker": "V Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              },
+              "wickets": [
+                {
+                  "player_out": "S Stephen",
+                  "fielders": [
+                    {
+                      "name": "A Sootaga"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "G Chilia",
+              "bowler": "F Sisifo",
+              "non_striker": "V Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "G Chilia",
+              "bowler": "F Sisifo",
+              "non_striker": "V Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "V Mansale",
+              "bowler": "TH Semau",
+              "non_striker": "G Chilia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "V Mansale",
+              "bowler": "TH Semau",
+              "non_striker": "G Chilia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "V Mansale",
+              "bowler": "TH Semau",
+              "non_striker": "G Chilia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "V Mansale",
+              "bowler": "TH Semau",
+              "non_striker": "G Chilia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "G Chilia",
+              "bowler": "TH Semau",
+              "non_striker": "V Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "G Chilia",
+              "bowler": "TH Semau",
+              "non_striker": "V Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "V Mansale",
+              "bowler": "J Sanele",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "G Chilia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "G Chilia",
+              "bowler": "J Sanele",
+              "non_striker": "V Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "G Chilia",
+              "bowler": "J Sanele",
+              "non_striker": "V Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "G Chilia",
+              "bowler": "J Sanele",
+              "non_striker": "V Mansale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "V Mansale",
+              "bowler": "J Sanele",
+              "non_striker": "G Chilia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "G Chilia",
+              "bowler": "J Sanele",
+              "non_striker": "V Mansale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "V Mansale",
+              "bowler": "O Lefaga",
+              "non_striker": "G Chilia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Mansale",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "V Vira",
+              "bowler": "O Lefaga",
+              "non_striker": "G Chilia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "V Vira",
+              "bowler": "O Lefaga",
+              "non_striker": "G Chilia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "V Vira",
+              "bowler": "O Lefaga",
+              "non_striker": "G Chilia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "V Vira",
+              "bowler": "O Lefaga",
+              "non_striker": "G Chilia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "G Chilia",
+              "bowler": "O Lefaga",
+              "non_striker": "V Vira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Chilia",
+                  "fielders": [
+                    {
+                      "name": "O Lefaga"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Samoa",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "F Sisifo",
+              "bowler": "R Andrew",
+              "non_striker": "J Sanele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "F Sisifo",
+              "bowler": "R Andrew",
+              "non_striker": "J Sanele",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "J Sanele",
+              "bowler": "R Andrew",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "J Sanele",
+              "bowler": "R Andrew",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "J Sanele",
+              "bowler": "R Andrew",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "F Sisifo",
+              "bowler": "R Andrew",
+              "non_striker": "J Sanele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "J Sanele",
+              "bowler": "V Vira",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "J Sanele",
+              "bowler": "V Vira",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "J Sanele",
+              "bowler": "V Vira",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "F Sisifo",
+              "bowler": "V Vira",
+              "non_striker": "J Sanele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "F Sisifo",
+              "bowler": "V Vira",
+              "non_striker": "J Sanele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "F Sisifo",
+              "bowler": "V Vira",
+              "non_striker": "J Sanele",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "J Sanele",
+              "bowler": "R Andrew",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Sanele",
+                  "fielders": [
+                    {
+                      "name": "A Chilia"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "NJM Salima",
+              "bowler": "R Andrew",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "NJM Salima",
+              "bowler": "R Andrew",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "NJM Salima",
+              "bowler": "R Andrew",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "F Sisifo",
+              "bowler": "R Andrew",
+              "non_striker": "NJM Salima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "F Sisifo",
+              "bowler": "R Andrew",
+              "non_striker": "NJM Salima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "F Sisifo",
+              "bowler": "R Andrew",
+              "non_striker": "NJM Salima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "F Sisifo",
+              "bowler": "V Vira",
+              "non_striker": "NJM Salima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "F Sisifo",
+              "bowler": "V Vira",
+              "non_striker": "NJM Salima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "NJM Salima",
+              "bowler": "V Vira",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "NJM Salima",
+              "bowler": "V Vira",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "NJM Salima",
+              "bowler": "V Vira",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "F Sisifo",
+              "bowler": "V Vira",
+              "non_striker": "NJM Salima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "NJM Salima",
+              "bowler": "S Solman",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "F Sisifo",
+              "bowler": "S Solman",
+              "non_striker": "NJM Salima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "NJM Salima",
+              "bowler": "S Solman",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "NJM Salima",
+              "bowler": "S Solman",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NJM Salima",
+                  "fielders": [
+                    {
+                      "name": "V Mansale"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "AF Aoina",
+              "bowler": "S Solman",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "F Sisifo",
+              "bowler": "S Solman",
+              "non_striker": "AF Aoina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "AF Aoina",
+              "bowler": "V Mansale",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.1",
+              "batter": "AF Aoina",
+              "bowler": "V Mansale",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "AF Aoina",
+              "bowler": "V Mansale",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "AF Aoina",
+              "bowler": "V Mansale",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "F Sisifo",
+              "bowler": "V Mansale",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AF Aoina",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "F Sisifo",
+              "bowler": "V Mansale",
+              "non_striker": "AF Aoina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "F Sisifo",
+              "bowler": "V Mansale",
+              "non_striker": "AF Aoina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "AF Aoina",
+              "bowler": "V Mansale",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "AF Aoina",
+              "bowler": "V Mansale",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "AF Aoina",
+              "bowler": "V Mansale",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "F Sisifo",
+              "bowler": "S Solman",
+              "non_striker": "AF Aoina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "F Sisifo",
+              "bowler": "S Solman",
+              "non_striker": "AF Aoina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "F Sisifo",
+              "bowler": "S Solman",
+              "non_striker": "AF Aoina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "F Sisifo",
+              "bowler": "S Solman",
+              "non_striker": "AF Aoina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "AF Aoina",
+              "bowler": "S Solman",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "F Sisifo",
+              "bowler": "S Solman",
+              "non_striker": "AF Aoina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "F Sisifo",
+              "bowler": "V Mansale",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "AF Aoina",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.1",
+              "batter": "F Sisifo",
+              "bowler": "V Mansale",
+              "non_striker": "AF Aoina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "AF Aoina",
+              "bowler": "V Mansale",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "AF Aoina",
+              "bowler": "V Mansale",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "F Sisifo",
+              "bowler": "V Mansale",
+              "non_striker": "AF Aoina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "F Sisifo",
+              "bowler": "V Mansale",
+              "non_striker": "AF Aoina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "AF Aoina",
+              "bowler": "V Mansale",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "AF Aoina",
+              "bowler": "V Mansale",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "AF Aoina",
+              "bowler": "V Mansale",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "AF Aoina",
+              "bowler": "V Mansale",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "AF Aoina",
+              "bowler": "N Kakor",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "AF Aoina",
+              "bowler": "N Kakor",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "AF Aoina",
+              "bowler": "N Kakor",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "F Sisifo",
+              "bowler": "N Kakor",
+              "non_striker": "AF Aoina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "AF Aoina",
+              "bowler": "N Kakor",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "AF Aoina",
+              "bowler": "N Kakor",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "AF Aoina",
+              "bowler": "N Kakor",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "F Sisifo",
+              "bowler": "N Kakor",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "AF Aoina",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "AF Aoina",
+              "bowler": "N Kakor",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "F Sisifo",
+              "bowler": "N Navaika",
+              "non_striker": "AF Aoina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "AF Aoina",
+              "bowler": "N Navaika",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AF Aoina",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "TH Semau",
+              "bowler": "N Navaika",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "TH Semau",
+              "bowler": "N Navaika",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "F Sisifo",
+              "bowler": "N Navaika",
+              "non_striker": "TH Semau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "F Sisifo",
+              "bowler": "N Navaika",
+              "non_striker": "TH Semau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "F Sisifo",
+              "bowler": "N Navaika",
+              "non_striker": "TH Semau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "F Sisifo",
+              "bowler": "V Vira",
+              "non_striker": "TH Semau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "F Sisifo",
+              "bowler": "V Vira",
+              "non_striker": "TH Semau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "F Sisifo",
+              "bowler": "V Vira",
+              "non_striker": "TH Semau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TH Semau",
+                  "fielders": [
+                    {
+                      "name": "N Navaika"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "T Iosefo",
+              "bowler": "V Vira",
+              "non_striker": "F Sisifo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "F Sisifo",
+              "bowler": "V Vira",
+              "non_striker": "T Iosefo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "F Sisifo",
+              "bowler": "V Vira",
+              "non_striker": "T Iosefo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "F Sisifo",
+              "bowler": "N Navaika",
+              "non_striker": "T Iosefo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F Sisifo",
+                  "fielders": [
+                    {
+                      "name": "V Vira"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "O Lefaga",
+              "bowler": "N Navaika",
+              "non_striker": "T Iosefo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "O Lefaga",
+              "bowler": "N Navaika",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Iosefo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "O Lefaga",
+              "bowler": "N Navaika",
+              "non_striker": "T Iosefo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "O Lefaga",
+              "bowler": "N Navaika",
+              "non_striker": "T Iosefo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "O Lefaga",
+              "bowler": "N Navaika",
+              "non_striker": "T Iosefo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "O Lefaga",
+              "bowler": "N Navaika",
+              "non_striker": "T Iosefo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "T Iosefo",
+              "bowler": "V Vira",
+              "non_striker": "O Lefaga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "O Lefaga",
+              "bowler": "V Vira",
+              "non_striker": "T Iosefo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "O Lefaga",
+              "bowler": "V Vira",
+              "non_striker": "T Iosefo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "T Iosefo",
+              "bowler": "V Vira",
+              "non_striker": "O Lefaga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "O Lefaga",
+              "bowler": "V Vira",
+              "non_striker": "T Iosefo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "O Lefaga",
+              "bowler": "V Vira",
+              "non_striker": "T Iosefo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "T Iosefo",
+              "bowler": "N Navaika",
+              "non_striker": "O Lefaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "T Iosefo",
+              "bowler": "N Navaika",
+              "non_striker": "O Lefaga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "O Lefaga",
+              "bowler": "N Navaika",
+              "non_striker": "T Iosefo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "O Lefaga",
+              "bowler": "N Navaika",
+              "non_striker": "T Iosefo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "T Iosefo",
+              "bowler": "N Navaika",
+              "non_striker": "O Lefaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Iosefo",
+                  "fielders": [
+                    {
+                      "name": "R Andrew"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "AF Mapu",
+              "bowler": "N Navaika",
+              "non_striker": "O Lefaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "O Lefaga",
+              "bowler": "G Chilia",
+              "non_striker": "AF Mapu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "O Lefaga",
+              "bowler": "G Chilia",
+              "non_striker": "AF Mapu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "O Lefaga",
+              "bowler": "G Chilia",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AF Mapu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "O Lefaga",
+              "bowler": "G Chilia",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AF Mapu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "O Lefaga",
+              "bowler": "G Chilia",
+              "non_striker": "AF Mapu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "O Lefaga",
+              "bowler": "G Chilia",
+              "non_striker": "AF Mapu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "O Lefaga",
+              "bowler": "G Chilia",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AF Mapu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "O Lefaga",
+              "bowler": "G Chilia",
+              "non_striker": "AF Mapu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "AF Mapu",
+              "bowler": "G Chilia",
+              "non_striker": "O Lefaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "O Lefaga",
+              "bowler": "N Navaika",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AF Mapu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.1",
+              "batter": "O Lefaga",
+              "bowler": "N Navaika",
+              "non_striker": "AF Mapu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "O Lefaga",
+              "bowler": "N Navaika",
+              "non_striker": "AF Mapu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "O Lefaga",
+              "bowler": "N Navaika",
+              "non_striker": "AF Mapu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "O Lefaga",
+              "bowler": "N Navaika",
+              "non_striker": "AF Mapu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "AF Mapu",
+              "bowler": "N Navaika",
+              "non_striker": "O Lefaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AF Mapu",
+                  "fielders": [
+                    {
+                      "name": "M Tarimiala"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "A Sootaga",
+              "bowler": "N Navaika",
+              "non_striker": "O Lefaga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "A Sootaga",
+              "bowler": "S Solman",
+              "non_striker": "O Lefaga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "O Lefaga",
+              "bowler": "S Solman",
+              "non_striker": "A Sootaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "O Lefaga",
+              "bowler": "S Solman",
+              "non_striker": "A Sootaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "O Lefaga",
+              "bowler": "S Solman",
+              "non_striker": "A Sootaga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "A Sootaga",
+              "bowler": "S Solman",
+              "non_striker": "O Lefaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "A Sootaga",
+              "bowler": "S Solman",
+              "non_striker": "O Lefaga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "A Sootaga",
+              "bowler": "R Andrew",
+              "non_striker": "O Lefaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "A Sootaga",
+              "bowler": "R Andrew",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "O Lefaga",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "A Sootaga",
+              "bowler": "R Andrew",
+              "non_striker": "O Lefaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "A Sootaga",
+              "bowler": "R Andrew",
+              "non_striker": "O Lefaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "A Sootaga",
+              "bowler": "R Andrew",
+              "non_striker": "O Lefaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "A Sootaga",
+              "bowler": "R Andrew",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "O Lefaga",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "A Sootaga",
+              "bowler": "R Andrew",
+              "non_striker": "O Lefaga",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "A Sootaga",
+              "bowler": "R Andrew",
+              "non_striker": "O Lefaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "O Lefaga",
+              "bowler": "S Solman",
+              "non_striker": "A Sootaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "O Lefaga",
+              "bowler": "S Solman",
+              "non_striker": "A Sootaga",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "O Lefaga",
+              "bowler": "S Solman",
+              "non_striker": "A Sootaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "O Lefaga",
+              "bowler": "S Solman",
+              "non_striker": "A Sootaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "O Lefaga",
+              "bowler": "S Solman",
+              "non_striker": "A Sootaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "O Lefaga",
+                  "fielders": [
+                    {
+                      "name": "M Tarimiala"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "F Malotutoatasi",
+              "bowler": "S Solman",
+              "non_striker": "A Sootaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "A Sootaga",
+              "bowler": "R Andrew",
+              "non_striker": "F Malotutoatasi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "F Malotutoatasi",
+              "bowler": "R Andrew",
+              "non_striker": "A Sootaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "F Malotutoatasi",
+              "bowler": "R Andrew",
+              "non_striker": "A Sootaga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "A Sootaga",
+              "bowler": "R Andrew",
+              "non_striker": "F Malotutoatasi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "A Sootaga",
+              "bowler": "R Andrew",
+              "non_striker": "F Malotutoatasi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "F Malotutoatasi",
+              "bowler": "R Andrew",
+              "non_striker": "A Sootaga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.1,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 87
+      }
+    }
+  ]
+}

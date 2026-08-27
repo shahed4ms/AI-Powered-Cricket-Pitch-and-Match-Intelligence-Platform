@@ -1,0 +1,2376 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-17",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Gros Islet",
+    "dates": [
+      "2026-08-14"
+    ],
+    "event": {
+      "name": "Caribbean Premier League",
+      "match_number": 7
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "Denavon Hayles"
+      ],
+      "reserve_umpires": [
+        "R Banwarie"
+      ],
+      "tv_umpires": [
+        "LS Reifer"
+      ],
+      "umpires": [
+        "Christopher Taylor",
+        "DK Butler"
+      ]
+    },
+    "outcome": {
+      "winner": "St Lucia Kings",
+      "by": {
+        "wickets": 3
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "MW Forde"
+    ],
+    "players": {
+      "Antigua and Barbuda Falcons": [
+        "RRS Cornwall",
+        "E Lewis",
+        "TB Robinson",
+        "Tajinder Singh",
+        "AA Jangoo",
+        "MM Ali",
+        "FA Allen",
+        "SK Springer",
+        "JM James",
+        "AS Joseph",
+        "JNT Seales"
+      ],
+      "St Lucia Kings": [
+        "AGS Gous",
+        "RL Chase",
+        "AWJ Auguste",
+        "J Andrew",
+        "KIC Asalanka",
+        "MW Forde",
+        "D Nedd",
+        "SC van Schalkwyk",
+        "J Bishop",
+        "K Campbell",
+        "M Theekshana"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AA Jangoo": "88626ed2",
+        "AGS Gous": "d1305df0",
+        "AS Joseph": "b0946605",
+        "AWJ Auguste": "4b167ede",
+        "Christopher Taylor": "1f50a44a",
+        "D Nedd": "2dac322b",
+        "DK Butler": "671398e3",
+        "Denavon Hayles": "5cbeeb02",
+        "E Lewis": "0ebfb1ad",
+        "FA Allen": "b52ffbbd",
+        "J Andrew": "6b0db726",
+        "J Bishop": "66162077",
+        "JM James": "24f6e254",
+        "JNT Seales": "ded9ff1e",
+        "K Campbell": "4f3ab93a",
+        "KIC Asalanka": "732c038e",
+        "LS Reifer": "5dee559a",
+        "M Theekshana": "f24c6701",
+        "MM Ali": "bb351c23",
+        "MW Forde": "83d17bbc",
+        "R Banwarie": "85dbb571",
+        "RL Chase": "3feda4fa",
+        "RRS Cornwall": "c4d9634c",
+        "SC van Schalkwyk": "97b0e4ff",
+        "SK Springer": "4175d211",
+        "TB Robinson": "5d664346",
+        "Tajinder Singh": "f9d99806"
+      }
+    },
+    "season": "2026",
+    "team_type": "club",
+    "teams": [
+      "Antigua and Barbuda Falcons",
+      "St Lucia Kings"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "St Lucia Kings"
+    },
+    "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia"
+  },
+  "innings": [
+    {
+      "team": "Antigua and Barbuda Falcons",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "RRS Cornwall",
+              "bowler": "K Campbell",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "E Lewis",
+              "bowler": "K Campbell",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "E Lewis",
+              "bowler": "K Campbell",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "RRS Cornwall",
+              "bowler": "K Campbell",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "RRS Cornwall",
+              "bowler": "K Campbell",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "RRS Cornwall",
+              "bowler": "K Campbell",
+              "non_striker": "E Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "E Lewis",
+              "bowler": "MW Forde",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "E Lewis",
+              "bowler": "MW Forde",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "E Lewis",
+              "bowler": "MW Forde",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Lewis",
+                  "fielders": [
+                    {
+                      "name": "J Andrew"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "TB Robinson",
+              "bowler": "MW Forde",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TB Robinson",
+                  "fielders": [
+                    {
+                      "name": "AGS Gous"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Tajinder Singh",
+              "bowler": "MW Forde",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Tajinder Singh",
+              "bowler": "MW Forde",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Tajinder Singh",
+              "bowler": "M Theekshana",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Tajinder Singh",
+              "bowler": "M Theekshana",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Tajinder Singh",
+              "bowler": "M Theekshana",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "RRS Cornwall",
+              "bowler": "M Theekshana",
+              "non_striker": "Tajinder Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "RRS Cornwall",
+              "bowler": "M Theekshana",
+              "non_striker": "Tajinder Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "RRS Cornwall",
+              "bowler": "M Theekshana",
+              "non_striker": "Tajinder Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "RRS Cornwall",
+              "bowler": "MW Forde",
+              "non_striker": "Tajinder Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Tajinder Singh",
+              "bowler": "MW Forde",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Tajinder Singh",
+              "bowler": "MW Forde",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Tajinder Singh",
+              "bowler": "MW Forde",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "RRS Cornwall",
+              "bowler": "MW Forde",
+              "non_striker": "Tajinder Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Tajinder Singh",
+              "bowler": "MW Forde",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "RRS Cornwall",
+              "bowler": "M Theekshana",
+              "non_striker": "Tajinder Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "RRS Cornwall",
+              "bowler": "M Theekshana",
+              "non_striker": "Tajinder Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "RRS Cornwall",
+              "bowler": "M Theekshana",
+              "non_striker": "Tajinder Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "RRS Cornwall",
+              "bowler": "M Theekshana",
+              "non_striker": "Tajinder Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Tajinder Singh",
+              "bowler": "M Theekshana",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Tajinder Singh",
+              "bowler": "M Theekshana",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Tajinder Singh",
+              "bowler": "MW Forde",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "RRS Cornwall",
+              "bowler": "MW Forde",
+              "non_striker": "Tajinder Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Tajinder Singh",
+              "bowler": "MW Forde",
+              "non_striker": "RRS Cornwall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "RRS Cornwall",
+              "bowler": "MW Forde",
+              "non_striker": "Tajinder Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "RRS Cornwall",
+              "bowler": "MW Forde",
+              "non_striker": "Tajinder Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "RRS Cornwall",
+              "bowler": "MW Forde",
+              "non_striker": "Tajinder Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RRS Cornwall",
+                  "fielders": [
+                    {
+                      "name": "AGS Gous"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Tajinder Singh",
+              "bowler": "J Bishop",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Tajinder Singh",
+              "bowler": "J Bishop",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Tajinder Singh",
+                  "fielders": [
+                    {
+                      "name": "AWJ Auguste"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "MM Ali",
+              "bowler": "J Bishop",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "MM Ali",
+              "bowler": "J Bishop",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "AA Jangoo",
+              "bowler": "J Bishop",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "MM Ali",
+              "bowler": "J Bishop",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "MM Ali",
+              "bowler": "RL Chase",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "MM Ali",
+              "bowler": "RL Chase",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "MM Ali",
+              "bowler": "RL Chase",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MM Ali",
+                  "fielders": [
+                    {
+                      "name": "KIC Asalanka"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "FA Allen",
+              "bowler": "RL Chase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "FA Allen",
+              "bowler": "RL Chase",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "FA Allen",
+              "bowler": "RL Chase",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "FA Allen",
+                  "fielders": [
+                    {
+                      "name": "AGS Gous"
+                    },
+                    {
+                      "name": "D Nedd"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "SK Springer",
+              "bowler": "RL Chase",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "AA Jangoo",
+              "bowler": "J Bishop",
+              "non_striker": "SK Springer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "SK Springer",
+              "bowler": "J Bishop",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "AA Jangoo",
+              "bowler": "J Bishop",
+              "non_striker": "SK Springer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "AA Jangoo",
+              "bowler": "J Bishop",
+              "non_striker": "SK Springer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "AA Jangoo",
+              "bowler": "J Bishop",
+              "non_striker": "SK Springer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "SK Springer",
+              "bowler": "J Bishop",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "AA Jangoo",
+              "bowler": "RL Chase",
+              "non_striker": "SK Springer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "AA Jangoo",
+              "bowler": "RL Chase",
+              "non_striker": "SK Springer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "SK Springer",
+              "bowler": "RL Chase",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "AA Jangoo",
+              "bowler": "RL Chase",
+              "non_striker": "SK Springer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "AA Jangoo",
+              "bowler": "RL Chase",
+              "non_striker": "SK Springer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "SK Springer",
+              "bowler": "RL Chase",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "SK Springer",
+              "bowler": "M Theekshana",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "SK Springer",
+              "bowler": "M Theekshana",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "AA Jangoo",
+              "bowler": "M Theekshana",
+              "non_striker": "SK Springer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "AA Jangoo",
+              "bowler": "M Theekshana",
+              "non_striker": "SK Springer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "AA Jangoo",
+              "bowler": "M Theekshana",
+              "non_striker": "SK Springer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "SK Springer",
+              "bowler": "M Theekshana",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "AA Jangoo",
+              "bowler": "RL Chase",
+              "non_striker": "SK Springer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "SK Springer",
+              "bowler": "RL Chase",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "SK Springer",
+              "bowler": "RL Chase",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SK Springer",
+                  "fielders": [
+                    {
+                      "name": "D Nedd"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "JM James",
+              "bowler": "RL Chase",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "JM James",
+              "bowler": "RL Chase",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "JM James",
+              "bowler": "RL Chase",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "AA Jangoo",
+              "bowler": "J Bishop",
+              "non_striker": "JM James",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "JM James",
+              "bowler": "J Bishop",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "AA Jangoo",
+              "bowler": "J Bishop",
+              "non_striker": "JM James",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "JM James",
+              "bowler": "J Bishop",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "JM James",
+              "bowler": "J Bishop",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "JM James",
+              "bowler": "J Bishop",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "JM James",
+              "bowler": "RL Chase",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "JM James",
+              "bowler": "RL Chase",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "JM James",
+              "bowler": "RL Chase",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "JM James",
+              "bowler": "RL Chase",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "JM James",
+              "bowler": "RL Chase",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "AA Jangoo",
+              "bowler": "RL Chase",
+              "non_striker": "JM James",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "JM James",
+              "bowler": "J Bishop",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JM James",
+                  "fielders": [
+                    {
+                      "name": "AWJ Auguste"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "AS Joseph",
+              "bowler": "J Bishop",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "AS Joseph",
+              "bowler": "J Bishop",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "AS Joseph",
+              "bowler": "J Bishop",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "AA Jangoo",
+              "bowler": "J Bishop",
+              "non_striker": "AS Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "AS Joseph",
+              "bowler": "J Bishop",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "AA Jangoo",
+              "bowler": "M Theekshana",
+              "non_striker": "AS Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "AS Joseph",
+              "bowler": "M Theekshana",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "AS Joseph",
+              "bowler": "M Theekshana",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "AS Joseph",
+              "bowler": "M Theekshana",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "AS Joseph",
+              "bowler": "M Theekshana",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "AS Joseph",
+              "bowler": "M Theekshana",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "AA Jangoo",
+              "bowler": "SC van Schalkwyk",
+              "non_striker": "AS Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "AS Joseph",
+              "bowler": "SC van Schalkwyk",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "AA Jangoo",
+              "bowler": "SC van Schalkwyk",
+              "non_striker": "AS Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "AS Joseph",
+              "bowler": "SC van Schalkwyk",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "AS Joseph",
+              "bowler": "SC van Schalkwyk",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "AS Joseph",
+              "bowler": "SC van Schalkwyk",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "AS Joseph",
+              "bowler": "MW Forde",
+              "non_striker": "AA Jangoo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "AA Jangoo",
+              "bowler": "MW Forde",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AS Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "AA Jangoo",
+              "bowler": "MW Forde",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AS Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "AA Jangoo",
+              "bowler": "MW Forde",
+              "non_striker": "AS Joseph",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "AA Jangoo",
+              "bowler": "MW Forde",
+              "non_striker": "AS Joseph",
+              "review": {
+                "by": "Antigua and Barbuda Falcons",
+                "umpire": "DK Butler",
+                "batter": "AA Jangoo",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AA Jangoo",
+                  "fielders": [
+                    {
+                      "name": "AGS Gous"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "JNT Seales",
+              "bowler": "MW Forde",
+              "non_striker": "AS Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "AS Joseph",
+              "bowler": "MW Forde",
+              "non_striker": "JNT Seales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "JNT Seales",
+              "bowler": "MW Forde",
+              "non_striker": "AS Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "JNT Seales",
+              "bowler": "SC van Schalkwyk",
+              "non_striker": "AS Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "AS Joseph",
+              "bowler": "SC van Schalkwyk",
+              "non_striker": "JNT Seales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "AS Joseph",
+              "bowler": "SC van Schalkwyk",
+              "non_striker": "JNT Seales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "JNT Seales",
+              "bowler": "SC van Schalkwyk",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AS Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "JNT Seales",
+              "bowler": "SC van Schalkwyk",
+              "non_striker": "AS Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "JNT Seales",
+              "bowler": "SC van Schalkwyk",
+              "non_striker": "AS Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "JNT Seales",
+              "bowler": "SC van Schalkwyk",
+              "non_striker": "AS Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "St Lucia Kings",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "AGS Gous",
+              "bowler": "JNT Seales",
+              "non_striker": "RL Chase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "RL Chase",
+              "bowler": "JNT Seales",
+              "non_striker": "AGS Gous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "RL Chase",
+              "bowler": "JNT Seales",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AGS Gous",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "RL Chase",
+              "bowler": "JNT Seales",
+              "non_striker": "AGS Gous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "AGS Gous",
+              "bowler": "JNT Seales",
+              "non_striker": "RL Chase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "RL Chase",
+              "bowler": "JNT Seales",
+              "non_striker": "AGS Gous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "RL Chase",
+              "bowler": "JNT Seales",
+              "non_striker": "AGS Gous",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RL Chase",
+                  "fielders": [
+                    {
+                      "name": "AS Joseph"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "AGS Gous",
+              "bowler": "AS Joseph",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "AGS Gous",
+              "bowler": "AS Joseph",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "AGS Gous",
+              "bowler": "AS Joseph",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "AWJ Auguste",
+              "bowler": "AS Joseph",
+              "non_striker": "AGS Gous",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "AGS Gous",
+              "bowler": "AS Joseph",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "AGS Gous",
+              "bowler": "AS Joseph",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "AGS Gous",
+              "bowler": "AS Joseph",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AGS Gous",
+                  "fielders": [
+                    {
+                      "name": "SK Springer"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "AWJ Auguste",
+              "bowler": "JNT Seales",
+              "non_striker": "J Andrew",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "AWJ Auguste",
+              "bowler": "JNT Seales",
+              "non_striker": "J Andrew",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "J Andrew",
+              "bowler": "JNT Seales",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "J Andrew",
+              "bowler": "JNT Seales",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "AWJ Auguste",
+              "bowler": "JNT Seales",
+              "non_striker": "J Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "AWJ Auguste",
+              "bowler": "JNT Seales",
+              "non_striker": "J Andrew",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "J Andrew",
+              "bowler": "SK Springer",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "J Andrew",
+              "bowler": "SK Springer",
+              "non_striker": "AWJ Auguste",
+              "review": {
+                "by": "St Lucia Kings",
+                "umpire": "Christopher Taylor",
+                "batter": "J Andrew",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Andrew",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "KIC Asalanka",
+              "bowler": "SK Springer",
+              "non_striker": "AWJ Auguste",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "AWJ Auguste",
+              "bowler": "SK Springer",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AWJ Auguste",
+                  "fielders": [
+                    {
+                      "name": "MM Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "MW Forde",
+              "bowler": "SK Springer",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "MW Forde",
+              "bowler": "SK Springer",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "KIC Asalanka",
+              "bowler": "JM James",
+              "non_striker": "MW Forde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "MW Forde",
+              "bowler": "JM James",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "MW Forde",
+              "bowler": "JM James",
+              "non_striker": "KIC Asalanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "KIC Asalanka",
+              "bowler": "JM James",
+              "non_striker": "MW Forde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "KIC Asalanka",
+              "bowler": "JM James",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MW Forde",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "KIC Asalanka",
+              "bowler": "JM James",
+              "non_striker": "MW Forde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KIC Asalanka",
+                  "fielders": [
+                    {
+                      "name": "JNT Seales"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "D Nedd",
+              "bowler": "JM James",
+              "non_striker": "MW Forde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Nedd",
+                  "fielders": [
+                    {
+                      "name": "AS Joseph"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "MW Forde",
+              "bowler": "SK Springer",
+              "non_striker": "SC van Schalkwyk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "MW Forde",
+              "bowler": "SK Springer",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SC van Schalkwyk",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "MW Forde",
+              "bowler": "SK Springer",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SC van Schalkwyk",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "MW Forde",
+              "bowler": "SK Springer",
+              "non_striker": "SC van Schalkwyk",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "MW Forde",
+              "bowler": "SK Springer",
+              "non_striker": "SC van Schalkwyk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MW Forde",
+                  "fielders": [
+                    {
+                      "name": "MM Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "J Bishop",
+              "bowler": "SK Springer",
+              "non_striker": "SC van Schalkwyk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "J Bishop",
+              "bowler": "SK Springer",
+              "non_striker": "SC van Schalkwyk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "J Bishop",
+              "bowler": "SK Springer",
+              "non_striker": "SC van Schalkwyk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "SC van Schalkwyk",
+              "bowler": "AS Joseph",
+              "non_striker": "J Bishop",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "SC van Schalkwyk",
+              "bowler": "AS Joseph",
+              "non_striker": "J Bishop",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "J Bishop",
+              "bowler": "AS Joseph",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SC van Schalkwyk",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "J Bishop",
+              "bowler": "AS Joseph",
+              "non_striker": "SC van Schalkwyk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "J Bishop",
+              "bowler": "AS Joseph",
+              "non_striker": "SC van Schalkwyk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "SC van Schalkwyk",
+              "bowler": "AS Joseph",
+              "non_striker": "J Bishop",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "J Bishop",
+              "bowler": "AS Joseph",
+              "non_striker": "SC van Schalkwyk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "J Bishop",
+              "bowler": "JM James",
+              "non_striker": "SC van Schalkwyk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "J Bishop",
+              "bowler": "JM James",
+              "non_striker": "SC van Schalkwyk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "J Bishop",
+              "bowler": "JM James",
+              "non_striker": "SC van Schalkwyk",
+              "review": {
+                "by": "Antigua and Barbuda Falcons",
+                "umpire": "Christopher Taylor",
+                "batter": "J Bishop",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "J Bishop",
+              "bowler": "JM James",
+              "non_striker": "SC van Schalkwyk",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.2,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 8,
+        "runs": 52
+      }
+    }
+  ]
+}

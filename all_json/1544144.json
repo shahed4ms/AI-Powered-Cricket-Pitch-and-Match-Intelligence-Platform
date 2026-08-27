@@ -1,0 +1,346 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-03",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Buenos Aires",
+    "dates": [
+      "2026-07-31"
+    ],
+    "event": {
+      "name": "Canada Women tour of Argentina",
+      "match_number": 3
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2945,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Argentina": [
+        "M Castineiras",
+        "MV Lehmann",
+        "T Basile",
+        "A Galan",
+        "Francesca Galan",
+        "J Andujar",
+        "M Lollo",
+        "M Bestani",
+        "A Emch",
+        "C Valencia",
+        "C Sosa"
+      ],
+      "Canada": [
+        "Rabbjyot Rajput",
+        "A Perera",
+        "Harper Chalmers",
+        "Khadeeja Fatima",
+        "K Kapadia",
+        "M Hundal",
+        "Shreya Voya",
+        "Snigdha Malhotra",
+        "Vritti Dahiya",
+        "H Santhoshkumar",
+        "Neha Teny"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Emch": "24403a9f",
+        "A Galan": "ad5165c2",
+        "A Perera": "788afc32",
+        "C Sosa": "b2f4cb0d",
+        "C Valencia": "2edff783",
+        "Francesca Galan": "ccd38b40",
+        "H Santhoshkumar": "a3586afb",
+        "Harper Chalmers": "26c257be",
+        "J Andujar": "4c257434",
+        "K Kapadia": "52fc5577",
+        "Khadeeja Fatima": "8292d2e4",
+        "M Bestani": "e8045847",
+        "M Castineiras": "b9094958",
+        "M Hundal": "213dc641",
+        "M Lollo": "e6d1f4bb",
+        "MV Lehmann": "d2c61d83",
+        "Neha Teny": "0b53cf9c",
+        "Rabbjyot Rajput": "8b1f5f91",
+        "Shreya Voya": "5c8f43ab",
+        "Snigdha Malhotra": "aaec928b",
+        "T Basile": "7a640d66",
+        "Vritti Dahiya": "36b5d84b"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Argentina",
+      "Canada"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Canada"
+    },
+    "venue": "St George's College Ground, Buenos Aires"
+  },
+  "innings": [
+    {
+      "team": "Argentina",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "M Castineiras",
+              "bowler": "Harper Chalmers",
+              "non_striker": "MV Lehmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "M Castineiras",
+              "bowler": "Harper Chalmers",
+              "non_striker": "MV Lehmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "M Castineiras",
+              "bowler": "Harper Chalmers",
+              "non_striker": "MV Lehmann",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "MV Lehmann",
+              "bowler": "Harper Chalmers",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "M Castineiras",
+              "bowler": "Harper Chalmers",
+              "non_striker": "MV Lehmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "M Castineiras",
+              "bowler": "Harper Chalmers",
+              "non_striker": "MV Lehmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "MV Lehmann",
+              "bowler": "Shreya Voya",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "MV Lehmann",
+              "bowler": "Shreya Voya",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "MV Lehmann",
+              "bowler": "Shreya Voya",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "MV Lehmann",
+              "bowler": "Shreya Voya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "MV Lehmann",
+              "bowler": "Shreya Voya",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "MV Lehmann",
+              "bowler": "Shreya Voya",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "M Castineiras",
+              "bowler": "Shreya Voya",
+              "non_striker": "MV Lehmann",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "MV Lehmann",
+              "bowler": "Harper Chalmers",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "MV Lehmann",
+              "bowler": "Harper Chalmers",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "MV Lehmann",
+              "bowler": "Harper Chalmers",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "MV Lehmann",
+              "bowler": "Harper Chalmers",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MV Lehmann",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "T Basile",
+              "bowler": "Harper Chalmers",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Basile",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "A Galan",
+              "bowler": "Harper Chalmers",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2994 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-16",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Colombo",
+    "dates": [
+      "2026-08-12"
+    ],
+    "event": {
+      "name": "Major Clubs T20 Tournament",
+      "group": "B"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "THR Priyantha"
+      ],
+      "reserve_umpires": [
+        "EJAPAM Jayasooriya"
+      ],
+      "umpires": [
+        "WN de Silva",
+        "REJ Martinesz"
+      ]
+    },
+    "outcome": {
+      "winner": "Ace Capital Cricket Club",
+      "by": {
+        "wickets": 5
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Panadura Sports Club": [
+        "EMDY Munaweera",
+        "BOP Fernando",
+        "TA Kahaduwaarachchi",
+        "Kanchana de Livera",
+        "V Dinsara",
+        "G Malkan",
+        "Shalith Fernando",
+        "KKV Perera",
+        "V Lahiru",
+        "KDA Manoj",
+        "Navindu Prabash"
+      ],
+      "Ace Capital Cricket Club": [
+        "T Rajapakse",
+        "D Damsara",
+        "MPM Weerasinghe",
+        "R Silva",
+        "W Sahan",
+        "P Pathiraja",
+        "I Wijesundera",
+        "T Mathew",
+        "C Heenatigala",
+        "Rachintha de Silva",
+        "A Wijewardhana"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Wijewardhana": "fe504053",
+        "BOP Fernando": "1d048deb",
+        "C Heenatigala": "4d13485c",
+        "D Damsara": "b84b2718",
+        "EJAPAM Jayasooriya": "edc9d57f",
+        "EMDY Munaweera": "5a22d91c",
+        "G Malkan": "0c79cd0e",
+        "I Wijesundera": "be620896",
+        "KDA Manoj": "361c920a",
+        "KKV Perera": "106fe7a6",
+        "Kanchana de Livera": "05464bcd",
+        "MPM Weerasinghe": "39571f64",
+        "Navindu Prabash": "1076ea52",
+        "P Pathiraja": "6c32daf0",
+        "R Silva": "1117e543",
+        "REJ Martinesz": "140cdf29",
+        "Rachintha de Silva": "28857717",
+        "Shalith Fernando": "3b6af632",
+        "T Mathew": "c13e8df5",
+        "T Rajapakse": "11687cd7",
+        "TA Kahaduwaarachchi": "924bd6ac",
+        "THR Priyantha": "33f2a901",
+        "V Dinsara": "630d40b7",
+        "V Lahiru": "26cd5968",
+        "W Sahan": "d86d276e",
+        "WN de Silva": "53e20e1c"
+      }
+    },
+    "season": "2026",
+    "team_type": "club",
+    "teams": [
+      "Panadura Sports Club",
+      "Ace Capital Cricket Club"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Panadura Sports Club"
+    },
+    "venue": "Colts Cricket Club Ground, Colombo"
+  },
+  "innings": [
+    {
+      "team": "Panadura Sports Club",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "EMDY Munaweera",
+              "bowler": "Rachintha de Silva",
+              "non_striker": "BOP Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "EMDY Munaweera",
+                  "fielders": [
+                    {
+                      "name": "T Rajapakse"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "Rachintha de Silva",
+              "non_striker": "BOP Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "Rachintha de Silva",
+              "non_striker": "BOP Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "Rachintha de Silva",
+              "non_striker": "BOP Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "BOP Fernando",
+              "bowler": "Rachintha de Silva",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "BOP Fernando",
+              "bowler": "Rachintha de Silva",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "BOP Fernando",
+              "bowler": "Rachintha de Silva",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "T Mathew",
+              "non_striker": "BOP Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "T Mathew",
+              "non_striker": "BOP Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "BOP Fernando",
+              "bowler": "T Mathew",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "T Mathew",
+              "non_striker": "BOP Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "T Mathew",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "BOP Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "BOP Fernando",
+              "bowler": "T Mathew",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "Rachintha de Silva",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "BOP Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "2.1",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "Rachintha de Silva",
+              "non_striker": "BOP Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "BOP Fernando",
+              "bowler": "Rachintha de Silva",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BOP Fernando",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Kanchana de Livera",
+              "bowler": "Rachintha de Silva",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Kanchana de Livera",
+              "bowler": "Rachintha de Silva",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "Rachintha de Silva",
+              "non_striker": "Kanchana de Livera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "Rachintha de Silva",
+              "non_striker": "Kanchana de Livera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Kanchana de Livera",
+              "bowler": "Rachintha de Silva",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Kanchana de Livera",
+              "bowler": "T Mathew",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Kanchana de Livera",
+              "bowler": "T Mathew",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kanchana de Livera",
+                  "fielders": [
+                    {
+                      "name": "I Wijesundera"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "V Dinsara",
+              "bowler": "T Mathew",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "V Dinsara",
+              "bowler": "T Mathew",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "T Mathew",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "V Dinsara",
+              "bowler": "T Mathew",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "V Dinsara",
+              "bowler": "W Sahan",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "V Dinsara",
+              "bowler": "W Sahan",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "V Dinsara",
+              "bowler": "W Sahan",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "W Sahan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "W Sahan",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "W Sahan",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "W Sahan",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "V Dinsara",
+              "bowler": "I Wijesundera",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "V Dinsara",
+              "bowler": "I Wijesundera",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "I Wijesundera",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "I Wijesundera",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "I Wijesundera",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "V Dinsara",
+              "bowler": "I Wijesundera",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "C Heenatigala",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "C Heenatigala",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "C Heenatigala",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "V Dinsara",
+              "bowler": "C Heenatigala",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "C Heenatigala",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "V Dinsara",
+              "bowler": "C Heenatigala",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "V Dinsara",
+              "bowler": "I Wijesundera",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "I Wijesundera",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "I Wijesundera",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "I Wijesundera",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "V Dinsara",
+              "bowler": "I Wijesundera",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "I Wijesundera",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "V Dinsara",
+              "bowler": "C Heenatigala",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "V Dinsara",
+              "bowler": "C Heenatigala",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "C Heenatigala",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "V Dinsara",
+              "bowler": "C Heenatigala",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "C Heenatigala",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "C Heenatigala",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "A Wijewardhana",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "A Wijewardhana",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "V Dinsara",
+              "bowler": "A Wijewardhana",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "A Wijewardhana",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "A Wijewardhana",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "A Wijewardhana",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "W Sahan",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "V Dinsara",
+              "bowler": "W Sahan",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "W Sahan",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "V Dinsara",
+              "bowler": "W Sahan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "W Sahan",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "V Dinsara",
+              "bowler": "W Sahan",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "A Wijewardhana",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "A Wijewardhana",
+              "non_striker": "V Dinsara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "V Dinsara",
+              "bowler": "A Wijewardhana",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Dinsara",
+                  "fielders": [
+                    {
+                      "name": "I Wijesundera"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "G Malkan",
+              "bowler": "A Wijewardhana",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "A Wijewardhana",
+              "non_striker": "G Malkan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "G Malkan",
+              "bowler": "A Wijewardhana",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "G Malkan",
+              "bowler": "T Mathew",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "G Malkan",
+              "bowler": "T Mathew",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "G Malkan",
+              "bowler": "T Mathew",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "T Mathew",
+              "non_striker": "G Malkan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "T Mathew",
+              "non_striker": "G Malkan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "G Malkan",
+              "bowler": "T Mathew",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "G Malkan",
+              "bowler": "T Mathew",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "G Malkan",
+              "bowler": "A Wijewardhana",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "A Wijewardhana",
+              "non_striker": "G Malkan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "A Wijewardhana",
+              "non_striker": "G Malkan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "A Wijewardhana",
+              "non_striker": "G Malkan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "G Malkan",
+              "bowler": "A Wijewardhana",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "G Malkan",
+              "bowler": "A Wijewardhana",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "G Malkan",
+              "bowler": "W Sahan",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.1",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "W Sahan",
+              "non_striker": "G Malkan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "G Malkan",
+              "bowler": "W Sahan",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "G Malkan",
+              "bowler": "W Sahan",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "W Sahan",
+              "non_striker": "G Malkan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "W Sahan",
+              "non_striker": "G Malkan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "G Malkan",
+              "bowler": "W Sahan",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "G Malkan",
+              "bowler": "MPM Weerasinghe",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "MPM Weerasinghe",
+              "non_striker": "G Malkan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "MPM Weerasinghe",
+              "non_striker": "G Malkan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "G Malkan",
+              "bowler": "MPM Weerasinghe",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "MPM Weerasinghe",
+              "non_striker": "G Malkan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "G Malkan",
+              "bowler": "MPM Weerasinghe",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "G Malkan",
+              "bowler": "I Wijesundera",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Malkan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Shalith Fernando",
+              "bowler": "I Wijesundera",
+              "non_striker": "TA Kahaduwaarachchi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "TA Kahaduwaarachchi",
+              "bowler": "I Wijesundera",
+              "non_striker": "Shalith Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TA Kahaduwaarachchi",
+                  "fielders": [
+                    {
+                      "name": "R Silva"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "KKV Perera",
+              "bowler": "I Wijesundera",
+              "non_striker": "Shalith Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "KKV Perera",
+              "bowler": "I Wijesundera",
+              "non_striker": "Shalith Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "KKV Perera",
+              "bowler": "I Wijesundera",
+              "non_striker": "Shalith Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "KKV Perera",
+              "bowler": "T Mathew",
+              "non_striker": "Shalith Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Shalith Fernando",
+              "bowler": "T Mathew",
+              "non_striker": "KKV Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shalith Fernando",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "V Lahiru",
+              "bowler": "T Mathew",
+              "non_striker": "KKV Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "V Lahiru",
+              "bowler": "T Mathew",
+              "non_striker": "KKV Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "KKV Perera",
+              "bowler": "T Mathew",
+              "non_striker": "V Lahiru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "KKV Perera",
+              "bowler": "T Mathew",
+              "non_striker": "V Lahiru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "KKV Perera",
+              "bowler": "W Sahan",
+              "non_striker": "V Lahiru",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "KKV Perera",
+              "bowler": "W Sahan",
+              "non_striker": "V Lahiru",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "V Lahiru",
+              "bowler": "W Sahan",
+              "non_striker": "KKV Perera",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "V Lahiru",
+              "bowler": "W Sahan",
+              "non_striker": "KKV Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Lahiru",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "KDA Manoj",
+              "bowler": "W Sahan",
+              "non_striker": "KKV Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "KDA Manoj",
+              "bowler": "W Sahan",
+              "non_striker": "KKV Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "KKV Perera",
+              "bowler": "I Wijesundera",
+              "non_striker": "KDA Manoj",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "KKV Perera",
+              "bowler": "I Wijesundera",
+              "non_striker": "KDA Manoj",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "KKV Perera",
+              "bowler": "I Wijesundera",
+              "non_striker": "KDA Manoj",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "KKV Perera",
+              "bowler": "I Wijesundera",
+              "non_striker": "KDA Manoj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KKV Perera",
+                  "fielders": [
+                    {
+                      "name": "C Heenatigala"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Navindu Prabash",
+              "bowler": "I Wijesundera",
+              "non_striker": "KDA Manoj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "KDA Manoj",
+              "bowler": "I Wijesundera",
+              "non_striker": "Navindu Prabash",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Ace Capital Cricket Club",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "T Rajapakse",
+              "bowler": "Navindu Prabash",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "T Rajapakse",
+              "bowler": "Navindu Prabash",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "T Rajapakse",
+              "bowler": "Navindu Prabash",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "T Rajapakse",
+              "bowler": "Navindu Prabash",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "T Rajapakse",
+              "bowler": "Navindu Prabash",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "T Rajapakse",
+              "bowler": "Navindu Prabash",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "T Rajapakse",
+              "bowler": "Navindu Prabash",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "T Rajapakse",
+              "bowler": "Navindu Prabash",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "D Damsara",
+              "bowler": "KDA Manoj",
+              "non_striker": "T Rajapakse",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "T Rajapakse",
+              "bowler": "KDA Manoj",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "T Rajapakse",
+              "bowler": "KDA Manoj",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "D Damsara",
+              "bowler": "KDA Manoj",
+              "non_striker": "T Rajapakse",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "T Rajapakse",
+              "bowler": "KDA Manoj",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "T Rajapakse",
+              "bowler": "KDA Manoj",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "D Damsara",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "T Rajapakse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "D Damsara",
+              "bowler": "EMDY Munaweera",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "T Rajapakse",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "T Rajapakse",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "T Rajapakse",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "T Rajapakse",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "T Rajapakse",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "D Damsara",
+              "bowler": "KKV Perera",
+              "non_striker": "T Rajapakse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "D Damsara",
+              "bowler": "KKV Perera",
+              "non_striker": "T Rajapakse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "D Damsara",
+              "bowler": "KKV Perera",
+              "non_striker": "T Rajapakse",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "T Rajapakse",
+              "bowler": "KKV Perera",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Rajapakse",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "MPM Weerasinghe",
+              "bowler": "KKV Perera",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "D Damsara",
+              "bowler": "KKV Perera",
+              "non_striker": "MPM Weerasinghe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "MPM Weerasinghe",
+              "bowler": "Navindu Prabash",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "MPM Weerasinghe",
+              "bowler": "Navindu Prabash",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "MPM Weerasinghe",
+              "bowler": "Navindu Prabash",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "D Damsara",
+              "bowler": "Navindu Prabash",
+              "non_striker": "MPM Weerasinghe",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "D Damsara",
+              "bowler": "Navindu Prabash",
+              "non_striker": "MPM Weerasinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "D Damsara",
+              "bowler": "Navindu Prabash",
+              "non_striker": "MPM Weerasinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "MPM Weerasinghe",
+              "bowler": "KKV Perera",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.1",
+              "batter": "D Damsara",
+              "bowler": "KKV Perera",
+              "non_striker": "MPM Weerasinghe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "D Damsara",
+              "bowler": "KKV Perera",
+              "non_striker": "MPM Weerasinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "MPM Weerasinghe",
+              "bowler": "KKV Perera",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "D Damsara",
+              "bowler": "KKV Perera",
+              "non_striker": "MPM Weerasinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "MPM Weerasinghe",
+              "bowler": "KKV Perera",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "MPM Weerasinghe",
+              "bowler": "KKV Perera",
+              "non_striker": "D Damsara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "D Damsara",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "MPM Weerasinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "D Damsara",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "MPM Weerasinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Damsara",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "R Silva",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "MPM Weerasinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "MPM Weerasinghe",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "R Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "R Silva",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "MPM Weerasinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "MPM Weerasinghe",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "R Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "MPM Weerasinghe",
+              "bowler": "KDA Manoj",
+              "non_striker": "R Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "MPM Weerasinghe",
+              "bowler": "KDA Manoj",
+              "non_striker": "R Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "R Silva",
+              "bowler": "KDA Manoj",
+              "non_striker": "MPM Weerasinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "MPM Weerasinghe",
+              "bowler": "KDA Manoj",
+              "non_striker": "R Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "MPM Weerasinghe",
+              "bowler": "KDA Manoj",
+              "non_striker": "R Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MPM Weerasinghe",
+                  "fielders": [
+                    {
+                      "name": "KKV Perera"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "W Sahan",
+              "bowler": "KDA Manoj",
+              "non_striker": "R Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "W Sahan",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "R Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "R Silva",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "R Silva",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "R Silva",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "W Sahan",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "R Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "R Silva",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "W Sahan",
+              "bowler": "KDA Manoj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.1",
+              "batter": "W Sahan",
+              "bowler": "KDA Manoj",
+              "non_striker": "R Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "W Sahan",
+              "bowler": "KDA Manoj",
+              "non_striker": "R Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "R Silva",
+              "bowler": "KDA Manoj",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "R Silva",
+              "bowler": "KDA Manoj",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "R Silva",
+              "bowler": "KDA Manoj",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "R Silva",
+              "bowler": "KDA Manoj",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "R Silva",
+              "bowler": "V Lahiru",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "R Silva",
+              "bowler": "V Lahiru",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "R Silva",
+              "bowler": "V Lahiru",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "W Sahan",
+              "bowler": "V Lahiru",
+              "non_striker": "R Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "R Silva",
+              "bowler": "V Lahiru",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "R Silva",
+              "bowler": "V Lahiru",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "R Silva",
+              "bowler": "Navindu Prabash",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "R Silva",
+              "bowler": "Navindu Prabash",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "R Silva",
+              "bowler": "Navindu Prabash",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Silva",
+                  "fielders": [
+                    {
+                      "name": "KKV Perera"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "P Pathiraja",
+              "bowler": "Navindu Prabash",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "W Sahan",
+              "bowler": "Navindu Prabash",
+              "non_striker": "P Pathiraja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "P Pathiraja",
+              "bowler": "Navindu Prabash",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "P Pathiraja",
+              "bowler": "TA Kahaduwaarachchi",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "P Pathiraja",
+              "bowler": "TA Kahaduwaarachchi",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "W Sahan",
+              "bowler": "TA Kahaduwaarachchi",
+              "non_striker": "P Pathiraja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "W Sahan",
+              "bowler": "TA Kahaduwaarachchi",
+              "non_striker": "P Pathiraja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "P Pathiraja",
+              "bowler": "TA Kahaduwaarachchi",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "W Sahan",
+              "bowler": "TA Kahaduwaarachchi",
+              "non_striker": "P Pathiraja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "P Pathiraja",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "P Pathiraja",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "W Sahan",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "P Pathiraja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "P Pathiraja",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "P Pathiraja",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "P Pathiraja",
+              "bowler": "EMDY Munaweera",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "W Sahan",
+              "bowler": "TA Kahaduwaarachchi",
+              "non_striker": "P Pathiraja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "P Pathiraja",
+              "bowler": "TA Kahaduwaarachchi",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Pathiraja",
+                  "fielders": [
+                    {
+                      "name": "Kanchana de Livera"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "I Wijesundera",
+              "bowler": "TA Kahaduwaarachchi",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "I Wijesundera",
+              "bowler": "TA Kahaduwaarachchi",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "I Wijesundera",
+              "bowler": "TA Kahaduwaarachchi",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "W Sahan",
+              "bowler": "TA Kahaduwaarachchi",
+              "non_striker": "I Wijesundera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "I Wijesundera",
+              "bowler": "KDA Manoj",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "W Sahan",
+              "bowler": "KDA Manoj",
+              "non_striker": "I Wijesundera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "I Wijesundera",
+              "bowler": "KDA Manoj",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "I Wijesundera",
+              "bowler": "KDA Manoj",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "I Wijesundera",
+              "bowler": "KDA Manoj",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "W Sahan",
+              "bowler": "KDA Manoj",
+              "non_striker": "I Wijesundera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "I Wijesundera",
+              "bowler": "TA Kahaduwaarachchi",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "I Wijesundera",
+              "bowler": "TA Kahaduwaarachchi",
+              "non_striker": "W Sahan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 128
+      }
+    }
+  ]
+}

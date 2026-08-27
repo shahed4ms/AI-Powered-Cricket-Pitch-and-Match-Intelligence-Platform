@@ -1,0 +1,2595 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2020-01-06",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangkok",
+    "dates": [
+      "2019-02-21"
+    ],
+    "event": {
+      "name": "ICC Women's T20 World Cup Asia Region Qualifier",
+      "match_number": 9
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 586,
+    "officials": {
+      "match_referees": [
+        "Neeyamur Rashid"
+      ],
+      "reserve_umpires": [
+        "Tabarak Dar"
+      ],
+      "umpires": [
+        "Akbar Ali",
+        "DN Subedi"
+      ]
+    },
+    "outcome": {
+      "winner": "China",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Zhang Chan"
+    ],
+    "players": {
+      "Kuwait": [
+        "Maryam Omar",
+        "Priyada Murali",
+        "Amna Tariq",
+        "Khadija Khalil",
+        "Maria Jasvi",
+        "Mariamma Hyder",
+        "SL Gomez",
+        "Iqra Ishaq",
+        "Zeefa Jilani",
+        "Maryyam Ashraf",
+        "Madeeha Zuberi"
+      ],
+      "China": [
+        "Zhang Chan",
+        "C Zhou",
+        "Zhang Mei",
+        "F Song",
+        "Huang Zhuo",
+        "Han Lili",
+        "Wu Juan",
+        "L Jie",
+        "Zhang Xiangxue",
+        "LI Haoye",
+        "Chen Yue"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Akbar Ali": "e753931d",
+        "Amna Tariq": "44b53fba",
+        "C Zhou": "5b84f3bc",
+        "Chen Yue": "8b582549",
+        "DN Subedi": "fb0a571f",
+        "F Song": "72a025a0",
+        "Han Lili": "cd7134f5",
+        "Huang Zhuo": "edbbe245",
+        "Iqra Ishaq": "59c770e7",
+        "Khadija Khalil": "7c61a686",
+        "L Jie": "78670115",
+        "LI Haoye": "fe7ba5cf",
+        "Madeeha Zuberi": "c86675a9",
+        "Maria Jasvi": "4bed6af7",
+        "Mariamma Hyder": "c8ae2573",
+        "Maryam Omar": "b4d08794",
+        "Maryyam Ashraf": "1b9d3eb3",
+        "Neeyamur Rashid": "bd81a027",
+        "Priyada Murali": "f4b942ae",
+        "SL Gomez": "02264be0",
+        "Tabarak Dar": "2259c12d",
+        "Wu Juan": "4d498084",
+        "Zeefa Jilani": "3f2b40f0",
+        "Zhang Chan": "d21f6f26",
+        "Zhang Mei": "d6660d9b",
+        "Zhang Xiangxue": "13fdbc7e"
+      }
+    },
+    "season": "2018/19",
+    "team_type": "international",
+    "teams": [
+      "China",
+      "Kuwait"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "China"
+    },
+    "venue": "Asian Institute of Technology Ground"
+  },
+  "innings": [
+    {
+      "team": "Kuwait",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Maryam Omar",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Maryam Omar",
+              "bowler": "Zhang Xiangxue",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Priyada Murali",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Maryam Omar",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Priyada Murali",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Maryam Omar",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Maryam Omar",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "Priyada Murali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Priyada Murali",
+              "bowler": "Wu Juan",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Priyada Murali",
+              "bowler": "Wu Juan",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Priyada Murali"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Amna Tariq",
+              "bowler": "Wu Juan",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Amna Tariq",
+              "bowler": "Wu Juan",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Maryam Omar",
+              "bowler": "Wu Juan",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Maryam Omar",
+              "bowler": "Wu Juan",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Amna Tariq",
+              "bowler": "L Jie",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Amna Tariq",
+              "bowler": "L Jie",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Amna Tariq",
+              "bowler": "L Jie",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Maryam Omar",
+              "bowler": "L Jie",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Maryam Omar",
+              "bowler": "L Jie",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Maryam Omar",
+              "bowler": "L Jie",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Amna Tariq",
+              "bowler": "Wu Juan",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Amna Tariq",
+              "bowler": "Wu Juan",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Maryam Omar",
+              "bowler": "Wu Juan",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Maryam Omar",
+              "bowler": "Wu Juan",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Amna Tariq",
+              "bowler": "Wu Juan",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Amna Tariq",
+              "bowler": "Wu Juan",
+              "non_striker": "Maryam Omar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Maryam Omar",
+              "bowler": "L Jie",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Maryam Omar",
+              "bowler": "L Jie",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Maryam Omar",
+                  "fielders": [
+                    {
+                      "name": "Han Lili"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Khadija Khalil",
+              "bowler": "L Jie",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Khadija Khalil",
+              "bowler": "L Jie",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Khadija Khalil",
+                  "fielders": [
+                    {
+                      "name": "Zhang Chan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Maria Jasvi",
+              "bowler": "L Jie",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Maria Jasvi",
+              "bowler": "L Jie",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Maria Jasvi",
+              "bowler": "L Jie",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Amna Tariq",
+              "bowler": "Wu Juan",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "5.1",
+              "batter": "Amna Tariq",
+              "bowler": "Wu Juan",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Amna Tariq",
+              "bowler": "Wu Juan",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Amna Tariq",
+              "bowler": "Wu Juan",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Amna Tariq",
+              "bowler": "Wu Juan",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Amna Tariq",
+              "bowler": "Wu Juan",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Amna Tariq",
+              "bowler": "Wu Juan",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Amna Tariq",
+              "bowler": "L Jie",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Maria Jasvi",
+              "bowler": "L Jie",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Maria Jasvi",
+              "bowler": "L Jie",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Amna Tariq",
+              "bowler": "L Jie",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Amna Tariq",
+              "bowler": "L Jie",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Maria Jasvi",
+              "bowler": "L Jie",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Amna Tariq",
+              "bowler": "LI Haoye",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Amna Tariq",
+              "bowler": "LI Haoye",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Amna Tariq",
+              "bowler": "LI Haoye",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Amna Tariq",
+              "bowler": "LI Haoye",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Maria Jasvi",
+              "bowler": "LI Haoye",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Maria Jasvi",
+              "bowler": "LI Haoye",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Amna Tariq",
+              "bowler": "F Song",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Amna Tariq",
+              "bowler": "F Song",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Amna Tariq",
+              "bowler": "F Song",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Maria Jasvi",
+              "bowler": "F Song",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Maria Jasvi",
+              "bowler": "F Song",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Maria Jasvi",
+              "bowler": "F Song",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Maria Jasvi",
+              "bowler": "F Song",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Amna Tariq",
+              "bowler": "LI Haoye",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.1",
+              "batter": "Amna Tariq",
+              "bowler": "LI Haoye",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Amna Tariq",
+              "bowler": "LI Haoye",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Amna Tariq"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Mariamma Hyder",
+              "bowler": "LI Haoye",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Mariamma Hyder",
+              "bowler": "LI Haoye",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Maria Jasvi",
+              "bowler": "LI Haoye",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Maria Jasvi",
+              "bowler": "LI Haoye",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Maria Jasvi",
+              "bowler": "LI Haoye",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Maria Jasvi",
+              "bowler": "F Song",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Mariamma Hyder",
+              "bowler": "F Song",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Mariamma Hyder",
+              "bowler": "F Song",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Mariamma Hyder"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "SL Gomez",
+              "bowler": "F Song",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "SL Gomez",
+              "bowler": "F Song",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Maria Jasvi",
+              "bowler": "F Song",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Maria Jasvi",
+              "bowler": "LI Haoye",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Maria Jasvi",
+              "bowler": "LI Haoye",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Maria Jasvi",
+              "bowler": "LI Haoye",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Maria Jasvi",
+              "bowler": "LI Haoye",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Maria Jasvi",
+              "bowler": "LI Haoye",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Maria Jasvi",
+              "bowler": "LI Haoye",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Maria Jasvi",
+                  "fielders": [
+                    {
+                      "name": "Han Lili"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "SL Gomez",
+              "bowler": "Han Lili",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "SL Gomez",
+              "bowler": "Han Lili",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Iqra Ishaq",
+              "bowler": "Han Lili",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Iqra Ishaq",
+              "bowler": "Han Lili",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "SL Gomez",
+              "bowler": "Han Lili",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "SL Gomez",
+              "bowler": "Han Lili",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Iqra Ishaq",
+              "bowler": "LI Haoye",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Iqra Ishaq",
+              "bowler": "LI Haoye",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Iqra Ishaq",
+              "bowler": "LI Haoye",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Iqra Ishaq",
+              "bowler": "LI Haoye",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Iqra Ishaq",
+              "bowler": "LI Haoye",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Iqra Ishaq",
+              "bowler": "LI Haoye",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "SL Gomez",
+              "bowler": "LI Haoye",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "SL Gomez",
+              "bowler": "Han Lili",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Iqra Ishaq",
+              "bowler": "Han Lili",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Iqra Ishaq",
+              "bowler": "Han Lili",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Iqra Ishaq",
+              "bowler": "Han Lili",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Iqra Ishaq",
+              "bowler": "Han Lili",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "SL Gomez",
+              "bowler": "Han Lili",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "SL Gomez",
+              "bowler": "Wu Juan",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Iqra Ishaq",
+              "bowler": "Wu Juan",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Iqra Ishaq",
+              "bowler": "Wu Juan",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "SL Gomez",
+              "bowler": "Wu Juan",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Iqra Ishaq",
+              "bowler": "Wu Juan",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Iqra Ishaq",
+              "bowler": "Wu Juan",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "SL Gomez",
+              "bowler": "Han Lili",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "SL Gomez"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Zeefa Jilani",
+              "bowler": "Han Lili",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Zeefa Jilani",
+              "bowler": "Han Lili",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Zeefa Jilani",
+              "bowler": "Han Lili",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Zeefa Jilani",
+              "bowler": "Han Lili",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Zeefa Jilani",
+              "bowler": "Han Lili",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Zeefa Jilani",
+              "bowler": "F Song",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Zeefa Jilani",
+              "bowler": "F Song",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Zeefa Jilani",
+              "bowler": "F Song",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Iqra Ishaq",
+              "bowler": "F Song",
+              "non_striker": "Zeefa Jilani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Iqra Ishaq",
+              "bowler": "F Song",
+              "non_striker": "Zeefa Jilani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Iqra Ishaq",
+              "bowler": "F Song",
+              "non_striker": "Zeefa Jilani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Iqra Ishaq",
+              "bowler": "Han Lili",
+              "non_striker": "Zeefa Jilani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Zeefa Jilani",
+              "bowler": "Han Lili",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Zeefa Jilani",
+              "bowler": "Han Lili",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Zeefa Jilani",
+              "bowler": "Han Lili",
+              "non_striker": "Iqra Ishaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Iqra Ishaq",
+              "bowler": "Han Lili",
+              "non_striker": "Zeefa Jilani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Iqra Ishaq",
+              "bowler": "Han Lili",
+              "non_striker": "Zeefa Jilani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Iqra Ishaq",
+                  "fielders": [
+                    {
+                      "name": "Chen Yue"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Zeefa Jilani",
+              "bowler": "L Jie",
+              "non_striker": "Maryyam Ashraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Zeefa Jilani",
+              "bowler": "L Jie",
+              "non_striker": "Maryyam Ashraf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Maryyam Ashraf",
+              "bowler": "L Jie",
+              "non_striker": "Zeefa Jilani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Maryyam Ashraf",
+              "bowler": "L Jie",
+              "non_striker": "Zeefa Jilani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Zeefa Jilani"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Madeeha Zuberi",
+              "bowler": "L Jie",
+              "non_striker": "Maryyam Ashraf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Maryyam Ashraf",
+              "bowler": "L Jie",
+              "non_striker": "Madeeha Zuberi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "China",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Zhang Chan",
+              "bowler": "Maria Jasvi",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Zhang Chan",
+              "bowler": "Maria Jasvi",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Zhang Chan",
+              "bowler": "Maria Jasvi",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Zhang Chan",
+              "bowler": "Maria Jasvi",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Zhang Chan",
+              "bowler": "Maria Jasvi",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Zhang Chan",
+              "bowler": "Maria Jasvi",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Zhang Chan",
+              "bowler": "Maryam Omar",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Zhang Chan",
+              "bowler": "Maryam Omar",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Zhang Chan",
+              "bowler": "Maryam Omar",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Zhang Chan",
+              "bowler": "Maryam Omar",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Zhang Chan",
+              "bowler": "Maryam Omar",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Zhang Chan",
+              "bowler": "Maryam Omar",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "C Zhou",
+              "bowler": "Maria Jasvi",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "C Zhou",
+              "bowler": "Maria Jasvi",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "C Zhou",
+              "bowler": "Maria Jasvi",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "C Zhou",
+              "bowler": "Maria Jasvi",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "C Zhou",
+              "bowler": "Maria Jasvi",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "C Zhou",
+              "bowler": "Maria Jasvi",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Zhang Chan",
+              "bowler": "Priyada Murali",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Zhang Chan",
+              "bowler": "Priyada Murali",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Zhang Chan",
+              "bowler": "Priyada Murali",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "C Zhou",
+              "bowler": "Priyada Murali",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "C Zhou",
+              "bowler": "Priyada Murali",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "C Zhou",
+              "bowler": "Priyada Murali",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Zhang Chan",
+              "bowler": "Maria Jasvi",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Zhang Chan",
+              "bowler": "Maria Jasvi",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Zhang Chan",
+              "bowler": "Maria Jasvi",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Zhang Chan",
+              "bowler": "Maria Jasvi",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Zhang Chan",
+              "bowler": "Maria Jasvi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Zhang Chan",
+              "bowler": "Maria Jasvi",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Zhang Chan",
+              "bowler": "Maria Jasvi",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "C Zhou",
+              "bowler": "Priyada Murali",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "C Zhou",
+              "bowler": "Priyada Murali",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "C Zhou",
+              "bowler": "Priyada Murali",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "C Zhou",
+              "bowler": "Priyada Murali",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Zhang Chan",
+              "bowler": "Priyada Murali",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Zhang Chan",
+              "bowler": "Priyada Murali",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Zhang Chan",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Zhang Chan",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "C Zhou",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "C Zhou",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Zhang Chan",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Zhang Chan",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "C Zhou",
+              "bowler": "Priyada Murali",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "C Zhou",
+              "bowler": "Priyada Murali",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "C Zhou",
+              "bowler": "Priyada Murali",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "C Zhou",
+              "bowler": "Priyada Murali",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "C Zhou",
+              "bowler": "Priyada Murali",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "C Zhou",
+              "bowler": "Priyada Murali",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Zhang Chan",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "C Zhou",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "C Zhou",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "C Zhou",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "C Zhou",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "C Zhou",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Zhang Chan",
+              "bowler": "Amna Tariq",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "C Zhou",
+              "bowler": "Amna Tariq",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "C Zhou",
+                  "fielders": [
+                    {
+                      "name": "Iqra Ishaq"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Zhang Mei",
+              "bowler": "Amna Tariq",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Zhang Chan",
+              "bowler": "Amna Tariq",
+              "non_striker": "Zhang Mei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Zhang Chan",
+              "bowler": "Amna Tariq",
+              "non_striker": "Zhang Mei",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Zhang Mei",
+              "bowler": "Amna Tariq",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Zhang Chan",
+              "bowler": "Maryam Omar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zhang Mei",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.1",
+              "batter": "Zhang Chan",
+              "bowler": "Maryam Omar",
+              "non_striker": "Zhang Mei",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Zhang Chan",
+              "bowler": "Maryam Omar",
+              "non_striker": "Zhang Mei",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Zhang Chan",
+              "bowler": "Maryam Omar",
+              "non_striker": "Zhang Mei",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Zhang Mei",
+              "bowler": "Maryam Omar",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Zhang Mei",
+              "bowler": "Maryam Omar",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Zhang Chan",
+              "bowler": "Maryam Omar",
+              "non_striker": "Zhang Mei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Zhang Mei",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Zhang Mei",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Zhang Mei",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 60
+      }
+    }
+  ]
+}

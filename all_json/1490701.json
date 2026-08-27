@@ -1,0 +1,3276 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-06-26",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Manchester",
+    "dates": [
+      "2026-06-26"
+    ],
+    "event": {
+      "name": "ICC Women's T20 World Cup",
+      "match_number": 25,
+      "group": "2"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2891,
+    "officials": {
+      "match_referees": [
+        "TL Anderson"
+      ],
+      "reserve_umpires": [
+        "Eloise Sheridan"
+      ],
+      "tv_umpires": [
+        "Kim Cotton"
+      ],
+      "umpires": [
+        "AY Harris",
+        "C La Borde"
+      ]
+    },
+    "outcome": {
+      "winner": "Sri Lanka",
+      "by": {
+        "wickets": 3
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "NND de Silva"
+    ],
+    "players": {
+      "Scotland": [
+        "DEM Carter",
+        "K Fraser",
+        "KE Bryce",
+        "SJ Bryce",
+        "A Lister",
+        "PA Chatterji",
+        "PN Sproul",
+        "M McColl",
+        "R Slater",
+        "KL Gordon",
+        "G Fontenla"
+      ],
+      "Sri Lanka": [
+        "AC Jayangani",
+        "I Dulani",
+        "GWHM Perera",
+        "H Madavi",
+        "H Karunaratne",
+        "WK Dilhari",
+        "NND de Silva",
+        "EMKNH Senavirathna",
+        "BMSM Kumari",
+        "NM Meepage",
+        "M Ayodhya"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Lister": "090c0213",
+        "AC Jayangani": "ac56b5a7",
+        "AY Harris": "90d95b82",
+        "BMSM Kumari": "b55fb828",
+        "C La Borde": "32157f67",
+        "DEM Carter": "c3394c16",
+        "EMKNH Senavirathna": "ec691a5b",
+        "Eloise Sheridan": "d8d43840",
+        "G Fontenla": "581eec7e",
+        "GWHM Perera": "53068b45",
+        "H Karunaratne": "f8e27d4a",
+        "H Madavi": "85021bcd",
+        "I Dulani": "a2c23f31",
+        "K Fraser": "a0a65375",
+        "KE Bryce": "f13d3eba",
+        "KL Gordon": "00823a96",
+        "Kim Cotton": "67a7c2ee",
+        "M Ayodhya": "843e067e",
+        "M McColl": "d5fa2ab3",
+        "NM Meepage": "420d4d31",
+        "NND de Silva": "f0b4294e",
+        "PA Chatterji": "8e7be59c",
+        "PN Sproul": "789fe152",
+        "R Slater": "8a452195",
+        "SJ Bryce": "2ca65aee",
+        "TL Anderson": "f52ddf8d",
+        "WK Dilhari": "c34a15e6"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Scotland",
+      "Sri Lanka"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Sri Lanka"
+    },
+    "venue": "Old Trafford, Manchester"
+  },
+  "innings": [
+    {
+      "team": "Scotland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "DEM Carter",
+              "bowler": "M Ayodhya",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "K Fraser",
+              "bowler": "M Ayodhya",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "DEM Carter",
+              "bowler": "M Ayodhya",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "DEM Carter",
+              "bowler": "M Ayodhya",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "DEM Carter",
+              "bowler": "M Ayodhya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "DEM Carter",
+              "bowler": "M Ayodhya",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "DEM Carter",
+              "bowler": "M Ayodhya",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "K Fraser",
+              "bowler": "BMSM Kumari",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "DEM Carter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "DEM Carter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "DEM Carter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "K Fraser",
+              "bowler": "BMSM Kumari",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "K Fraser",
+              "bowler": "BMSM Kumari",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "DEM Carter",
+              "bowler": "M Ayodhya",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "DEM Carter",
+              "bowler": "M Ayodhya",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "DEM Carter",
+              "bowler": "M Ayodhya",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "DEM Carter",
+              "bowler": "M Ayodhya",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "DEM Carter",
+              "bowler": "M Ayodhya",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "DEM Carter",
+              "bowler": "M Ayodhya",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "K Fraser",
+              "bowler": "NM Meepage",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "K Fraser",
+              "bowler": "NM Meepage",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "DEM Carter",
+              "bowler": "NM Meepage",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "DEM Carter",
+              "bowler": "NM Meepage",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "K Fraser",
+              "bowler": "NM Meepage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "K Fraser",
+              "bowler": "NM Meepage",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "DEM Carter",
+              "bowler": "NM Meepage",
+              "non_striker": "K Fraser",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "K Fraser",
+              "bowler": "M Ayodhya",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "K Fraser",
+              "bowler": "M Ayodhya",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Fraser",
+                  "fielders": [
+                    {
+                      "name": "NND de Silva"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "KE Bryce",
+              "bowler": "M Ayodhya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "KE Bryce",
+              "bowler": "M Ayodhya",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "KE Bryce",
+              "bowler": "M Ayodhya",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "KE Bryce",
+              "bowler": "M Ayodhya",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "KE Bryce",
+              "bowler": "M Ayodhya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "KE Bryce",
+              "bowler": "M Ayodhya",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "DEM Carter",
+              "bowler": "NM Meepage",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "KE Bryce",
+              "bowler": "NM Meepage",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "KE Bryce",
+              "bowler": "NM Meepage",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "KE Bryce",
+              "bowler": "NM Meepage",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "KE Bryce",
+              "bowler": "NM Meepage",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "KE Bryce",
+              "bowler": "NM Meepage",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "KE Bryce",
+              "bowler": "AC Jayangani",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "DEM Carter",
+              "bowler": "AC Jayangani",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "KE Bryce",
+              "bowler": "AC Jayangani",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "DEM Carter",
+              "bowler": "AC Jayangani",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "KE Bryce",
+              "bowler": "AC Jayangani",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "DEM Carter",
+              "bowler": "AC Jayangani",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "DEM Carter",
+              "bowler": "WK Dilhari",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "DEM Carter",
+              "bowler": "WK Dilhari",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "KE Bryce",
+              "bowler": "WK Dilhari",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "KE Bryce",
+              "bowler": "WK Dilhari",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "DEM Carter",
+              "bowler": "WK Dilhari",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "KE Bryce",
+              "bowler": "WK Dilhari",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "DEM Carter",
+              "bowler": "AC Jayangani",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "KE Bryce",
+              "bowler": "AC Jayangani",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "KE Bryce",
+              "bowler": "AC Jayangani",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "KE Bryce",
+              "bowler": "AC Jayangani",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "KE Bryce",
+              "bowler": "AC Jayangani",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "KE Bryce",
+              "bowler": "AC Jayangani",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "DEM Carter",
+              "bowler": "WK Dilhari",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "DEM Carter",
+              "bowler": "WK Dilhari",
+              "non_striker": "KE Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "KE Bryce",
+              "bowler": "WK Dilhari",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "KE Bryce",
+              "bowler": "WK Dilhari",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "KE Bryce",
+              "bowler": "WK Dilhari",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KE Bryce",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "SJ Bryce",
+              "bowler": "WK Dilhari",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "SJ Bryce",
+              "bowler": "BMSM Kumari",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "DEM Carter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "DEM Carter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "SJ Bryce",
+              "bowler": "BMSM Kumari",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "DEM Carter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "DEM Carter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "SJ Bryce",
+              "bowler": "WK Dilhari",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "SJ Bryce",
+              "bowler": "WK Dilhari",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "DEM Carter",
+              "bowler": "WK Dilhari",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "SJ Bryce",
+              "bowler": "WK Dilhari",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "DEM Carter",
+              "bowler": "WK Dilhari",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "DEM Carter",
+              "bowler": "WK Dilhari",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "SJ Bryce",
+              "bowler": "NM Meepage",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "DEM Carter",
+              "bowler": "NM Meepage",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "SJ Bryce",
+              "bowler": "NM Meepage",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "SJ Bryce",
+              "bowler": "NM Meepage",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "SJ Bryce",
+              "bowler": "NM Meepage",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "SJ Bryce",
+              "bowler": "NM Meepage",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "SJ Bryce",
+              "bowler": "BMSM Kumari",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "SJ Bryce",
+              "bowler": "BMSM Kumari",
+              "non_striker": "DEM Carter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "DEM Carter",
+              "bowler": "BMSM Kumari",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DEM Carter",
+                  "fielders": [
+                    {
+                      "name": "EMKNH Senavirathna"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "A Lister",
+              "bowler": "BMSM Kumari",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "SJ Bryce",
+              "bowler": "BMSM Kumari",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "A Lister",
+              "bowler": "BMSM Kumari",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "A Lister",
+              "bowler": "AC Jayangani",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "SJ Bryce",
+              "bowler": "AC Jayangani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "SJ Bryce",
+              "bowler": "AC Jayangani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "SJ Bryce",
+              "bowler": "AC Jayangani",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "A Lister",
+              "bowler": "AC Jayangani",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "SJ Bryce",
+              "bowler": "AC Jayangani",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "A Lister",
+              "bowler": "AC Jayangani",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "A Lister",
+              "bowler": "AC Jayangani",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "SJ Bryce",
+              "bowler": "WK Dilhari",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "SJ Bryce",
+              "bowler": "WK Dilhari",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "A Lister",
+              "bowler": "WK Dilhari",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "A Lister",
+              "bowler": "WK Dilhari",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "SJ Bryce",
+              "bowler": "WK Dilhari",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "A Lister",
+              "bowler": "WK Dilhari",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "SJ Bryce",
+              "bowler": "NND de Silva",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "SJ Bryce",
+              "bowler": "NND de Silva",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "A Lister",
+              "bowler": "NND de Silva",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "SJ Bryce",
+              "bowler": "NND de Silva",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "A Lister",
+              "bowler": "NND de Silva",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "SJ Bryce",
+              "bowler": "NND de Silva",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "SJ Bryce",
+              "bowler": "NM Meepage",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "A Lister",
+              "bowler": "NM Meepage",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "A Lister",
+              "bowler": "NM Meepage",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "A Lister",
+              "bowler": "NM Meepage",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "SJ Bryce",
+              "bowler": "NM Meepage",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "SJ Bryce",
+              "bowler": "NM Meepage",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "A Lister",
+              "bowler": "NND de Silva",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "SJ Bryce",
+              "bowler": "NND de Silva",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "SJ Bryce",
+              "bowler": "NND de Silva",
+              "non_striker": "A Lister",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "A Lister",
+              "bowler": "NND de Silva",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "A Lister",
+              "bowler": "NND de Silva",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Lister",
+                  "fielders": [
+                    {
+                      "name": "NND de Silva"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "SJ Bryce",
+              "bowler": "NND de Silva",
+              "non_striker": "PA Chatterji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PA Chatterji",
+                  "fielders": [
+                    {
+                      "name": "H Madavi"
+                    },
+                    {
+                      "name": "EMKNH Senavirathna"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "SJ Bryce",
+              "bowler": "M Ayodhya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PN Sproul",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.1",
+              "batter": "SJ Bryce",
+              "bowler": "M Ayodhya",
+              "non_striker": "PN Sproul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "SJ Bryce",
+              "bowler": "M Ayodhya",
+              "non_striker": "PN Sproul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "SJ Bryce",
+              "bowler": "M Ayodhya",
+              "non_striker": "PN Sproul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "PN Sproul",
+              "bowler": "M Ayodhya",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PN Sproul",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "M McColl",
+              "bowler": "M Ayodhya",
+              "non_striker": "SJ Bryce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "SJ Bryce",
+              "bowler": "M Ayodhya",
+              "non_striker": "M McColl",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sri Lanka",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "AC Jayangani",
+              "bowler": "KE Bryce",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "AC Jayangani",
+              "bowler": "KE Bryce",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "AC Jayangani",
+              "bowler": "KE Bryce",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "AC Jayangani",
+              "bowler": "KE Bryce",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "AC Jayangani",
+              "bowler": "KE Bryce",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "AC Jayangani",
+              "bowler": "KE Bryce",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "I Dulani",
+              "bowler": "KE Bryce",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "AC Jayangani",
+              "bowler": "G Fontenla",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "AC Jayangani",
+              "bowler": "G Fontenla",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "AC Jayangani",
+              "bowler": "G Fontenla",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "AC Jayangani",
+              "bowler": "G Fontenla",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "AC Jayangani",
+              "bowler": "G Fontenla",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "AC Jayangani",
+              "bowler": "G Fontenla",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "I Dulani",
+              "bowler": "R Slater",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "I Dulani",
+              "bowler": "R Slater",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "I Dulani",
+              "bowler": "R Slater",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "I Dulani",
+              "bowler": "R Slater",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "I Dulani",
+              "bowler": "R Slater",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Dulani",
+                  "fielders": [
+                    {
+                      "name": "G Fontenla"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "GWHM Perera",
+              "bowler": "R Slater",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "GWHM Perera",
+              "bowler": "K Fraser",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "GWHM Perera",
+              "bowler": "K Fraser",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "GWHM Perera",
+              "bowler": "K Fraser",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "GWHM Perera",
+              "bowler": "K Fraser",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "GWHM Perera",
+              "bowler": "K Fraser",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "GWHM Perera",
+              "bowler": "K Fraser",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "AC Jayangani",
+              "bowler": "R Slater",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "AC Jayangani",
+              "bowler": "R Slater",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "AC Jayangani",
+              "bowler": "R Slater",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "AC Jayangani",
+              "bowler": "R Slater",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "GWHM Perera",
+              "bowler": "R Slater",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "GWHM Perera",
+              "bowler": "R Slater",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "GWHM Perera",
+              "bowler": "R Slater",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "AC Jayangani",
+              "bowler": "K Fraser",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "AC Jayangani",
+              "bowler": "K Fraser",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AC Jayangani",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "H Madavi",
+              "bowler": "K Fraser",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "H Madavi",
+              "bowler": "K Fraser",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "H Madavi",
+              "bowler": "K Fraser",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "H Madavi",
+              "bowler": "K Fraser",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "GWHM Perera",
+              "bowler": "KL Gordon",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "GWHM Perera",
+              "bowler": "KL Gordon",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "H Madavi",
+              "bowler": "KL Gordon",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "H Madavi",
+              "bowler": "KL Gordon",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "GWHM Perera",
+              "bowler": "KL Gordon",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "H Madavi",
+              "bowler": "KL Gordon",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "H Madavi",
+              "bowler": "DEM Carter",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "GWHM Perera",
+              "bowler": "DEM Carter",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "H Madavi",
+              "bowler": "DEM Carter",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "GWHM Perera",
+              "bowler": "DEM Carter",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "H Madavi",
+              "bowler": "DEM Carter",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "H Madavi",
+              "bowler": "DEM Carter",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "H Madavi",
+              "bowler": "KE Bryce",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "GWHM Perera",
+              "bowler": "KE Bryce",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "GWHM Perera",
+              "bowler": "KE Bryce",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GWHM Perera",
+                  "fielders": [
+                    {
+                      "name": "KL Gordon"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "H Karunaratne",
+              "bowler": "KE Bryce",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "H Madavi",
+              "bowler": "KE Bryce",
+              "non_striker": "H Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "H Madavi",
+              "bowler": "KE Bryce",
+              "non_striker": "H Karunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "H Karunaratne",
+              "bowler": "K Fraser",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "H Karunaratne",
+              "bowler": "K Fraser",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "H Karunaratne",
+              "bowler": "K Fraser",
+              "non_striker": "H Madavi",
+              "review": {
+                "by": "Sri Lanka",
+                "umpire": "C La Borde",
+                "batter": "H Karunaratne",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Karunaratne",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "WK Dilhari",
+              "bowler": "K Fraser",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "WK Dilhari",
+              "bowler": "K Fraser",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "H Madavi",
+              "bowler": "K Fraser",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "WK Dilhari",
+              "bowler": "KL Gordon",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "H Madavi",
+              "bowler": "KL Gordon",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "WK Dilhari",
+              "bowler": "KL Gordon",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "WK Dilhari",
+              "bowler": "KL Gordon",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "H Madavi",
+              "bowler": "KL Gordon",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "WK Dilhari",
+              "bowler": "KL Gordon",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "H Madavi",
+              "bowler": "PA Chatterji",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "H Madavi",
+              "bowler": "PA Chatterji",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "H Madavi",
+              "bowler": "PA Chatterji",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "WK Dilhari",
+              "bowler": "PA Chatterji",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "H Madavi",
+              "bowler": "PA Chatterji",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "WK Dilhari",
+              "bowler": "PA Chatterji",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "H Madavi",
+              "bowler": "KE Bryce",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "WK Dilhari",
+              "bowler": "KE Bryce",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "H Madavi",
+              "bowler": "KE Bryce",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Madavi",
+                  "fielders": [
+                    {
+                      "name": "PA Chatterji"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "NND de Silva",
+              "bowler": "KE Bryce",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "NND de Silva",
+              "bowler": "KE Bryce",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "NND de Silva",
+              "bowler": "KE Bryce",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "WK Dilhari",
+              "bowler": "KE Bryce",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "NND de Silva",
+              "bowler": "DEM Carter",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "WK Dilhari",
+              "bowler": "DEM Carter",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "WK Dilhari",
+              "bowler": "DEM Carter",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "WK Dilhari",
+              "bowler": "DEM Carter",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "WK Dilhari",
+              "bowler": "DEM Carter",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "WK Dilhari",
+              "bowler": "DEM Carter",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "NND de Silva",
+              "bowler": "KL Gordon",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "WK Dilhari",
+              "bowler": "KL Gordon",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "NND de Silva",
+              "bowler": "KL Gordon",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "NND de Silva",
+              "bowler": "KL Gordon",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "NND de Silva",
+              "bowler": "KL Gordon",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "WK Dilhari",
+              "bowler": "KL Gordon",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WK Dilhari",
+                  "fielders": [
+                    {
+                      "name": "KE Bryce"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "NND de Silva",
+              "bowler": "K Fraser",
+              "non_striker": "EMKNH Senavirathna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "NND de Silva",
+              "bowler": "K Fraser",
+              "non_striker": "EMKNH Senavirathna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "EMKNH Senavirathna",
+              "bowler": "K Fraser",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "EMKNH Senavirathna",
+              "bowler": "K Fraser",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "EMKNH Senavirathna",
+              "bowler": "K Fraser",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "NND de Silva",
+              "bowler": "K Fraser",
+              "non_striker": "EMKNH Senavirathna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "EMKNH Senavirathna",
+              "bowler": "KL Gordon",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "NND de Silva",
+              "bowler": "KL Gordon",
+              "non_striker": "EMKNH Senavirathna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "NND de Silva",
+              "bowler": "KL Gordon",
+              "non_striker": "EMKNH Senavirathna",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "NND de Silva",
+              "bowler": "KL Gordon",
+              "non_striker": "EMKNH Senavirathna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "EMKNH Senavirathna",
+              "bowler": "KL Gordon",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "NND de Silva",
+              "bowler": "KL Gordon",
+              "non_striker": "EMKNH Senavirathna",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "EMKNH Senavirathna",
+              "bowler": "R Slater",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "EMKNH Senavirathna",
+              "bowler": "R Slater",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "NND de Silva",
+              "bowler": "R Slater",
+              "non_striker": "EMKNH Senavirathna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "EMKNH Senavirathna",
+              "bowler": "R Slater",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "EMKNH Senavirathna",
+              "bowler": "R Slater",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "EMKNH Senavirathna",
+              "bowler": "R Slater",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "EMKNH Senavirathna",
+                  "fielders": [
+                    {
+                      "name": "A Lister"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "NND de Silva",
+              "bowler": "KE Bryce",
+              "non_striker": "BMSM Kumari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "BMSM Kumari",
+              "bowler": "KE Bryce",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "NND de Silva",
+              "bowler": "KE Bryce",
+              "non_striker": "BMSM Kumari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "NND de Silva",
+              "bowler": "KE Bryce",
+              "non_striker": "BMSM Kumari",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "BMSM Kumari",
+              "bowler": "KE Bryce",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "NND de Silva",
+              "bowler": "KE Bryce",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "BMSM Kumari",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "BMSM Kumari",
+              "bowler": "KE Bryce",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "NND de Silva",
+              "bowler": "R Slater",
+              "non_striker": "BMSM Kumari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "BMSM Kumari",
+              "bowler": "R Slater",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "NND de Silva",
+              "bowler": "R Slater",
+              "non_striker": "BMSM Kumari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "NND de Silva",
+              "bowler": "PA Chatterji",
+              "non_striker": "BMSM Kumari",
+              "replacements": {
+                "role": [
+                  {
+                    "in": "PA Chatterji",
+                    "out": "R Slater",
+                    "reason": "injury",
+                    "role": "bowler"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "BMSM Kumari",
+              "bowler": "PA Chatterji",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 152
+      }
+    }
+  ]
+}

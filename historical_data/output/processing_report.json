@@ -1,0 +1,21 @@
+{
+  "source_folder": "/Users/mac/Documents/cricketlens/all_json",
+  "total_json_files": 22734,
+  "processed_files": 18201,
+  "skipped_files": 4533,
+  "failed_files": 0,
+  "stadium_format_groups": 1198,
+  "venues_found": 750,
+  "formats_found": [
+    "ODI",
+    "T20",
+    "Test"
+  ],
+  "skipped_formats": {
+    "IT20": 320,
+    "MDM": 2188,
+    "ODM": 2025
+  },
+  "error_examples": [],
+  "bowler_style_note": "Bowling style is not directly available in the match JSON structure inspected. Wickets are therefore currently classified as unknown until a bowler-style mapping is added."
+}

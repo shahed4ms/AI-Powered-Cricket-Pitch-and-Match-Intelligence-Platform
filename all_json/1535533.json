@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-24",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Colombo",
+    "dates": [
+      "2026-08-24"
+    ],
+    "event": {
+      "name": "Major Clubs T20 Tournament",
+      "group": "B"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "R Punchihewa"
+      ],
+      "reserve_umpires": [
+        "WN de Silva"
+      ],
+      "umpires": [
+        "REJ Martinesz",
+        "RD Kottahachchi"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Bloomfield Cricket and Athletic Club": [
+        "H Amarasinghe",
+        "C Nethsara",
+        "A Wanninayake",
+        "RS Fernando",
+        "J Liyanage",
+        "KHJ de Silva",
+        "TN Guruge",
+        "K Piyumal",
+        "Nisala Abeyratne",
+        "D Samuditha",
+        "E Malinga"
+      ],
+      "Sinhalese Sports Club": [
+        "MNK Fernando",
+        "S Daniel",
+        "R Jayasuriya",
+        "RK Chandraguptha",
+        "ND Perera",
+        "Vishad Randika",
+        "DN Wellalage",
+        "D Kalupahana",
+        "K Nadeeshan",
+        "PM Liyanagamage",
+        "CAK Rajitha"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Wanninayake": "13ef4457",
+        "C Nethsara": "07697ab0",
+        "CAK Rajitha": "8012d0b8",
+        "D Kalupahana": "ec33ff92",
+        "D Samuditha": "4770fcd4",
+        "DN Wellalage": "736123bb",
+        "E Malinga": "5750bcb4",
+        "H Amarasinghe": "4dac55a7",
+        "J Liyanage": "84212ffb",
+        "K Nadeeshan": "778b9795",
+        "K Piyumal": "d5b6fe5f",
+        "KHJ de Silva": "9688690d",
+        "MNK Fernando": "ba603555",
+        "ND Perera": "f7928e6a",
+        "Nisala Abeyratne": "61caf406",
+        "PM Liyanagamage": "3ee0050f",
+        "R Jayasuriya": "cd5c8aea",
+        "R Punchihewa": "dd7477cb",
+        "RD Kottahachchi": "92e41d14",
+        "REJ Martinesz": "140cdf29",
+        "RK Chandraguptha": "f51ed6ad",
+        "RS Fernando": "24d72446",
+        "S Daniel": "a38e7be7",
+        "TN Guruge": "6adee1a9",
+        "Vishad Randika": "7075624e",
+        "WN de Silva": "53e20e1c"
+      }
+    },
+    "season": "2026",
+    "team_type": "club",
+    "teams": [
+      "Bloomfield Cricket and Athletic Club",
+      "Sinhalese Sports Club"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Bloomfield Cricket and Athletic Club"
+    },
+    "venue": "R Premadasa Stadium, Colombo"
+  },
+  "innings": [
+    {
+      "team": "Bloomfield Cricket and Athletic Club",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "H Amarasinghe",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "C Nethsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "H Amarasinghe",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "C Nethsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Amarasinghe",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "A Wanninayake",
+              "bowler": "PM Liyanagamage",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "C Nethsara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "C Nethsara",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "A Wanninayake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "A Wanninayake",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "C Nethsara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "A Wanninayake",
+              "bowler": "PM Liyanagamage",
+              "non_striker": "C Nethsara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 0.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

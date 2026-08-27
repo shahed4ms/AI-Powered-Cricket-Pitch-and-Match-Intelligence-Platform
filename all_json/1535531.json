@@ -1,0 +1,1728 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-24",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Colombo",
+    "dates": [
+      "2026-08-24"
+    ],
+    "event": {
+      "name": "Major Clubs T20 Tournament",
+      "group": "A"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "missing": [
+      {
+        "powerplays": {
+          "1": [
+            "mandatory"
+          ]
+        }
+      }
+    ],
+    "officials": {
+      "match_referees": [
+        "LJP Fernando"
+      ],
+      "reserve_umpires": [
+        "KADA Nanayakkara"
+      ],
+      "umpires": [
+        "Ranganath Prasanna",
+        "RR Wimalasiri"
+      ]
+    },
+    "outcome": {
+      "winner": "Moors Sports Club",
+      "by": {
+        "wickets": 5
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "players": {
+      "Colombo Cricket Club": [
+        "KNM Fernando",
+        "L Croospulle",
+        "S Kosala",
+        "P Rathnayake",
+        "I Udana",
+        "I Karannagoda",
+        "C Wijesinghe",
+        "R Hirushan",
+        "A Bandara",
+        "A Daniel",
+        "MVT Fernando"
+      ],
+      "Moors Sports Club": [
+        "BOL Mendis",
+        "S de Livera",
+        "S Samarawickrama",
+        "J Perera",
+        "RTM Mendis",
+        "S Gimhan",
+        "M Tharupathi",
+        "RMMP Rathnayake",
+        "DS Tillakaratne",
+        "G Sanketh",
+        "SA Fernando"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Bandara": "2d71e6cc",
+        "A Daniel": "9e3f1cc4",
+        "BOL Mendis": "9614d123",
+        "C Wijesinghe": "0a2d45b0",
+        "DS Tillakaratne": "e797eb3b",
+        "G Sanketh": "40db4769",
+        "I Karannagoda": "ddce5289",
+        "I Udana": "ac5ae4af",
+        "J Perera": "0e0d4577",
+        "KADA Nanayakkara": "9ee551f5",
+        "KNM Fernando": "d2a2bb1a",
+        "L Croospulle": "e30c9b2d",
+        "LJP Fernando": "9d1c0862",
+        "M Tharupathi": "ec0b9258",
+        "MVT Fernando": "5eef2118",
+        "N Thushara": "ee1b6c27",
+        "P Rathnayake": "c1fdfb46",
+        "R Hirushan": "aa9980cb",
+        "RMMP Rathnayake": "afe830a2",
+        "RR Wimalasiri": "4950c8db",
+        "RTM Mendis": "1be67d37",
+        "Ranganath Prasanna": "9fc85271",
+        "S Gimhan": "81acb5f5",
+        "S Kosala": "b4411c29",
+        "S Samarawickrama": "9ab2914d",
+        "S de Livera": "77708937",
+        "SA Fernando": "49fb57d4"
+      }
+    },
+    "season": "2026",
+    "team_type": "club",
+    "teams": [
+      "Colombo Cricket Club",
+      "Moors Sports Club"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Moors Sports Club"
+    },
+    "venue": "Colts Cricket Club Ground, Colombo"
+  },
+  "innings": [
+    {
+      "team": "Colombo Cricket Club",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "KNM Fernando",
+              "bowler": "RMMP Rathnayake",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "KNM Fernando",
+              "bowler": "RMMP Rathnayake",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "KNM Fernando",
+              "bowler": "RMMP Rathnayake",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "KNM Fernando",
+              "bowler": "RMMP Rathnayake",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "L Croospulle",
+              "bowler": "RMMP Rathnayake",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "KNM Fernando",
+              "bowler": "RMMP Rathnayake",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "KNM Fernando",
+              "bowler": "SA Fernando",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "KNM Fernando",
+              "bowler": "SA Fernando",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "KNM Fernando",
+              "bowler": "SA Fernando",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "L Croospulle",
+              "bowler": "SA Fernando",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "KNM Fernando",
+              "bowler": "SA Fernando",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "L Croospulle",
+              "bowler": "SA Fernando",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "KNM Fernando",
+              "bowler": "RMMP Rathnayake",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "KNM Fernando",
+              "bowler": "RMMP Rathnayake",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "L Croospulle",
+              "bowler": "RMMP Rathnayake",
+              "non_striker": "KNM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "KNM Fernando",
+              "bowler": "RMMP Rathnayake",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KNM Fernando",
+                  "fielders": [
+                    {
+                      "name": "RTM Mendis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "S Kosala",
+              "bowler": "RMMP Rathnayake",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "S Kosala",
+              "bowler": "RMMP Rathnayake",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "S Kosala",
+              "bowler": "DS Tillakaratne",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "L Croospulle",
+              "bowler": "DS Tillakaratne",
+              "non_striker": "S Kosala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "L Croospulle",
+              "bowler": "DS Tillakaratne",
+              "non_striker": "S Kosala",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "L Croospulle",
+              "bowler": "DS Tillakaratne",
+              "non_striker": "S Kosala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "L Croospulle",
+              "bowler": "DS Tillakaratne",
+              "non_striker": "S Kosala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "L Croospulle",
+              "bowler": "DS Tillakaratne",
+              "non_striker": "S Kosala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "S Kosala",
+              "bowler": "M Tharupathi",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "S Kosala",
+              "bowler": "M Tharupathi",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "S Kosala",
+              "bowler": "M Tharupathi",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "L Croospulle",
+              "bowler": "M Tharupathi",
+              "non_striker": "S Kosala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "S Kosala",
+              "bowler": "M Tharupathi",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Kosala",
+                  "fielders": [
+                    {
+                      "name": "J Perera"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "P Rathnayake",
+              "bowler": "M Tharupathi",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "P Rathnayake",
+              "bowler": "DS Tillakaratne",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "P Rathnayake",
+              "bowler": "DS Tillakaratne",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "P Rathnayake",
+              "bowler": "DS Tillakaratne",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Rathnayake",
+                  "fielders": [
+                    {
+                      "name": "SA Fernando"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "I Udana",
+              "bowler": "DS Tillakaratne",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "I Udana",
+              "bowler": "DS Tillakaratne",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "L Croospulle",
+              "bowler": "DS Tillakaratne",
+              "non_striker": "I Udana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "L Croospulle",
+              "bowler": "M Tharupathi",
+              "non_striker": "I Udana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "I Udana",
+              "bowler": "M Tharupathi",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Udana",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "I Karannagoda",
+              "bowler": "M Tharupathi",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "L Croospulle",
+              "bowler": "M Tharupathi",
+              "non_striker": "I Karannagoda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "L Croospulle",
+              "bowler": "M Tharupathi",
+              "non_striker": "I Karannagoda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "L Croospulle",
+              "bowler": "M Tharupathi",
+              "non_striker": "I Karannagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "L Croospulle",
+              "bowler": "G Sanketh",
+              "non_striker": "I Karannagoda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "L Croospulle",
+              "bowler": "G Sanketh",
+              "non_striker": "I Karannagoda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "I Karannagoda",
+              "bowler": "G Sanketh",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "I Karannagoda",
+              "bowler": "G Sanketh",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "L Croospulle",
+              "bowler": "G Sanketh",
+              "non_striker": "I Karannagoda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "L Croospulle",
+              "bowler": "G Sanketh",
+              "non_striker": "I Karannagoda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "L Croospulle",
+              "bowler": "G Sanketh",
+              "non_striker": "I Karannagoda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "I Karannagoda",
+              "bowler": "SA Fernando",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "I Karannagoda",
+              "bowler": "SA Fernando",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "I Karannagoda",
+              "bowler": "SA Fernando",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "I Karannagoda",
+              "bowler": "SA Fernando",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "L Croospulle",
+              "bowler": "SA Fernando",
+              "non_striker": "I Karannagoda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "L Croospulle",
+              "bowler": "SA Fernando",
+              "non_striker": "I Karannagoda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              },
+              "wickets": [
+                {
+                  "player_out": "I Karannagoda",
+                  "kind": "retired out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "C Wijesinghe",
+              "bowler": "G Sanketh",
+              "non_striker": "L Croospulle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Wijesinghe",
+                  "fielders": [
+                    {
+                      "name": "G Sanketh"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "L Croospulle",
+              "bowler": "G Sanketh",
+              "non_striker": "R Hirushan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Croospulle",
+                  "fielders": [
+                    {
+                      "name": "M Tharupathi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "A Bandara",
+              "bowler": "G Sanketh",
+              "non_striker": "R Hirushan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "A Bandara",
+              "bowler": "G Sanketh",
+              "non_striker": "R Hirushan",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "R Hirushan",
+              "bowler": "G Sanketh",
+              "non_striker": "A Bandara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "A Bandara",
+              "bowler": "G Sanketh",
+              "non_striker": "R Hirushan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Moors Sports Club",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "BOL Mendis",
+              "bowler": "MVT Fernando",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "BOL Mendis",
+              "bowler": "MVT Fernando",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BOL Mendis",
+                  "kind": "retired hurt"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "S Samarawickrama",
+              "bowler": "MVT Fernando",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "S Samarawickrama",
+              "bowler": "MVT Fernando",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "S de Livera",
+              "bowler": "MVT Fernando",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "S Samarawickrama",
+              "bowler": "MVT Fernando",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "S de Livera",
+              "bowler": "I Udana",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "S Samarawickrama",
+              "bowler": "I Udana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "S Samarawickrama",
+              "bowler": "I Udana",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "S Samarawickrama",
+              "bowler": "I Udana",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "S Samarawickrama",
+              "bowler": "I Udana",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "S de Livera",
+              "bowler": "I Udana",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "S de Livera",
+              "bowler": "I Udana",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "S de Livera",
+              "bowler": "MVT Fernando",
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "S Samarawickrama",
+              "bowler": "MVT Fernando",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "S de Livera",
+              "bowler": "MVT Fernando",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "S Samarawickrama",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "S Samarawickrama",
+              "bowler": "MVT Fernando",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "S Samarawickrama",
+              "bowler": "MVT Fernando",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "S Samarawickrama",
+              "bowler": "MVT Fernando",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Samarawickrama",
+                  "fielders": [
+                    {
+                      "name": "C Wijesinghe"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "S de Livera",
+              "bowler": "A Daniel",
+              "non_striker": "J Perera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "S de Livera",
+              "bowler": "A Daniel",
+              "non_striker": "J Perera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "S de Livera",
+              "bowler": "A Daniel",
+              "non_striker": "J Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "J Perera",
+              "bowler": "A Daniel",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "J Perera",
+              "bowler": "A Daniel",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Perera",
+                  "fielders": [
+                    {
+                      "name": "I Karannagoda"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "RTM Mendis",
+              "bowler": "A Daniel",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "RTM Mendis",
+              "bowler": "I Karannagoda",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "RTM Mendis",
+              "bowler": "I Karannagoda",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "S de Livera",
+              "bowler": "I Karannagoda",
+              "non_striker": "RTM Mendis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "S de Livera",
+              "bowler": "I Karannagoda",
+              "non_striker": "RTM Mendis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "S de Livera",
+              "bowler": "I Karannagoda",
+              "non_striker": "RTM Mendis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "S de Livera",
+              "bowler": "I Karannagoda",
+              "non_striker": "RTM Mendis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "RTM Mendis",
+              "bowler": "A Daniel",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "RTM Mendis",
+              "bowler": "A Daniel",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "S de Livera",
+              "bowler": "A Daniel",
+              "non_striker": "RTM Mendis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "S de Livera",
+              "bowler": "A Daniel",
+              "non_striker": "RTM Mendis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "S de Livera",
+              "bowler": "A Daniel",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "RTM Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "RTM Mendis",
+              "bowler": "A Daniel",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "S de Livera",
+              "bowler": "I Karannagoda",
+              "non_striker": "RTM Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "RTM Mendis",
+              "bowler": "I Karannagoda",
+              "non_striker": "S de Livera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "S de Livera",
+              "bowler": "I Karannagoda",
+              "non_striker": "RTM Mendis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "S de Livera",
+              "bowler": "I Karannagoda",
+              "non_striker": "RTM Mendis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "non_boundary": true,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "S de Livera",
+              "bowler": "I Karannagoda",
+              "non_striker": "RTM Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S de Livera",
+                  "fielders": [
+                    {
+                      "name": "KNM Fernando"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "S Gimhan",
+              "bowler": "I Karannagoda",
+              "non_striker": "RTM Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "S Gimhan",
+              "bowler": "R Hirushan",
+              "non_striker": "RTM Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "S Gimhan",
+              "bowler": "R Hirushan",
+              "non_striker": "RTM Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "RTM Mendis",
+              "bowler": "R Hirushan",
+              "non_striker": "S Gimhan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RTM Mendis",
+                  "fielders": [
+                    {
+                      "name": "N Thushara",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "M Tharupathi",
+              "bowler": "R Hirushan",
+              "non_striker": "S Gimhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "S Gimhan",
+              "bowler": "R Hirushan",
+              "non_striker": "M Tharupathi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "S Gimhan",
+              "bowler": "R Hirushan",
+              "non_striker": "M Tharupathi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "S Gimhan",
+              "bowler": "I Udana",
+              "non_striker": "M Tharupathi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Gimhan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "RMMP Rathnayake",
+              "bowler": "I Udana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Tharupathi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "RMMP Rathnayake",
+              "bowler": "I Udana",
+              "non_striker": "M Tharupathi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "RMMP Rathnayake",
+              "bowler": "I Udana",
+              "non_striker": "M Tharupathi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "M Tharupathi",
+              "bowler": "I Udana",
+              "non_striker": "RMMP Rathnayake",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "M Tharupathi",
+              "bowler": "I Udana",
+              "non_striker": "RMMP Rathnayake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "RMMP Rathnayake",
+              "bowler": "I Udana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Tharupathi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "RMMP Rathnayake",
+              "bowler": "I Udana",
+              "non_striker": "M Tharupathi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "M Tharupathi",
+              "bowler": "R Hirushan",
+              "non_striker": "RMMP Rathnayake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "RMMP Rathnayake",
+              "bowler": "R Hirushan",
+              "non_striker": "M Tharupathi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "M Tharupathi",
+              "bowler": "R Hirushan",
+              "non_striker": "RMMP Rathnayake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 10,
+        "runs": 93
+      }
+    }
+  ]
+}

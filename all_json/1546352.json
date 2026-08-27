@@ -1,0 +1,3702 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-17",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dar-es-Salaam",
+    "dates": [
+      "2026-08-17"
+    ],
+    "event": {
+      "name": "CWC Challenge League",
+      "match_number": 43
+    },
+    "gender": "male",
+    "match_type": "ODM",
+    "officials": {
+      "match_referees": [
+        "O Chirombe"
+      ],
+      "reserve_umpires": [
+        "Shiju Sam"
+      ],
+      "umpires": [
+        "Akbar Ali",
+        "I Chabi"
+      ]
+    },
+    "outcome": {
+      "winner": "Tanzania",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 50,
+    "player_of_match": [
+      "Abhishek Kumar"
+    ],
+    "players": {
+      "Singapore": [
+        "S Gulecha",
+        "G Gune",
+        "M Bhatia",
+        "RR Naik",
+        "Manpreet Singh",
+        "Raheel Thakkar",
+        "C Sridev",
+        "Kabir Berlia",
+        "Harman Singh",
+        "A Kessar",
+        "Umair Aftab"
+      ],
+      "Tanzania": [
+        "DA Mehta",
+        "II Selemani",
+        "Arun Yadav",
+        "MO Kitunda",
+        "A Augastin",
+        "JJ Nyambo",
+        "Shaik Basha",
+        "Abhishek Kumar",
+        "LS Barkania",
+        "SA Jumbe",
+        "K Juma"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Augastin": "056e3558",
+        "A Kessar": "6da5685e",
+        "Abhishek Kumar": "82e471e2",
+        "Akbar Ali": "e753931d",
+        "Arun Yadav": "53ace082",
+        "C Sridev": "5d17f075",
+        "DA Mehta": "61a7d6e9",
+        "G Gune": "5491a9ff",
+        "Harman Singh": "6baf0cdd",
+        "I Chabi": "5e39110e",
+        "II Selemani": "b2dadc51",
+        "JJ Nyambo": "ffb3b559",
+        "K Juma": "089ebf89",
+        "Kabir Berlia": "5e5a45bd",
+        "LS Barkania": "073126d6",
+        "M Bhatia": "22bdbba3",
+        "MO Kitunda": "badef0dc",
+        "Manpreet Singh": "e9d6a2ce",
+        "O Chirombe": "6345307f",
+        "RR Naik": "f456ad17",
+        "Raheel Thakkar": "4844672e",
+        "S Gulecha": "b70ec03e",
+        "SA Jumbe": "91056862",
+        "Shaik Basha": "1b77c4c6",
+        "Shiju Sam": "1e2f3eae",
+        "Umair Aftab": "3fbe15f8"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Singapore",
+      "Tanzania"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Tanzania"
+    },
+    "venue": "University of Dar-es-Salaam Ground 2"
+  },
+  "innings": [
+    {
+      "team": "Singapore",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "S Gulecha",
+              "bowler": "SA Jumbe",
+              "non_striker": "G Gune",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "S Gulecha",
+              "bowler": "SA Jumbe",
+              "non_striker": "G Gune",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "S Gulecha",
+              "bowler": "SA Jumbe",
+              "non_striker": "G Gune",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "S Gulecha",
+              "bowler": "SA Jumbe",
+              "non_striker": "G Gune",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "G Gune",
+              "bowler": "SA Jumbe",
+              "non_striker": "S Gulecha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "G Gune",
+              "bowler": "SA Jumbe",
+              "non_striker": "S Gulecha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "S Gulecha",
+              "bowler": "K Juma",
+              "non_striker": "G Gune",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "G Gune",
+              "bowler": "K Juma",
+              "non_striker": "S Gulecha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "S Gulecha",
+              "bowler": "K Juma",
+              "non_striker": "G Gune",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "G Gune",
+              "bowler": "K Juma",
+              "non_striker": "S Gulecha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "G Gune",
+              "bowler": "K Juma",
+              "non_striker": "S Gulecha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "G Gune",
+              "bowler": "K Juma",
+              "non_striker": "S Gulecha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "S Gulecha",
+              "bowler": "SA Jumbe",
+              "non_striker": "G Gune",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "S Gulecha",
+              "bowler": "SA Jumbe",
+              "non_striker": "G Gune",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "S Gulecha",
+              "bowler": "SA Jumbe",
+              "non_striker": "G Gune",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "S Gulecha",
+              "bowler": "SA Jumbe",
+              "non_striker": "G Gune",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "S Gulecha",
+              "bowler": "SA Jumbe",
+              "non_striker": "G Gune",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "S Gulecha",
+              "bowler": "SA Jumbe",
+              "non_striker": "G Gune",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "G Gune",
+              "bowler": "K Juma",
+              "non_striker": "S Gulecha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "G Gune",
+              "bowler": "K Juma",
+              "non_striker": "S Gulecha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "G Gune",
+              "bowler": "K Juma",
+              "non_striker": "S Gulecha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "G Gune",
+              "bowler": "K Juma",
+              "non_striker": "S Gulecha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "G Gune",
+              "bowler": "K Juma",
+              "non_striker": "S Gulecha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "G Gune",
+              "bowler": "K Juma",
+              "non_striker": "S Gulecha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Gune",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "S Gulecha",
+              "bowler": "SA Jumbe",
+              "non_striker": "M Bhatia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "S Gulecha",
+              "bowler": "SA Jumbe",
+              "non_striker": "M Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Gulecha",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "RR Naik",
+              "bowler": "SA Jumbe",
+              "non_striker": "M Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "RR Naik",
+              "bowler": "SA Jumbe",
+              "non_striker": "M Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "RR Naik",
+              "bowler": "SA Jumbe",
+              "non_striker": "M Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "RR Naik",
+              "bowler": "SA Jumbe",
+              "non_striker": "M Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "M Bhatia",
+              "bowler": "K Juma",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "M Bhatia",
+              "bowler": "K Juma",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "M Bhatia",
+              "bowler": "K Juma",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "RR Naik",
+              "bowler": "K Juma",
+              "non_striker": "M Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "RR Naik",
+              "bowler": "K Juma",
+              "non_striker": "M Bhatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "M Bhatia",
+              "bowler": "K Juma",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Bhatia",
+                  "fielders": [
+                    {
+                      "name": "LS Barkania"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "RR Naik",
+              "bowler": "SA Jumbe",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Manpreet Singh",
+              "bowler": "SA Jumbe",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "RR Naik",
+              "bowler": "SA Jumbe",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "RR Naik",
+              "bowler": "SA Jumbe",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "RR Naik",
+              "bowler": "SA Jumbe",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "RR Naik",
+              "bowler": "SA Jumbe",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "RR Naik",
+              "bowler": "K Juma",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "RR Naik",
+              "bowler": "K Juma",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "RR Naik",
+              "bowler": "K Juma",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "RR Naik",
+              "bowler": "K Juma",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "RR Naik",
+              "bowler": "K Juma",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "RR Naik",
+              "bowler": "K Juma",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "RR Naik",
+              "bowler": "K Juma",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "RR Naik",
+              "bowler": "SA Jumbe",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "RR Naik",
+              "bowler": "SA Jumbe",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "RR Naik",
+              "bowler": "SA Jumbe",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "RR Naik",
+              "bowler": "SA Jumbe",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "RR Naik",
+              "bowler": "SA Jumbe",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "RR Naik",
+              "bowler": "SA Jumbe",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Manpreet Singh",
+              "bowler": "LS Barkania",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Manpreet Singh",
+              "bowler": "LS Barkania",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Manpreet Singh",
+              "bowler": "LS Barkania",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Manpreet Singh",
+              "bowler": "LS Barkania",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Manpreet Singh",
+              "bowler": "LS Barkania",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "RR Naik",
+              "bowler": "LS Barkania",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Manpreet Singh",
+              "bowler": "Shaik Basha",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Manpreet Singh",
+              "bowler": "Shaik Basha",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Manpreet Singh",
+              "bowler": "Shaik Basha",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Manpreet Singh",
+              "bowler": "Shaik Basha",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Manpreet Singh",
+              "bowler": "Shaik Basha",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Manpreet Singh",
+              "bowler": "Shaik Basha",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Manpreet Singh",
+              "bowler": "LS Barkania",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Manpreet Singh",
+              "bowler": "LS Barkania",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Manpreet Singh",
+              "bowler": "LS Barkania",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "RR Naik",
+              "bowler": "LS Barkania",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "RR Naik",
+              "bowler": "LS Barkania",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Manpreet Singh",
+              "bowler": "LS Barkania",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "RR Naik",
+              "bowler": "Shaik Basha",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Manpreet Singh",
+              "bowler": "Shaik Basha",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Manpreet Singh",
+              "bowler": "Shaik Basha",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Manpreet Singh",
+              "bowler": "Shaik Basha",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Manpreet Singh",
+              "bowler": "Shaik Basha",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Manpreet Singh",
+              "bowler": "Shaik Basha",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Manpreet Singh",
+              "bowler": "LS Barkania",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "RR Naik",
+              "bowler": "LS Barkania",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "RR Naik",
+              "bowler": "LS Barkania",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "RR Naik",
+              "bowler": "LS Barkania",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "RR Naik",
+              "bowler": "LS Barkania",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "RR Naik",
+              "bowler": "LS Barkania",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "RR Naik",
+              "bowler": "Shaik Basha",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "RR Naik",
+              "bowler": "Shaik Basha",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "RR Naik",
+              "bowler": "Shaik Basha",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "RR Naik",
+              "bowler": "Shaik Basha",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Manpreet Singh",
+              "bowler": "Shaik Basha",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Manpreet Singh",
+              "bowler": "Shaik Basha",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "RR Naik",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Manpreet Singh",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "RR Naik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "RR Naik",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "RR Naik",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "RR Naik",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "RR Naik",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "Manpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RR Naik",
+                  "fielders": [
+                    {
+                      "name": "K Juma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Manpreet Singh",
+              "bowler": "Shaik Basha",
+              "non_striker": "Raheel Thakkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Manpreet Singh",
+              "bowler": "Shaik Basha",
+              "non_striker": "Raheel Thakkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Manpreet Singh",
+              "bowler": "Shaik Basha",
+              "non_striker": "Raheel Thakkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Manpreet Singh",
+                  "fielders": [
+                    {
+                      "name": "LS Barkania"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "C Sridev",
+              "bowler": "Shaik Basha",
+              "non_striker": "Raheel Thakkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "C Sridev",
+              "bowler": "Shaik Basha",
+              "non_striker": "Raheel Thakkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "C Sridev",
+              "bowler": "Shaik Basha",
+              "non_striker": "Raheel Thakkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Raheel Thakkar",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Raheel Thakkar",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Raheel Thakkar",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Raheel Thakkar",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Raheel Thakkar",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Raheel Thakkar",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "C Sridev",
+              "bowler": "Shaik Basha",
+              "non_striker": "Raheel Thakkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "C Sridev",
+              "bowler": "Shaik Basha",
+              "non_striker": "Raheel Thakkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "C Sridev",
+              "bowler": "Shaik Basha",
+              "non_striker": "Raheel Thakkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Raheel Thakkar",
+              "bowler": "Shaik Basha",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Raheel Thakkar",
+              "bowler": "Shaik Basha",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "C Sridev",
+              "bowler": "Shaik Basha",
+              "non_striker": "Raheel Thakkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Raheel Thakkar",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Raheel Thakkar",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Kabir Berlia",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Kabir Berlia",
+              "bowler": "Abhishek Kumar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Kabir Berlia",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "C Sridev",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "Kabir Berlia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "C Sridev",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "Kabir Berlia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "C Sridev",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "Kabir Berlia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "actual_delivery": "20.1",
+              "batter": "Kabir Berlia",
+              "bowler": "LS Barkania",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.2",
+              "batter": "Kabir Berlia",
+              "bowler": "LS Barkania",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.3",
+              "batter": "Kabir Berlia",
+              "bowler": "LS Barkania",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.4",
+              "batter": "Kabir Berlia",
+              "bowler": "LS Barkania",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.5",
+              "batter": "Kabir Berlia",
+              "bowler": "LS Barkania",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.6",
+              "batter": "Kabir Berlia",
+              "bowler": "LS Barkania",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "actual_delivery": "21.1",
+              "batter": "C Sridev",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "Kabir Berlia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.2",
+              "batter": "C Sridev",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "Kabir Berlia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.3",
+              "batter": "C Sridev",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "Kabir Berlia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.4",
+              "batter": "C Sridev",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "Kabir Berlia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.5",
+              "batter": "C Sridev",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "Kabir Berlia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.6",
+              "batter": "Kabir Berlia",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "actual_delivery": "22.1",
+              "batter": "C Sridev",
+              "bowler": "LS Barkania",
+              "non_striker": "Kabir Berlia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.2",
+              "batter": "C Sridev",
+              "bowler": "LS Barkania",
+              "non_striker": "Kabir Berlia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "22.3",
+              "batter": "C Sridev",
+              "bowler": "LS Barkania",
+              "non_striker": "Kabir Berlia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.4",
+              "batter": "Kabir Berlia",
+              "bowler": "LS Barkania",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kabir Berlia",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "22.5",
+              "batter": "Harman Singh",
+              "bowler": "LS Barkania",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.6",
+              "batter": "Harman Singh",
+              "bowler": "LS Barkania",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "actual_delivery": "23.1",
+              "batter": "C Sridev",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "Harman Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.2",
+              "batter": "Harman Singh",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.3",
+              "batter": "Harman Singh",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.4",
+              "batter": "Harman Singh",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.5",
+              "batter": "Harman Singh",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.6",
+              "batter": "Harman Singh",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "actual_delivery": "24.1",
+              "batter": "C Sridev",
+              "bowler": "LS Barkania",
+              "non_striker": "Harman Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.2",
+              "batter": "C Sridev",
+              "bowler": "LS Barkania",
+              "non_striker": "Harman Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.3",
+              "batter": "Harman Singh",
+              "bowler": "LS Barkania",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "24.4",
+              "batter": "C Sridev",
+              "bowler": "LS Barkania",
+              "non_striker": "Harman Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.5",
+              "batter": "C Sridev",
+              "bowler": "LS Barkania",
+              "non_striker": "Harman Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.6",
+              "batter": "C Sridev",
+              "bowler": "LS Barkania",
+              "non_striker": "Harman Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "actual_delivery": "25.1",
+              "batter": "C Sridev",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "Harman Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "25.2",
+              "batter": "C Sridev",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "Harman Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.3",
+              "batter": "Harman Singh",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.4",
+              "batter": "Harman Singh",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.5",
+              "batter": "Harman Singh",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Harman Singh",
+                  "fielders": [
+                    {
+                      "name": "LS Barkania"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "25.6",
+              "batter": "A Kessar",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "actual_delivery": "26.1",
+              "batter": "C Sridev",
+              "bowler": "LS Barkania",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Kessar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.1",
+              "batter": "C Sridev",
+              "bowler": "LS Barkania",
+              "non_striker": "A Kessar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.2",
+              "batter": "A Kessar",
+              "bowler": "LS Barkania",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.3",
+              "batter": "C Sridev",
+              "bowler": "LS Barkania",
+              "non_striker": "A Kessar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.4",
+              "batter": "C Sridev",
+              "bowler": "LS Barkania",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Kessar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.4",
+              "batter": "C Sridev",
+              "bowler": "LS Barkania",
+              "non_striker": "A Kessar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.5",
+              "batter": "C Sridev",
+              "bowler": "LS Barkania",
+              "non_striker": "A Kessar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.6",
+              "batter": "A Kessar",
+              "bowler": "LS Barkania",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "actual_delivery": "27.1",
+              "batter": "C Sridev",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "A Kessar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "27.2",
+              "batter": "C Sridev",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "A Kessar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.3",
+              "batter": "C Sridev",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "A Kessar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.4",
+              "batter": "C Sridev",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "A Kessar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.5",
+              "batter": "C Sridev",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "A Kessar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.6",
+              "batter": "C Sridev",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "A Kessar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "actual_delivery": "28.1",
+              "batter": "A Kessar",
+              "bowler": "Shaik Basha",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.2",
+              "batter": "A Kessar",
+              "bowler": "Shaik Basha",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "28.3",
+              "batter": "A Kessar",
+              "bowler": "Shaik Basha",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.4",
+              "batter": "A Kessar",
+              "bowler": "Shaik Basha",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.5",
+              "batter": "A Kessar",
+              "bowler": "Shaik Basha",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.6",
+              "batter": "C Sridev",
+              "bowler": "Shaik Basha",
+              "non_striker": "A Kessar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "actual_delivery": "29.1",
+              "batter": "A Kessar",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.2",
+              "batter": "A Kessar",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.3",
+              "batter": "A Kessar",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "29.4",
+              "batter": "A Kessar",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Kessar",
+                  "fielders": [
+                    {
+                      "name": "DA Mehta"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "29.5",
+              "batter": "Umair Aftab",
+              "bowler": "Abhishek Kumar",
+              "non_striker": "C Sridev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Umair Aftab",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 29.5,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Tanzania",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "DA Mehta",
+              "bowler": "Harman Singh",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "DA Mehta",
+              "bowler": "Harman Singh",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "DA Mehta",
+              "bowler": "Harman Singh",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "DA Mehta",
+              "bowler": "Harman Singh",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "DA Mehta",
+              "bowler": "Harman Singh",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "DA Mehta",
+              "bowler": "Harman Singh",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "II Selemani",
+              "bowler": "Manpreet Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "II Selemani",
+              "bowler": "Manpreet Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "II Selemani",
+              "bowler": "Manpreet Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "DA Mehta",
+              "bowler": "Manpreet Singh",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "DA Mehta",
+              "bowler": "Manpreet Singh",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "DA Mehta",
+              "bowler": "Manpreet Singh",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "DA Mehta",
+              "bowler": "Harman Singh",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "II Selemani",
+              "bowler": "Harman Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "II Selemani",
+              "bowler": "Harman Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "II Selemani",
+              "bowler": "Harman Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "II Selemani",
+              "bowler": "Harman Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "DA Mehta",
+              "bowler": "Harman Singh",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "II Selemani",
+              "bowler": "Manpreet Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "II Selemani",
+              "bowler": "Manpreet Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "II Selemani",
+              "bowler": "Manpreet Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "II Selemani",
+              "bowler": "Manpreet Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "DA Mehta",
+              "bowler": "Manpreet Singh",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "DA Mehta",
+              "bowler": "Manpreet Singh",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "DA Mehta",
+              "bowler": "Manpreet Singh",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "II Selemani",
+              "bowler": "Harman Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "DA Mehta",
+              "bowler": "Harman Singh",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "II Selemani",
+              "bowler": "Harman Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "II Selemani",
+              "bowler": "Harman Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "II Selemani",
+              "bowler": "Harman Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "II Selemani",
+              "bowler": "Harman Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "II Selemani",
+              "bowler": "Manpreet Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "II Selemani",
+              "bowler": "Manpreet Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "II Selemani",
+              "bowler": "Manpreet Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "II Selemani",
+              "bowler": "Manpreet Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "II Selemani",
+              "bowler": "Manpreet Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "II Selemani",
+              "bowler": "Manpreet Singh",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "II Selemani",
+              "bowler": "Manpreet Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "II Selemani",
+              "bowler": "Harman Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "II Selemani",
+              "bowler": "Harman Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "II Selemani",
+              "bowler": "Harman Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "II Selemani",
+              "bowler": "Harman Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "II Selemani",
+              "bowler": "Harman Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "II Selemani",
+              "bowler": "Harman Singh",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "DA Mehta",
+              "bowler": "C Sridev",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "DA Mehta",
+              "bowler": "C Sridev",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "DA Mehta",
+              "bowler": "C Sridev",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "DA Mehta",
+              "bowler": "C Sridev",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "II Selemani",
+              "bowler": "C Sridev",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "II Selemani",
+              "bowler": "C Sridev",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "DA Mehta",
+              "bowler": "S Gulecha",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "DA Mehta",
+              "bowler": "S Gulecha",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "II Selemani",
+              "bowler": "S Gulecha",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "II Selemani",
+              "bowler": "S Gulecha",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "II Selemani",
+              "bowler": "S Gulecha",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "II Selemani",
+              "bowler": "S Gulecha",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "II Selemani",
+              "bowler": "S Gulecha",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "DA Mehta",
+              "bowler": "C Sridev",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "II Selemani",
+              "bowler": "C Sridev",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "II Selemani",
+              "bowler": "C Sridev",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "DA Mehta",
+              "bowler": "C Sridev",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "II Selemani",
+              "bowler": "C Sridev",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "II Selemani",
+              "bowler": "C Sridev",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "II Selemani",
+              "bowler": "S Gulecha",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "II Selemani",
+              "bowler": "S Gulecha",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "II Selemani",
+              "bowler": "S Gulecha",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "II Selemani",
+              "bowler": "S Gulecha",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "II Selemani",
+              "bowler": "S Gulecha",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "II Selemani",
+              "bowler": "S Gulecha",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "DA Mehta",
+              "bowler": "Umair Aftab",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "II Selemani",
+              "bowler": "Umair Aftab",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "II Selemani",
+              "bowler": "Umair Aftab",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "II Selemani",
+              "bowler": "Umair Aftab",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "II Selemani",
+              "bowler": "Umair Aftab",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "II Selemani",
+              "bowler": "Umair Aftab",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "DA Mehta",
+              "bowler": "Umair Aftab",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "DA Mehta",
+              "bowler": "Umair Aftab",
+              "non_striker": "II Selemani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "II Selemani",
+              "bowler": "Kabir Berlia",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "II Selemani",
+                  "fielders": [
+                    {
+                      "name": "Raheel Thakkar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Arun Yadav",
+              "bowler": "Kabir Berlia",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Arun Yadav",
+              "bowler": "Kabir Berlia",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "DA Mehta",
+              "bowler": "Kabir Berlia",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "DA Mehta",
+              "bowler": "Kabir Berlia",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "DA Mehta",
+              "bowler": "Kabir Berlia",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "DA Mehta",
+              "bowler": "Umair Aftab",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "DA Mehta",
+              "bowler": "Umair Aftab",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "DA Mehta",
+              "bowler": "Umair Aftab",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "DA Mehta",
+              "bowler": "Umair Aftab",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "DA Mehta",
+              "bowler": "Umair Aftab",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "DA Mehta",
+              "bowler": "Umair Aftab",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Arun Yadav",
+              "bowler": "Kabir Berlia",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Arun Yadav",
+              "bowler": "Kabir Berlia",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "DA Mehta",
+              "bowler": "Kabir Berlia",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "DA Mehta",
+              "bowler": "Kabir Berlia",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "DA Mehta",
+              "bowler": "Kabir Berlia",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "DA Mehta",
+              "bowler": "Kabir Berlia",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "DA Mehta",
+              "bowler": "Umair Aftab",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Arun Yadav",
+              "bowler": "Umair Aftab",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Arun Yadav",
+              "bowler": "Umair Aftab",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Arun Yadav",
+              "bowler": "Umair Aftab",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Arun Yadav",
+              "bowler": "Umair Aftab",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Arun Yadav",
+              "bowler": "Umair Aftab",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "DA Mehta",
+              "bowler": "Kabir Berlia",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "DA Mehta",
+              "bowler": "Kabir Berlia",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "DA Mehta",
+              "bowler": "Kabir Berlia",
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "DA Mehta",
+              "bowler": "Kabir Berlia",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Arun Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Arun Yadav",
+              "bowler": "Kabir Berlia",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Arun Yadav",
+              "bowler": "Kabir Berlia",
+              "non_striker": "DA Mehta",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 16.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 104
+      }
+    }
+  ]
+}

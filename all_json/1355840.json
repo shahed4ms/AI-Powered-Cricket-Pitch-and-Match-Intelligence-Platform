@@ -1,0 +1,1816 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2023-02-14",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Phnom Penh",
+    "dates": [
+      "2023-02-11"
+    ],
+    "event": {
+      "name": "Singapore Women tour of Cambodia",
+      "match_number": 4
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 1355,
+    "officials": {
+      "umpires": [
+        "PK Singh",
+        "Prasad Anish"
+      ]
+    },
+    "outcome": {
+      "winner": "Singapore",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "H Dhavina"
+    ],
+    "players": {
+      "Cambodia": [
+        "Hor Siv na",
+        "Dok Da Nit",
+        "Pen Samon",
+        "LY Loch Srey",
+        "Pech Pisa",
+        "Sean Chan Boromey",
+        "Ly Saomakara",
+        "Ouen Sophy",
+        "Phoup Srey Pheak",
+        "Heal Theara",
+        "Sok Srey Maov"
+      ],
+      "Singapore": [
+        "DA Galia",
+        "Vathana Sreemurugavel",
+        "Shafina Mahesh",
+        "H Dhavina",
+        "GK Diviya",
+        "JS Pooranakaran",
+        "JT Pooranakaran",
+        "NL Jacinta Si Ping",
+        "Vinu Kumar",
+        "Riyaa Bhasin",
+        "Damini Ramesh"
+      ]
+    },
+    "registry": {
+      "people": {
+        "DA Galia": "ae0b5b95",
+        "Damini Ramesh": "c4480b25",
+        "Dok Da Nit": "d6ca2714",
+        "GK Diviya": "992979fa",
+        "H Dhavina": "cd12f384",
+        "Heal Theara": "aae7b7f0",
+        "Hor Siv na": "05d1964e",
+        "JS Pooranakaran": "417bde96",
+        "JT Pooranakaran": "3a743619",
+        "LY Loch Srey": "a994e18f",
+        "Ly Saomakara": "a9668b5f",
+        "NL Jacinta Si Ping": "68c9a36f",
+        "Ouen Sophy": "4477b556",
+        "PK Singh": "4bf8dd40",
+        "Pech Pisa": "c7eb3b9c",
+        "Pen Samon": "caa4444c",
+        "Phoup Srey Pheak": "8c73dff5",
+        "Prasad Anish": "a21d62c9",
+        "Riyaa Bhasin": "3ff26cea",
+        "Sean Chan Boromey": "4c84d883",
+        "Shafina Mahesh": "0c40b02d",
+        "Sok Srey Maov": "c5e3fe3c",
+        "Vathana Sreemurugavel": "eb2d1983",
+        "Vinu Kumar": "3775b9f9"
+      }
+    },
+    "season": "2022/23",
+    "team_type": "international",
+    "teams": [
+      "Cambodia",
+      "Singapore"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Singapore"
+    },
+    "venue": "Morodok Techo National Stadium"
+  },
+  "innings": [
+    {
+      "team": "Cambodia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Hor Siv na",
+              "bowler": "GK Diviya",
+              "non_striker": "Dok Da Nit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Hor Siv na",
+              "bowler": "GK Diviya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Dok Da Nit",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Hor Siv na",
+              "bowler": "GK Diviya",
+              "non_striker": "Dok Da Nit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Dok Da Nit",
+              "bowler": "GK Diviya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Hor Siv na",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Dok Da Nit",
+              "bowler": "GK Diviya",
+              "non_striker": "Hor Siv na",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Dok Da Nit",
+              "bowler": "GK Diviya",
+              "non_striker": "Hor Siv na",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Hor Siv na",
+              "bowler": "GK Diviya",
+              "non_striker": "Dok Da Nit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Hor Siv na",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Pen Samon",
+              "bowler": "GK Diviya",
+              "non_striker": "Dok Da Nit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Dok Da Nit",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Pen Samon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Dok Da Nit",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Pen Samon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Dok Da Nit",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Pen Samon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Dok Da Nit",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Pen Samon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Dok Da Nit",
+              "bowler": "Shafina Mahesh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Pen Samon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Dok Da Nit",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Pen Samon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Dok Da Nit",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Pen Samon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Pen Samon",
+              "bowler": "GK Diviya",
+              "non_striker": "Dok Da Nit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Pen Samon",
+              "bowler": "GK Diviya",
+              "non_striker": "Dok Da Nit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Pen Samon",
+              "bowler": "GK Diviya",
+              "non_striker": "Dok Da Nit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Pen Samon",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "LY Loch Srey",
+              "bowler": "GK Diviya",
+              "non_striker": "Dok Da Nit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "LY Loch Srey",
+              "bowler": "GK Diviya",
+              "non_striker": "Dok Da Nit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Dok Da Nit",
+              "bowler": "GK Diviya",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "LY Loch Srey",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "Dok Da Nit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Dok Da Nit",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Dok Da Nit",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Pech Pisa",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Pech Pisa",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Pech Pisa",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Pech Pisa",
+                  "fielders": [
+                    {
+                      "name": "JS Pooranakaran"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Sean Chan Boromey",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "LY Loch Srey",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Sean Chan Boromey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "LY Loch Srey",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Sean Chan Boromey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "LY Loch Srey",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Sean Chan Boromey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "LY Loch Srey",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Sean Chan Boromey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "LY Loch Srey",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Sean Chan Boromey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "LY Loch Srey",
+              "bowler": "Vinu Kumar",
+              "non_striker": "Sean Chan Boromey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Sean Chan Boromey",
+              "bowler": "Riyaa Bhasin",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sean Chan Boromey",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Ly Saomakara",
+              "bowler": "Riyaa Bhasin",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Ly Saomakara",
+              "bowler": "Riyaa Bhasin",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ly Saomakara",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Ouen Sophy",
+              "bowler": "Riyaa Bhasin",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Ouen Sophy",
+              "bowler": "Riyaa Bhasin",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Ouen Sophy",
+              "bowler": "Riyaa Bhasin",
+              "non_striker": "LY Loch Srey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "LY Loch Srey",
+              "bowler": "H Dhavina",
+              "non_striker": "Ouen Sophy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LY Loch Srey",
+                  "fielders": [
+                    {
+                      "name": "JS Pooranakaran"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Phoup Srey Pheak",
+              "bowler": "H Dhavina",
+              "non_striker": "Ouen Sophy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Phoup Srey Pheak",
+              "bowler": "H Dhavina",
+              "non_striker": "Ouen Sophy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Phoup Srey Pheak",
+              "bowler": "H Dhavina",
+              "non_striker": "Ouen Sophy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Phoup Srey Pheak",
+              "bowler": "H Dhavina",
+              "non_striker": "Ouen Sophy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Phoup Srey Pheak",
+              "bowler": "H Dhavina",
+              "non_striker": "Ouen Sophy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Ouen Sophy",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "Phoup Srey Pheak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Phoup Srey Pheak",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "Ouen Sophy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Phoup Srey Pheak",
+              "bowler": "JS Pooranakaran",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Ouen Sophy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Phoup Srey Pheak",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "Ouen Sophy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Ouen Sophy",
+              "bowler": "JS Pooranakaran",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Phoup Srey Pheak",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Phoup Srey Pheak",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "Ouen Sophy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Phoup Srey Pheak",
+              "bowler": "JS Pooranakaran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ouen Sophy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Phoup Srey Pheak",
+              "bowler": "JS Pooranakaran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ouen Sophy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Phoup Srey Pheak",
+              "bowler": "JS Pooranakaran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ouen Sophy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Phoup Srey Pheak",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "Ouen Sophy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Phoup Srey Pheak",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Heal Theara",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "Ouen Sophy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Ouen Sophy",
+              "bowler": "H Dhavina",
+              "non_striker": "Heal Theara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Ouen Sophy",
+              "bowler": "H Dhavina",
+              "non_striker": "Heal Theara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Ouen Sophy",
+              "bowler": "H Dhavina",
+              "non_striker": "Heal Theara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Ouen Sophy",
+              "bowler": "H Dhavina",
+              "non_striker": "Heal Theara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Heal Theara",
+              "bowler": "H Dhavina",
+              "non_striker": "Ouen Sophy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Heal Theara",
+              "bowler": "H Dhavina",
+              "non_striker": "Ouen Sophy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Ouen Sophy",
+              "bowler": "JS Pooranakaran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Heal Theara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.1",
+              "batter": "Ouen Sophy",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "Heal Theara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Ouen Sophy",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "Heal Theara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Ouen Sophy",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "Heal Theara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ouen Sophy",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Sok Srey Maov",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "Heal Theara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Sok Srey Maov",
+              "bowler": "JS Pooranakaran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Heal Theara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Sok Srey Maov",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "Heal Theara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Sok Srey Maov",
+              "bowler": "JS Pooranakaran",
+              "non_striker": "Heal Theara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Heal Theara",
+              "bowler": "Damini Ramesh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sok Srey Maov",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.1",
+              "batter": "Heal Theara",
+              "bowler": "Damini Ramesh",
+              "non_striker": "Sok Srey Maov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Heal Theara",
+              "bowler": "Damini Ramesh",
+              "non_striker": "Sok Srey Maov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Heal Theara",
+              "bowler": "Damini Ramesh",
+              "non_striker": "Sok Srey Maov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Heal Theara",
+              "bowler": "Damini Ramesh",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Sok Srey Maov",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Heal Theara",
+              "bowler": "Damini Ramesh",
+              "non_striker": "Sok Srey Maov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Heal Theara",
+              "bowler": "Damini Ramesh",
+              "non_striker": "Sok Srey Maov",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Sok Srey Maov",
+              "bowler": "Damini Ramesh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Heal Theara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Sok Srey Maov",
+              "bowler": "Damini Ramesh",
+              "non_striker": "Heal Theara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Heal Theara",
+              "bowler": "H Dhavina",
+              "non_striker": "Sok Srey Maov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Heal Theara",
+              "bowler": "H Dhavina",
+              "non_striker": "Sok Srey Maov",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Heal Theara",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Singapore",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "DA Galia",
+              "bowler": "LY Loch Srey",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "DA Galia",
+              "bowler": "LY Loch Srey",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "DA Galia",
+              "bowler": "LY Loch Srey",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "DA Galia",
+              "bowler": "LY Loch Srey",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "DA Galia",
+              "bowler": "LY Loch Srey",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "DA Galia",
+              "bowler": "LY Loch Srey",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "DA Galia",
+              "bowler": "LY Loch Srey",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "DA Galia",
+              "bowler": "LY Loch Srey",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "DA Galia",
+              "bowler": "LY Loch Srey",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "LY Loch Srey",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "LY Loch Srey",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "LY Loch Srey",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "LY Loch Srey",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "DA Galia",
+              "bowler": "Phoup Srey Pheak",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.1",
+              "batter": "DA Galia",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "DA Galia",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "DA Galia",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "Phoup Srey Pheak",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "DA Galia",
+              "bowler": "Phoup Srey Pheak",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "DA Galia",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "DA Galia",
+              "bowler": "Phoup Srey Pheak",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "DA Galia",
+              "bowler": "LY Loch Srey",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "DA Galia",
+              "bowler": "LY Loch Srey",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "LY Loch Srey",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "LY Loch Srey",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "LY Loch Srey",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "LY Loch Srey",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "DA Galia",
+              "bowler": "Sok Srey Maov",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "DA Galia",
+              "bowler": "Sok Srey Maov",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "DA Galia",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "DA Galia",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "DA Galia",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "DA Galia",
+              "bowler": "Sok Srey Maov",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "DA Galia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "DA Galia",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "DA Galia",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "DA Galia",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "DA Galia",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "DA Galia",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DA Galia",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Shafina Mahesh",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Vathana Sreemurugavel",
+              "bowler": "Sok Srey Maov",
+              "non_striker": "Shafina Mahesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Shafina Mahesh",
+              "bowler": "Phoup Srey Pheak",
+              "non_striker": "Vathana Sreemurugavel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 27
+      }
+    }
+  ]
+}

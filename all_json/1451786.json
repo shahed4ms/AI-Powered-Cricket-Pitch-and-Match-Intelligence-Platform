@@ -1,0 +1,6514 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2024-10-10",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Nairobi",
+    "dates": [
+      "2024-10-04"
+    ],
+    "event": {
+      "name": "CWC Challenge League",
+      "match_number": 12
+    },
+    "gender": "male",
+    "match_type": "ODM",
+    "officials": {
+      "match_referees": [
+        "GF Labrooy"
+      ],
+      "reserve_umpires": [
+        "IO Oyieko"
+      ],
+      "umpires": [
+        "Akbar Ali",
+        "R D'Mello"
+      ]
+    },
+    "outcome": {
+      "winner": "Kenya",
+      "by": {
+        "wickets": 3
+      }
+    },
+    "overs": 50,
+    "player_of_match": [
+      "RN Patel"
+    ],
+    "players": {
+      "Qatar": [
+        "Kamran Khan",
+        "I Liyanage",
+        "Shakkir Kassim",
+        "Ikramullah Khan",
+        "Muhammad Tanveer",
+        "Tamoor Sajjad",
+        "Zaheer Ibrahim",
+        "Assad Borham",
+        "Amir Farooq",
+        "Mohammed Nadeem",
+        "Muhammad Jabir"
+      ],
+      "Kenya": [
+        "P Sharma",
+        "DM Gondaria",
+        "RN Patel",
+        "IA Karim",
+        "SR Bhudia",
+        "RR Patel",
+        "S Gill",
+        "SO Ngoche",
+        "LN Oluoch",
+        "Vraj Patel",
+        "GM Muthui"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Akbar Ali": "e753931d",
+        "Amir Farooq": "6e991bd4",
+        "Assad Borham": "219a417a",
+        "DM Gondaria": "9048c17e",
+        "GF Labrooy": "8e088dbc",
+        "GM Muthui": "d7e51f87",
+        "I Liyanage": "826e1017",
+        "IA Karim": "ca92a578",
+        "IO Oyieko": "de4828fa",
+        "Ikramullah Khan": "c6e1354c",
+        "Kamran Khan": "922e3dcc",
+        "LN Oluoch": "eb4f9c61",
+        "Mohammed Nadeem": "856cbb1e",
+        "Muhammad Jabir": "b67af1c4",
+        "Muhammad Tanveer": "aef39fe4",
+        "P Sharma": "d047f983",
+        "R D'Mello": "f3c22863",
+        "RN Patel": "db1bf9c2",
+        "RR Patel": "7fa6bd8e",
+        "S Gill": "3e6e9a5f",
+        "SO Ngoche": "49118dc7",
+        "SR Bhudia": "e9173fb0",
+        "Shakkir Kassim": "2d4d282d",
+        "Tamoor Sajjad": "7bb926a7",
+        "Vraj Patel": "2af28253",
+        "Zaheer Ibrahim": "d754fde8"
+      }
+    },
+    "season": "2024",
+    "team_type": "international",
+    "teams": [
+      "Qatar",
+      "Kenya"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Qatar"
+    },
+    "venue": "Gymkhana Club Ground, Nairobi"
+  },
+  "innings": [
+    {
+      "team": "Qatar",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Kamran Khan",
+              "bowler": "S Gill",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "Kamran Khan",
+              "bowler": "S Gill",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Kamran Khan",
+              "bowler": "S Gill",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Kamran Khan",
+              "bowler": "S Gill",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Kamran Khan",
+              "bowler": "S Gill",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Kamran Khan",
+              "bowler": "S Gill",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Kamran Khan",
+              "bowler": "S Gill",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "I Liyanage",
+              "bowler": "GM Muthui",
+              "non_striker": "Kamran Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "I Liyanage",
+              "bowler": "GM Muthui",
+              "non_striker": "Kamran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "I Liyanage",
+              "bowler": "GM Muthui",
+              "non_striker": "Kamran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "I Liyanage",
+              "bowler": "GM Muthui",
+              "non_striker": "Kamran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "I Liyanage",
+              "bowler": "GM Muthui",
+              "non_striker": "Kamran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "I Liyanage",
+              "bowler": "GM Muthui",
+              "non_striker": "Kamran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Kamran Khan",
+              "bowler": "S Gill",
+              "non_striker": "I Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "I Liyanage",
+              "bowler": "S Gill",
+              "non_striker": "Kamran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "I Liyanage",
+              "bowler": "S Gill",
+              "non_striker": "Kamran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "I Liyanage",
+              "bowler": "S Gill",
+              "non_striker": "Kamran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Liyanage",
+                  "kind": "handled the ball"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Shakkir Kassim",
+              "bowler": "S Gill",
+              "non_striker": "Kamran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Shakkir Kassim",
+              "bowler": "S Gill",
+              "non_striker": "Kamran Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Kamran Khan",
+              "bowler": "GM Muthui",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Kamran Khan",
+              "bowler": "GM Muthui",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kamran Khan",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Ikramullah Khan",
+              "bowler": "GM Muthui",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Shakkir Kassim",
+              "bowler": "GM Muthui",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Ikramullah Khan",
+              "bowler": "GM Muthui",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Ikramullah Khan",
+              "bowler": "GM Muthui",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Shakkir Kassim",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Ikramullah Khan",
+              "bowler": "S Gill",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Ikramullah Khan",
+              "bowler": "S Gill",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Shakkir Kassim",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Shakkir Kassim",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Shakkir Kassim",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Ikramullah Khan",
+              "bowler": "GM Muthui",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Ikramullah Khan",
+              "bowler": "GM Muthui",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Ikramullah Khan",
+              "bowler": "GM Muthui",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Ikramullah Khan",
+              "bowler": "GM Muthui",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Ikramullah Khan",
+              "bowler": "GM Muthui",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Ikramullah Khan",
+              "bowler": "GM Muthui",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Shakkir Kassim",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Shakkir Kassim",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Shakkir Kassim",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Shakkir Kassim",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Shakkir Kassim",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Shakkir Kassim",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Ikramullah Khan",
+              "bowler": "GM Muthui",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Ikramullah Khan",
+              "bowler": "GM Muthui",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Ikramullah Khan",
+              "bowler": "GM Muthui",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Ikramullah Khan",
+              "bowler": "GM Muthui",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Ikramullah Khan",
+              "bowler": "GM Muthui",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Ikramullah Khan",
+              "bowler": "GM Muthui",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Shakkir Kassim",
+              "bowler": "LN Oluoch",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Ikramullah Khan",
+              "bowler": "LN Oluoch",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Ikramullah Khan",
+              "bowler": "LN Oluoch",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Ikramullah Khan",
+              "bowler": "LN Oluoch",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Ikramullah Khan",
+              "bowler": "LN Oluoch",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Ikramullah Khan",
+              "bowler": "LN Oluoch",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.1",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Shakkir Kassim",
+              "bowler": "LN Oluoch",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.1",
+              "batter": "Shakkir Kassim",
+              "bowler": "LN Oluoch",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Shakkir Kassim",
+              "bowler": "LN Oluoch",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Ikramullah Khan",
+              "bowler": "LN Oluoch",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Ikramullah Khan",
+              "bowler": "LN Oluoch",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Ikramullah Khan",
+              "bowler": "LN Oluoch",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Shakkir Kassim",
+              "bowler": "LN Oluoch",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 5,
+                "extras": 0,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Shakkir Kassim",
+              "bowler": "SO Ngoche",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Shakkir Kassim",
+              "bowler": "SO Ngoche",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Shakkir Kassim",
+              "bowler": "SO Ngoche",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Shakkir Kassim",
+              "bowler": "SO Ngoche",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Shakkir Kassim",
+              "bowler": "SO Ngoche",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Ikramullah Khan",
+              "bowler": "LN Oluoch",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Ikramullah Khan",
+              "bowler": "LN Oluoch",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Ikramullah Khan",
+              "bowler": "LN Oluoch",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Ikramullah Khan",
+              "bowler": "LN Oluoch",
+              "non_striker": "Shakkir Kassim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Shakkir Kassim",
+              "bowler": "LN Oluoch",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shakkir Kassim",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Muhammad Tanveer",
+              "bowler": "LN Oluoch",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Muhammad Tanveer",
+              "bowler": "LN Oluoch",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Ikramullah Khan",
+              "bowler": "LN Oluoch",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Muhammad Tanveer",
+              "bowler": "LN Oluoch",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Muhammad Tanveer",
+              "bowler": "LN Oluoch",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Muhammad Tanveer",
+              "bowler": "LN Oluoch",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Muhammad Tanveer",
+              "bowler": "LN Oluoch",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Muhammad Tanveer",
+              "bowler": "LN Oluoch",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Muhammad Tanveer",
+              "bowler": "SO Ngoche",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Muhammad Tanveer",
+              "bowler": "SO Ngoche",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Muhammad Tanveer",
+              "bowler": "SO Ngoche",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Muhammad Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Muhammad Tanveer",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Muhammad Tanveer",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Muhammad Tanveer",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Tanveer",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Tamoor Sajjad",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Tamoor Sajjad",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Zaheer Ibrahim",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Zaheer Ibrahim",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Zaheer Ibrahim",
+              "bowler": "SO Ngoche",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Zaheer Ibrahim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Zaheer Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Zaheer Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Zaheer Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Ikramullah Khan",
+              "bowler": "SO Ngoche",
+              "non_striker": "Zaheer Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Zaheer Ibrahim",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Zaheer Ibrahim",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Ikramullah Khan",
+              "bowler": "S Gill",
+              "non_striker": "Zaheer Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Ikramullah Khan",
+              "bowler": "S Gill",
+              "non_striker": "Zaheer Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Ikramullah Khan",
+              "bowler": "S Gill",
+              "non_striker": "Zaheer Ibrahim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Ikramullah Khan",
+              "bowler": "S Gill",
+              "non_striker": "Zaheer Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Zaheer Ibrahim",
+              "bowler": "Vraj Patel",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Zaheer Ibrahim",
+              "bowler": "Vraj Patel",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Ikramullah Khan",
+              "bowler": "Vraj Patel",
+              "non_striker": "Zaheer Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Ikramullah Khan",
+              "bowler": "Vraj Patel",
+              "non_striker": "Zaheer Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Ikramullah Khan",
+              "bowler": "Vraj Patel",
+              "non_striker": "Zaheer Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Ikramullah Khan",
+              "bowler": "Vraj Patel",
+              "non_striker": "Zaheer Ibrahim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "actual_delivery": "20.1",
+              "batter": "Zaheer Ibrahim",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.2",
+              "batter": "Zaheer Ibrahim",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.3",
+              "batter": "Zaheer Ibrahim",
+              "bowler": "S Gill",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "20.4",
+              "batter": "Ikramullah Khan",
+              "bowler": "S Gill",
+              "non_striker": "Zaheer Ibrahim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "20.5",
+              "batter": "Ikramullah Khan",
+              "bowler": "S Gill",
+              "non_striker": "Zaheer Ibrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.6",
+              "batter": "Ikramullah Khan",
+              "bowler": "S Gill",
+              "non_striker": "Zaheer Ibrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "actual_delivery": "21.1",
+              "batter": "Ikramullah Khan",
+              "bowler": "Vraj Patel",
+              "non_striker": "Zaheer Ibrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.2",
+              "batter": "Zaheer Ibrahim",
+              "bowler": "Vraj Patel",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.3",
+              "batter": "Zaheer Ibrahim",
+              "bowler": "Vraj Patel",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.4",
+              "batter": "Zaheer Ibrahim",
+              "bowler": "Vraj Patel",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zaheer Ibrahim",
+                  "fielders": [
+                    {
+                      "name": "RR Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "21.5",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.6",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "actual_delivery": "22.1",
+              "batter": "Ikramullah Khan",
+              "bowler": "GM Muthui",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.2",
+              "batter": "Ikramullah Khan",
+              "bowler": "GM Muthui",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.3",
+              "batter": "Ikramullah Khan",
+              "bowler": "GM Muthui",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.4",
+              "batter": "Assad Borham",
+              "bowler": "GM Muthui",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.5",
+              "batter": "Assad Borham",
+              "bowler": "GM Muthui",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.6",
+              "batter": "Assad Borham",
+              "bowler": "GM Muthui",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "actual_delivery": "23.1",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.2",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "23.3",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.4",
+              "batter": "Ikramullah Khan",
+              "bowler": "Vraj Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.5",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.6",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Ikramullah Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "actual_delivery": "24.1",
+              "batter": "Ikramullah Khan",
+              "bowler": "GM Muthui",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ikramullah Khan",
+                  "fielders": [
+                    {
+                      "name": "IA Karim"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "24.2",
+              "batter": "Amir Farooq",
+              "bowler": "GM Muthui",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.3",
+              "batter": "Assad Borham",
+              "bowler": "GM Muthui",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.4",
+              "batter": "Assad Borham",
+              "bowler": "GM Muthui",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.5",
+              "batter": "Assad Borham",
+              "bowler": "GM Muthui",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.6",
+              "batter": "Assad Borham",
+              "bowler": "GM Muthui",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "actual_delivery": "25.1",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.2",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.3",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.4",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.5",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.6",
+              "batter": "Amir Farooq",
+              "bowler": "Vraj Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "actual_delivery": "26.1",
+              "batter": "Amir Farooq",
+              "bowler": "LN Oluoch",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.2",
+              "batter": "Amir Farooq",
+              "bowler": "LN Oluoch",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.3",
+              "batter": "Amir Farooq",
+              "bowler": "LN Oluoch",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.4",
+              "batter": "Amir Farooq",
+              "bowler": "LN Oluoch",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.5",
+              "batter": "Assad Borham",
+              "bowler": "LN Oluoch",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.6",
+              "batter": "Amir Farooq",
+              "bowler": "LN Oluoch",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "actual_delivery": "27.1",
+              "batter": "Amir Farooq",
+              "bowler": "SO Ngoche",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.2",
+              "batter": "Amir Farooq",
+              "bowler": "SO Ngoche",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.3",
+              "batter": "Amir Farooq",
+              "bowler": "SO Ngoche",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "27.4",
+              "batter": "Amir Farooq",
+              "bowler": "SO Ngoche",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.5",
+              "batter": "Amir Farooq",
+              "bowler": "SO Ngoche",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.6",
+              "batter": "Amir Farooq",
+              "bowler": "SO Ngoche",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "actual_delivery": "28.1",
+              "batter": "Assad Borham",
+              "bowler": "LN Oluoch",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.2",
+              "batter": "Assad Borham",
+              "bowler": "LN Oluoch",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.3",
+              "batter": "Assad Borham",
+              "bowler": "LN Oluoch",
+              "extras": {
+                "legbyes": 5
+              },
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "28.4",
+              "batter": "Amir Farooq",
+              "bowler": "LN Oluoch",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.5",
+              "batter": "Amir Farooq",
+              "bowler": "LN Oluoch",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.5",
+              "batter": "Amir Farooq",
+              "bowler": "LN Oluoch",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.6",
+              "batter": "Amir Farooq",
+              "bowler": "LN Oluoch",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "actual_delivery": "29.1",
+              "batter": "Assad Borham",
+              "bowler": "SO Ngoche",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.2",
+              "batter": "Assad Borham",
+              "bowler": "SO Ngoche",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.3",
+              "batter": "Assad Borham",
+              "bowler": "SO Ngoche",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.4",
+              "batter": "Assad Borham",
+              "bowler": "SO Ngoche",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.5",
+              "batter": "Assad Borham",
+              "bowler": "SO Ngoche",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.6",
+              "batter": "Assad Borham",
+              "bowler": "SO Ngoche",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "actual_delivery": "30.1",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.2",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.3",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.4",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.5",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.6",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.6",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "actual_delivery": "31.1",
+              "batter": "Amir Farooq",
+              "bowler": "SO Ngoche",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.2",
+              "batter": "Amir Farooq",
+              "bowler": "SO Ngoche",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.3",
+              "batter": "Amir Farooq",
+              "bowler": "SO Ngoche",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "31.4",
+              "batter": "Assad Borham",
+              "bowler": "SO Ngoche",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.5",
+              "batter": "Assad Borham",
+              "bowler": "SO Ngoche",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.6",
+              "batter": "Assad Borham",
+              "bowler": "SO Ngoche",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "actual_delivery": "32.1",
+              "batter": "Amir Farooq",
+              "bowler": "RR Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.2",
+              "batter": "Assad Borham",
+              "bowler": "RR Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.3",
+              "batter": "Amir Farooq",
+              "bowler": "RR Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "32.4",
+              "batter": "Amir Farooq",
+              "bowler": "RR Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.5",
+              "batter": "Assad Borham",
+              "bowler": "RR Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.6",
+              "batter": "Assad Borham",
+              "bowler": "RR Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "actual_delivery": "33.1",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.2",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.3",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.4",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.5",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "33.6",
+              "batter": "Amir Farooq",
+              "bowler": "Vraj Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "actual_delivery": "34.1",
+              "batter": "Assad Borham",
+              "bowler": "RR Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "34.2",
+              "batter": "Amir Farooq",
+              "bowler": "RR Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "34.3",
+              "batter": "Assad Borham",
+              "bowler": "RR Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "34.4",
+              "batter": "Amir Farooq",
+              "bowler": "RR Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "34.5",
+              "batter": "Assad Borham",
+              "bowler": "RR Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.6",
+              "batter": "Assad Borham",
+              "bowler": "RR Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "actual_delivery": "35.1",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "35.2",
+              "batter": "Amir Farooq",
+              "bowler": "Vraj Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.3",
+              "batter": "Amir Farooq",
+              "bowler": "Vraj Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.4",
+              "batter": "Amir Farooq",
+              "bowler": "Vraj Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.5",
+              "batter": "Amir Farooq",
+              "bowler": "Vraj Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.6",
+              "batter": "Amir Farooq",
+              "bowler": "Vraj Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "actual_delivery": "36.1",
+              "batter": "Assad Borham",
+              "bowler": "SO Ngoche",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.2",
+              "batter": "Assad Borham",
+              "bowler": "SO Ngoche",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.3",
+              "batter": "Assad Borham",
+              "bowler": "SO Ngoche",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.4",
+              "batter": "Assad Borham",
+              "bowler": "SO Ngoche",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.5",
+              "batter": "Assad Borham",
+              "bowler": "SO Ngoche",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.6",
+              "batter": "Assad Borham",
+              "bowler": "SO Ngoche",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "actual_delivery": "37.1",
+              "batter": "Amir Farooq",
+              "bowler": "Vraj Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.2",
+              "batter": "Amir Farooq",
+              "bowler": "Vraj Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.3",
+              "batter": "Amir Farooq",
+              "bowler": "Vraj Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "37.4",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "37.5",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.6",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "actual_delivery": "38.1",
+              "batter": "Amir Farooq",
+              "bowler": "SO Ngoche",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "38.2",
+              "batter": "Amir Farooq",
+              "bowler": "SO Ngoche",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "38.3",
+              "batter": "Assad Borham",
+              "bowler": "SO Ngoche",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "38.4",
+              "batter": "Amir Farooq",
+              "bowler": "SO Ngoche",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "38.5",
+              "batter": "Assad Borham",
+              "bowler": "SO Ngoche",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "38.6",
+              "batter": "Assad Borham",
+              "bowler": "SO Ngoche",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "actual_delivery": "39.1",
+              "batter": "Amir Farooq",
+              "bowler": "Vraj Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.2",
+              "batter": "Amir Farooq",
+              "bowler": "Vraj Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.3",
+              "batter": "Amir Farooq",
+              "bowler": "Vraj Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.4",
+              "batter": "Amir Farooq",
+              "bowler": "Vraj Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.5",
+              "batter": "Amir Farooq",
+              "bowler": "Vraj Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.6",
+              "batter": "Amir Farooq",
+              "bowler": "Vraj Patel",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "actual_delivery": "40.1",
+              "batter": "Assad Borham",
+              "bowler": "LN Oluoch",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "40.2",
+              "batter": "Assad Borham",
+              "bowler": "LN Oluoch",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "40.3",
+              "batter": "Assad Borham",
+              "bowler": "LN Oluoch",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "40.4",
+              "batter": "Assad Borham",
+              "bowler": "LN Oluoch",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "40.5",
+              "batter": "Amir Farooq",
+              "bowler": "LN Oluoch",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "40.6",
+              "batter": "Amir Farooq",
+              "bowler": "LN Oluoch",
+              "non_striker": "Assad Borham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "actual_delivery": "41.1",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "41.2",
+              "batter": "Assad Borham",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Assad Borham",
+                  "fielders": [
+                    {
+                      "name": "RR Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "41.3",
+              "batter": "Mohammed Nadeem",
+              "bowler": "Vraj Patel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "41.3",
+              "batter": "Mohammed Nadeem",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "41.4",
+              "batter": "Amir Farooq",
+              "bowler": "Vraj Patel",
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "41.5",
+              "batter": "Amir Farooq",
+              "bowler": "Vraj Patel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "41.5",
+              "batter": "Amir Farooq",
+              "bowler": "Vraj Patel",
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "41.6",
+              "batter": "Mohammed Nadeem",
+              "bowler": "Vraj Patel",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "actual_delivery": "42.1",
+              "batter": "Amir Farooq",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "42.2",
+              "batter": "Amir Farooq",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "42.3",
+              "batter": "Amir Farooq",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "42.4",
+              "batter": "Mohammed Nadeem",
+              "bowler": "LN Oluoch",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "42.5",
+              "batter": "Mohammed Nadeem",
+              "bowler": "LN Oluoch",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "42.6",
+              "batter": "Amir Farooq",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "actual_delivery": "43.1",
+              "batter": "Amir Farooq",
+              "bowler": "GM Muthui",
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "43.2",
+              "batter": "Mohammed Nadeem",
+              "bowler": "GM Muthui",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "43.3",
+              "batter": "Mohammed Nadeem",
+              "bowler": "GM Muthui",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "43.4",
+              "batter": "Amir Farooq",
+              "bowler": "GM Muthui",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "43.4",
+              "batter": "Amir Farooq",
+              "bowler": "GM Muthui",
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "43.5",
+              "batter": "Mohammed Nadeem",
+              "bowler": "GM Muthui",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "43.6",
+              "batter": "Amir Farooq",
+              "bowler": "GM Muthui",
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "actual_delivery": "44.1",
+              "batter": "Mohammed Nadeem",
+              "bowler": "LN Oluoch",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "44.2",
+              "batter": "Mohammed Nadeem",
+              "bowler": "LN Oluoch",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "44.3",
+              "batter": "Mohammed Nadeem",
+              "bowler": "LN Oluoch",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "44.4",
+              "batter": "Mohammed Nadeem",
+              "bowler": "LN Oluoch",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "44.5",
+              "batter": "Amir Farooq",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "44.6",
+              "batter": "Amir Farooq",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "actual_delivery": "45.1",
+              "batter": "Amir Farooq",
+              "bowler": "S Gill",
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "45.2",
+              "batter": "Mohammed Nadeem",
+              "bowler": "S Gill",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "45.3",
+              "batter": "Amir Farooq",
+              "bowler": "S Gill",
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "45.4",
+              "batter": "Mohammed Nadeem",
+              "bowler": "S Gill",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "45.5",
+              "batter": "Amir Farooq",
+              "bowler": "S Gill",
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "45.6",
+              "batter": "Mohammed Nadeem",
+              "bowler": "S Gill",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "actual_delivery": "46.1",
+              "batter": "Amir Farooq",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "46.2",
+              "batter": "Amir Farooq",
+              "bowler": "LN Oluoch",
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "46.3",
+              "batter": "Mohammed Nadeem",
+              "bowler": "LN Oluoch",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "46.4",
+              "batter": "Mohammed Nadeem",
+              "bowler": "LN Oluoch",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "46.5",
+              "batter": "Mohammed Nadeem",
+              "bowler": "LN Oluoch",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "46.6",
+              "batter": "Mohammed Nadeem",
+              "bowler": "LN Oluoch",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "actual_delivery": "47.1",
+              "batter": "Mohammed Nadeem",
+              "bowler": "S Gill",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "47.2",
+              "batter": "Mohammed Nadeem",
+              "bowler": "S Gill",
+              "non_striker": "Amir Farooq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "47.3",
+              "batter": "Amir Farooq",
+              "bowler": "S Gill",
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Amir Farooq",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "47.4",
+              "batter": "Muhammad Jabir",
+              "bowler": "S Gill",
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "47.5",
+              "batter": "Mohammed Nadeem",
+              "bowler": "S Gill",
+              "non_striker": "Muhammad Jabir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "47.6",
+              "batter": "Mohammed Nadeem",
+              "bowler": "S Gill",
+              "non_striker": "Muhammad Jabir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "actual_delivery": "48.1",
+              "batter": "Muhammad Jabir",
+              "bowler": "GM Muthui",
+              "non_striker": "Mohammed Nadeem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "48.2",
+              "batter": "Mohammed Nadeem",
+              "bowler": "GM Muthui",
+              "non_striker": "Muhammad Jabir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammed Nadeem",
+                  "fielders": [
+                    {
+                      "name": "SR Bhudia"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 48.2,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Kenya",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "P Sharma",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "P Sharma",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "P Sharma",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "P Sharma",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "P Sharma",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "P Sharma",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "DM Gondaria",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "DM Gondaria",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "DM Gondaria",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "DM Gondaria",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "DM Gondaria",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "P Sharma",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "DM Gondaria",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "DM Gondaria",
+              "bowler": "Muhammad Jabir",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "DM Gondaria",
+              "bowler": "Muhammad Jabir",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "DM Gondaria",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "DM Gondaria",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "DM Gondaria",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "DM Gondaria",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "DM Gondaria",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "P Sharma",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "P Sharma",
+              "bowler": "Mohammed Nadeem",
+              "extras": {
+                "wides": 4
+              },
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "DM Gondaria",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "DM Gondaria",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "DM Gondaria",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "DM Gondaria",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "DM Gondaria",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "DM Gondaria",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "DM Gondaria",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "P Sharma",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "P Sharma",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "DM Gondaria",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "DM Gondaria",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "P Sharma",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "P Sharma",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "P Sharma",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "P Sharma",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "DM Gondaria",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "P Sharma",
+              "bowler": "Mohammed Nadeem",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "P Sharma",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "P Sharma",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "P Sharma",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "P Sharma",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "DM Gondaria",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "DM Gondaria",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "P Sharma",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "DM Gondaria",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "DM Gondaria",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "DM Gondaria",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "DM Gondaria",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "DM Gondaria",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "P Sharma",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "DM Gondaria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "DM Gondaria",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "DM Gondaria",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DM Gondaria",
+                  "fielders": [
+                    {
+                      "name": "I Liyanage"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "RN Patel",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "RN Patel",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "RN Patel",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "RN Patel",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "P Sharma",
+              "bowler": "Assad Borham",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "RN Patel",
+              "bowler": "Assad Borham",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "P Sharma",
+              "bowler": "Assad Borham",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "P Sharma",
+              "bowler": "Assad Borham",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "P Sharma",
+              "bowler": "Assad Borham",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "RN Patel",
+              "bowler": "Assad Borham",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "P Sharma",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "RN Patel",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "RN Patel",
+              "bowler": "Muhammad Jabir",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "RN Patel",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "P Sharma",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "P Sharma",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "P Sharma",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "RN Patel",
+              "bowler": "Assad Borham",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "RN Patel",
+              "bowler": "Assad Borham",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "RN Patel",
+              "bowler": "Assad Borham",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "RN Patel",
+              "bowler": "Assad Borham",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "RN Patel",
+              "bowler": "Assad Borham",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "P Sharma",
+              "bowler": "Assad Borham",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "P Sharma",
+              "bowler": "Amir Farooq",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "P Sharma",
+              "bowler": "Amir Farooq",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "P Sharma",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "P Sharma",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "P Sharma",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "P Sharma",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "P Sharma",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "P Sharma",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "P Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "P Sharma",
+              "bowler": "Amir Farooq",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "P Sharma",
+              "bowler": "Amir Farooq",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Sharma",
+                  "fielders": [
+                    {
+                      "name": "I Liyanage"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "IA Karim",
+              "bowler": "Amir Farooq",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "RN Patel",
+              "bowler": "Ikramullah Khan",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.1",
+              "batter": "IA Karim",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "IA Karim",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "IA Karim",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "IA Karim",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "IA Karim",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "IA Karim",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "IA Karim",
+              "bowler": "Amir Farooq",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "IA Karim",
+              "bowler": "Amir Farooq",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "IA Karim",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "RN Patel",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "SR Bhudia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "SR Bhudia",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "SR Bhudia",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "SR Bhudia",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "SR Bhudia",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "RN Patel",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "SR Bhudia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "SR Bhudia",
+              "bowler": "Amir Farooq",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "SR Bhudia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "SR Bhudia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "SR Bhudia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "SR Bhudia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "SR Bhudia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "SR Bhudia",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "RN Patel",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "SR Bhudia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "RN Patel",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "SR Bhudia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "RN Patel",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "SR Bhudia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "SR Bhudia",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "SR Bhudia",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "actual_delivery": "20.1",
+              "batter": "SR Bhudia",
+              "bowler": "Amir Farooq",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "20.2",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "SR Bhudia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.3",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "SR Bhudia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "20.4",
+              "batter": "SR Bhudia",
+              "bowler": "Amir Farooq",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.5",
+              "batter": "SR Bhudia",
+              "bowler": "Amir Farooq",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "20.6",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "SR Bhudia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "actual_delivery": "21.1",
+              "batter": "SR Bhudia",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.2",
+              "batter": "RN Patel",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "SR Bhudia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "21.3",
+              "batter": "RN Patel",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "SR Bhudia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.4",
+              "batter": "SR Bhudia",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SR Bhudia",
+                  "fielders": [
+                    {
+                      "name": "Assad Borham"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "21.5",
+              "batter": "RR Patel",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.6",
+              "batter": "RR Patel",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "actual_delivery": "22.1",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.2",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.3",
+              "batter": "RR Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.4",
+              "batter": "RR Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.5",
+              "batter": "RR Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.6",
+              "batter": "RN Patel",
+              "bowler": "Amir Farooq",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "actual_delivery": "23.1",
+              "batter": "RN Patel",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.2",
+              "batter": "RR Patel",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RR Patel",
+                  "fielders": [
+                    {
+                      "name": "Tamoor Sajjad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "23.3",
+              "batter": "S Gill",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.4",
+              "batter": "RN Patel",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "S Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.5",
+              "batter": "S Gill",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.6",
+              "batter": "S Gill",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "actual_delivery": "24.1",
+              "batter": "RN Patel",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "S Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.2",
+              "batter": "S Gill",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.3",
+              "batter": "S Gill",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.4",
+              "batter": "RN Patel",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "S Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.5",
+              "batter": "RN Patel",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "S Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.6",
+              "batter": "RN Patel",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "S Gill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "actual_delivery": "25.1",
+              "batter": "S Gill",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.2",
+              "batter": "S Gill",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.3",
+              "batter": "S Gill",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.4",
+              "batter": "S Gill",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.5",
+              "batter": "RN Patel",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "S Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "25.6",
+              "batter": "RN Patel",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "S Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "actual_delivery": "26.1",
+              "batter": "RN Patel",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "S Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.2",
+              "batter": "RN Patel",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "S Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.3",
+              "batter": "S Gill",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.4",
+              "batter": "RN Patel",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "S Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.5",
+              "batter": "S Gill",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.6",
+              "batter": "RN Patel",
+              "bowler": "Muhammad Jabir",
+              "non_striker": "S Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "actual_delivery": "27.1",
+              "batter": "S Gill",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.2",
+              "batter": "S Gill",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.3",
+              "batter": "S Gill",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.4",
+              "batter": "S Gill",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Gill",
+                  "fielders": [
+                    {
+                      "name": "Kamran Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "27.5",
+              "batter": "SO Ngoche",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.6",
+              "batter": "RN Patel",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "actual_delivery": "28.1",
+              "batter": "SO Ngoche",
+              "bowler": "Assad Borham",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.2",
+              "batter": "SO Ngoche",
+              "bowler": "Assad Borham",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.3",
+              "batter": "RN Patel",
+              "bowler": "Assad Borham",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.4",
+              "batter": "SO Ngoche",
+              "bowler": "Assad Borham",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.5",
+              "batter": "SO Ngoche",
+              "bowler": "Assad Borham",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.6",
+              "batter": "SO Ngoche",
+              "bowler": "Assad Borham",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "actual_delivery": "29.1",
+              "batter": "SO Ngoche",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.2",
+              "batter": "SO Ngoche",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.3",
+              "batter": "SO Ngoche",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.4",
+              "batter": "SO Ngoche",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "29.5",
+              "batter": "SO Ngoche",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "29.6",
+              "batter": "RN Patel",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "actual_delivery": "30.1",
+              "batter": "RN Patel",
+              "bowler": "Assad Borham",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.2",
+              "batter": "SO Ngoche",
+              "bowler": "Assad Borham",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.3",
+              "batter": "SO Ngoche",
+              "bowler": "Assad Borham",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.4",
+              "batter": "RN Patel",
+              "bowler": "Assad Borham",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.5",
+              "batter": "SO Ngoche",
+              "bowler": "Assad Borham",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.6",
+              "batter": "SO Ngoche",
+              "bowler": "Assad Borham",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "actual_delivery": "31.1",
+              "batter": "RN Patel",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "31.2",
+              "batter": "SO Ngoche",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.3",
+              "batter": "SO Ngoche",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.4",
+              "batter": "SO Ngoche",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "31.5",
+              "batter": "SO Ngoche",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.6",
+              "batter": "SO Ngoche",
+              "bowler": "Mohammed Nadeem",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "actual_delivery": "32.1",
+              "batter": "RN Patel",
+              "bowler": "Zaheer Ibrahim",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.2",
+              "batter": "SO Ngoche",
+              "bowler": "Zaheer Ibrahim",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.3",
+              "batter": "RN Patel",
+              "bowler": "Zaheer Ibrahim",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.4",
+              "batter": "SO Ngoche",
+              "bowler": "Zaheer Ibrahim",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.5",
+              "batter": "SO Ngoche",
+              "bowler": "Zaheer Ibrahim",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.6",
+              "batter": "RN Patel",
+              "bowler": "Zaheer Ibrahim",
+              "non_striker": "SO Ngoche",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "actual_delivery": "33.1",
+              "batter": "SO Ngoche",
+              "bowler": "Tamoor Sajjad",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.2",
+              "batter": "SO Ngoche",
+              "bowler": "Tamoor Sajjad",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.3",
+              "batter": "SO Ngoche",
+              "bowler": "Tamoor Sajjad",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.4",
+              "batter": "SO Ngoche",
+              "bowler": "Tamoor Sajjad",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SO Ngoche",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "33.5",
+              "batter": "LN Oluoch",
+              "bowler": "Tamoor Sajjad",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "33.6",
+              "batter": "RN Patel",
+              "bowler": "Tamoor Sajjad",
+              "non_striker": "LN Oluoch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "actual_delivery": "34.1",
+              "batter": "RN Patel",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "LN Oluoch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.2",
+              "batter": "RN Patel",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "LN Oluoch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.3",
+              "batter": "RN Patel",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "LN Oluoch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "34.4",
+              "batter": "LN Oluoch",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.5",
+              "batter": "LN Oluoch",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.6",
+              "batter": "LN Oluoch",
+              "bowler": "Ikramullah Khan",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "actual_delivery": "35.1",
+              "batter": "RN Patel",
+              "bowler": "Tamoor Sajjad",
+              "non_striker": "LN Oluoch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "35.2",
+              "batter": "LN Oluoch",
+              "bowler": "Tamoor Sajjad",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.3",
+              "batter": "LN Oluoch",
+              "bowler": "Tamoor Sajjad",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "35.4",
+              "batter": "LN Oluoch",
+              "bowler": "Tamoor Sajjad",
+              "non_striker": "RN Patel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 35.4,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 163
+      }
+    }
+  ]
+}

@@ -1,0 +1,3314 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-06-23",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Episkopi",
+    "dates": [
+      "2026-06-20"
+    ],
+    "event": {
+      "name": "Malta Women tour of Cyprus",
+      "match_number": 5
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2976,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Cyprus",
+      "by": {
+        "runs": 51
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "I Chathurani"
+    ],
+    "players": {
+      "Cyprus": [
+        "A Dirannehelage",
+        "S Jayakodi",
+        "I Chathurani",
+        "D Koralalage",
+        "Dilini Ishara",
+        "T De Silva",
+        "C Wijesinghe",
+        "S Dunukedeniya",
+        "N Liyanage",
+        "S Arachchige",
+        "Nilusha Waruwangodage"
+      ],
+      "Malta": [
+        "Likitha Yadav",
+        "TRR Sharfudheen",
+        "N De Bromhead",
+        "A Rameshan",
+        "Silda Joy",
+        "SM Don",
+        "SM Arooja",
+        "Susan George",
+        "RT Raghavan",
+        "S Coelho",
+        "S Bandeva"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Dirannehelage": "039168c7",
+        "A Rameshan": "f0f9d832",
+        "C Wijesinghe": "db86ac96",
+        "D Koralalage": "5e6041a4",
+        "Dilini Ishara": "f45efeca",
+        "I Chathurani": "85364088",
+        "Likitha Yadav": "1a9a6b15",
+        "N De Bromhead": "a8ac7250",
+        "N Liyanage": "2ee5997e",
+        "Nilusha Waruwangodage": "aa655cd5",
+        "RT Raghavan": "4622d730",
+        "S Arachchige": "e6681f88",
+        "S Bandeva": "c9b3394c",
+        "S Coelho": "821d2ff6",
+        "S Dunukedeniya": "3134e4a4",
+        "S Jayakodi": "64875d5c",
+        "SM Arooja": "59decd79",
+        "SM Don": "eb96bc06",
+        "Silda Joy": "dec85af5",
+        "Susan George": "55f13cf4",
+        "T De Silva": "31821596",
+        "TRR Sharfudheen": "8a5b0066"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Cyprus",
+      "Malta"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Malta"
+    },
+    "venue": "Happy Valley Ground"
+  },
+  "innings": [
+    {
+      "team": "Cyprus",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "A Dirannehelage",
+              "bowler": "Likitha Yadav",
+              "non_striker": "S Jayakodi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "A Dirannehelage",
+              "bowler": "Likitha Yadav",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "S Jayakodi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "A Dirannehelage",
+              "bowler": "Likitha Yadav",
+              "non_striker": "S Jayakodi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "A Dirannehelage",
+              "bowler": "Likitha Yadav",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "S Jayakodi",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "S Jayakodi",
+              "bowler": "Likitha Yadav",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "A Dirannehelage",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "A Dirannehelage",
+              "bowler": "Likitha Yadav",
+              "non_striker": "S Jayakodi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Dirannehelage",
+                  "fielders": [
+                    {
+                      "name": "A Rameshan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "I Chathurani",
+              "bowler": "Likitha Yadav",
+              "non_striker": "S Jayakodi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "I Chathurani",
+              "bowler": "Likitha Yadav",
+              "non_striker": "S Jayakodi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "S Jayakodi",
+              "bowler": "N De Bromhead",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "S Jayakodi",
+              "bowler": "N De Bromhead",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "I Chathurani",
+              "bowler": "N De Bromhead",
+              "non_striker": "S Jayakodi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "I Chathurani",
+              "bowler": "N De Bromhead",
+              "non_striker": "S Jayakodi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "S Jayakodi",
+              "bowler": "N De Bromhead",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "I Chathurani",
+              "bowler": "N De Bromhead",
+              "non_striker": "S Jayakodi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "I Chathurani",
+              "bowler": "Likitha Yadav",
+              "non_striker": "S Jayakodi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "S Jayakodi",
+              "bowler": "Likitha Yadav",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Jayakodi",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "D Koralalage",
+              "bowler": "Likitha Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "D Koralalage",
+              "bowler": "Likitha Yadav",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "D Koralalage",
+              "bowler": "Likitha Yadav",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "I Chathurani",
+              "bowler": "Likitha Yadav",
+              "non_striker": "D Koralalage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "D Koralalage",
+              "bowler": "Likitha Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "D Koralalage",
+              "bowler": "Likitha Yadav",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "I Chathurani",
+              "bowler": "N De Bromhead",
+              "non_striker": "D Koralalage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "I Chathurani",
+              "bowler": "N De Bromhead",
+              "non_striker": "D Koralalage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "I Chathurani",
+              "bowler": "N De Bromhead",
+              "non_striker": "D Koralalage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "I Chathurani",
+              "bowler": "N De Bromhead",
+              "non_striker": "D Koralalage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "I Chathurani",
+              "bowler": "N De Bromhead",
+              "non_striker": "D Koralalage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "I Chathurani",
+              "bowler": "N De Bromhead",
+              "non_striker": "D Koralalage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Koralalage",
+                  "fielders": [
+                    {
+                      "name": "SM Don"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Dilini Ishara",
+              "bowler": "Likitha Yadav",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Dilini Ishara",
+              "bowler": "Likitha Yadav",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Dilini Ishara",
+              "bowler": "Likitha Yadav",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Dilini Ishara",
+              "bowler": "Likitha Yadav",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Dilini Ishara",
+              "bowler": "Likitha Yadav",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Dilini Ishara",
+              "bowler": "Likitha Yadav",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "I Chathurani",
+              "bowler": "N De Bromhead",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "I Chathurani",
+              "bowler": "N De Bromhead",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Dilini Ishara",
+              "bowler": "N De Bromhead",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Dilini Ishara",
+              "bowler": "N De Bromhead",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Dilini Ishara",
+              "bowler": "N De Bromhead",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "I Chathurani",
+              "bowler": "N De Bromhead",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Dilini Ishara",
+              "bowler": "N De Bromhead",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "I Chathurani",
+              "bowler": "Silda Joy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.1",
+              "batter": "I Chathurani",
+              "bowler": "Silda Joy",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Dilini Ishara",
+              "bowler": "Silda Joy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Dilini Ishara",
+              "bowler": "Silda Joy",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "I Chathurani",
+              "bowler": "Silda Joy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "I Chathurani",
+              "bowler": "Silda Joy",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "I Chathurani",
+              "bowler": "Silda Joy",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "I Chathurani",
+              "bowler": "Silda Joy",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Dilini Ishara",
+              "bowler": "Silda Joy",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "I Chathurani",
+              "bowler": "A Rameshan",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "I Chathurani",
+              "bowler": "A Rameshan",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "I Chathurani",
+              "bowler": "A Rameshan",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "I Chathurani",
+              "bowler": "A Rameshan",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Dilini Ishara",
+              "bowler": "A Rameshan",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "I Chathurani",
+              "bowler": "A Rameshan",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Dilini Ishara",
+              "bowler": "Silda Joy",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "I Chathurani",
+              "bowler": "Silda Joy",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "I Chathurani",
+              "bowler": "Silda Joy",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "I Chathurani",
+              "bowler": "Silda Joy",
+              "non_striker": "Dilini Ishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Dilini Ishara",
+              "bowler": "Silda Joy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Dilini Ishara",
+              "bowler": "Silda Joy",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Dilini Ishara",
+                  "fielders": [
+                    {
+                      "name": "Likitha Yadav"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "T De Silva",
+              "bowler": "Silda Joy",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "I Chathurani",
+              "bowler": "A Rameshan",
+              "non_striker": "T De Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "I Chathurani",
+              "bowler": "A Rameshan",
+              "non_striker": "T De Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "I Chathurani",
+              "bowler": "A Rameshan",
+              "non_striker": "T De Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "I Chathurani",
+              "bowler": "A Rameshan",
+              "non_striker": "T De Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "I Chathurani",
+              "bowler": "A Rameshan",
+              "non_striker": "T De Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "I Chathurani",
+              "bowler": "A Rameshan",
+              "non_striker": "T De Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "T De Silva",
+              "bowler": "SM Don",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.1",
+              "batter": "T De Silva",
+              "bowler": "SM Don",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "T De Silva",
+              "bowler": "SM Don",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "T De Silva",
+              "bowler": "SM Don",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "T De Silva",
+              "bowler": "SM Don",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T De Silva",
+                  "fielders": [
+                    {
+                      "name": "N De Bromhead"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "C Wijesinghe",
+              "bowler": "SM Don",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "C Wijesinghe",
+              "bowler": "SM Don",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "C Wijesinghe",
+              "bowler": "SM Don",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "C Wijesinghe",
+              "bowler": "SM Don",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "C Wijesinghe",
+              "bowler": "SM Don",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "I Chathurani",
+              "bowler": "Susan George",
+              "non_striker": "C Wijesinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "C Wijesinghe",
+              "bowler": "Susan George",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "C Wijesinghe",
+              "bowler": "Susan George",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "C Wijesinghe",
+              "bowler": "Susan George",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "C Wijesinghe",
+              "bowler": "Susan George",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "C Wijesinghe",
+              "bowler": "Susan George",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "C Wijesinghe",
+              "bowler": "Susan George",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "C Wijesinghe",
+              "bowler": "Susan George",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "C Wijesinghe",
+              "bowler": "SM Don",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.1",
+              "batter": "C Wijesinghe",
+              "bowler": "SM Don",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "C Wijesinghe",
+              "bowler": "SM Don",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "C Wijesinghe",
+              "bowler": "SM Don",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "C Wijesinghe",
+              "bowler": "SM Don",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "I Chathurani",
+              "bowler": "SM Don",
+              "non_striker": "C Wijesinghe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "I Chathurani",
+              "bowler": "SM Don",
+              "non_striker": "C Wijesinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "C Wijesinghe",
+              "bowler": "Susan George",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "C Wijesinghe",
+              "bowler": "Susan George",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "I Chathurani",
+              "bowler": "Susan George",
+              "non_striker": "C Wijesinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "C Wijesinghe",
+              "bowler": "Susan George",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "I Chathurani",
+              "bowler": "Susan George",
+              "non_striker": "C Wijesinghe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "I Chathurani",
+              "bowler": "Susan George",
+              "non_striker": "C Wijesinghe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "C Wijesinghe",
+              "bowler": "Silda Joy",
+              "non_striker": "I Chathurani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "I Chathurani",
+              "bowler": "Silda Joy",
+              "non_striker": "C Wijesinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "I Chathurani",
+              "bowler": "Silda Joy",
+              "non_striker": "C Wijesinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Chathurani",
+                  "fielders": [
+                    {
+                      "name": "N De Bromhead"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "S Dunukedeniya",
+              "bowler": "Silda Joy",
+              "non_striker": "C Wijesinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "S Dunukedeniya",
+              "bowler": "Silda Joy",
+              "non_striker": "C Wijesinghe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "S Dunukedeniya",
+              "bowler": "Silda Joy",
+              "non_striker": "C Wijesinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "S Dunukedeniya",
+              "bowler": "A Rameshan",
+              "non_striker": "C Wijesinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "S Dunukedeniya",
+              "bowler": "A Rameshan",
+              "non_striker": "C Wijesinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "C Wijesinghe",
+              "bowler": "A Rameshan",
+              "non_striker": "S Dunukedeniya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Wijesinghe",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "N Liyanage",
+              "bowler": "A Rameshan",
+              "non_striker": "S Dunukedeniya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "S Dunukedeniya",
+              "bowler": "A Rameshan",
+              "non_striker": "N Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "S Dunukedeniya",
+              "bowler": "A Rameshan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "S Dunukedeniya",
+              "bowler": "A Rameshan",
+              "non_striker": "N Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "S Dunukedeniya",
+              "bowler": "Silda Joy",
+              "non_striker": "N Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "S Dunukedeniya",
+              "bowler": "Silda Joy",
+              "non_striker": "N Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "S Dunukedeniya",
+              "bowler": "Silda Joy",
+              "non_striker": "N Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "S Dunukedeniya",
+              "bowler": "Silda Joy",
+              "non_striker": "N Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "S Dunukedeniya",
+              "bowler": "Silda Joy",
+              "non_striker": "N Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "S Dunukedeniya",
+              "bowler": "Silda Joy",
+              "non_striker": "N Liyanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Dunukedeniya",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "N Liyanage",
+              "bowler": "A Rameshan",
+              "non_striker": "S Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "N Liyanage",
+              "bowler": "A Rameshan",
+              "non_striker": "S Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "N Liyanage",
+              "bowler": "A Rameshan",
+              "non_striker": "S Arachchige",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "S Arachchige",
+              "bowler": "A Rameshan",
+              "non_striker": "N Liyanage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "N Liyanage",
+              "bowler": "A Rameshan",
+              "non_striker": "S Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Liyanage",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Nilusha Waruwangodage",
+              "bowler": "A Rameshan",
+              "non_striker": "S Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "S Arachchige",
+              "bowler": "Likitha Yadav",
+              "non_striker": "Nilusha Waruwangodage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "S Arachchige",
+              "bowler": "Likitha Yadav",
+              "non_striker": "Nilusha Waruwangodage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Nilusha Waruwangodage",
+              "bowler": "Likitha Yadav",
+              "non_striker": "S Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Nilusha Waruwangodage",
+              "bowler": "Likitha Yadav",
+              "non_striker": "S Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Nilusha Waruwangodage",
+              "bowler": "Likitha Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Nilusha Waruwangodage",
+              "bowler": "Likitha Yadav",
+              "non_striker": "S Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Nilusha Waruwangodage",
+              "bowler": "Likitha Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Nilusha Waruwangodage",
+              "bowler": "Likitha Yadav",
+              "non_striker": "S Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "S Arachchige",
+              "bowler": "SM Don",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nilusha Waruwangodage",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.1",
+              "batter": "S Arachchige",
+              "bowler": "SM Don",
+              "non_striker": "Nilusha Waruwangodage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Nilusha Waruwangodage",
+              "bowler": "SM Don",
+              "non_striker": "S Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Nilusha Waruwangodage",
+              "bowler": "SM Don",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Nilusha Waruwangodage",
+              "bowler": "SM Don",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Nilusha Waruwangodage",
+              "bowler": "SM Don",
+              "non_striker": "S Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Nilusha Waruwangodage",
+              "bowler": "SM Don",
+              "non_striker": "S Arachchige",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Nilusha Waruwangodage",
+              "bowler": "SM Don",
+              "non_striker": "S Arachchige",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "S Arachchige",
+              "bowler": "SM Don",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nilusha Waruwangodage",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "S Arachchige",
+              "bowler": "SM Don",
+              "non_striker": "Nilusha Waruwangodage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Malta",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Likitha Yadav",
+              "bowler": "D Koralalage",
+              "non_striker": "TRR Sharfudheen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Likitha Yadav",
+              "bowler": "D Koralalage",
+              "non_striker": "TRR Sharfudheen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Likitha Yadav",
+              "bowler": "D Koralalage",
+              "non_striker": "TRR Sharfudheen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Likitha Yadav",
+              "bowler": "D Koralalage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TRR Sharfudheen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Likitha Yadav",
+              "bowler": "D Koralalage",
+              "non_striker": "TRR Sharfudheen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Likitha Yadav",
+              "bowler": "D Koralalage",
+              "non_striker": "TRR Sharfudheen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Likitha Yadav",
+              "bowler": "D Koralalage",
+              "non_striker": "TRR Sharfudheen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "TRR Sharfudheen",
+              "bowler": "S Dunukedeniya",
+              "non_striker": "Likitha Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Likitha Yadav",
+              "bowler": "S Dunukedeniya",
+              "non_striker": "TRR Sharfudheen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Likitha Yadav",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "N De Bromhead",
+              "bowler": "S Dunukedeniya",
+              "non_striker": "TRR Sharfudheen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "N De Bromhead",
+              "bowler": "S Dunukedeniya",
+              "non_striker": "TRR Sharfudheen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "TRR Sharfudheen",
+              "bowler": "S Dunukedeniya",
+              "non_striker": "N De Bromhead",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TRR Sharfudheen",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "A Rameshan",
+              "bowler": "S Dunukedeniya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N De Bromhead",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "A Rameshan",
+              "bowler": "S Dunukedeniya",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "N De Bromhead",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "N De Bromhead",
+              "bowler": "S Dunukedeniya",
+              "non_striker": "A Rameshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "A Rameshan",
+              "bowler": "D Koralalage",
+              "non_striker": "N De Bromhead",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "A Rameshan",
+              "bowler": "D Koralalage",
+              "non_striker": "N De Bromhead",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "A Rameshan",
+              "bowler": "D Koralalage",
+              "non_striker": "N De Bromhead",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "A Rameshan",
+              "bowler": "D Koralalage",
+              "non_striker": "N De Bromhead",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "N De Bromhead",
+              "bowler": "D Koralalage",
+              "non_striker": "A Rameshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "N De Bromhead",
+              "bowler": "D Koralalage",
+              "non_striker": "A Rameshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "A Rameshan",
+              "bowler": "S Dunukedeniya",
+              "non_striker": "N De Bromhead",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "A Rameshan",
+              "bowler": "S Dunukedeniya",
+              "non_striker": "N De Bromhead",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Rameshan",
+                  "fielders": [
+                    {
+                      "name": "T De Silva"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Silda Joy",
+              "bowler": "S Dunukedeniya",
+              "non_striker": "N De Bromhead",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Silda Joy",
+              "bowler": "S Dunukedeniya",
+              "non_striker": "N De Bromhead",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Silda Joy",
+              "bowler": "S Dunukedeniya",
+              "non_striker": "N De Bromhead",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Silda Joy",
+              "bowler": "S Dunukedeniya",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "N De Bromhead",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Silda Joy",
+              "bowler": "S Dunukedeniya",
+              "non_striker": "N De Bromhead",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "N De Bromhead",
+              "bowler": "A Dirannehelage",
+              "non_striker": "Silda Joy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Silda Joy",
+              "bowler": "A Dirannehelage",
+              "non_striker": "N De Bromhead",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Silda Joy",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "SM Don",
+              "bowler": "A Dirannehelage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N De Bromhead",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "SM Don",
+              "bowler": "A Dirannehelage",
+              "non_striker": "N De Bromhead",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "SM Don",
+              "bowler": "A Dirannehelage",
+              "non_striker": "N De Bromhead",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "SM Don",
+              "bowler": "A Dirannehelage",
+              "non_striker": "N De Bromhead",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "SM Don",
+              "bowler": "A Dirannehelage",
+              "non_striker": "N De Bromhead",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "N De Bromhead",
+              "bowler": "C Wijesinghe",
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "N De Bromhead",
+              "bowler": "C Wijesinghe",
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "N De Bromhead",
+              "bowler": "C Wijesinghe",
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "N De Bromhead",
+              "bowler": "C Wijesinghe",
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N De Bromhead",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "SM Arooja",
+              "bowler": "C Wijesinghe",
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "SM Don",
+              "bowler": "C Wijesinghe",
+              "non_striker": "SM Arooja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "SM Arooja",
+              "bowler": "A Dirannehelage",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "SM Don",
+              "bowler": "A Dirannehelage",
+              "non_striker": "SM Arooja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "SM Don",
+              "bowler": "A Dirannehelage",
+              "non_striker": "SM Arooja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "SM Don",
+              "bowler": "A Dirannehelage",
+              "non_striker": "SM Arooja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "SM Don",
+              "bowler": "A Dirannehelage",
+              "non_striker": "SM Arooja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "SM Arooja",
+              "bowler": "A Dirannehelage",
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "SM Don",
+              "bowler": "C Wijesinghe",
+              "non_striker": "SM Arooja",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "SM Don",
+              "bowler": "C Wijesinghe",
+              "non_striker": "SM Arooja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "SM Arooja",
+              "bowler": "C Wijesinghe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "SM Arooja",
+              "bowler": "C Wijesinghe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "SM Arooja",
+              "bowler": "C Wijesinghe",
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SM Arooja",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Susan George",
+              "bowler": "C Wijesinghe",
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "SM Don",
+              "bowler": "C Wijesinghe",
+              "non_striker": "Susan George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "SM Don",
+              "bowler": "C Wijesinghe",
+              "non_striker": "Susan George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Susan George",
+              "bowler": "A Dirannehelage",
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Susan George",
+              "bowler": "A Dirannehelage",
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Susan George",
+              "bowler": "A Dirannehelage",
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Susan George",
+              "bowler": "A Dirannehelage",
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Susan George",
+              "bowler": "A Dirannehelage",
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Susan George",
+              "bowler": "A Dirannehelage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Susan George",
+              "bowler": "A Dirannehelage",
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "SM Don",
+              "bowler": "C Wijesinghe",
+              "non_striker": "Susan George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "SM Don",
+              "bowler": "C Wijesinghe",
+              "non_striker": "Susan George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "SM Don",
+              "bowler": "C Wijesinghe",
+              "non_striker": "Susan George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "SM Don",
+              "bowler": "C Wijesinghe",
+              "non_striker": "Susan George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "SM Don",
+              "bowler": "C Wijesinghe",
+              "non_striker": "Susan George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "SM Don",
+              "bowler": "C Wijesinghe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Susan George",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "SM Don",
+              "bowler": "C Wijesinghe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Susan George",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "SM Don",
+              "bowler": "C Wijesinghe",
+              "non_striker": "Susan George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Susan George",
+              "bowler": "A Dirannehelage",
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Susan George",
+              "bowler": "A Dirannehelage",
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Susan George",
+              "bowler": "A Dirannehelage",
+              "non_striker": "SM Don",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "SM Don",
+              "bowler": "A Dirannehelage",
+              "non_striker": "Susan George",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "SM Don",
+              "bowler": "A Dirannehelage",
+              "non_striker": "Susan George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "SM Don",
+              "bowler": "A Dirannehelage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Susan George",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "SM Don",
+              "bowler": "A Dirannehelage",
+              "non_striker": "Susan George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SM Don",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Susan George",
+              "bowler": "C Wijesinghe",
+              "non_striker": "RT Raghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Susan George",
+              "bowler": "C Wijesinghe",
+              "non_striker": "RT Raghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Susan George",
+              "bowler": "C Wijesinghe",
+              "non_striker": "RT Raghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Susan George",
+              "bowler": "C Wijesinghe",
+              "non_striker": "RT Raghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Susan George",
+              "bowler": "C Wijesinghe",
+              "non_striker": "RT Raghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Susan George",
+              "bowler": "C Wijesinghe",
+              "non_striker": "RT Raghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "RT Raghavan",
+              "bowler": "I Chathurani",
+              "non_striker": "Susan George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "RT Raghavan",
+              "bowler": "I Chathurani",
+              "non_striker": "Susan George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "RT Raghavan",
+              "bowler": "I Chathurani",
+              "non_striker": "Susan George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "RT Raghavan",
+              "bowler": "I Chathurani",
+              "non_striker": "Susan George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "RT Raghavan",
+              "bowler": "I Chathurani",
+              "non_striker": "Susan George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "RT Raghavan",
+              "bowler": "I Chathurani",
+              "non_striker": "Susan George",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Susan George",
+              "bowler": "S Dunukedeniya",
+              "non_striker": "RT Raghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Susan George",
+              "bowler": "S Dunukedeniya",
+              "non_striker": "RT Raghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Susan George",
+              "bowler": "S Dunukedeniya",
+              "non_striker": "RT Raghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Susan George",
+              "bowler": "S Dunukedeniya",
+              "non_striker": "RT Raghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Susan George",
+              "bowler": "S Dunukedeniya",
+              "non_striker": "RT Raghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Susan George",
+              "bowler": "S Dunukedeniya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RT Raghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Susan George",
+              "bowler": "S Dunukedeniya",
+              "non_striker": "RT Raghavan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Susan George",
+              "bowler": "I Chathurani",
+              "non_striker": "RT Raghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Susan George",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "S Coelho",
+              "bowler": "I Chathurani",
+              "non_striker": "RT Raghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "S Coelho",
+              "bowler": "I Chathurani",
+              "non_striker": "RT Raghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "S Coelho",
+              "bowler": "I Chathurani",
+              "non_striker": "RT Raghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Coelho",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "S Bandeva",
+              "bowler": "I Chathurani",
+              "non_striker": "RT Raghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "S Bandeva",
+              "bowler": "I Chathurani",
+              "non_striker": "RT Raghavan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "RT Raghavan",
+              "bowler": "S Dunukedeniya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Bandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.1",
+              "batter": "RT Raghavan",
+              "bowler": "S Dunukedeniya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Bandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.1",
+              "batter": "RT Raghavan",
+              "bowler": "S Dunukedeniya",
+              "non_striker": "S Bandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "RT Raghavan",
+              "bowler": "S Dunukedeniya",
+              "non_striker": "S Bandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RT Raghavan",
+                  "fielders": [
+                    {
+                      "name": "D Koralalage"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 82
+      }
+    }
+  ]
+}

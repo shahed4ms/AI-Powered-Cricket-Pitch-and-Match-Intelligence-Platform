@@ -1,0 +1,1723 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2023-05-29",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "St Saviour",
+    "dates": [
+      "2023-05-29"
+    ],
+    "event": {
+      "name": "ICC Women's T20 World Cup Europe Division 2 Qualifier",
+      "match_number": 1
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 1453,
+    "officials": {
+      "match_referees": [
+        "G McCrea"
+      ],
+      "reserve_umpires": [
+        "HE Kearns"
+      ],
+      "umpires": [
+        "AY Harris",
+        "DH Mclean"
+      ]
+    },
+    "outcome": {
+      "winner": "Jersey",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "G Mallett"
+    ],
+    "players": {
+      "Italy": [
+        "AS Withanage",
+        "M Rathnayake",
+        "Regina Khan",
+        "D Nanayakkara",
+        "EL Bartram",
+        "C Mahamalage",
+        "K Peddrick",
+        "G Batagoda",
+        "S Toffoletto",
+        "N Asuramanage",
+        "AS Warnakulasuriya"
+      ],
+      "Jersey": [
+        "C Miles",
+        "MD Rocha",
+        "T Smith",
+        "CM Greechan",
+        "A Merritt",
+        "G Mallett",
+        "A Aikenhead",
+        "M Maguire",
+        "E Gouge",
+        "E Duffy",
+        "G Wetherall"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Aikenhead": "007f121f",
+        "A Merritt": "4c87bd01",
+        "AS Warnakulasuriya": "05f1cff9",
+        "AS Withanage": "078f166f",
+        "AY Harris": "90d95b82",
+        "C Mahamalage": "3250b7db",
+        "C Miles": "80f16d29",
+        "CM Greechan": "569bbcbb",
+        "D Nanayakkara": "dbf22922",
+        "DH Mclean": "281d4749",
+        "E Duffy": "52bbb9e5",
+        "E Gouge": "e01e17ee",
+        "EL Bartram": "5fa7f030",
+        "G Batagoda": "f63ec2e5",
+        "G Mallett": "95bf6b2a",
+        "G McCrea": "46f4a901",
+        "G Wetherall": "5c77d7cb",
+        "HE Kearns": "fd4959c8",
+        "K Peddrick": "a031b75e",
+        "M Maguire": "0441a1f5",
+        "M Rathnayake": "a969dc4c",
+        "MD Rocha": "30aa04d2",
+        "N Asuramanage": "46dff613",
+        "Regina Khan": "862f4427",
+        "S Toffoletto": "9e498eac",
+        "T Smith": "f24ffaab"
+      }
+    },
+    "season": "2023",
+    "team_type": "international",
+    "teams": [
+      "Italy",
+      "Jersey"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Italy"
+    },
+    "venue": "Grainville, St Saviour, Jersey"
+  },
+  "innings": [
+    {
+      "team": "Italy",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "AS Withanage",
+              "bowler": "CM Greechan",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "AS Withanage",
+              "bowler": "CM Greechan",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "M Rathnayake",
+              "bowler": "CM Greechan",
+              "non_striker": "AS Withanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "M Rathnayake",
+              "bowler": "CM Greechan",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "AS Withanage",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "AS Withanage",
+              "bowler": "CM Greechan",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AS Withanage",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Regina Khan",
+              "bowler": "CM Greechan",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "M Rathnayake",
+              "bowler": "A Merritt",
+              "non_striker": "Regina Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "M Rathnayake",
+              "bowler": "A Merritt",
+              "non_striker": "Regina Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Regina Khan",
+              "bowler": "A Merritt",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "M Rathnayake",
+              "bowler": "A Merritt",
+              "non_striker": "Regina Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "M Rathnayake",
+              "bowler": "A Merritt",
+              "non_striker": "Regina Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "M Rathnayake",
+              "bowler": "A Merritt",
+              "non_striker": "Regina Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Regina Khan",
+              "bowler": "CM Greechan",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "M Rathnayake",
+              "bowler": "CM Greechan",
+              "non_striker": "Regina Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "M Rathnayake",
+              "bowler": "CM Greechan",
+              "non_striker": "Regina Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Regina Khan",
+              "bowler": "CM Greechan",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Regina Khan",
+              "bowler": "CM Greechan",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Regina Khan",
+              "bowler": "CM Greechan",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "M Rathnayake",
+              "bowler": "A Merritt",
+              "non_striker": "Regina Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Regina Khan",
+              "bowler": "A Merritt",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Regina Khan",
+              "bowler": "A Merritt",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Regina Khan",
+                  "fielders": [
+                    {
+                      "name": "A Aikenhead"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "D Nanayakkara",
+              "bowler": "A Merritt",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "D Nanayakkara",
+              "bowler": "A Merritt",
+              "non_striker": "M Rathnayake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "M Rathnayake",
+              "bowler": "A Merritt",
+              "non_striker": "D Nanayakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "M Rathnayake",
+              "bowler": "CM Greechan",
+              "non_striker": "D Nanayakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "M Rathnayake",
+              "bowler": "CM Greechan",
+              "non_striker": "D Nanayakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Rathnayake",
+                  "fielders": [
+                    {
+                      "name": "A Merritt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "EL Bartram",
+              "bowler": "CM Greechan",
+              "non_striker": "D Nanayakkara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "EL Bartram",
+              "bowler": "CM Greechan",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "D Nanayakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "D Nanayakkara",
+              "bowler": "CM Greechan",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "D Nanayakkara",
+              "bowler": "CM Greechan",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "EL Bartram",
+              "bowler": "E Duffy",
+              "non_striker": "D Nanayakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "EL Bartram",
+              "bowler": "E Duffy",
+              "non_striker": "D Nanayakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "EL Bartram",
+              "bowler": "E Duffy",
+              "non_striker": "D Nanayakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "EL Bartram",
+              "bowler": "E Duffy",
+              "non_striker": "D Nanayakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "EL Bartram",
+              "bowler": "E Duffy",
+              "non_striker": "D Nanayakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "EL Bartram",
+              "bowler": "E Duffy",
+              "non_striker": "D Nanayakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "D Nanayakkara",
+              "bowler": "G Mallett",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "EL Bartram",
+              "bowler": "G Mallett",
+              "non_striker": "D Nanayakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "D Nanayakkara",
+              "bowler": "G Mallett",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "EL Bartram",
+              "bowler": "G Mallett",
+              "non_striker": "D Nanayakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "D Nanayakkara",
+              "bowler": "G Mallett",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "EL Bartram",
+              "bowler": "G Mallett",
+              "non_striker": "D Nanayakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "D Nanayakkara",
+              "bowler": "E Gouge",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "EL Bartram",
+              "bowler": "E Gouge",
+              "non_striker": "D Nanayakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "D Nanayakkara",
+              "bowler": "E Gouge",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "D Nanayakkara",
+              "bowler": "E Gouge",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "EL Bartram",
+              "bowler": "E Gouge",
+              "non_striker": "D Nanayakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "D Nanayakkara",
+              "bowler": "E Gouge",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "D Nanayakkara",
+              "bowler": "G Mallett",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Nanayakkara",
+                  "fielders": [
+                    {
+                      "name": "C Miles"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "C Mahamalage",
+              "bowler": "G Mallett",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "C Mahamalage",
+              "bowler": "G Mallett",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "C Mahamalage",
+              "bowler": "G Mallett",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "C Mahamalage",
+              "bowler": "G Mallett",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Mahamalage",
+                  "fielders": [
+                    {
+                      "name": "M Maguire"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "K Peddrick",
+              "bowler": "G Mallett",
+              "non_striker": "EL Bartram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "EL Bartram",
+              "bowler": "E Gouge",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "EL Bartram",
+              "bowler": "E Gouge",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "EL Bartram",
+              "bowler": "E Gouge",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "EL Bartram",
+              "bowler": "E Gouge",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "EL Bartram",
+              "bowler": "E Gouge",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "EL Bartram",
+              "bowler": "E Gouge",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "EL Bartram",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "AS Warnakulasuriya",
+              "bowler": "E Gouge",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "AS Warnakulasuriya",
+              "bowler": "E Gouge",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "AS Warnakulasuriya",
+              "bowler": "E Gouge",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "AS Warnakulasuriya",
+              "bowler": "G Mallett",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "AS Warnakulasuriya",
+              "bowler": "G Mallett",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "AS Warnakulasuriya",
+              "bowler": "G Mallett",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "AS Warnakulasuriya",
+              "bowler": "G Mallett",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "AS Warnakulasuriya",
+              "bowler": "G Mallett",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "fielders": [
+                    {
+                      "name": "T Smith"
+                    }
+                  ],
+                  "player_out": "AS Warnakulasuriya",
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "G Batagoda",
+              "bowler": "G Mallett",
+              "non_striker": "K Peddrick",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Batagoda",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "K Peddrick",
+              "bowler": "E Gouge",
+              "non_striker": "N Asuramanage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Peddrick",
+                  "fielders": [
+                    {
+                      "name": "M Maguire"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "N Asuramanage",
+              "bowler": "E Gouge",
+              "non_striker": "S Toffoletto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "N Asuramanage",
+              "bowler": "E Gouge",
+              "non_striker": "S Toffoletto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "N Asuramanage",
+              "bowler": "E Gouge",
+              "non_striker": "S Toffoletto",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Asuramanage",
+                  "fielders": [
+                    {
+                      "name": "M Maguire"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Jersey",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "C Miles",
+              "bowler": "C Mahamalage",
+              "non_striker": "MD Rocha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "C Miles",
+              "bowler": "C Mahamalage",
+              "non_striker": "MD Rocha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "C Miles",
+              "bowler": "C Mahamalage",
+              "non_striker": "MD Rocha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "C Miles",
+              "bowler": "C Mahamalage",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "MD Rocha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "MD Rocha",
+              "bowler": "C Mahamalage",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "C Miles",
+              "bowler": "C Mahamalage",
+              "non_striker": "MD Rocha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "C Miles",
+              "bowler": "EL Bartram",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MD Rocha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.1",
+              "batter": "C Miles",
+              "bowler": "EL Bartram",
+              "non_striker": "MD Rocha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "C Miles",
+              "bowler": "EL Bartram",
+              "non_striker": "MD Rocha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MD Rocha",
+                  "fielders": [
+                    {
+                      "name": "D Nanayakkara"
+                    },
+                    {
+                      "name": "EL Bartram"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "C Miles",
+              "bowler": "EL Bartram",
+              "non_striker": "T Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "C Miles",
+              "bowler": "EL Bartram",
+              "non_striker": "T Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "T Smith",
+              "bowler": "EL Bartram",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "T Smith",
+              "bowler": "EL Bartram",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "T Smith",
+              "bowler": "C Mahamalage",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "C Miles",
+              "bowler": "C Mahamalage",
+              "non_striker": "T Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "T Smith",
+              "bowler": "C Mahamalage",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Smith",
+                  "fielders": [
+                    {
+                      "name": "M Rathnayake"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "CM Greechan",
+              "bowler": "C Mahamalage",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "CM Greechan",
+              "bowler": "C Mahamalage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "CM Greechan",
+              "bowler": "C Mahamalage",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "CM Greechan",
+              "bowler": "C Mahamalage",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "C Miles",
+              "bowler": "EL Bartram",
+              "non_striker": "CM Greechan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "C Miles",
+              "bowler": "EL Bartram",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CM Greechan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "C Miles",
+              "bowler": "EL Bartram",
+              "non_striker": "CM Greechan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "CM Greechan",
+              "bowler": "EL Bartram",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "C Miles",
+              "bowler": "EL Bartram",
+              "non_striker": "CM Greechan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "C Miles",
+              "bowler": "EL Bartram",
+              "non_striker": "CM Greechan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "C Miles",
+              "bowler": "EL Bartram",
+              "non_striker": "CM Greechan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "C Miles",
+              "bowler": "C Mahamalage",
+              "non_striker": "CM Greechan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "C Miles",
+              "bowler": "C Mahamalage",
+              "non_striker": "CM Greechan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "C Miles",
+              "bowler": "C Mahamalage",
+              "non_striker": "CM Greechan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CM Greechan",
+                  "fielders": [
+                    {
+                      "name": "M Rathnayake"
+                    },
+                    {
+                      "name": "K Peddrick"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "A Merritt",
+              "bowler": "C Mahamalage",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "A Merritt",
+              "bowler": "C Mahamalage",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "A Merritt",
+              "bowler": "C Mahamalage",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "A Merritt",
+              "bowler": "K Peddrick",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "A Merritt",
+              "bowler": "K Peddrick",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "A Merritt",
+              "bowler": "K Peddrick",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "A Merritt",
+              "bowler": "K Peddrick",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "A Merritt",
+              "bowler": "K Peddrick",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "A Merritt",
+              "bowler": "K Peddrick",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "C Miles",
+              "bowler": "C Mahamalage",
+              "non_striker": "A Merritt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "C Miles",
+              "bowler": "C Mahamalage",
+              "non_striker": "A Merritt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "C Miles",
+              "bowler": "C Mahamalage",
+              "non_striker": "A Merritt",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "A Merritt",
+              "bowler": "C Mahamalage",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "A Merritt",
+              "bowler": "C Mahamalage",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "A Merritt",
+              "bowler": "C Mahamalage",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "A Merritt",
+              "bowler": "K Peddrick",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "A Merritt",
+              "bowler": "K Peddrick",
+              "non_striker": "C Miles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 43
+      }
+    }
+  ]
+}

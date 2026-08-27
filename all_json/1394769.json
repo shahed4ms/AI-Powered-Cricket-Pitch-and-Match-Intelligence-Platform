@@ -1,0 +1,1686 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2023-09-04",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangi",
+    "dates": [
+      "2023-09-04"
+    ],
+    "event": {
+      "name": "ICC Women's T20 World Cup Asia Region Qualifier",
+      "match_number": 19,
+      "group": "B"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 1600,
+    "officials": {
+      "match_referees": [
+        "M Nayyar"
+      ],
+      "reserve_umpires": [
+        "V Kalidas"
+      ],
+      "umpires": [
+        "Sarika Prasad",
+        "VG Rathi"
+      ]
+    },
+    "outcome": {
+      "winner": "China",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Chen Yue"
+    ],
+    "players": {
+      "Myanmar": [
+        "KM Myat",
+        "LL Htun",
+        "ZT Kyaw",
+        "Zon Lin",
+        "TT Soe",
+        "ZL Win",
+        "MPP San",
+        "Thae Thae Po",
+        "TT Aung",
+        "SY Win",
+        "AE Moe"
+      ],
+      "China": [
+        "Chen Yue",
+        "Rongyu Zhao",
+        "Yuanyuan Cai",
+        "C Zhou",
+        "Zi Mei",
+        "Han Lili",
+        "M Zhu",
+        "Xiuli Jin",
+        "Zheng Lili",
+        "Mengting Liu",
+        "Xu Qian"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AE Moe": "aac82442",
+        "C Zhou": "5b84f3bc",
+        "Chen Yue": "8b582549",
+        "Han Lili": "cd7134f5",
+        "KM Myat": "c1b4e25c",
+        "LL Htun": "ec687c3a",
+        "M Nayyar": "b7bccddb",
+        "M Zhu": "36c3302e",
+        "MPP San": "5bc290a2",
+        "Mengting Liu": "1119a645",
+        "Rongyu Zhao": "fc2b858f",
+        "SY Win": "33d65ab4",
+        "Sarika Prasad": "8ff397fa",
+        "TT Aung": "57fb24e6",
+        "TT Soe": "59f44fde",
+        "Thae Thae Po": "48a372a4",
+        "V Kalidas": "42d76418",
+        "VG Rathi": "144e5b16",
+        "Xiuli Jin": "f1d76e6f",
+        "Xu Qian": "4d382b64",
+        "Yuanyuan Cai": "39b12998",
+        "ZL Win": "b5714cf9",
+        "ZT Kyaw": "cdf63aaa",
+        "Zheng Lili": "9c2bb7da",
+        "Zi Mei": "72070f05",
+        "Zon Lin": "3b492b8d"
+      }
+    },
+    "season": "2023",
+    "team_type": "international",
+    "teams": [
+      "Myanmar",
+      "China"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "China"
+    },
+    "venue": "UKM-YSD Cricket Oval, Bangi"
+  },
+  "innings": [
+    {
+      "team": "Myanmar",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "KM Myat",
+              "bowler": "Xu Qian",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "KM Myat",
+              "bowler": "Xu Qian",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "KM Myat",
+              "bowler": "Xu Qian",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "KM Myat",
+              "bowler": "Xu Qian",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "KM Myat",
+              "bowler": "Xu Qian",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "LL Htun",
+              "bowler": "Xu Qian",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LL Htun",
+                  "fielders": [
+                    {
+                      "name": "C Zhou"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "KM Myat",
+              "bowler": "Yuanyuan Cai",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "ZT Kyaw",
+              "bowler": "Yuanyuan Cai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "ZT Kyaw",
+              "bowler": "Yuanyuan Cai",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "ZT Kyaw",
+              "bowler": "Yuanyuan Cai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "ZT Kyaw",
+              "bowler": "Yuanyuan Cai",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "ZT Kyaw",
+              "bowler": "Yuanyuan Cai",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "KM Myat",
+              "bowler": "Yuanyuan Cai",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "KM Myat",
+              "bowler": "Yuanyuan Cai",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "KM Myat",
+              "bowler": "Xu Qian",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KM Myat",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Zon Lin",
+              "bowler": "Xu Qian",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "ZT Kyaw",
+              "bowler": "Xu Qian",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "ZT Kyaw",
+              "bowler": "Xu Qian",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Zon Lin",
+              "bowler": "Xu Qian",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Zon Lin",
+              "bowler": "Xu Qian",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "ZT Kyaw",
+              "bowler": "Mengting Liu",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "ZT Kyaw",
+              "bowler": "Mengting Liu",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Zon Lin",
+              "bowler": "Mengting Liu",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Zon Lin",
+              "bowler": "Mengting Liu",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "ZT Kyaw",
+              "bowler": "Mengting Liu",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "ZT Kyaw",
+              "bowler": "Mengting Liu",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Zon Lin",
+              "bowler": "Zheng Lili",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Zon Lin",
+              "bowler": "Zheng Lili",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Zon Lin",
+              "bowler": "Zheng Lili",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Zon Lin",
+              "bowler": "Zheng Lili",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Zon Lin",
+              "bowler": "Zheng Lili",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Zon Lin",
+              "bowler": "Zheng Lili",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Zon Lin",
+              "bowler": "Mengting Liu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.1",
+              "batter": "Zon Lin",
+              "bowler": "Mengting Liu",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Zon Lin",
+              "bowler": "Mengting Liu",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Zon Lin",
+              "bowler": "Mengting Liu",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "ZT Kyaw",
+              "bowler": "Mengting Liu",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Zon Lin",
+              "bowler": "Mengting Liu",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Zon Lin",
+              "bowler": "Mengting Liu",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "ZT Kyaw",
+              "bowler": "Zheng Lili",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Zon Lin",
+              "bowler": "Zheng Lili",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Zon Lin",
+              "bowler": "Zheng Lili",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Zon Lin",
+              "bowler": "Zheng Lili",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Zon Lin",
+              "bowler": "Zheng Lili",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "ZT Kyaw",
+              "bowler": "Zheng Lili",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Zon Lin",
+              "bowler": "Zheng Lili",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "ZT Kyaw",
+              "bowler": "M Zhu",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "ZT Kyaw",
+              "bowler": "M Zhu",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Zon Lin",
+              "bowler": "M Zhu",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zon Lin",
+                  "fielders": [
+                    {
+                      "name": "Rongyu Zhao"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "TT Soe",
+              "bowler": "M Zhu",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "TT Soe",
+              "bowler": "M Zhu",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "ZT Kyaw",
+              "bowler": "M Zhu",
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "ZT Kyaw",
+              "bowler": "Xiuli Jin",
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "ZT Kyaw",
+                  "fielders": [
+                    {
+                      "name": "Zi Mei"
+                    },
+                    {
+                      "name": "Mengting Liu"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "ZL Win",
+              "bowler": "Xiuli Jin",
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "ZL Win",
+              "bowler": "Xiuli Jin",
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "ZL Win",
+              "bowler": "Xiuli Jin",
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "ZL Win",
+              "bowler": "Xiuli Jin",
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ZL Win",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "MPP San",
+              "bowler": "Xiuli Jin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "MPP San",
+              "bowler": "Xiuli Jin",
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "TT Soe",
+              "bowler": "Xu Qian",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "TT Soe",
+              "bowler": "Xu Qian",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "MPP San",
+              "bowler": "Xu Qian",
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "TT Soe",
+              "bowler": "Xu Qian",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "TT Soe",
+              "bowler": "Xu Qian",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "MPP San",
+              "bowler": "Xu Qian",
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "TT Soe",
+              "bowler": "Xiuli Jin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.1",
+              "batter": "TT Soe",
+              "bowler": "Xiuli Jin",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TT Soe",
+                  "fielders": [
+                    {
+                      "name": "Xiuli Jin"
+                    },
+                    {
+                      "name": "Zheng Lili"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "MPP San",
+              "bowler": "Xiuli Jin",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Thae Thae Po",
+              "bowler": "Xiuli Jin",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Thae Thae Po",
+              "bowler": "Xiuli Jin",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "MPP San",
+              "bowler": "Xiuli Jin",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Thae Thae Po",
+              "bowler": "Xiuli Jin",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "China",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Chen Yue",
+              "bowler": "LL Htun",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Chen Yue",
+              "bowler": "LL Htun",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Rongyu Zhao",
+              "bowler": "LL Htun",
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Rongyu Zhao",
+              "bowler": "LL Htun",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Rongyu Zhao",
+              "bowler": "LL Htun",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Chen Yue",
+              "bowler": "LL Htun",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Chen Yue",
+              "bowler": "LL Htun",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Rongyu Zhao",
+              "bowler": "TT Soe",
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Rongyu Zhao",
+              "bowler": "TT Soe",
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Chen Yue",
+              "bowler": "TT Soe",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Chen Yue",
+              "bowler": "TT Soe",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Chen Yue",
+              "bowler": "TT Soe",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Chen Yue",
+              "bowler": "TT Soe",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Rongyu Zhao",
+              "bowler": "LL Htun",
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Chen Yue",
+              "bowler": "LL Htun",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Chen Yue",
+              "bowler": "LL Htun",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Chen Yue",
+              "bowler": "LL Htun",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Chen Yue",
+              "bowler": "LL Htun",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Chen Yue",
+              "bowler": "LL Htun",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Rongyu Zhao",
+              "bowler": "TT Soe",
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Chen Yue",
+              "bowler": "TT Soe",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Chen Yue",
+              "bowler": "TT Soe",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Chen Yue",
+              "bowler": "TT Soe",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Chen Yue",
+              "bowler": "TT Soe",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Chen Yue",
+              "bowler": "TT Soe",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Rongyu Zhao",
+              "bowler": "ZT Kyaw",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.1",
+              "batter": "Rongyu Zhao",
+              "bowler": "ZT Kyaw",
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Rongyu Zhao",
+              "bowler": "ZT Kyaw",
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Rongyu Zhao",
+              "bowler": "ZT Kyaw",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Rongyu Zhao",
+              "bowler": "ZT Kyaw",
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Chen Yue",
+              "bowler": "ZT Kyaw",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Rongyu Zhao",
+              "bowler": "ZT Kyaw",
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Chen Yue",
+              "bowler": "ZT Kyaw",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 5,
+                "extras": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Chen Yue",
+              "bowler": "ZL Win",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Chen Yue",
+              "bowler": "ZL Win",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Rongyu Zhao",
+              "bowler": "ZL Win",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Rongyu Zhao",
+              "bowler": "ZL Win",
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Rongyu Zhao",
+              "bowler": "ZL Win",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Rongyu Zhao",
+              "bowler": "ZL Win",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Rongyu Zhao",
+              "bowler": "ZL Win",
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Chen Yue",
+              "bowler": "ZL Win",
+              "non_striker": "Rongyu Zhao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Rongyu Zhao",
+              "bowler": "Zon Lin",
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Rongyu Zhao",
+              "bowler": "Zon Lin",
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Rongyu Zhao",
+              "bowler": "Zon Lin",
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Rongyu Zhao",
+              "bowler": "Zon Lin",
+              "non_striker": "Chen Yue",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rongyu Zhao",
+                  "fielders": [
+                    {
+                      "name": "Zon Lin"
+                    },
+                    {
+                      "name": "TT Aung"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Chen Yue",
+              "bowler": "Zon Lin",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Yuanyuan Cai",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Chen Yue",
+              "bowler": "Zon Lin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Yuanyuan Cai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Chen Yue",
+              "bowler": "Zon Lin",
+              "non_striker": "Yuanyuan Cai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 11,
+        "runs": 50
+      }
+    }
+  ]
+}

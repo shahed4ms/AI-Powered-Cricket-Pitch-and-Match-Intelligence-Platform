@@ -1,0 +1,3304 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2024-10-08",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Sharjah",
+    "dates": [
+      "2024-10-03"
+    ],
+    "event": {
+      "name": "ICC Women's T20 World Cup",
+      "match_number": 2,
+      "group": "A"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2058,
+    "officials": {
+      "match_referees": [
+        "SA Fritz"
+      ],
+      "reserve_umpires": [
+        "VG Rathi"
+      ],
+      "tv_umpires": [
+        "AY Harris"
+      ],
+      "umpires": [
+        "Eloise Sheridan",
+        "Kim Cotton"
+      ]
+    },
+    "outcome": {
+      "winner": "Pakistan",
+      "by": {
+        "runs": 31
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Fatima Sana"
+    ],
+    "players": {
+      "Pakistan": [
+        "Muneeba Ali",
+        "Gull Feroza",
+        "Sidra Ameen",
+        "Umaima Sohail",
+        "Nida Dar",
+        "Tuba Hassan",
+        "Fatima Sana",
+        "Aliya Riaz",
+        "Diana Baig",
+        "Nashra Sandhu",
+        "Sadia Iqbal"
+      ],
+      "Sri Lanka": [
+        "RMVD Gunaratne",
+        "AC Jayangani",
+        "H Madavi",
+        "GWHM Perera",
+        "WK Dilhari",
+        "NND de Silva",
+        "MAA Sanjeewani",
+        "S Nisansala",
+        "BMSM Kumari",
+        "SIP Fernando",
+        "KDU Prabodhani"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AC Jayangani": "ac56b5a7",
+        "AY Harris": "90d95b82",
+        "Aliya Riaz": "2904b4b6",
+        "BMSM Kumari": "b55fb828",
+        "Diana Baig": "a51e6c6e",
+        "Eloise Sheridan": "d8d43840",
+        "Fatima Sana": "ea9c54de",
+        "GWHM Perera": "53068b45",
+        "Gull Feroza": "9ff1e91e",
+        "H Madavi": "85021bcd",
+        "KDU Prabodhani": "a0fdf513",
+        "Kim Cotton": "67a7c2ee",
+        "MAA Sanjeewani": "318a4039",
+        "Muneeba Ali": "86fdf668",
+        "NND de Silva": "f0b4294e",
+        "Nashra Sandhu": "c981d3c2",
+        "Nida Dar": "ed840f44",
+        "RMVD Gunaratne": "9e866b59",
+        "S Nisansala": "1251a339",
+        "SA Fritz": "d15e60c8",
+        "SIP Fernando": "5838cb64",
+        "Sadia Iqbal": "53bb50f0",
+        "Sidra Ameen": "72c9ad99",
+        "Tuba Hassan": "0d56e9a5",
+        "Umaima Sohail": "821d7d46",
+        "VG Rathi": "144e5b16",
+        "WK Dilhari": "c34a15e6"
+      }
+    },
+    "season": "2024/25",
+    "team_type": "international",
+    "teams": [
+      "Pakistan",
+      "Sri Lanka"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Pakistan"
+    },
+    "venue": "Sharjah Cricket Stadium"
+  },
+  "innings": [
+    {
+      "team": "Pakistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Muneeba Ali",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Muneeba Ali",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Gull Feroza",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Muneeba Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Muneeba Ali",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Muneeba Ali",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Muneeba Ali",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Gull Feroza",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Muneeba Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Gull Feroza",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Muneeba Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Muneeba Ali",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Muneeba Ali",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Muneeba Ali",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Gull Feroza",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Muneeba Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Gull Feroza",
+                  "fielders": [
+                    {
+                      "name": "MAA Sanjeewani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Muneeba Ali",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Muneeba Ali",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Muneeba Ali",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Muneeba Ali",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Sidra Ameen",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Muneeba Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Sidra Ameen",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Muneeba Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Sidra Ameen",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Muneeba Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Sidra Ameen",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Muneeba Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Muneeba Ali",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Muneeba Ali",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muneeba Ali",
+                  "fielders": [
+                    {
+                      "name": "MAA Sanjeewani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Umaima Sohail",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Umaima Sohail",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Sidra Ameen",
+              "bowler": "SIP Fernando",
+              "non_striker": "Umaima Sohail",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Sidra Ameen",
+              "bowler": "SIP Fernando",
+              "non_striker": "Umaima Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Umaima Sohail",
+              "bowler": "SIP Fernando",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Umaima Sohail",
+              "bowler": "SIP Fernando",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Sidra Ameen",
+              "bowler": "SIP Fernando",
+              "non_striker": "Umaima Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Sidra Ameen",
+              "bowler": "SIP Fernando",
+              "non_striker": "Umaima Sohail",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Umaima Sohail",
+              "bowler": "AC Jayangani",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Umaima Sohail",
+              "bowler": "AC Jayangani",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Sidra Ameen",
+              "bowler": "AC Jayangani",
+              "non_striker": "Umaima Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Umaima Sohail",
+              "bowler": "AC Jayangani",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Sidra Ameen",
+              "bowler": "AC Jayangani",
+              "non_striker": "Umaima Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sidra Ameen",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Nida Dar",
+              "bowler": "AC Jayangani",
+              "non_striker": "Umaima Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Umaima Sohail",
+              "bowler": "SIP Fernando",
+              "non_striker": "Nida Dar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Umaima Sohail",
+              "bowler": "SIP Fernando",
+              "non_striker": "Nida Dar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Nida Dar",
+              "bowler": "SIP Fernando",
+              "non_striker": "Umaima Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Umaima Sohail",
+              "bowler": "SIP Fernando",
+              "non_striker": "Nida Dar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Umaima Sohail",
+              "bowler": "SIP Fernando",
+              "non_striker": "Nida Dar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Nida Dar",
+              "bowler": "SIP Fernando",
+              "non_striker": "Umaima Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Nida Dar",
+              "bowler": "AC Jayangani",
+              "non_striker": "Umaima Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Umaima Sohail",
+              "bowler": "AC Jayangani",
+              "non_striker": "Nida Dar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Umaima Sohail",
+              "bowler": "AC Jayangani",
+              "non_striker": "Nida Dar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Umaima Sohail",
+              "bowler": "AC Jayangani",
+              "non_striker": "Nida Dar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Nida Dar",
+              "bowler": "AC Jayangani",
+              "non_striker": "Umaima Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Nida Dar",
+              "bowler": "AC Jayangani",
+              "non_striker": "Umaima Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Nida Dar",
+              "bowler": "S Nisansala",
+              "non_striker": "Umaima Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Umaima Sohail",
+              "bowler": "S Nisansala",
+              "non_striker": "Nida Dar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Umaima Sohail",
+              "bowler": "S Nisansala",
+              "non_striker": "Nida Dar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Umaima Sohail",
+              "bowler": "S Nisansala",
+              "non_striker": "Nida Dar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Nida Dar",
+              "bowler": "S Nisansala",
+              "non_striker": "Umaima Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Nida Dar",
+              "bowler": "S Nisansala",
+              "non_striker": "Umaima Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Umaima Sohail",
+              "bowler": "WK Dilhari",
+              "non_striker": "Nida Dar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Nida Dar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Umaima Sohail",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Nida Dar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Umaima Sohail",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Nida Dar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Umaima Sohail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Nida Dar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Umaima Sohail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Umaima Sohail",
+              "bowler": "WK Dilhari",
+              "non_striker": "Nida Dar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Umaima Sohail",
+                  "fielders": [
+                    {
+                      "name": "GWHM Perera"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Nida Dar",
+              "bowler": "S Nisansala",
+              "non_striker": "Tuba Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Tuba Hassan",
+              "bowler": "S Nisansala",
+              "non_striker": "Nida Dar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Nida Dar",
+              "bowler": "S Nisansala",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Tuba Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Nida Dar",
+              "bowler": "S Nisansala",
+              "non_striker": "Tuba Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Tuba Hassan",
+              "bowler": "S Nisansala",
+              "non_striker": "Nida Dar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Nida Dar",
+              "bowler": "S Nisansala",
+              "non_striker": "Tuba Hassan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Nida Dar",
+              "bowler": "S Nisansala",
+              "non_striker": "Tuba Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Tuba Hassan",
+              "bowler": "WK Dilhari",
+              "non_striker": "Nida Dar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Nida Dar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Tuba Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Tuba Hassan",
+              "bowler": "WK Dilhari",
+              "non_striker": "Nida Dar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Nida Dar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Tuba Hassan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Nida Dar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Tuba Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Tuba Hassan",
+              "bowler": "WK Dilhari",
+              "non_striker": "Nida Dar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Nida Dar",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Tuba Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Tuba Hassan",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Nida Dar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Nida Dar",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Tuba Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nida Dar",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Fatima Sana",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Tuba Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Tuba Hassan",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Tuba Hassan",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Fatima Sana",
+              "bowler": "AC Jayangani",
+              "non_striker": "Tuba Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Tuba Hassan",
+              "bowler": "AC Jayangani",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Tuba Hassan",
+                  "fielders": [
+                    {
+                      "name": "MAA Sanjeewani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Aliya Riaz",
+              "bowler": "AC Jayangani",
+              "non_striker": "Fatima Sana",
+              "review": {
+                "by": "Pakistan",
+                "umpire": "Kim Cotton",
+                "batter": "Aliya Riaz",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aliya Riaz",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Diana Baig",
+              "bowler": "AC Jayangani",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Diana Baig",
+              "bowler": "AC Jayangani",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Fatima Sana",
+              "bowler": "AC Jayangani",
+              "non_striker": "Diana Baig",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Fatima Sana",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Diana Baig",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Diana Baig",
+              "bowler": "BMSM Kumari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Diana Baig",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Fatima Sana",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Diana Baig",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Fatima Sana",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Diana Baig",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Diana Baig",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Diana Baig",
+                  "fielders": [
+                    {
+                      "name": "KDU Prabodhani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Nashra Sandhu",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Fatima Sana",
+              "bowler": "AC Jayangani",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Fatima Sana",
+              "bowler": "AC Jayangani",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Fatima Sana",
+              "bowler": "AC Jayangani",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Nashra Sandhu",
+              "bowler": "AC Jayangani",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Nashra Sandhu",
+              "bowler": "AC Jayangani",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Nashra Sandhu",
+              "bowler": "AC Jayangani",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Fatima Sana",
+              "bowler": "S Nisansala",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Fatima Sana",
+              "bowler": "S Nisansala",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Nashra Sandhu",
+              "bowler": "S Nisansala",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Nashra Sandhu",
+              "bowler": "S Nisansala",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Fatima Sana",
+              "bowler": "S Nisansala",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Fatima Sana",
+              "bowler": "S Nisansala",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Nashra Sandhu",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Nashra Sandhu",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Fatima Sana",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Fatima Sana",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Nashra Sandhu",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Nashra Sandhu",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Fatima Sana",
+              "bowler": "S Nisansala",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Fatima Sana",
+              "bowler": "S Nisansala",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Nashra Sandhu",
+              "bowler": "S Nisansala",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Fatima Sana",
+              "bowler": "S Nisansala",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Fatima Sana",
+              "bowler": "S Nisansala",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Nashra Sandhu",
+              "bowler": "S Nisansala",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Nashra Sandhu",
+              "bowler": "S Nisansala",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Fatima Sana",
+              "bowler": "KDU Prabodhani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.1",
+              "batter": "Fatima Sana",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Nashra Sandhu",
+              "review": {
+                "by": "Sri Lanka",
+                "umpire": "Kim Cotton",
+                "batter": "Fatima Sana",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Fatima Sana",
+                  "fielders": [
+                    {
+                      "name": "MAA Sanjeewani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Sadia Iqbal",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Nashra Sandhu",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Sadia Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Sadia Iqbal",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Nashra Sandhu",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Sadia Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Sadia Iqbal",
+              "bowler": "KDU Prabodhani",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sadia Iqbal",
+                  "fielders": [
+                    {
+                      "name": "RMVD Gunaratne"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sri Lanka",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Diana Baig",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "AC Jayangani",
+              "bowler": "Fatima Sana",
+              "non_striker": "RMVD Gunaratne",
+              "replacements": {
+                "role": [
+                  {
+                    "in": "Fatima Sana",
+                    "out": "Diana Baig",
+                    "reason": "injury",
+                    "role": "bowler"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Fatima Sana",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Fatima Sana",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Fatima Sana",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Fatima Sana",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "AC Jayangani",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "AC Jayangani",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "AC Jayangani",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "AC Jayangani",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "AC Jayangani",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "AC Jayangani",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "AC Jayangani",
+              "bowler": "Fatima Sana",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "AC Jayangani",
+              "bowler": "Fatima Sana",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AC Jayangani",
+                  "fielders": [
+                    {
+                      "name": "Umaima Sohail"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "H Madavi",
+              "bowler": "Fatima Sana",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "H Madavi",
+              "bowler": "Fatima Sana",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Fatima Sana",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Fatima Sana",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "H Madavi",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "H Madavi",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Sadia Iqbal",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "H Madavi",
+              "bowler": "Nida Dar",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "H Madavi",
+              "bowler": "Nida Dar",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Nida Dar",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Nida Dar",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "H Madavi",
+              "bowler": "Nida Dar",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Nida Dar",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "H Madavi",
+              "bowler": "Umaima Sohail",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "H Madavi",
+              "bowler": "Umaima Sohail",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Umaima Sohail",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Umaima Sohail",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "H Madavi",
+              "bowler": "Umaima Sohail",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Madavi",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "GWHM Perera",
+              "bowler": "Umaima Sohail",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "GWHM Perera",
+              "bowler": "Nida Dar",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "GWHM Perera",
+              "bowler": "Nida Dar",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "GWHM Perera",
+              "bowler": "Nida Dar",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "GWHM Perera",
+              "bowler": "Nida Dar",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Nida Dar",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "GWHM Perera",
+              "bowler": "Nida Dar",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "GWHM Perera",
+              "bowler": "Umaima Sohail",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Umaima Sohail",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "GWHM Perera",
+              "bowler": "Umaima Sohail",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "GWHM Perera",
+              "bowler": "Umaima Sohail",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "GWHM Perera",
+              "bowler": "Umaima Sohail",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GWHM Perera",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "WK Dilhari",
+              "bowler": "Umaima Sohail",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "WK Dilhari",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "WK Dilhari",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "WK Dilhari",
+              "bowler": "Umaima Sohail",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "WK Dilhari",
+              "bowler": "Umaima Sohail",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Umaima Sohail",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "WK Dilhari",
+              "bowler": "Umaima Sohail",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Umaima Sohail",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Umaima Sohail",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Umaima Sohail",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "WK Dilhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "WK Dilhari",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "WK Dilhari",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WK Dilhari",
+                  "fielders": [
+                    {
+                      "name": "Nida Dar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "NND de Silva",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "NND de Silva",
+              "bowler": "Umaima Sohail",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Umaima Sohail",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Umaima Sohail",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Umaima Sohail",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "NND de Silva",
+              "bowler": "Umaima Sohail",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Umaima Sohail",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "NND de Silva",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "NND de Silva",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "RMVD Gunaratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "RMVD Gunaratne",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RMVD Gunaratne",
+                  "fielders": [
+                    {
+                      "name": "Sidra Ameen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "MAA Sanjeewani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "MAA Sanjeewani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "NND de Silva",
+              "bowler": "Tuba Hassan",
+              "non_striker": "MAA Sanjeewani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "MAA Sanjeewani",
+              "bowler": "Tuba Hassan",
+              "non_striker": "NND de Silva",
+              "review": {
+                "by": "Sri Lanka",
+                "umpire": "Eloise Sheridan",
+                "batter": "MAA Sanjeewani",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "MAA Sanjeewani",
+              "bowler": "Tuba Hassan",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "NND de Silva",
+              "bowler": "Tuba Hassan",
+              "non_striker": "MAA Sanjeewani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "NND de Silva",
+              "bowler": "Tuba Hassan",
+              "non_striker": "MAA Sanjeewani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "NND de Silva",
+              "bowler": "Tuba Hassan",
+              "non_striker": "MAA Sanjeewani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "NND de Silva",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "MAA Sanjeewani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "NND de Silva",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "MAA Sanjeewani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "MAA Sanjeewani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "MAA Sanjeewani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "NND de Silva",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "MAA Sanjeewani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "NND de Silva",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "MAA Sanjeewani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "MAA Sanjeewani",
+              "bowler": "Tuba Hassan",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "NND de Silva",
+              "bowler": "Tuba Hassan",
+              "non_striker": "MAA Sanjeewani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "NND de Silva",
+              "bowler": "Tuba Hassan",
+              "non_striker": "MAA Sanjeewani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "NND de Silva",
+              "bowler": "Tuba Hassan",
+              "non_striker": "MAA Sanjeewani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "MAA Sanjeewani",
+              "bowler": "Tuba Hassan",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "NND de Silva",
+              "bowler": "Tuba Hassan",
+              "non_striker": "MAA Sanjeewani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "NND de Silva",
+              "bowler": "Sadia Iqbal",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MAA Sanjeewani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "MAA Sanjeewani",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "NND de Silva",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "MAA Sanjeewani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "MAA Sanjeewani",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MAA Sanjeewani",
+                  "fielders": [
+                    {
+                      "name": "Gull Feroza"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "S Nisansala",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "NND de Silva",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "S Nisansala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "NND de Silva",
+              "bowler": "Nida Dar",
+              "non_striker": "S Nisansala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "S Nisansala",
+              "bowler": "Nida Dar",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "S Nisansala",
+              "bowler": "Nida Dar",
+              "non_striker": "NND de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "NND de Silva",
+              "bowler": "Nida Dar",
+              "non_striker": "S Nisansala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "NND de Silva",
+              "bowler": "Nida Dar",
+              "non_striker": "S Nisansala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "NND de Silva",
+              "bowler": "Nida Dar",
+              "non_striker": "S Nisansala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "S Nisansala",
+              "bowler": "Sadia Iqbal",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "NND de Silva",
+              "review": {
+                "by": "Pakistan",
+                "umpire": "Kim Cotton",
+                "batter": "S Nisansala",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "NND de Silva",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "S Nisansala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NND de Silva",
+                  "fielders": [
+                    {
+                      "name": "Nashra Sandhu"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "BMSM Kumari",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "S Nisansala",
+              "review": {
+                "by": "Sri Lanka",
+                "umpire": "Kim Cotton",
+                "batter": "BMSM Kumari",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BMSM Kumari",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "SIP Fernando",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "S Nisansala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "SIP Fernando",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "S Nisansala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "S Nisansala",
+              "bowler": "Sadia Iqbal",
+              "non_striker": "SIP Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "S Nisansala",
+              "bowler": "Fatima Sana",
+              "non_striker": "SIP Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "S Nisansala",
+              "bowler": "Fatima Sana",
+              "non_striker": "SIP Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Nisansala",
+                  "fielders": [
+                    {
+                      "name": "Muneeba Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "KDU Prabodhani",
+              "bowler": "Fatima Sana",
+              "non_striker": "SIP Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "KDU Prabodhani",
+              "bowler": "Fatima Sana",
+              "non_striker": "SIP Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "KDU Prabodhani",
+              "bowler": "Fatima Sana",
+              "non_striker": "SIP Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "SIP Fernando",
+              "bowler": "Fatima Sana",
+              "non_striker": "KDU Prabodhani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 117
+      }
+    }
+  ]
+}

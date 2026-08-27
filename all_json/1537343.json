@@ -1,0 +1,3174 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-07-28",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dambulla",
+    "dates": [
+      "2026-07-26"
+    ],
+    "event": {
+      "name": "Lanka Premier League",
+      "match_number": 13
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "BCMS Mendis"
+      ],
+      "reserve_umpires": [
+        "PSR Fonseka"
+      ],
+      "tv_umpires": [
+        "RR Wimalasiri"
+      ],
+      "umpires": [
+        "RMPJ Rambukwella",
+        "R Dulsiri"
+      ]
+    },
+    "outcome": {
+      "winner": "Jaffna Kings",
+      "by": {
+        "runs": 93
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "K Mishara"
+    ],
+    "players": {
+      "Jaffna Kings": [
+        "D Madushanka",
+        "K Mishara",
+        "WIA Fernando",
+        "Towhid Hridoy",
+        "PBB Rajapaksa",
+        "C Wickramasinghe",
+        "DN Wellalage",
+        "Ibrahim Zadran",
+        "Shakib Al Hasan",
+        "D Wiese",
+        "T Mathew",
+        "M Shiraz"
+      ],
+      "Kandy Royals": [
+        "N Thushara",
+        "MDKJ Perera",
+        "LU Igalagamage",
+        "DN Phillips",
+        "AD Mathews",
+        "V Shankar",
+        "MM Ali",
+        "PWH de Silva",
+        "MADI Hemantha",
+        "Shaheen Shah Afridi",
+        "AM Fernando",
+        "G Sanketh"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AD Mathews": "896d78ad",
+        "AM Fernando": "de3d549a",
+        "BCMS Mendis": "e3f6e4ac",
+        "C Wickramasinghe": "a5c48ed1",
+        "D Madushanka": "de7d833e",
+        "D Wiese": "aa8d28ae",
+        "DN Phillips": "be0c9f5b",
+        "DN Wellalage": "736123bb",
+        "G Sanketh": "40db4769",
+        "Ibrahim Zadran": "d4550956",
+        "K Mishara": "65cebd5d",
+        "LU Igalagamage": "07b6c3c1",
+        "M Shiraz": "cdac5a3d",
+        "MADI Hemantha": "58431ca0",
+        "MDKJ Perera": "f21043a5",
+        "MM Ali": "bb351c23",
+        "MNK Fernando": "ba603555",
+        "N Thushara": "ee1b6c27",
+        "PBB Rajapaksa": "6c882e9a",
+        "PSR Fonseka": "8fd2cea5",
+        "PWH de Silva": "a97c8ec2",
+        "R Dulsiri": "a7d3d23c",
+        "RMPJ Rambukwella": "13fa6ffc",
+        "RR Wimalasiri": "4950c8db",
+        "Shaheen Shah Afridi": "45a7e761",
+        "Shakib Al Hasan": "7dc35884",
+        "T Mathew": "c13e8df5",
+        "Towhid Hridoy": "9e52a414",
+        "V Shankar": "0994d0ae",
+        "WIA Fernando": "9550470d"
+      }
+    },
+    "season": "2026",
+    "team_type": "club",
+    "teams": [
+      "Jaffna Kings",
+      "Kandy Royals"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Jaffna Kings"
+    },
+    "venue": "Rangiri Dambulla International Stadium"
+  },
+  "innings": [
+    {
+      "team": "Jaffna Kings",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "K Mishara",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "K Mishara",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "K Mishara",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "WIA Fernando",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "WIA Fernando",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "WIA Fernando",
+              "bowler": "Shaheen Shah Afridi",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "WIA Fernando",
+              "bowler": "N Thushara",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "K Mishara",
+              "bowler": "N Thushara",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "K Mishara",
+              "bowler": "N Thushara",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "WIA Fernando",
+              "bowler": "N Thushara",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "WIA Fernando",
+              "bowler": "N Thushara",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "K Mishara",
+              "bowler": "N Thushara",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "K Mishara",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "WIA Fernando",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "WIA Fernando",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "WIA Fernando",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "K Mishara",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "K Mishara",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "WIA Fernando",
+              "bowler": "AM Fernando",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "WIA Fernando",
+              "bowler": "AM Fernando",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "WIA Fernando",
+              "bowler": "AM Fernando",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "K Mishara",
+              "review": {
+                "by": "Kandy Royals",
+                "umpire": "R Dulsiri",
+                "batter": "K Mishara",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "K Mishara",
+              "bowler": "AM Fernando",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "WIA Fernando",
+              "bowler": "AM Fernando",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "K Mishara",
+              "bowler": "AM Fernando",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "WIA Fernando",
+              "bowler": "N Thushara",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "WIA Fernando",
+              "bowler": "N Thushara",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "WIA Fernando",
+              "bowler": "N Thushara",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "WIA Fernando",
+              "bowler": "N Thushara",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "K Mishara",
+              "bowler": "N Thushara",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "WIA Fernando",
+              "bowler": "N Thushara",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "WIA Fernando",
+              "bowler": "MM Ali",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "WIA Fernando",
+              "bowler": "MM Ali",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "K Mishara",
+              "bowler": "MM Ali",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "WIA Fernando",
+              "bowler": "MM Ali",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "WIA Fernando",
+              "bowler": "MM Ali",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "WIA Fernando",
+              "bowler": "MM Ali",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "K Mishara",
+              "bowler": "PWH de Silva",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "WIA Fernando",
+              "bowler": "PWH de Silva",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "K Mishara",
+              "bowler": "PWH de Silva",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "K Mishara",
+              "bowler": "PWH de Silva",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "WIA Fernando",
+              "bowler": "PWH de Silva",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "K Mishara",
+              "bowler": "PWH de Silva",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "K Mishara",
+              "bowler": "MM Ali",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "K Mishara",
+              "bowler": "MM Ali",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "K Mishara",
+              "bowler": "MM Ali",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "K Mishara",
+              "bowler": "MM Ali",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "K Mishara",
+              "bowler": "MM Ali",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "K Mishara",
+              "bowler": "MM Ali",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "K Mishara",
+              "bowler": "PWH de Silva",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "WIA Fernando",
+              "bowler": "PWH de Silva",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "K Mishara",
+              "bowler": "PWH de Silva",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "K Mishara",
+              "bowler": "PWH de Silva",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "K Mishara",
+              "bowler": "PWH de Silva",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "K Mishara",
+              "bowler": "PWH de Silva",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "K Mishara",
+              "bowler": "G Sanketh",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "K Mishara",
+              "bowler": "G Sanketh",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "K Mishara",
+              "bowler": "G Sanketh",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "WIA Fernando",
+              "bowler": "G Sanketh",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "K Mishara",
+              "bowler": "G Sanketh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "K Mishara",
+              "bowler": "G Sanketh",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "K Mishara",
+              "bowler": "G Sanketh",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "WIA Fernando",
+              "bowler": "G Sanketh",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "K Mishara",
+              "bowler": "MADI Hemantha",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "K Mishara",
+              "bowler": "MADI Hemantha",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "K Mishara",
+              "bowler": "MADI Hemantha",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "WIA Fernando",
+              "bowler": "MADI Hemantha",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "K Mishara",
+              "bowler": "MADI Hemantha",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "WIA Fernando",
+              "bowler": "MADI Hemantha",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "K Mishara",
+              "bowler": "G Sanketh",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "K Mishara",
+              "bowler": "G Sanketh",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "K Mishara",
+              "bowler": "G Sanketh",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "WIA Fernando",
+              "bowler": "G Sanketh",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "WIA Fernando",
+              "bowler": "G Sanketh",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "K Mishara",
+              "bowler": "G Sanketh",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "WIA Fernando",
+              "bowler": "MADI Hemantha",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "WIA Fernando",
+              "bowler": "MADI Hemantha",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "WIA Fernando",
+              "bowler": "MADI Hemantha",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "K Mishara",
+              "bowler": "MADI Hemantha",
+              "non_striker": "WIA Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "WIA Fernando",
+              "bowler": "MADI Hemantha",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WIA Fernando",
+                  "fielders": [
+                    {
+                      "name": "AM Fernando"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Towhid Hridoy",
+              "bowler": "MADI Hemantha",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Towhid Hridoy",
+              "bowler": "AM Fernando",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "K Mishara",
+              "bowler": "AM Fernando",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Towhid Hridoy",
+              "bowler": "AM Fernando",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "K Mishara",
+              "bowler": "AM Fernando",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "K Mishara",
+              "bowler": "AM Fernando",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "K Mishara",
+              "bowler": "AM Fernando",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Towhid Hridoy",
+              "bowler": "PWH de Silva",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "K Mishara",
+              "bowler": "PWH de Silva",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "K Mishara",
+              "bowler": "PWH de Silva",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Towhid Hridoy",
+              "bowler": "PWH de Silva",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Towhid Hridoy",
+              "bowler": "PWH de Silva",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "K Mishara",
+              "bowler": "PWH de Silva",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "K Mishara",
+              "bowler": "N Thushara",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Towhid Hridoy",
+              "bowler": "N Thushara",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "K Mishara",
+              "bowler": "N Thushara",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Towhid Hridoy",
+              "bowler": "N Thushara",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "K Mishara",
+              "bowler": "N Thushara",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "K Mishara",
+              "bowler": "N Thushara",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Towhid Hridoy",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "K Mishara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "K Mishara",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Mishara",
+                  "fielders": [
+                    {
+                      "name": "LU Igalagamage"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "PBB Rajapaksa",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Towhid Hridoy",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "PBB Rajapaksa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "PBB Rajapaksa",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PBB Rajapaksa",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "C Wickramasinghe",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Towhid Hridoy",
+              "bowler": "AM Fernando",
+              "non_striker": "C Wickramasinghe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Towhid Hridoy",
+              "bowler": "AM Fernando",
+              "non_striker": "C Wickramasinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Towhid Hridoy",
+              "bowler": "AM Fernando",
+              "non_striker": "C Wickramasinghe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Towhid Hridoy",
+              "bowler": "AM Fernando",
+              "non_striker": "C Wickramasinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "C Wickramasinghe",
+              "bowler": "AM Fernando",
+              "non_striker": "Towhid Hridoy",
+              "review": {
+                "by": "Kandy Royals",
+                "umpire": "R Dulsiri",
+                "batter": "C Wickramasinghe",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "C Wickramasinghe",
+              "bowler": "AM Fernando",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Towhid Hridoy",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "C Wickramasinghe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Towhid Hridoy",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "C Wickramasinghe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "C Wickramasinghe",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "C Wickramasinghe",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "C Wickramasinghe",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "C Wickramasinghe",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Wickramasinghe",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Towhid Hridoy",
+              "bowler": "N Thushara",
+              "non_striker": "DN Wellalage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Towhid Hridoy",
+              "bowler": "N Thushara",
+              "non_striker": "DN Wellalage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Towhid Hridoy",
+              "bowler": "N Thushara",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "DN Wellalage",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "DN Wellalage",
+              "bowler": "N Thushara",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Towhid Hridoy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Towhid Hridoy",
+              "bowler": "N Thushara",
+              "non_striker": "DN Wellalage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Towhid Hridoy",
+              "bowler": "N Thushara",
+              "non_striker": "DN Wellalage",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Towhid Hridoy",
+              "bowler": "N Thushara",
+              "non_striker": "DN Wellalage",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 15.1,
+          "to": 16.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Kandy Royals",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "MDKJ Perera",
+              "bowler": "M Shiraz",
+              "non_striker": "LU Igalagamage",
+              "replacements": {
+                "match": [
+                  {
+                    "in": "D Madushanka",
+                    "out": "C Wickramasinghe",
+                    "team": "Jaffna Kings",
+                    "reason": "impact_player"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "MDKJ Perera",
+              "bowler": "M Shiraz",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "MDKJ Perera",
+              "bowler": "M Shiraz",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MDKJ Perera",
+                  "fielders": [
+                    {
+                      "name": "D Madushanka"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "DN Phillips",
+              "bowler": "M Shiraz",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "LU Igalagamage",
+              "bowler": "M Shiraz",
+              "non_striker": "DN Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "LU Igalagamage",
+              "bowler": "M Shiraz",
+              "non_striker": "DN Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "LU Igalagamage",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DN Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "LU Igalagamage",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DN Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "DN Phillips",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "LU Igalagamage",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DN Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "LU Igalagamage",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DN Phillips",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "LU Igalagamage",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "DN Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "LU Igalagamage",
+              "bowler": "M Shiraz",
+              "non_striker": "DN Phillips",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "DN Phillips",
+              "bowler": "M Shiraz",
+              "non_striker": "LU Igalagamage",
+              "review": {
+                "by": "Jaffna Kings",
+                "umpire": "RMPJ Rambukwella",
+                "batter": "DN Phillips",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DN Phillips",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "AD Mathews",
+              "bowler": "M Shiraz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LU Igalagamage",
+              "replacements": {
+                "match": [
+                  {
+                    "in": "AD Mathews",
+                    "out": "N Thushara",
+                    "team": "Kandy Royals",
+                    "reason": "impact_player"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "AD Mathews",
+              "bowler": "M Shiraz",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "AD Mathews",
+              "bowler": "M Shiraz",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "AD Mathews",
+              "bowler": "M Shiraz",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "AD Mathews",
+              "bowler": "M Shiraz",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "AD Mathews",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "AD Mathews",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "AD Mathews",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "LU Igalagamage",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "LU Igalagamage",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "LU Igalagamage",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "AD Mathews",
+              "bowler": "D Madushanka",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "AD Mathews",
+              "bowler": "D Madushanka",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "LU Igalagamage",
+              "bowler": "D Madushanka",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "LU Igalagamage",
+              "bowler": "D Madushanka",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "LU Igalagamage",
+              "bowler": "D Madushanka",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "LU Igalagamage",
+              "bowler": "D Madushanka",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "AD Mathews",
+              "bowler": "DN Wellalage",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "LU Igalagamage",
+              "bowler": "DN Wellalage",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "AD Mathews",
+              "bowler": "DN Wellalage",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "AD Mathews",
+              "bowler": "DN Wellalage",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "LU Igalagamage",
+              "bowler": "DN Wellalage",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "LU Igalagamage",
+              "bowler": "DN Wellalage",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "AD Mathews",
+              "bowler": "D Madushanka",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "AD Mathews",
+              "bowler": "D Madushanka",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "AD Mathews",
+              "bowler": "D Madushanka",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "LU Igalagamage",
+              "bowler": "D Madushanka",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "AD Mathews",
+              "bowler": "D Madushanka",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "LU Igalagamage",
+              "bowler": "D Madushanka",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "LU Igalagamage",
+              "bowler": "T Mathew",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "AD Mathews",
+              "bowler": "T Mathew",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "LU Igalagamage",
+              "bowler": "T Mathew",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "LU Igalagamage",
+              "bowler": "T Mathew",
+              "non_striker": "AD Mathews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "AD Mathews",
+              "bowler": "T Mathew",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AD Mathews",
+                  "fielders": [
+                    {
+                      "name": "MNK Fernando",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "V Shankar",
+              "bowler": "T Mathew",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "LU Igalagamage",
+              "bowler": "DN Wellalage",
+              "non_striker": "V Shankar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "LU Igalagamage",
+              "bowler": "DN Wellalage",
+              "non_striker": "V Shankar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "V Shankar",
+              "bowler": "DN Wellalage",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "V Shankar",
+              "bowler": "DN Wellalage",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Shankar",
+                  "fielders": [
+                    {
+                      "name": "PBB Rajapaksa"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "MM Ali",
+              "bowler": "DN Wellalage",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "LU Igalagamage",
+              "bowler": "DN Wellalage",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "LU Igalagamage",
+              "bowler": "T Mathew",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "MM Ali",
+              "bowler": "T Mathew",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "MM Ali",
+              "bowler": "T Mathew",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "MM Ali",
+              "bowler": "T Mathew",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "MM Ali",
+              "bowler": "T Mathew",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "LU Igalagamage",
+              "bowler": "T Mathew",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "LU Igalagamage",
+              "bowler": "DN Wellalage",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "LU Igalagamage",
+              "bowler": "DN Wellalage",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "MM Ali",
+              "bowler": "DN Wellalage",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "LU Igalagamage",
+              "bowler": "DN Wellalage",
+              "non_striker": "MM Ali",
+              "review": {
+                "by": "Jaffna Kings",
+                "umpire": "RMPJ Rambukwella",
+                "batter": "LU Igalagamage",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "LU Igalagamage",
+              "bowler": "DN Wellalage",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "MM Ali",
+              "bowler": "DN Wellalage",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "MM Ali",
+              "bowler": "T Mathew",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "LU Igalagamage",
+              "bowler": "T Mathew",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "LU Igalagamage",
+              "bowler": "T Mathew",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "LU Igalagamage",
+              "bowler": "T Mathew",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "LU Igalagamage",
+              "bowler": "T Mathew",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "MM Ali",
+              "bowler": "T Mathew",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "MM Ali",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "LU Igalagamage",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "LU Igalagamage",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "LU Igalagamage",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "MM Ali",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MM Ali",
+                  "fielders": [
+                    {
+                      "name": "D Wiese"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "PWH de Silva",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "LU Igalagamage",
+              "bowler": "D Wiese",
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "PWH de Silva",
+              "bowler": "D Wiese",
+              "non_striker": "LU Igalagamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "LU Igalagamage",
+              "bowler": "D Wiese",
+              "non_striker": "PWH de Silva",
+              "review": {
+                "by": "Kandy Royals",
+                "umpire": "R Dulsiri",
+                "batter": "LU Igalagamage",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LU Igalagamage",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "MADI Hemantha",
+              "bowler": "D Wiese",
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "PWH de Silva",
+              "bowler": "D Wiese",
+              "non_striker": "MADI Hemantha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "MADI Hemantha",
+              "bowler": "D Wiese",
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "MADI Hemantha",
+              "bowler": "DN Wellalage",
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MADI Hemantha",
+                  "fielders": [
+                    {
+                      "name": "Towhid Hridoy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "DN Wellalage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "DN Wellalage",
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "DN Wellalage",
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "PWH de Silva",
+              "bowler": "DN Wellalage",
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "DN Wellalage",
+              "non_striker": "PWH de Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "PWH de Silva",
+              "bowler": "DN Wellalage",
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PWH de Silva",
+                  "fielders": [
+                    {
+                      "name": "D Wiese"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "D Madushanka",
+              "non_striker": "AM Fernando",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "D Madushanka",
+              "non_striker": "AM Fernando",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "D Madushanka",
+              "non_striker": "AM Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "D Madushanka",
+              "non_striker": "AM Fernando",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "D Madushanka",
+              "non_striker": "AM Fernando",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "AM Fernando",
+              "bowler": "D Madushanka",
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AM Fernando",
+                  "fielders": [
+                    {
+                      "name": "D Madushanka"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "M Shiraz",
+              "non_striker": "G Sanketh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "M Shiraz",
+              "non_striker": "G Sanketh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "G Sanketh",
+              "bowler": "M Shiraz",
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "G Sanketh",
+              "bowler": "M Shiraz",
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "G Sanketh",
+              "bowler": "M Shiraz",
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "M Shiraz",
+              "non_striker": "G Sanketh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "D Madushanka",
+              "non_striker": "G Sanketh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "D Madushanka",
+              "non_striker": "G Sanketh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "D Madushanka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Sanketh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "D Madushanka",
+              "non_striker": "G Sanketh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "D Madushanka",
+              "non_striker": "G Sanketh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "D Madushanka",
+              "non_striker": "G Sanketh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "D Madushanka",
+              "non_striker": "G Sanketh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "M Shiraz",
+              "non_striker": "G Sanketh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "M Shiraz",
+              "non_striker": "G Sanketh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shaheen Shah Afridi",
+                  "fielders": [
+                    {
+                      "name": "D Madushanka"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 15.1,
+          "to": 16.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 200
+      }
+    }
+  ]
+}

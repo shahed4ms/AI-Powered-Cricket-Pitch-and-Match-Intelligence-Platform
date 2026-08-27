@@ -1,0 +1,6953 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2014-06-12",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Apia",
+    "dates": [
+      "2012-09-22"
+    ],
+    "event": {
+      "name": "ICC World Cricket League Division Eight",
+      "stage": "5th Place Play-Off"
+    },
+    "gender": "male",
+    "match_type": "ODM",
+    "missing": [
+      {
+        "powerplays": {
+          "1": [
+            "fielding",
+            "batting"
+          ],
+          "2": [
+            "fielding",
+            "batting"
+          ]
+        }
+      }
+    ],
+    "officials": {
+      "match_referees": [
+        "SR Bernard"
+      ],
+      "umpires": [
+        "CD Elly",
+        "N Morrison"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "runs": 134
+      },
+      "winner": "Norway"
+    },
+    "overs": 50,
+    "player_of_match": [
+      "Tafseer Ali"
+    ],
+    "players": {
+      "Norway": [
+        "Zeeshan Siddiqui",
+        "Safir Hayat",
+        "E Ul Haq",
+        "M Shahbaz Butt",
+        "Shahid Ahmed",
+        "Ali Saleem",
+        "Tafseer Ali",
+        "UH Sahi",
+        "Babar Shahzad",
+        "Wasim Tahir",
+        "Waheed Aamir"
+      ],
+      "Samoa": [
+        "S Cotter",
+        "G Clarke",
+        "BF Mailata",
+        "DE Burgess",
+        "T Kaisala",
+        "F Mulivai",
+        "IC West",
+        "ML Su'a",
+        "W Mariner",
+        "T Alatasi",
+        "N Vaasili"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Ali Saleem": "661e8a03",
+        "BF Mailata": "f49935eb",
+        "Babar Shahzad": "a3c88e4e",
+        "CD Elly": "3a72e521",
+        "DE Burgess": "7bf39e5c",
+        "E Ul Haq": "3559290a",
+        "F Mulivai": "4bc4141a",
+        "G Clarke": "56108eaf",
+        "IC West": "d8d1df82",
+        "M Shahbaz Butt": "5ef3c310",
+        "ML Su'a": "a4bdab82",
+        "N Morrison": "4d6675ec",
+        "N Vaasili": "c53cfae5",
+        "S Cotter": "e6127436",
+        "SR Bernard": "800187dc",
+        "Safir Hayat": "5d939369",
+        "Shahid Ahmed": "f2c2032b",
+        "T Alatasi": "0fc748f4",
+        "T Kaisala": "80ba2fe8",
+        "Tafseer Ali": "b9c3ffcd",
+        "UH Sahi": "2a66cc06",
+        "W Mariner": "3fd1c55b",
+        "Waheed Aamir": "c0b2518a",
+        "Waseem Gill": "720251c8",
+        "Wasim Tahir": "1e58f0e5",
+        "Zeeshan Siddiqui": "94d905d5"
+      }
+    },
+    "season": 2012,
+    "team_type": "international",
+    "teams": [
+      "Samoa",
+      "Norway"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Samoa"
+    },
+    "venue": "Faleata Oval No 3"
+  },
+  "innings": [
+    {
+      "team": "Norway",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "N Vaasili",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "N Vaasili",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "N Vaasili",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "N Vaasili",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "N Vaasili",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "N Vaasili",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Safir Hayat",
+              "bowler": "F Mulivai",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Safir Hayat",
+              "bowler": "F Mulivai",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Safir Hayat",
+              "bowler": "F Mulivai",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Safir Hayat",
+              "bowler": "F Mulivai",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "N Vaasili",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "N Vaasili",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Safir Hayat",
+              "bowler": "N Vaasili",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Safir Hayat",
+              "bowler": "N Vaasili",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Safir Hayat",
+              "bowler": "N Vaasili",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Safir Hayat",
+              "bowler": "N Vaasili",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Safir Hayat",
+              "bowler": "F Mulivai",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Safir Hayat",
+              "bowler": "F Mulivai",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "N Vaasili",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "N Vaasili",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "N Vaasili",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "N Vaasili",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Safir Hayat",
+              "bowler": "N Vaasili",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Safir Hayat",
+              "bowler": "N Vaasili",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "non_striker": "Safir Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Safir Hayat",
+              "bowler": "F Mulivai",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Safir Hayat",
+              "bowler": "F Mulivai",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Safir Hayat",
+              "bowler": "F Mulivai",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Safir Hayat"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "E Ul Haq",
+              "bowler": "F Mulivai",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "non_striker": "E Ul Haq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "E Ul Haq",
+              "bowler": "N Vaasili",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "E Ul Haq",
+              "bowler": "N Vaasili",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "E Ul Haq",
+              "bowler": "N Vaasili",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "E Ul Haq",
+              "bowler": "N Vaasili",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "E Ul Haq",
+              "bowler": "N Vaasili",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "E Ul Haq",
+              "bowler": "N Vaasili",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "E Ul Haq",
+              "bowler": "N Vaasili",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "non_striker": "E Ul Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "non_striker": "E Ul Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "non_striker": "E Ul Haq",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "non_striker": "E Ul Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "non_striker": "E Ul Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "F Mulivai",
+              "non_striker": "E Ul Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "E Ul Haq",
+              "bowler": "N Vaasili",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "E Ul Haq",
+              "bowler": "N Vaasili",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "E Ul Haq",
+              "bowler": "N Vaasili",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "N Vaasili",
+              "non_striker": "E Ul Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "N Vaasili",
+              "non_striker": "E Ul Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "N Vaasili",
+              "non_striker": "E Ul Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "E Ul Haq",
+              "bowler": "T Alatasi",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "E Ul Haq",
+                  "fielders": [
+                    {
+                      "name": "S Cotter"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "M Shahbaz Butt",
+              "bowler": "T Alatasi",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "M Shahbaz Butt",
+              "bowler": "T Alatasi",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "M Shahbaz Butt",
+              "bowler": "T Alatasi",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "M Shahbaz Butt",
+              "bowler": "T Alatasi",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "M Shahbaz Butt",
+              "bowler": "T Alatasi",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "N Vaasili",
+              "non_striker": "M Shahbaz Butt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "M Shahbaz Butt",
+              "bowler": "N Vaasili",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "M Shahbaz Butt",
+              "bowler": "N Vaasili",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "M Shahbaz Butt",
+              "bowler": "N Vaasili",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "M Shahbaz Butt",
+              "bowler": "N Vaasili",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "M Shahbaz Butt",
+              "bowler": "N Vaasili",
+              "non_striker": "Zeeshan Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "T Alatasi",
+              "non_striker": "M Shahbaz Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "T Alatasi",
+              "non_striker": "M Shahbaz Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Zeeshan Siddiqui",
+              "bowler": "T Alatasi",
+              "non_striker": "M Shahbaz Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Zeeshan Siddiqui"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Shahid Ahmed",
+              "bowler": "T Alatasi",
+              "non_striker": "M Shahbaz Butt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Shahid Ahmed",
+              "bowler": "T Alatasi",
+              "non_striker": "M Shahbaz Butt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Shahid Ahmed",
+              "bowler": "T Alatasi",
+              "non_striker": "M Shahbaz Butt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "M Shahbaz Butt",
+              "bowler": "IC West",
+              "non_striker": "Shahid Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "M Shahbaz Butt",
+              "bowler": "IC West",
+              "non_striker": "Shahid Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "M Shahbaz Butt",
+              "bowler": "IC West",
+              "non_striker": "Shahid Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "M Shahbaz Butt",
+              "bowler": "IC West",
+              "non_striker": "Shahid Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "M Shahbaz Butt",
+              "bowler": "IC West",
+              "non_striker": "Shahid Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "M Shahbaz Butt",
+              "bowler": "IC West",
+              "non_striker": "Shahid Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "M Shahbaz Butt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Shahid Ahmed",
+              "bowler": "T Alatasi",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Shahid Ahmed",
+              "bowler": "T Alatasi",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Shahid Ahmed",
+              "bowler": "T Alatasi",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Shahid Ahmed",
+              "bowler": "T Alatasi",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Shahid Ahmed",
+              "bowler": "T Alatasi",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Ali Saleem",
+              "bowler": "T Alatasi",
+              "non_striker": "Shahid Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Shahid Ahmed",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Shahid Ahmed",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Shahid Ahmed",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Shahid Ahmed",
+                  "fielders": [
+                    {
+                      "name": "T Kaisala"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Ali Saleem",
+              "bowler": "T Alatasi",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Ali Saleem",
+              "bowler": "T Alatasi",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Ali Saleem",
+              "bowler": "T Alatasi",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Ali Saleem",
+              "bowler": "T Alatasi",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Ali Saleem",
+              "bowler": "T Alatasi",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Ali Saleem",
+              "bowler": "T Alatasi",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Ali Saleem",
+              "bowler": "IC West",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Ali Saleem",
+              "bowler": "IC West",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Ali Saleem",
+              "bowler": "T Alatasi",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Ali Saleem",
+              "bowler": "T Alatasi",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Ali Saleem",
+              "bowler": "T Alatasi",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Ali Saleem",
+              "bowler": "T Alatasi",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Ali Saleem",
+              "bowler": "T Alatasi",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Ali Saleem",
+              "bowler": "T Alatasi",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "actual_delivery": "20.1",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.2",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.3",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "20.3",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.4",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.5",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.6",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "actual_delivery": "21.1",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.2",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "21.3",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.4",
+              "batter": "Ali Saleem",
+              "bowler": "IC West",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.5",
+              "batter": "Ali Saleem",
+              "bowler": "IC West",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.6",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "actual_delivery": "22.1",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "22.2",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.3",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.4",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.5",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.6",
+              "batter": "Tafseer Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "actual_delivery": "23.1",
+              "batter": "Ali Saleem",
+              "bowler": "IC West",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "23.2",
+              "batter": "Ali Saleem",
+              "bowler": "IC West",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.3",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.4",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.5",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.6",
+              "batter": "Ali Saleem",
+              "bowler": "IC West",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "actual_delivery": "24.1",
+              "batter": "Tafseer Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.2",
+              "batter": "Tafseer Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.3",
+              "batter": "Tafseer Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.4",
+              "batter": "Tafseer Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.5",
+              "batter": "Tafseer Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "24.6",
+              "batter": "Tafseer Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "actual_delivery": "25.1",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.2",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.3",
+              "batter": "Tafseer Ali",
+              "bowler": "W Mariner",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.4",
+              "batter": "Tafseer Ali",
+              "bowler": "W Mariner",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.5",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.6",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "actual_delivery": "26.1",
+              "batter": "Tafseer Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.2",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.3",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.4",
+              "batter": "Tafseer Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.5",
+              "batter": "Tafseer Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.6",
+              "batter": "Tafseer Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "actual_delivery": "27.1",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.2",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "27.3",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.4",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.5",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.6",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "actual_delivery": "28.1",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.2",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.3",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.4",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.5",
+              "batter": "Tafseer Ali",
+              "bowler": "BF Mailata",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.5",
+              "batter": "Tafseer Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.6",
+              "batter": "Tafseer Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "actual_delivery": "29.1",
+              "batter": "Tafseer Ali",
+              "bowler": "W Mariner",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.2",
+              "batter": "Tafseer Ali",
+              "bowler": "W Mariner",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "29.3",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.4",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.5",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "29.6",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "actual_delivery": "30.1",
+              "batter": "Tafseer Ali",
+              "bowler": "F Mulivai",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.2",
+              "batter": "Tafseer Ali",
+              "bowler": "F Mulivai",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.3",
+              "batter": "Tafseer Ali",
+              "bowler": "F Mulivai",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "30.3",
+              "batter": "Tafseer Ali",
+              "bowler": "F Mulivai",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.4",
+              "batter": "Tafseer Ali",
+              "bowler": "F Mulivai",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.5",
+              "batter": "Ali Saleem",
+              "bowler": "F Mulivai",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.6",
+              "batter": "Tafseer Ali",
+              "bowler": "F Mulivai",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "actual_delivery": "31.1",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.2",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "31.3",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.4",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "31.5",
+              "batter": "Tafseer Ali",
+              "bowler": "W Mariner",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.6",
+              "batter": "Tafseer Ali",
+              "bowler": "W Mariner",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "actual_delivery": "32.1",
+              "batter": "Ali Saleem",
+              "bowler": "F Mulivai",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "32.2",
+              "batter": "Ali Saleem",
+              "bowler": "F Mulivai",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.3",
+              "batter": "Ali Saleem",
+              "bowler": "F Mulivai",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "32.4",
+              "batter": "Ali Saleem",
+              "bowler": "F Mulivai",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.5",
+              "batter": "Tafseer Ali",
+              "bowler": "F Mulivai",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.6",
+              "batter": "Tafseer Ali",
+              "bowler": "F Mulivai",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "actual_delivery": "33.1",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.2",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "33.3",
+              "batter": "Tafseer Ali",
+              "bowler": "W Mariner",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "33.4",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.5",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "33.6",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "actual_delivery": "34.1",
+              "batter": "Ali Saleem",
+              "bowler": "F Mulivai",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "34.2",
+              "batter": "Tafseer Ali",
+              "bowler": "F Mulivai",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.3",
+              "batter": "Tafseer Ali",
+              "bowler": "F Mulivai",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.4",
+              "batter": "Tafseer Ali",
+              "bowler": "F Mulivai",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.5",
+              "batter": "Tafseer Ali",
+              "bowler": "F Mulivai",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.6",
+              "batter": "Tafseer Ali",
+              "bowler": "F Mulivai",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "34.6",
+              "batter": "Tafseer Ali",
+              "bowler": "F Mulivai",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "actual_delivery": "35.1",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "35.2",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "35.3",
+              "batter": "Tafseer Ali",
+              "bowler": "W Mariner",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.4",
+              "batter": "Tafseer Ali",
+              "bowler": "W Mariner",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.5",
+              "batter": "Tafseer Ali",
+              "bowler": "W Mariner",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.6",
+              "batter": "Tafseer Ali",
+              "bowler": "W Mariner",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "actual_delivery": "36.1",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.2",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.3",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "36.4",
+              "batter": "Tafseer Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "36.5",
+              "batter": "Tafseer Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.6",
+              "batter": "Tafseer Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "actual_delivery": "37.1",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.2",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.3",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "37.4",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.5",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.6",
+              "batter": "Ali Saleem",
+              "bowler": "W Mariner",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "actual_delivery": "38.1",
+              "batter": "Tafseer Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "38.2",
+              "batter": "Tafseer Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "38.3",
+              "batter": "Tafseer Ali",
+              "bowler": "BF Mailata",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "38.4",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "38.5",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "38.6",
+              "batter": "Ali Saleem",
+              "bowler": "BF Mailata",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "actual_delivery": "39.1",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "39.2",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.3",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.4",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.5",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "39.6",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "actual_delivery": "40.1",
+              "batter": "Tafseer Ali",
+              "bowler": "T Alatasi",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "40.2",
+              "batter": "Tafseer Ali",
+              "bowler": "T Alatasi",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "40.3",
+              "batter": "Ali Saleem",
+              "bowler": "T Alatasi",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "40.4",
+              "batter": "Ali Saleem",
+              "bowler": "T Alatasi",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "40.5",
+              "batter": "Ali Saleem",
+              "bowler": "T Alatasi",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "40.6",
+              "batter": "Ali Saleem",
+              "bowler": "T Alatasi",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "actual_delivery": "41.1",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "41.2",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "41.3",
+              "batter": "Ali Saleem",
+              "bowler": "IC West",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "41.4",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "41.5",
+              "batter": "Tafseer Ali",
+              "bowler": "IC West",
+              "non_striker": "Ali Saleem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "41.6",
+              "batter": "Ali Saleem",
+              "bowler": "IC West",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "actual_delivery": "42.1",
+              "batter": "Ali Saleem",
+              "bowler": "T Alatasi",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Ali Saleem",
+                  "fielders": [
+                    {
+                      "name": "T Kaisala"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "42.2",
+              "batter": "UH Sahi",
+              "bowler": "T Alatasi",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "42.3",
+              "batter": "UH Sahi",
+              "bowler": "T Alatasi",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "42.4",
+              "batter": "Tafseer Ali",
+              "bowler": "T Alatasi",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "42.5",
+              "batter": "Tafseer Ali",
+              "bowler": "T Alatasi",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "42.6",
+              "batter": "Tafseer Ali",
+              "bowler": "T Alatasi",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "actual_delivery": "43.1",
+              "batter": "Tafseer Ali",
+              "bowler": "N Vaasili",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "43.2",
+              "batter": "Tafseer Ali",
+              "bowler": "N Vaasili",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "43.3",
+              "batter": "Tafseer Ali",
+              "bowler": "N Vaasili",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "43.4",
+              "batter": "UH Sahi",
+              "bowler": "N Vaasili",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "43.5",
+              "batter": "Tafseer Ali",
+              "bowler": "N Vaasili",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "43.6",
+              "batter": "Tafseer Ali",
+              "bowler": "N Vaasili",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "actual_delivery": "44.1",
+              "batter": "UH Sahi",
+              "bowler": "T Alatasi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "44.1",
+              "batter": "UH Sahi",
+              "bowler": "T Alatasi",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "44.2",
+              "batter": "UH Sahi",
+              "bowler": "T Alatasi",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "44.3",
+              "batter": "Tafseer Ali",
+              "bowler": "T Alatasi",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "44.4",
+              "batter": "Tafseer Ali",
+              "bowler": "T Alatasi",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "44.5",
+              "batter": "Tafseer Ali",
+              "bowler": "T Alatasi",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "44.6",
+              "batter": "Tafseer Ali",
+              "bowler": "T Alatasi",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "actual_delivery": "45.1",
+              "batter": "Tafseer Ali",
+              "bowler": "N Vaasili",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "45.2",
+              "batter": "Tafseer Ali",
+              "bowler": "N Vaasili",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "45.3",
+              "batter": "UH Sahi",
+              "bowler": "N Vaasili",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "45.4",
+              "batter": "Tafseer Ali",
+              "bowler": "N Vaasili",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "45.5",
+              "batter": "Tafseer Ali",
+              "bowler": "N Vaasili",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "45.6",
+              "batter": "UH Sahi",
+              "bowler": "N Vaasili",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "actual_delivery": "46.1",
+              "batter": "UH Sahi",
+              "bowler": "F Mulivai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "46.1",
+              "batter": "UH Sahi",
+              "bowler": "F Mulivai",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "46.2",
+              "batter": "Tafseer Ali",
+              "bowler": "F Mulivai",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "46.3",
+              "batter": "UH Sahi",
+              "bowler": "F Mulivai",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "46.4",
+              "batter": "UH Sahi",
+              "bowler": "F Mulivai",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "46.5",
+              "batter": "Tafseer Ali",
+              "bowler": "F Mulivai",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "46.6",
+              "batter": "UH Sahi",
+              "bowler": "F Mulivai",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "actual_delivery": "47.1",
+              "batter": "Tafseer Ali",
+              "bowler": "N Vaasili",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "47.2",
+              "batter": "UH Sahi",
+              "bowler": "N Vaasili",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "47.3",
+              "batter": "UH Sahi",
+              "bowler": "N Vaasili",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "47.4",
+              "batter": "Tafseer Ali",
+              "bowler": "N Vaasili",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "47.5",
+              "batter": "Tafseer Ali",
+              "bowler": "N Vaasili",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "47.6",
+              "batter": "Tafseer Ali",
+              "bowler": "N Vaasili",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "actual_delivery": "48.1",
+              "batter": "UH Sahi",
+              "bowler": "F Mulivai",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "48.2",
+              "batter": "UH Sahi",
+              "bowler": "F Mulivai",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "48.3",
+              "batter": "UH Sahi",
+              "bowler": "F Mulivai",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "48.4",
+              "batter": "UH Sahi",
+              "bowler": "F Mulivai",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "48.5",
+              "batter": "UH Sahi",
+              "bowler": "F Mulivai",
+              "non_striker": "Tafseer Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "48.6",
+              "batter": "Tafseer Ali",
+              "bowler": "F Mulivai",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught and bowled",
+                  "player_out": "Tafseer Ali"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "actual_delivery": "49.1",
+              "batter": "UH Sahi",
+              "bowler": "N Vaasili",
+              "non_striker": "Babar Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "49.2",
+              "batter": "Babar Shahzad",
+              "bowler": "N Vaasili",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "49.3",
+              "batter": "Babar Shahzad",
+              "bowler": "N Vaasili",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "49.4",
+              "batter": "Babar Shahzad",
+              "bowler": "N Vaasili",
+              "non_striker": "UH Sahi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "49.5",
+              "batter": "UH Sahi",
+              "bowler": "N Vaasili",
+              "non_striker": "Babar Shahzad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "49.6",
+              "batter": "UH Sahi",
+              "bowler": "N Vaasili",
+              "non_striker": "Babar Shahzad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Samoa",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "S Cotter",
+              "bowler": "Tafseer Ali",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "S Cotter",
+              "bowler": "Tafseer Ali",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "S Cotter",
+              "bowler": "Tafseer Ali",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "S Cotter",
+              "bowler": "Tafseer Ali",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "S Cotter",
+              "bowler": "Tafseer Ali",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "S Cotter",
+              "bowler": "Tafseer Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "S Cotter",
+              "bowler": "Tafseer Ali",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "S Cotter",
+              "bowler": "Ali Saleem",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.1",
+              "batter": "S Cotter",
+              "bowler": "Ali Saleem",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.1",
+              "batter": "S Cotter",
+              "bowler": "Ali Saleem",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.1",
+              "batter": "S Cotter",
+              "bowler": "Ali Saleem",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "S Cotter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "S Cotter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "S Cotter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "S Cotter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "S Cotter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "S Cotter",
+              "bowler": "Tafseer Ali",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "S Cotter",
+              "bowler": "Tafseer Ali",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "S Cotter",
+                  "fielders": [
+                    {
+                      "name": "Waheed Aamir"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "G Clarke",
+              "bowler": "Tafseer Ali",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "G Clarke",
+              "bowler": "Tafseer Ali",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "G Clarke",
+              "bowler": "Tafseer Ali",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "BF Mailata",
+              "bowler": "Tafseer Ali",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "BF Mailata",
+              "bowler": "Ali Saleem",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "BF Mailata",
+              "bowler": "Ali Saleem",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "BF Mailata",
+              "bowler": "Ali Saleem",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "BF Mailata",
+              "bowler": "Ali Saleem",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "BF Mailata",
+              "bowler": "Tafseer Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.1",
+              "batter": "BF Mailata",
+              "bowler": "Tafseer Ali",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "BF Mailata",
+              "bowler": "Tafseer Ali",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "G Clarke",
+              "bowler": "Tafseer Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "G Clarke",
+              "bowler": "Tafseer Ali",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "G Clarke",
+              "bowler": "Tafseer Ali",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "BF Mailata",
+              "bowler": "Tafseer Ali",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "BF Mailata",
+              "bowler": "Tafseer Ali",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "BF Mailata",
+              "bowler": "Ali Saleem",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "BF Mailata",
+              "bowler": "Ali Saleem",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "BF Mailata",
+              "bowler": "Ali Saleem",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "BF Mailata",
+              "bowler": "Ali Saleem",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "G Clarke",
+              "bowler": "Tafseer Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.1",
+              "batter": "G Clarke",
+              "bowler": "Tafseer Ali",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "G Clarke",
+              "bowler": "Tafseer Ali",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "G Clarke",
+              "bowler": "Tafseer Ali",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "G Clarke",
+              "bowler": "Tafseer Ali",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "G Clarke",
+              "bowler": "Tafseer Ali",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "G Clarke",
+              "bowler": "Tafseer Ali",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "BF Mailata",
+              "bowler": "Ali Saleem",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "BF Mailata",
+              "bowler": "Tafseer Ali",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "BF Mailata",
+              "bowler": "Tafseer Ali",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "BF Mailata",
+              "bowler": "Tafseer Ali",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "BF Mailata",
+              "bowler": "Tafseer Ali",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "G Clarke",
+              "bowler": "Tafseer Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "G Clarke",
+              "bowler": "Tafseer Ali",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "G Clarke",
+              "bowler": "Tafseer Ali",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "BF Mailata",
+              "bowler": "Ali Saleem",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "BF Mailata",
+              "bowler": "Waheed Aamir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "BF Mailata",
+              "bowler": "Waheed Aamir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "BF Mailata",
+              "bowler": "Waheed Aamir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "BF Mailata",
+              "bowler": "Waheed Aamir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "BF Mailata",
+              "bowler": "Waheed Aamir",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "G Clarke",
+              "bowler": "Waheed Aamir",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "G Clarke",
+              "bowler": "Ali Saleem",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "BF Mailata",
+              "bowler": "Waheed Aamir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "BF Mailata",
+              "bowler": "Waheed Aamir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "BF Mailata",
+              "bowler": "Waheed Aamir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "BF Mailata",
+              "bowler": "Waheed Aamir",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "G Clarke",
+              "bowler": "Waheed Aamir",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "G Clarke",
+              "bowler": "Waheed Aamir",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "BF Mailata",
+              "bowler": "Wasim Tahir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "BF Mailata",
+              "bowler": "Wasim Tahir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "BF Mailata",
+              "bowler": "Wasim Tahir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "G Clarke",
+              "bowler": "Wasim Tahir",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "BF Mailata",
+              "bowler": "Wasim Tahir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "BF Mailata",
+              "bowler": "Wasim Tahir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "G Clarke",
+              "bowler": "Waheed Aamir",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "G Clarke",
+              "bowler": "Waheed Aamir",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "BF Mailata",
+              "bowler": "Waheed Aamir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "BF Mailata",
+              "bowler": "Waheed Aamir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "BF Mailata",
+              "bowler": "Waheed Aamir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "BF Mailata",
+              "bowler": "Waheed Aamir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "G Clarke",
+              "bowler": "Wasim Tahir",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "BF Mailata",
+              "bowler": "Wasim Tahir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "BF Mailata",
+              "bowler": "Wasim Tahir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "BF Mailata",
+              "bowler": "Wasim Tahir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "BF Mailata",
+              "bowler": "Wasim Tahir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "BF Mailata",
+              "bowler": "Wasim Tahir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "G Clarke",
+              "bowler": "Waheed Aamir",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "BF Mailata",
+              "bowler": "Waheed Aamir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "G Clarke",
+              "bowler": "Waheed Aamir",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "G Clarke",
+              "bowler": "Waheed Aamir",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "G Clarke",
+              "bowler": "Waheed Aamir",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "BF Mailata",
+              "bowler": "Waheed Aamir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "G Clarke",
+              "bowler": "Wasim Tahir",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "G Clarke",
+              "bowler": "Wasim Tahir",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "G Clarke",
+              "bowler": "Wasim Tahir",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "G Clarke",
+              "bowler": "Wasim Tahir",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "G Clarke",
+              "bowler": "Wasim Tahir",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "G Clarke",
+              "bowler": "Wasim Tahir",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "BF Mailata",
+              "bowler": "Waheed Aamir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "BF Mailata",
+              "bowler": "Waheed Aamir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "BF Mailata",
+              "bowler": "Waheed Aamir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "G Clarke",
+              "bowler": "Waheed Aamir",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "G Clarke",
+              "bowler": "Waheed Aamir",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "G Clarke",
+              "bowler": "Waheed Aamir",
+              "non_striker": "BF Mailata",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "BF Mailata",
+              "bowler": "Wasim Tahir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "BF Mailata",
+              "bowler": "Wasim Tahir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "BF Mailata",
+                  "fielders": [
+                    {
+                      "name": "Zeeshan Siddiqui"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "DE Burgess",
+              "bowler": "Wasim Tahir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "DE Burgess",
+              "bowler": "Wasim Tahir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "DE Burgess",
+              "bowler": "Wasim Tahir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "DE Burgess",
+              "bowler": "Wasim Tahir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "actual_delivery": "20.1",
+              "batter": "G Clarke",
+              "bowler": "Waheed Aamir",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.2",
+              "batter": "G Clarke",
+              "bowler": "Waheed Aamir",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.3",
+              "batter": "G Clarke",
+              "bowler": "Waheed Aamir",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.4",
+              "batter": "G Clarke",
+              "bowler": "Waheed Aamir",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "20.5",
+              "batter": "DE Burgess",
+              "bowler": "Waheed Aamir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.6",
+              "batter": "DE Burgess",
+              "bowler": "Waheed Aamir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "actual_delivery": "21.1",
+              "batter": "G Clarke",
+              "bowler": "Wasim Tahir",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.2",
+              "batter": "DE Burgess",
+              "bowler": "Wasim Tahir",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "21.3",
+              "batter": "DE Burgess",
+              "bowler": "Wasim Tahir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.4",
+              "batter": "DE Burgess",
+              "bowler": "Wasim Tahir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.5",
+              "batter": "DE Burgess",
+              "bowler": "Wasim Tahir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.6",
+              "batter": "DE Burgess",
+              "bowler": "Wasim Tahir",
+              "non_striker": "G Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "actual_delivery": "22.1",
+              "batter": "G Clarke",
+              "bowler": "Waheed Aamir",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "G Clarke"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "22.2",
+              "batter": "T Kaisala",
+              "bowler": "Waheed Aamir",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "22.3",
+              "batter": "T Kaisala",
+              "bowler": "Waheed Aamir",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.4",
+              "batter": "T Kaisala",
+              "bowler": "Waheed Aamir",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "T Kaisala"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "22.5",
+              "batter": "F Mulivai",
+              "bowler": "Waheed Aamir",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.6",
+              "batter": "DE Burgess",
+              "bowler": "Waheed Aamir",
+              "non_striker": "F Mulivai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "actual_delivery": "23.1",
+              "batter": "F Mulivai",
+              "bowler": "Wasim Tahir",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.2",
+              "batter": "DE Burgess",
+              "bowler": "Wasim Tahir",
+              "non_striker": "F Mulivai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.3",
+              "batter": "DE Burgess",
+              "bowler": "Wasim Tahir",
+              "non_striker": "F Mulivai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.4",
+              "batter": "DE Burgess",
+              "bowler": "Wasim Tahir",
+              "non_striker": "F Mulivai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.5",
+              "batter": "DE Burgess",
+              "bowler": "Wasim Tahir",
+              "non_striker": "F Mulivai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.6",
+              "batter": "DE Burgess",
+              "bowler": "Wasim Tahir",
+              "non_striker": "F Mulivai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "actual_delivery": "24.1",
+              "batter": "F Mulivai",
+              "bowler": "Waheed Aamir",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.2",
+              "batter": "DE Burgess",
+              "bowler": "Waheed Aamir",
+              "non_striker": "F Mulivai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.3",
+              "batter": "DE Burgess",
+              "bowler": "Waheed Aamir",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "F Mulivai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.4",
+              "batter": "F Mulivai",
+              "bowler": "Waheed Aamir",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "24.5",
+              "batter": "F Mulivai",
+              "bowler": "Waheed Aamir",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "24.5",
+              "batter": "DE Burgess",
+              "bowler": "Waheed Aamir",
+              "non_striker": "F Mulivai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.6",
+              "batter": "DE Burgess",
+              "bowler": "Waheed Aamir",
+              "non_striker": "F Mulivai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "actual_delivery": "25.1",
+              "batter": "DE Burgess",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "F Mulivai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.2",
+              "batter": "DE Burgess",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "F Mulivai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.3",
+              "batter": "F Mulivai",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.4",
+              "batter": "F Mulivai",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.5",
+              "batter": "DE Burgess",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "F Mulivai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.6",
+              "batter": "DE Burgess",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "F Mulivai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "actual_delivery": "26.1",
+              "batter": "F Mulivai",
+              "bowler": "Tafseer Ali",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "F Mulivai",
+                  "fielders": [
+                    {
+                      "name": "UH Sahi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "26.2",
+              "batter": "IC West",
+              "bowler": "Tafseer Ali",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.3",
+              "batter": "IC West",
+              "bowler": "Tafseer Ali",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.4",
+              "batter": "IC West",
+              "bowler": "Tafseer Ali",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.5",
+              "batter": "IC West",
+              "bowler": "Tafseer Ali",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.6",
+              "batter": "IC West",
+              "bowler": "Tafseer Ali",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "actual_delivery": "27.1",
+              "batter": "DE Burgess",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "IC West",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.2",
+              "batter": "DE Burgess",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "IC West",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.3",
+              "batter": "IC West",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.4",
+              "batter": "IC West",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.5",
+              "batter": "IC West",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.6",
+              "batter": "IC West",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "actual_delivery": "28.1",
+              "batter": "DE Burgess",
+              "bowler": "Tafseer Ali",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "IC West",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "28.1",
+              "batter": "DE Burgess",
+              "bowler": "Tafseer Ali",
+              "non_striker": "IC West",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.2",
+              "batter": "DE Burgess",
+              "bowler": "Tafseer Ali",
+              "non_striker": "IC West",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.3",
+              "batter": "DE Burgess",
+              "bowler": "Tafseer Ali",
+              "non_striker": "IC West",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.4",
+              "batter": "DE Burgess",
+              "bowler": "Tafseer Ali",
+              "non_striker": "IC West",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.5",
+              "batter": "IC West",
+              "bowler": "Tafseer Ali",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.6",
+              "batter": "IC West",
+              "bowler": "Tafseer Ali",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "IC West",
+                  "fielders": [
+                    {
+                      "name": "UH Sahi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "actual_delivery": "29.1",
+              "batter": "DE Burgess",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "ML Su'a",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.2",
+              "batter": "DE Burgess",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "ML Su'a",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "29.3",
+              "batter": "ML Su'a",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.4",
+              "batter": "ML Su'a",
+              "bowler": "M Shahbaz Butt",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "29.4",
+              "batter": "ML Su'a",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.5",
+              "batter": "ML Su'a",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "29.6",
+              "batter": "ML Su'a",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "actual_delivery": "30.1",
+              "batter": "DE Burgess",
+              "bowler": "Tafseer Ali",
+              "non_striker": "ML Su'a",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.2",
+              "batter": "ML Su'a",
+              "bowler": "Tafseer Ali",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.3",
+              "batter": "ML Su'a",
+              "bowler": "Tafseer Ali",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "30.4",
+              "batter": "ML Su'a",
+              "bowler": "Tafseer Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.4",
+              "batter": "ML Su'a",
+              "bowler": "Tafseer Ali",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.5",
+              "batter": "ML Su'a",
+              "bowler": "Tafseer Ali",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.6",
+              "batter": "ML Su'a",
+              "bowler": "Tafseer Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.6",
+              "batter": "ML Su'a",
+              "bowler": "Tafseer Ali",
+              "non_striker": "DE Burgess",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "actual_delivery": "31.1",
+              "batter": "DE Burgess",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "ML Su'a",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DE Burgess",
+                  "fielders": [
+                    {
+                      "name": "Waseem Gill",
+                      "substitute": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "31.2",
+              "batter": "ML Su'a",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "ML Su'a"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "31.3",
+              "batter": "T Alatasi",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.4",
+              "batter": "T Alatasi",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.5",
+              "batter": "T Alatasi",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.6",
+              "batter": "T Alatasi",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "actual_delivery": "32.1",
+              "batter": "W Mariner",
+              "bowler": "Zeeshan Siddiqui",
+              "non_striker": "T Alatasi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.2",
+              "batter": "W Mariner",
+              "bowler": "Zeeshan Siddiqui",
+              "non_striker": "T Alatasi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.3",
+              "batter": "W Mariner",
+              "bowler": "Zeeshan Siddiqui",
+              "non_striker": "T Alatasi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.4",
+              "batter": "W Mariner",
+              "bowler": "Zeeshan Siddiqui",
+              "non_striker": "T Alatasi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.5",
+              "batter": "W Mariner",
+              "bowler": "Zeeshan Siddiqui",
+              "non_striker": "T Alatasi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.6",
+              "batter": "W Mariner",
+              "bowler": "Zeeshan Siddiqui",
+              "non_striker": "T Alatasi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "actual_delivery": "33.1",
+              "batter": "T Alatasi",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.2",
+              "batter": "T Alatasi",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.3",
+              "batter": "T Alatasi",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.4",
+              "batter": "T Alatasi",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "33.5",
+              "batter": "W Mariner",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "T Alatasi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.6",
+              "batter": "W Mariner",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "T Alatasi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "actual_delivery": "34.1",
+              "batter": "W Mariner",
+              "bowler": "Zeeshan Siddiqui",
+              "non_striker": "T Alatasi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.2",
+              "batter": "W Mariner",
+              "bowler": "Zeeshan Siddiqui",
+              "non_striker": "T Alatasi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.3",
+              "batter": "W Mariner",
+              "bowler": "Zeeshan Siddiqui",
+              "non_striker": "T Alatasi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.4",
+              "batter": "W Mariner",
+              "bowler": "Zeeshan Siddiqui",
+              "non_striker": "T Alatasi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "34.5",
+              "batter": "T Alatasi",
+              "bowler": "Zeeshan Siddiqui",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "34.6",
+              "batter": "T Alatasi",
+              "bowler": "Zeeshan Siddiqui",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "actual_delivery": "35.1",
+              "batter": "T Alatasi",
+              "bowler": "M Shahbaz Butt",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "35.2",
+              "batter": "T Alatasi",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "35.3",
+              "batter": "W Mariner",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "T Alatasi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.4",
+              "batter": "W Mariner",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "T Alatasi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.5",
+              "batter": "W Mariner",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "T Alatasi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "35.6",
+              "batter": "W Mariner",
+              "bowler": "M Shahbaz Butt",
+              "non_striker": "T Alatasi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "actual_delivery": "36.1",
+              "batter": "T Alatasi",
+              "bowler": "Zeeshan Siddiqui",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.2",
+              "batter": "T Alatasi",
+              "bowler": "Zeeshan Siddiqui",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "36.3",
+              "batter": "T Alatasi",
+              "bowler": "Zeeshan Siddiqui",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.4",
+              "batter": "T Alatasi",
+              "bowler": "Zeeshan Siddiqui",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.5",
+              "batter": "T Alatasi",
+              "bowler": "Zeeshan Siddiqui",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.6",
+              "batter": "T Alatasi",
+              "bowler": "Zeeshan Siddiqui",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "actual_delivery": "37.1",
+              "batter": "T Alatasi",
+              "bowler": "Tafseer Ali",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "T Alatasi",
+                  "fielders": [
+                    {
+                      "name": "Shahid Ahmed"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "37.2",
+              "batter": "N Vaasili",
+              "bowler": "Tafseer Ali",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.3",
+              "batter": "N Vaasili",
+              "bowler": "Tafseer Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "37.3",
+              "batter": "N Vaasili",
+              "bowler": "Tafseer Ali",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.4",
+              "batter": "N Vaasili",
+              "bowler": "Tafseer Ali",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "37.4",
+              "batter": "N Vaasili",
+              "bowler": "Tafseer Ali",
+              "non_striker": "W Mariner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "37.5",
+              "batter": "W Mariner",
+              "bowler": "Tafseer Ali",
+              "non_striker": "N Vaasili",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.6",
+              "batter": "W Mariner",
+              "bowler": "Tafseer Ali",
+              "non_striker": "N Vaasili",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "W Mariner"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 272
+      }
+    }
+  ]
+}

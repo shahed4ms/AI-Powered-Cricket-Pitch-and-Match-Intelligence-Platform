@@ -1,0 +1,3179 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2014-01-03",
+    "revision": 3
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Abu Dhabi",
+    "dates": [
+      "2013-11-22"
+    ],
+    "event": {
+      "group": "A",
+      "match_number": 44,
+      "name": "ICC World Twenty20 Qualifier"
+    },
+    "gender": "male",
+    "match_type": "IT20",
+    "officials": {
+      "match_referees": [
+        "D Govindjee"
+      ],
+      "reserve_umpires": [
+        "GO Brathwaite"
+      ],
+      "umpires": [
+        "IN Ramage",
+        "C Shamshuddin"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "runs": 67
+      },
+      "winner": "Hong Kong"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Munir Dar"
+    ],
+    "players": {
+      "Hong Kong": [
+        "Irfan Ahmed",
+        "Waqas Barkat",
+        "JJ Atkinson",
+        "Nizakat Khan",
+        "Munir Dar",
+        "MS Chapman",
+        "Babar Hayat",
+        "Tanwir Afzal",
+        "Aizaz Khan",
+        "Haseeb Amjad",
+        "Nadeem Ahmed"
+      ],
+      "United States of America": [
+        "SR Taylor",
+        "Fahad Babar",
+        "AL Dodson",
+        "K Ganesh",
+        "SR Santhanam",
+        "TP Allen",
+        "BS Bartley",
+        "JH Patel",
+        "Danial Ahmed",
+        "Imran Awan",
+        "NC McGarrell"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AL Dodson": "f5efe5e0",
+        "Aizaz Khan": "f6c2659d",
+        "BS Bartley": "fb1d3872",
+        "Babar Hayat": "fbb657bb",
+        "C Shamshuddin": "0f9d921b",
+        "D Govindjee": "8b4c4069",
+        "Danial Ahmed": "cf9ae594",
+        "Fahad Babar": "5595b867",
+        "GO Brathwaite": "1ace56d4",
+        "Haseeb Amjad": "fb0abc20",
+        "IN Ramage": "33cb7803",
+        "Imran Awan": "82d8aa2e",
+        "Irfan Ahmed": "5c124657",
+        "JH Patel": "7cf185e1",
+        "JJ Atkinson": "bf2d865c",
+        "K Ganesh": "363fe2d5",
+        "MS Chapman": "7fa12533",
+        "Munir Dar": "04029c44",
+        "NC McGarrell": "f4cbce64",
+        "Nadeem Ahmed": "023f6b02",
+        "Nizakat Khan": "e3eb9e46",
+        "SR Santhanam": "063870fc",
+        "SR Taylor": "a9231c3f",
+        "TP Allen": "30baaf1f",
+        "Tanwir Afzal": "5f5ca1a7",
+        "Waqas Barkat": "a2eac9df"
+      }
+    },
+    "season": "2013/14",
+    "team_type": "international",
+    "teams": [
+      "Hong Kong",
+      "United States of America"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "United States of America"
+    },
+    "venue": "Abu Dhabi Oval 2"
+  },
+  "innings": [
+    {
+      "team": "Hong Kong",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Irfan Ahmed",
+              "bowler": "NC McGarrell",
+              "non_striker": "Waqas Barkat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Irfan Ahmed",
+              "bowler": "NC McGarrell",
+              "non_striker": "Waqas Barkat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Irfan Ahmed",
+              "bowler": "NC McGarrell",
+              "non_striker": "Waqas Barkat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Irfan Ahmed",
+              "bowler": "NC McGarrell",
+              "non_striker": "Waqas Barkat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Waqas Barkat",
+              "bowler": "NC McGarrell",
+              "non_striker": "Irfan Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Waqas Barkat",
+              "bowler": "NC McGarrell",
+              "non_striker": "Irfan Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Waqas Barkat",
+              "bowler": "K Ganesh",
+              "non_striker": "Irfan Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Waqas Barkat",
+              "bowler": "K Ganesh",
+              "non_striker": "Irfan Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Irfan Ahmed",
+              "bowler": "K Ganesh",
+              "non_striker": "Waqas Barkat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Waqas Barkat",
+              "bowler": "K Ganesh",
+              "non_striker": "Irfan Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Waqas Barkat",
+              "bowler": "K Ganesh",
+              "non_striker": "Irfan Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Irfan Ahmed",
+              "bowler": "K Ganesh",
+              "non_striker": "Waqas Barkat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Irfan Ahmed",
+              "bowler": "NC McGarrell",
+              "non_striker": "Waqas Barkat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Waqas Barkat",
+              "bowler": "NC McGarrell",
+              "non_striker": "Irfan Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Waqas Barkat",
+              "bowler": "NC McGarrell",
+              "non_striker": "Irfan Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Waqas Barkat",
+              "bowler": "NC McGarrell",
+              "non_striker": "Irfan Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Waqas Barkat",
+              "bowler": "NC McGarrell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Irfan Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Waqas Barkat",
+              "bowler": "NC McGarrell",
+              "non_striker": "Irfan Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Waqas Barkat",
+              "bowler": "NC McGarrell",
+              "non_striker": "Irfan Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Irfan Ahmed",
+              "bowler": "K Ganesh",
+              "non_striker": "Waqas Barkat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Irfan Ahmed",
+              "bowler": "K Ganesh",
+              "non_striker": "Waqas Barkat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Irfan Ahmed",
+              "bowler": "K Ganesh",
+              "non_striker": "Waqas Barkat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Irfan Ahmed",
+                  "fielders": [
+                    {
+                      "name": "Imran Awan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Waqas Barkat",
+              "bowler": "K Ganesh",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Waqas Barkat",
+              "bowler": "K Ganesh",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "JJ Atkinson",
+              "bowler": "K Ganesh",
+              "non_striker": "Waqas Barkat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "JJ Atkinson",
+              "bowler": "Danial Ahmed",
+              "non_striker": "Waqas Barkat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "JJ Atkinson",
+              "bowler": "Danial Ahmed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Waqas Barkat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "JJ Atkinson",
+              "bowler": "Danial Ahmed",
+              "non_striker": "Waqas Barkat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Waqas Barkat",
+              "bowler": "Danial Ahmed",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "JJ Atkinson",
+              "bowler": "Danial Ahmed",
+              "non_striker": "Waqas Barkat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "JJ Atkinson",
+              "bowler": "Danial Ahmed",
+              "non_striker": "Waqas Barkat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "JJ Atkinson",
+              "bowler": "Danial Ahmed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Waqas Barkat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "JJ Atkinson",
+              "bowler": "Danial Ahmed",
+              "non_striker": "Waqas Barkat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Waqas Barkat",
+              "bowler": "BS Bartley",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Waqas Barkat",
+              "bowler": "BS Bartley",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Waqas Barkat",
+              "bowler": "BS Bartley",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Waqas Barkat",
+              "bowler": "BS Bartley",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "JJ Atkinson",
+              "bowler": "BS Bartley",
+              "non_striker": "Waqas Barkat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "JJ Atkinson",
+              "bowler": "BS Bartley",
+              "non_striker": "Waqas Barkat",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Waqas Barkat",
+              "bowler": "Danial Ahmed",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Waqas Barkat",
+              "bowler": "Danial Ahmed",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Waqas Barkat"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Nizakat Khan",
+              "bowler": "Danial Ahmed",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Nizakat Khan",
+              "bowler": "Danial Ahmed",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Nizakat Khan",
+              "bowler": "Danial Ahmed",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "JJ Atkinson",
+              "bowler": "Danial Ahmed",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "JJ Atkinson",
+              "bowler": "Imran Awan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "JJ Atkinson",
+              "bowler": "Imran Awan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Nizakat Khan",
+              "bowler": "Imran Awan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "JJ Atkinson",
+              "bowler": "Imran Awan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Nizakat Khan",
+              "bowler": "Imran Awan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "JJ Atkinson",
+              "bowler": "Imran Awan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Nizakat Khan",
+              "bowler": "NC McGarrell",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Nizakat Khan",
+              "bowler": "NC McGarrell",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "JJ Atkinson",
+              "bowler": "NC McGarrell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "JJ Atkinson",
+              "bowler": "NC McGarrell",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Nizakat Khan",
+              "bowler": "NC McGarrell",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "JJ Atkinson",
+              "bowler": "NC McGarrell",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Nizakat Khan",
+              "bowler": "NC McGarrell",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "JJ Atkinson",
+              "bowler": "Imran Awan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "JJ Atkinson",
+              "bowler": "Imran Awan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Nizakat Khan",
+              "bowler": "Imran Awan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Nizakat Khan",
+              "bowler": "Imran Awan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "JJ Atkinson",
+              "bowler": "Imran Awan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "JJ Atkinson",
+              "bowler": "Imran Awan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Nizakat Khan",
+              "bowler": "Imran Awan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Nizakat Khan",
+              "bowler": "NC McGarrell",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Nizakat Khan",
+              "bowler": "NC McGarrell",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "JJ Atkinson",
+              "bowler": "NC McGarrell",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Nizakat Khan",
+              "bowler": "NC McGarrell",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Nizakat Khan",
+              "bowler": "NC McGarrell",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "JJ Atkinson",
+              "bowler": "NC McGarrell",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Nizakat Khan",
+              "bowler": "Imran Awan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "JJ Atkinson",
+              "bowler": "Imran Awan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "JJ Atkinson",
+              "bowler": "Imran Awan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "JJ Atkinson",
+              "bowler": "Imran Awan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "JJ Atkinson",
+              "bowler": "Imran Awan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Nizakat Khan",
+              "bowler": "Imran Awan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "JJ Atkinson",
+              "bowler": "Danial Ahmed",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "JJ Atkinson",
+              "bowler": "Danial Ahmed",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "JJ Atkinson",
+              "bowler": "Danial Ahmed",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "JJ Atkinson",
+              "bowler": "Danial Ahmed",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "JJ Atkinson",
+              "bowler": "Danial Ahmed",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Nizakat Khan",
+              "bowler": "Danial Ahmed",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Nizakat Khan",
+              "bowler": "Imran Awan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "JJ Atkinson",
+              "bowler": "Imran Awan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "JJ Atkinson",
+              "bowler": "Imran Awan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "JJ Atkinson",
+              "bowler": "Imran Awan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "JJ Atkinson",
+              "bowler": "Imran Awan",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Nizakat Khan",
+              "bowler": "Imran Awan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Nizakat Khan",
+              "bowler": "Imran Awan",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "JJ Atkinson",
+              "bowler": "Danial Ahmed",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Nizakat Khan",
+              "bowler": "Danial Ahmed",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Nizakat Khan",
+              "bowler": "Danial Ahmed",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "JJ Atkinson",
+              "bowler": "Danial Ahmed",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "JJ Atkinson",
+              "bowler": "Danial Ahmed",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Nizakat Khan",
+              "bowler": "Danial Ahmed",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "JJ Atkinson",
+              "bowler": "K Ganesh",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "JJ Atkinson",
+              "bowler": "K Ganesh",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "JJ Atkinson",
+              "bowler": "K Ganesh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "JJ Atkinson",
+              "bowler": "K Ganesh",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Nizakat Khan",
+              "bowler": "K Ganesh",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "JJ Atkinson",
+              "bowler": "K Ganesh",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "JJ Atkinson",
+              "bowler": "K Ganesh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "JJ Atkinson",
+              "bowler": "K Ganesh",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "JJ Atkinson",
+              "bowler": "BS Bartley",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "JJ Atkinson",
+              "bowler": "BS Bartley",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "JJ Atkinson",
+              "bowler": "BS Bartley",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "JJ Atkinson",
+              "bowler": "BS Bartley",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Nizakat Khan",
+              "bowler": "BS Bartley",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Nizakat Khan",
+              "bowler": "BS Bartley",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "JJ Atkinson",
+              "bowler": "K Ganesh",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Nizakat Khan",
+              "bowler": "K Ganesh",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Nizakat Khan",
+              "bowler": "K Ganesh",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Nizakat Khan",
+              "bowler": "K Ganesh",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Nizakat Khan",
+              "bowler": "K Ganesh",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "JJ Atkinson",
+              "bowler": "K Ganesh",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Nizakat Khan",
+              "bowler": "TP Allen",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Nizakat Khan",
+              "bowler": "TP Allen",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "JJ Atkinson",
+              "bowler": "TP Allen",
+              "non_striker": "Nizakat Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Nizakat Khan",
+              "bowler": "TP Allen",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Nizakat Khan",
+              "bowler": "TP Allen",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Nizakat Khan",
+              "bowler": "TP Allen",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Nizakat Khan",
+              "bowler": "BS Bartley",
+              "non_striker": "JJ Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Nizakat Khan",
+                  "fielders": [
+                    {
+                      "name": "SR Santhanam"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "JJ Atkinson",
+              "bowler": "BS Bartley",
+              "non_striker": "Munir Dar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "JJ Atkinson",
+              "bowler": "BS Bartley",
+              "non_striker": "Munir Dar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "JJ Atkinson",
+              "bowler": "BS Bartley",
+              "non_striker": "Munir Dar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "JJ Atkinson",
+              "bowler": "BS Bartley",
+              "non_striker": "Munir Dar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "JJ Atkinson",
+              "bowler": "BS Bartley",
+              "non_striker": "Munir Dar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JJ Atkinson",
+                  "fielders": [
+                    {
+                      "name": "AL Dodson"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "United States of America",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "SR Taylor",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "SR Taylor",
+              "bowler": "Tanwir Afzal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "SR Taylor",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "SR Taylor",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "SR Taylor",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "SR Taylor",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Fahad Babar",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "SR Taylor",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "SR Taylor",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "SR Taylor",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "SR Taylor",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "SR Taylor",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Fahad Babar",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "SR Taylor",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Fahad Babar",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Fahad Babar",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "SR Taylor",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "SR Taylor",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "SR Taylor",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "SR Taylor",
+              "bowler": "Munir Dar",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "SR Taylor",
+              "bowler": "Munir Dar",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "SR Taylor",
+              "bowler": "Munir Dar",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Fahad Babar",
+              "bowler": "Munir Dar",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Fahad Babar",
+              "bowler": "Munir Dar",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Fahad Babar",
+              "bowler": "Munir Dar",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "SR Taylor",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "SR Taylor",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "SR Taylor",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Fahad Babar",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Fahad Babar",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "SR Taylor",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "SR Taylor",
+              "bowler": "Munir Dar",
+              "non_striker": "Fahad Babar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Fahad Babar",
+              "bowler": "Munir Dar",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Fahad Babar"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "AL Dodson",
+              "bowler": "Munir Dar",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "AL Dodson",
+                  "fielders": [
+                    {
+                      "name": "Nadeem Ahmed"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "K Ganesh",
+              "bowler": "Munir Dar",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "SR Taylor",
+              "bowler": "Munir Dar",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "K Ganesh",
+              "bowler": "Munir Dar",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "SR Taylor",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "K Ganesh",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "SR Taylor",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "SR Taylor",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "K Ganesh",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "SR Taylor",
+              "bowler": "Tanwir Afzal",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "K Ganesh",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "SR Taylor",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "SR Taylor",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SR Taylor",
+                  "fielders": [
+                    {
+                      "name": "Babar Hayat"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "SR Santhanam",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "K Ganesh",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "SR Santhanam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "SR Santhanam",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "K Ganesh",
+              "bowler": "Aizaz Khan",
+              "non_striker": "SR Santhanam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "SR Santhanam",
+              "bowler": "Aizaz Khan",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "K Ganesh",
+              "bowler": "Aizaz Khan",
+              "non_striker": "SR Santhanam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "SR Santhanam",
+              "bowler": "Aizaz Khan",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "SR Santhanam",
+              "bowler": "Aizaz Khan",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "K Ganesh",
+              "bowler": "Aizaz Khan",
+              "non_striker": "SR Santhanam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "K Ganesh",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "SR Santhanam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "SR Santhanam",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "K Ganesh",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "SR Santhanam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "K Ganesh",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "SR Santhanam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "SR Santhanam",
+              "bowler": "Nadeem Ahmed",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "K Ganesh",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "SR Santhanam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "SR Santhanam",
+              "bowler": "Aizaz Khan",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "SR Santhanam",
+              "bowler": "Aizaz Khan",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "SR Santhanam",
+              "bowler": "Aizaz Khan",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "SR Santhanam",
+              "bowler": "Aizaz Khan",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "SR Santhanam",
+              "bowler": "Aizaz Khan",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "SR Santhanam",
+              "bowler": "Aizaz Khan",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "K Ganesh",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "SR Santhanam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "K Ganesh",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "SR Santhanam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "K Ganesh",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "SR Santhanam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "SR Santhanam",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "K Ganesh",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "SR Santhanam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "K Ganesh",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "SR Santhanam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "K Ganesh",
+              "bowler": "Aizaz Khan",
+              "non_striker": "SR Santhanam",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "SR Santhanam",
+              "bowler": "Aizaz Khan",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "SR Santhanam",
+              "bowler": "Aizaz Khan",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "SR Santhanam"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "TP Allen",
+              "bowler": "Aizaz Khan",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "TP Allen",
+              "bowler": "Aizaz Khan",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "K Ganesh",
+              "bowler": "Aizaz Khan",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "K Ganesh",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "TP Allen",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "K Ganesh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "K Ganesh",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "K Ganesh",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "K Ganesh"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "BS Bartley",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "BS Bartley",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "BS Bartley",
+              "bowler": "Aizaz Khan",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "BS Bartley",
+              "bowler": "Aizaz Khan",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "BS Bartley"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "JH Patel",
+              "bowler": "Aizaz Khan",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "JH Patel",
+              "bowler": "Aizaz Khan",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "TP Allen",
+              "bowler": "Aizaz Khan",
+              "non_striker": "JH Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "TP Allen",
+              "bowler": "Aizaz Khan",
+              "non_striker": "JH Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "JH Patel",
+              "bowler": "Munir Dar",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JH Patel",
+                  "fielders": [
+                    {
+                      "name": "Tanwir Afzal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "TP Allen",
+              "bowler": "Munir Dar",
+              "non_striker": "Danial Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Danial Ahmed",
+              "bowler": "Munir Dar",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "TP Allen",
+              "bowler": "Munir Dar",
+              "non_striker": "Danial Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "TP Allen",
+              "bowler": "Munir Dar",
+              "non_striker": "Danial Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Danial Ahmed",
+              "bowler": "Munir Dar",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "TP Allen",
+              "bowler": "Haseeb Amjad",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Danial Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Danial Ahmed",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "TP Allen",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "Danial Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Danial Ahmed",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Danial Ahmed",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Danial Ahmed",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "TP Allen",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "Danial Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Danial Ahmed",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Danial Ahmed",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "TP Allen",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "Danial Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "TP Allen",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "Danial Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Danial Ahmed",
+              "bowler": "Nadeem Ahmed",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "TP Allen",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "Danial Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "TP Allen",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "Danial Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Danial Ahmed",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Danial Ahmed"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Imran Awan",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Imran Awan",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "TP Allen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "TP Allen",
+              "bowler": "Haseeb Amjad",
+              "non_striker": "Imran Awan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "TP Allen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Imran Awan",
+              "bowler": "Munir Dar",
+              "non_striker": "NC McGarrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Imran Awan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 170
+      }
+    }
+  ]
+}

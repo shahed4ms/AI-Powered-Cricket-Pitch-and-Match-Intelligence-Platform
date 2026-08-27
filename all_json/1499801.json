@@ -1,0 +1,3412 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2025-09-15",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Suva",
+    "dates": [
+      "2025-09-15"
+    ],
+    "event": {
+      "name": "ICC Women's T20 World Cup East Asia Pacific Qualifier",
+      "stage": "7th Place Play-Off"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2512,
+    "officials": {
+      "match_referees": [
+        "TL Anderson"
+      ],
+      "reserve_umpires": [
+        "M Kenni"
+      ],
+      "umpires": [
+        "H Atai",
+        "Kim Cotton"
+      ]
+    },
+    "outcome": {
+      "winner": "Philippines",
+      "by": {
+        "wickets": 4
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "KK Donovan"
+    ],
+    "players": {
+      "Cook Islands": [
+        "T Maika",
+        "GES Sullivan",
+        "ZP Ikiua",
+        "S Vaia",
+        "ET Williams",
+        "K Mataora",
+        "S Samuels",
+        "RV Auora",
+        "Lily Lamb",
+        "R Bowers-Fleming",
+        "T Elikana"
+      ],
+      "Philippines": [
+        "ABY Smith",
+        "AR Valdez",
+        "JKD Andreano",
+        "Karri Gullem Keen",
+        "KK Donovan",
+        "AS Miranda",
+        "Kyte Gullem Keen",
+        "Angela Busa",
+        "JY Masaya",
+        "JR Medianesta",
+        "R Castillo"
+      ]
+    },
+    "registry": {
+      "people": {
+        "ABY Smith": "fcb4448f",
+        "AR Valdez": "3c3f34b0",
+        "AS Miranda": "283e47fa",
+        "Angela Busa": "cbef5af4",
+        "ET Williams": "90410756",
+        "GES Sullivan": "165b9097",
+        "H Atai": "0460d756",
+        "JKD Andreano": "757baa30",
+        "JR Medianesta": "538cb58a",
+        "JY Masaya": "44368e16",
+        "K Mataora": "281cc1e8",
+        "KK Donovan": "ef2a7af4",
+        "Karri Gullem Keen": "bb7b014a",
+        "Kim Cotton": "67a7c2ee",
+        "Kyte Gullem Keen": "f3f654c2",
+        "Lily Lamb": "69fc75bb",
+        "M Kenni": "1feb0d3c",
+        "R Bowers-Fleming": "0eb829be",
+        "R Castillo": "716ba9ef",
+        "RV Auora": "672cee0a",
+        "S Samuels": "d852095e",
+        "S Vaia": "78103121",
+        "T Elikana": "2bea8bda",
+        "T Maika": "9782087e",
+        "TL Anderson": "f52ddf8d",
+        "ZP Ikiua": "3bd86723"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Cook Islands",
+      "Philippines"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Cook Islands"
+    },
+    "venue": "Albert Park 2, Suva"
+  },
+  "innings": [
+    {
+      "team": "Cook Islands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "T Maika",
+              "bowler": "JKD Andreano",
+              "non_striker": "GES Sullivan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "GES Sullivan",
+              "bowler": "JKD Andreano",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "GES Sullivan",
+              "bowler": "JKD Andreano",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "T Maika",
+              "bowler": "JKD Andreano",
+              "non_striker": "GES Sullivan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "T Maika",
+              "bowler": "JKD Andreano",
+              "non_striker": "GES Sullivan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "T Maika",
+              "bowler": "JKD Andreano",
+              "non_striker": "GES Sullivan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "T Maika",
+              "bowler": "KK Donovan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "GES Sullivan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "GES Sullivan",
+              "bowler": "KK Donovan",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "GES Sullivan",
+              "bowler": "KK Donovan",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GES Sullivan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "ZP Ikiua",
+              "bowler": "KK Donovan",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "ZP Ikiua",
+              "bowler": "KK Donovan",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "ZP Ikiua",
+              "bowler": "KK Donovan",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "T Maika",
+              "bowler": "JKD Andreano",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "T Maika",
+              "bowler": "JKD Andreano",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "ZP Ikiua",
+              "bowler": "JKD Andreano",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "ZP Ikiua",
+              "bowler": "JKD Andreano",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "ZP Ikiua",
+              "bowler": "JKD Andreano",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "ZP Ikiua",
+              "bowler": "JKD Andreano",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "T Maika",
+              "bowler": "KK Donovan",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "T Maika",
+              "bowler": "KK Donovan",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "T Maika",
+              "bowler": "KK Donovan",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "T Maika",
+              "bowler": "KK Donovan",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "T Maika",
+              "bowler": "KK Donovan",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "T Maika",
+              "bowler": "KK Donovan",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "T Maika",
+              "bowler": "KK Donovan",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "ZP Ikiua",
+              "bowler": "JKD Andreano",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "T Maika",
+              "bowler": "JKD Andreano",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "ZP Ikiua",
+              "bowler": "JKD Andreano",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "ZP Ikiua",
+              "bowler": "JKD Andreano",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "ZP Ikiua",
+              "bowler": "JKD Andreano",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "ZP Ikiua",
+              "bowler": "JKD Andreano",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "ZP Ikiua",
+              "bowler": "JKD Andreano",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "T Maika",
+              "bowler": "KK Donovan",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "T Maika",
+              "bowler": "KK Donovan",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "T Maika",
+              "bowler": "KK Donovan",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "T Maika",
+              "bowler": "KK Donovan",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "T Maika",
+              "bowler": "KK Donovan",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "T Maika",
+              "bowler": "KK Donovan",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "T Maika",
+              "bowler": "JKD Andreano",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "T Maika",
+              "bowler": "JKD Andreano",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "T Maika",
+              "bowler": "JKD Andreano",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "ZP Ikiua",
+              "bowler": "JKD Andreano",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "ZP Ikiua",
+              "bowler": "JKD Andreano",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "T Maika",
+              "bowler": "JKD Andreano",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "ZP Ikiua",
+              "bowler": "KK Donovan",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "ZP Ikiua",
+              "bowler": "KK Donovan",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "ZP Ikiua",
+              "bowler": "KK Donovan",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "T Maika",
+              "bowler": "KK Donovan",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "T Maika",
+              "bowler": "KK Donovan",
+              "non_striker": "ZP Ikiua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "ZP Ikiua",
+              "bowler": "KK Donovan",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ZP Ikiua",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "T Maika",
+              "bowler": "ABY Smith",
+              "non_striker": "S Vaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "T Maika",
+              "bowler": "ABY Smith",
+              "non_striker": "S Vaia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "S Vaia",
+              "bowler": "ABY Smith",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "S Vaia",
+              "bowler": "ABY Smith",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "S Vaia",
+              "bowler": "ABY Smith",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "T Maika",
+              "bowler": "ABY Smith",
+              "non_striker": "S Vaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "S Vaia",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "S Vaia",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "S Vaia",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "S Vaia",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "S Vaia",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "S Vaia",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "T Maika",
+              "bowler": "ABY Smith",
+              "non_striker": "S Vaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "T Maika",
+              "bowler": "ABY Smith",
+              "non_striker": "S Vaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "T Maika",
+              "bowler": "ABY Smith",
+              "non_striker": "S Vaia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "S Vaia",
+              "bowler": "ABY Smith",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "S Vaia",
+              "bowler": "ABY Smith",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "S Vaia",
+              "bowler": "ABY Smith",
+              "non_striker": "T Maika",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "T Maika",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "S Vaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "T Maika",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "S Vaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Maika",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "ET Williams",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "S Vaia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "ET Williams",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "S Vaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "ET Williams",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "S Vaia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "S Vaia",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "ET Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "ET Williams",
+              "bowler": "ABY Smith",
+              "non_striker": "S Vaia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "S Vaia",
+              "bowler": "ABY Smith",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ET Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "S Vaia",
+              "bowler": "ABY Smith",
+              "non_striker": "ET Williams",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "ET Williams",
+              "bowler": "ABY Smith",
+              "non_striker": "S Vaia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "S Vaia",
+              "bowler": "ABY Smith",
+              "non_striker": "ET Williams",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "S Vaia",
+              "bowler": "ABY Smith",
+              "non_striker": "ET Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "S Vaia",
+              "bowler": "ABY Smith",
+              "non_striker": "ET Williams",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "ET Williams",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "S Vaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "ET Williams",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "S Vaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "ET Williams",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "S Vaia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "S Vaia",
+              "bowler": "Karri Gullem Keen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ET Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "S Vaia",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "ET Williams",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "S Vaia",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "ET Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "S Vaia",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "ET Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Vaia",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "ET Williams",
+              "bowler": "AR Valdez",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "ET Williams",
+              "bowler": "AR Valdez",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "ET Williams",
+              "bowler": "AR Valdez",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "ET Williams",
+              "bowler": "AR Valdez",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "K Mataora",
+              "bowler": "AR Valdez",
+              "non_striker": "ET Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "K Mataora",
+              "bowler": "AR Valdez",
+              "non_striker": "ET Williams",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "ET Williams",
+              "bowler": "AR Valdez",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "K Mataora",
+              "bowler": "AR Valdez",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ET Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "K Mataora",
+              "bowler": "AR Valdez",
+              "non_striker": "ET Williams",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "ET Williams",
+              "bowler": "Karri Gullem Keen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.1",
+              "batter": "ET Williams",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "K Mataora",
+              "bowler": "Karri Gullem Keen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ET Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "K Mataora",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "ET Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "K Mataora",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "ET Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "K Mataora",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "ET Williams",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "ET Williams",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ET Williams",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "S Samuels",
+              "bowler": "Karri Gullem Keen",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "K Mataora",
+              "bowler": "AR Valdez",
+              "non_striker": "S Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "K Mataora",
+              "bowler": "AR Valdez",
+              "non_striker": "S Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "K Mataora",
+              "bowler": "AR Valdez",
+              "non_striker": "S Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "K Mataora",
+              "bowler": "AR Valdez",
+              "non_striker": "S Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "S Samuels",
+              "bowler": "AR Valdez",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "S Samuels",
+              "bowler": "AR Valdez",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "K Mataora",
+              "bowler": "R Castillo",
+              "non_striker": "S Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "S Samuels",
+              "bowler": "R Castillo",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "S Samuels",
+              "bowler": "R Castillo",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "S Samuels",
+              "bowler": "R Castillo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "S Samuels",
+              "bowler": "R Castillo",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "S Samuels",
+              "bowler": "R Castillo",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "S Samuels",
+              "bowler": "R Castillo",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "K Mataora",
+              "bowler": "AR Valdez",
+              "non_striker": "S Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "S Samuels",
+              "bowler": "AR Valdez",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "S Samuels",
+              "bowler": "AR Valdez",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "S Samuels",
+              "bowler": "AR Valdez",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Samuels",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "RV Auora",
+              "bowler": "AR Valdez",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "K Mataora",
+              "bowler": "AR Valdez",
+              "non_striker": "RV Auora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "K Mataora",
+              "bowler": "AR Valdez",
+              "non_striker": "RV Auora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "RV Auora",
+              "bowler": "R Castillo",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "RV Auora",
+              "bowler": "R Castillo",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "RV Auora",
+              "bowler": "R Castillo",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "RV Auora",
+              "bowler": "R Castillo",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "RV Auora",
+              "bowler": "R Castillo",
+              "non_striker": "K Mataora",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "K Mataora",
+              "bowler": "R Castillo",
+              "non_striker": "RV Auora",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Philippines",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "ABY Smith",
+              "bowler": "GES Sullivan",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "ABY Smith",
+              "bowler": "GES Sullivan",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ABY Smith",
+                  "fielders": [
+                    {
+                      "name": "K Mataora"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "JKD Andreano",
+              "bowler": "GES Sullivan",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "JKD Andreano",
+              "bowler": "GES Sullivan",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JKD Andreano",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Karri Gullem Keen",
+              "bowler": "GES Sullivan",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Karri Gullem Keen",
+              "bowler": "GES Sullivan",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "AR Valdez",
+              "bowler": "ET Williams",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.1",
+              "batter": "AR Valdez",
+              "bowler": "ET Williams",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "AR Valdez",
+              "bowler": "ET Williams",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "AR Valdez",
+              "bowler": "ET Williams",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "AR Valdez",
+              "bowler": "ET Williams",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "AR Valdez",
+              "bowler": "ET Williams",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "AR Valdez",
+              "bowler": "ET Williams",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "AR Valdez",
+              "bowler": "ET Williams",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "AR Valdez",
+              "bowler": "GES Sullivan",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Karri Gullem Keen",
+              "bowler": "GES Sullivan",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Karri Gullem Keen",
+              "bowler": "GES Sullivan",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Karri Gullem Keen",
+              "bowler": "GES Sullivan",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Karri Gullem Keen",
+              "bowler": "GES Sullivan",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Karri Gullem Keen",
+              "bowler": "GES Sullivan",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "AR Valdez",
+              "bowler": "ET Williams",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "AR Valdez",
+              "bowler": "ET Williams",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "AR Valdez",
+              "bowler": "ET Williams",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "AR Valdez",
+              "bowler": "ET Williams",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Karri Gullem Keen",
+              "bowler": "ET Williams",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Karri Gullem Keen",
+              "bowler": "ET Williams",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "AR Valdez",
+              "bowler": "GES Sullivan",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Karri Gullem Keen",
+              "bowler": "GES Sullivan",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Karri Gullem Keen",
+              "bowler": "GES Sullivan",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Karri Gullem Keen",
+              "bowler": "GES Sullivan",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Karri Gullem Keen",
+              "bowler": "GES Sullivan",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Karri Gullem Keen",
+              "bowler": "GES Sullivan",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "AR Valdez",
+              "bowler": "ET Williams",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Karri Gullem Keen",
+              "bowler": "ET Williams",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "AR Valdez",
+              "bowler": "ET Williams",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "AR Valdez",
+              "bowler": "ET Williams",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Karri Gullem Keen",
+              "bowler": "ET Williams",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Karri Gullem Keen",
+              "bowler": "ET Williams",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "AR Valdez",
+              "bowler": "R Bowers-Fleming",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "AR Valdez",
+              "bowler": "R Bowers-Fleming",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Karri Gullem Keen",
+              "bowler": "R Bowers-Fleming",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Karri Gullem Keen",
+              "bowler": "R Bowers-Fleming",
+              "non_striker": "AR Valdez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "AR Valdez",
+              "bowler": "R Bowers-Fleming",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AR Valdez",
+                  "fielders": [
+                    {
+                      "name": "ZP Ikiua"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "KK Donovan",
+              "bowler": "R Bowers-Fleming",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "KK Donovan",
+              "bowler": "R Bowers-Fleming",
+              "extras": {
+                "byes": 4,
+                "noballs": 1
+              },
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "KK Donovan",
+              "bowler": "R Bowers-Fleming",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "KK Donovan",
+              "bowler": "R Bowers-Fleming",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Karri Gullem Keen",
+              "bowler": "RV Auora",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "KK Donovan",
+              "bowler": "RV Auora",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "KK Donovan",
+              "bowler": "RV Auora",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Karri Gullem Keen",
+              "bowler": "RV Auora",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "KK Donovan",
+              "bowler": "RV Auora",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Karri Gullem Keen",
+              "bowler": "RV Auora",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Karri Gullem Keen",
+              "bowler": "RV Auora",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "KK Donovan",
+              "bowler": "RV Auora",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Karri Gullem Keen",
+              "bowler": "ZP Ikiua",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "KK Donovan",
+              "bowler": "ZP Ikiua",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "KK Donovan",
+              "bowler": "ZP Ikiua",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "KK Donovan",
+              "bowler": "ZP Ikiua",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "KK Donovan",
+              "bowler": "ZP Ikiua",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Karri Gullem Keen",
+              "bowler": "ZP Ikiua",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "KK Donovan",
+              "bowler": "S Samuels",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "KK Donovan",
+              "bowler": "S Samuels",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "KK Donovan",
+              "bowler": "S Samuels",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "KK Donovan",
+              "bowler": "S Samuels",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Karri Gullem Keen",
+              "bowler": "S Samuels",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "KK Donovan",
+              "bowler": "S Samuels",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "KK Donovan",
+              "bowler": "ZP Ikiua",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Karri Gullem Keen",
+              "bowler": "ZP Ikiua",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Karri Gullem Keen",
+              "bowler": "ZP Ikiua",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Karri Gullem Keen",
+              "bowler": "ZP Ikiua",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "KK Donovan",
+              "bowler": "ZP Ikiua",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "KK Donovan",
+              "bowler": "ZP Ikiua",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "KK Donovan",
+              "bowler": "S Samuels",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Karri Gullem Keen",
+              "bowler": "S Samuels",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Karri Gullem Keen",
+              "bowler": "S Samuels",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "KK Donovan",
+              "bowler": "S Samuels",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "KK Donovan",
+              "bowler": "S Samuels",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Karri Gullem Keen",
+              "bowler": "S Samuels",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "KK Donovan",
+              "bowler": "GES Sullivan",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "KK Donovan",
+              "bowler": "GES Sullivan",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "KK Donovan",
+              "bowler": "GES Sullivan",
+              "non_striker": "Karri Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Karri Gullem Keen",
+              "bowler": "GES Sullivan",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Karri Gullem Keen",
+              "bowler": "GES Sullivan",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Karri Gullem Keen",
+              "bowler": "GES Sullivan",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Karri Gullem Keen",
+                  "fielders": [
+                    {
+                      "name": "S Samuels"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "KK Donovan",
+              "bowler": "ZP Ikiua",
+              "non_striker": "AS Miranda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "KK Donovan",
+              "bowler": "ZP Ikiua",
+              "non_striker": "AS Miranda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "AS Miranda",
+              "bowler": "ZP Ikiua",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "AS Miranda",
+              "bowler": "ZP Ikiua",
+              "non_striker": "KK Donovan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "KK Donovan",
+              "bowler": "ZP Ikiua",
+              "non_striker": "AS Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "KK Donovan",
+              "bowler": "ZP Ikiua",
+              "non_striker": "AS Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KK Donovan",
+                  "fielders": [
+                    {
+                      "name": "GES Sullivan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "AS Miranda",
+              "bowler": "Lily Lamb",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "AS Miranda",
+              "bowler": "Lily Lamb",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "AS Miranda",
+              "bowler": "Lily Lamb",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "AS Miranda",
+              "bowler": "Lily Lamb",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "AS Miranda",
+              "bowler": "Lily Lamb",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "AS Miranda",
+              "bowler": "Lily Lamb",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "AS Miranda",
+              "bowler": "Lily Lamb",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Kyte Gullem Keen",
+              "bowler": "ZP Ikiua",
+              "non_striker": "AS Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Kyte Gullem Keen",
+              "bowler": "ZP Ikiua",
+              "non_striker": "AS Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Kyte Gullem Keen",
+              "bowler": "ZP Ikiua",
+              "non_striker": "AS Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Kyte Gullem Keen",
+              "bowler": "ZP Ikiua",
+              "non_striker": "AS Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Kyte Gullem Keen",
+              "bowler": "ZP Ikiua",
+              "non_striker": "AS Miranda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Kyte Gullem Keen",
+              "bowler": "ZP Ikiua",
+              "non_striker": "AS Miranda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Kyte Gullem Keen",
+              "bowler": "Lily Lamb",
+              "non_striker": "AS Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Kyte Gullem Keen",
+              "bowler": "Lily Lamb",
+              "non_striker": "AS Miranda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Kyte Gullem Keen",
+              "bowler": "Lily Lamb",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "AS Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Kyte Gullem Keen",
+              "bowler": "Lily Lamb",
+              "non_striker": "AS Miranda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "AS Miranda",
+              "bowler": "Lily Lamb",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "AS Miranda",
+              "bowler": "Lily Lamb",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "AS Miranda",
+              "bowler": "Lily Lamb",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Kyte Gullem Keen",
+              "bowler": "Lily Lamb",
+              "non_striker": "AS Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Kyte Gullem Keen",
+              "bowler": "Lily Lamb",
+              "non_striker": "AS Miranda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "AS Miranda",
+              "bowler": "ET Williams",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.1",
+              "batter": "Kyte Gullem Keen",
+              "bowler": "ET Williams",
+              "non_striker": "AS Miranda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Kyte Gullem Keen",
+              "bowler": "ET Williams",
+              "non_striker": "AS Miranda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "AS Miranda",
+              "bowler": "ET Williams",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "AS Miranda",
+              "bowler": "ET Williams",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Kyte Gullem Keen",
+              "bowler": "ET Williams",
+              "non_striker": "AS Miranda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "AS Miranda",
+              "bowler": "ET Williams",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AS Miranda",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Kyte Gullem Keen",
+              "bowler": "Lily Lamb",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Angela Busa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.1",
+              "batter": "Kyte Gullem Keen",
+              "bowler": "Lily Lamb",
+              "non_striker": "Angela Busa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Kyte Gullem Keen",
+              "bowler": "Lily Lamb",
+              "non_striker": "Angela Busa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Kyte Gullem Keen",
+              "bowler": "Lily Lamb",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Angela Busa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Kyte Gullem Keen",
+              "bowler": "Lily Lamb",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Angela Busa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Angela Busa",
+              "bowler": "Lily Lamb",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Angela Busa",
+              "bowler": "Lily Lamb",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Angela Busa",
+              "bowler": "Lily Lamb",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Angela Busa",
+              "bowler": "S Samuels",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Angela Busa",
+              "bowler": "S Samuels",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Angela Busa",
+              "bowler": "S Samuels",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Angela Busa",
+              "bowler": "S Samuels",
+              "non_striker": "Kyte Gullem Keen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 116
+      }
+    }
+  ]
+}

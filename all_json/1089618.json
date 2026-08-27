@@ -1,0 +1,3127 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2022-03-27",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Eglinton",
+    "dates": [
+      "2017-06-23"
+    ],
+    "event": {
+      "name": "Cricket Ireland Inter-Provincial Twenty20 Trophy"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "reserve_umpires": [
+        "Jareth McCready"
+      ],
+      "umpires": [
+        "N Dunn",
+        "R Black"
+      ]
+    },
+    "outcome": {
+      "winner": "North-West Warriors",
+      "by": {
+        "runs": 25
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Munster Reds": [
+        "J Grassi",
+        "JB Tector",
+        "N Pretorius",
+        "RJ Forrest",
+        "SF Grobler",
+        "Arslan Anwar",
+        "HT Tector",
+        "DC Delany",
+        "Muhammad Sadique",
+        "M Neville",
+        "Yaqoob Ali"
+      ],
+      "North-West Warriors": [
+        "SR Thompson",
+        "DA Rankin",
+        "W McClintock",
+        "G Kennedy",
+        "J Thompson",
+        "AR McBrine",
+        "RL Dougherty",
+        "SA Britton",
+        "SV Lazars",
+        "D Scanlon",
+        "R Allen"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AR McBrine": "e957b38f",
+        "Arslan Anwar": "9e894c5a",
+        "D Scanlon": "51c90542",
+        "DA Rankin": "ab859427",
+        "DC Delany": "0f9c9d1d",
+        "G Kennedy": "574b4c01",
+        "HT Tector": "59ea70a4",
+        "J Grassi": "913b4b9f",
+        "J Thompson": "f31ce798",
+        "JB Tector": "64770caf",
+        "Jareth McCready": "84fa5232",
+        "M Neville": "f6665e89",
+        "Muhammad Sadique": "2532a778",
+        "N Dunn": "f9c9bd9e",
+        "N Pretorius": "398dd99c",
+        "R Allen": "415e5c01",
+        "R Black": "156c8fb1",
+        "RJ Forrest": "a7378253",
+        "RL Dougherty": "a124a56b",
+        "SA Britton": "de43472d",
+        "SF Grobler": "57c0f0c8",
+        "SR Thompson": "7f3ad1ed",
+        "SV Lazars": "00784913",
+        "W McClintock": "b16ddb79",
+        "Yaqoob Ali": "92a9be81"
+      }
+    },
+    "season": "2017",
+    "team_type": "club",
+    "teams": [
+      "North-West Warriors",
+      "Munster Reds"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Munster Reds"
+    },
+    "venue": "Woodvale Road, Eglinton"
+  },
+  "innings": [
+    {
+      "team": "North-West Warriors",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "SR Thompson",
+              "bowler": "HT Tector",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "DA Rankin",
+              "bowler": "HT Tector",
+              "non_striker": "SR Thompson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "DA Rankin",
+              "bowler": "HT Tector",
+              "non_striker": "SR Thompson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "SR Thompson",
+              "bowler": "HT Tector",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SR Thompson",
+                  "fielders": [
+                    {
+                      "name": "N Pretorius"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "W McClintock",
+              "bowler": "HT Tector",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "W McClintock",
+              "bowler": "HT Tector",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "DA Rankin",
+              "bowler": "M Neville",
+              "non_striker": "W McClintock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "W McClintock",
+              "bowler": "M Neville",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "W McClintock",
+              "bowler": "M Neville",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "W McClintock",
+              "bowler": "M Neville",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "W McClintock",
+              "bowler": "M Neville",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "W McClintock",
+              "bowler": "M Neville",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "DA Rankin",
+              "bowler": "HT Tector",
+              "non_striker": "W McClintock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "DA Rankin",
+              "bowler": "HT Tector",
+              "non_striker": "W McClintock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "DA Rankin",
+              "bowler": "HT Tector",
+              "non_striker": "W McClintock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "DA Rankin",
+              "bowler": "HT Tector",
+              "non_striker": "W McClintock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "W McClintock",
+              "bowler": "HT Tector",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "W McClintock",
+                  "fielders": [
+                    {
+                      "name": "DC Delany"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "DA Rankin",
+              "bowler": "HT Tector",
+              "non_striker": "G Kennedy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "G Kennedy",
+              "bowler": "M Neville",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "DA Rankin",
+              "bowler": "M Neville",
+              "non_striker": "G Kennedy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "G Kennedy",
+              "bowler": "M Neville",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "DA Rankin",
+              "bowler": "M Neville",
+              "non_striker": "G Kennedy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "DA Rankin",
+              "bowler": "M Neville",
+              "non_striker": "G Kennedy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "G Kennedy",
+              "bowler": "M Neville",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "DA Rankin",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "G Kennedy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "G Kennedy",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "G Kennedy",
+              "bowler": "Yaqoob Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "G Kennedy",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "G Kennedy",
+              "bowler": "Yaqoob Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "G Kennedy",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "G Kennedy",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "G Kennedy",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "DA Rankin",
+              "bowler": "DC Delany",
+              "non_striker": "G Kennedy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "G Kennedy",
+              "bowler": "DC Delany",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "G Kennedy",
+              "bowler": "DC Delany",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "DA Rankin",
+              "bowler": "DC Delany",
+              "non_striker": "G Kennedy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "DA Rankin",
+              "bowler": "DC Delany",
+              "non_striker": "G Kennedy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "DA Rankin",
+              "bowler": "DC Delany",
+              "non_striker": "G Kennedy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "G Kennedy",
+              "bowler": "SF Grobler",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "G Kennedy",
+              "bowler": "SF Grobler",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "G Kennedy",
+              "bowler": "SF Grobler",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "G Kennedy",
+              "bowler": "SF Grobler",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "G Kennedy",
+              "bowler": "SF Grobler",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "G Kennedy",
+              "bowler": "SF Grobler",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "DA Rankin",
+              "bowler": "Muhammad Sadique",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Kennedy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.1",
+              "batter": "DA Rankin",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "G Kennedy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "G Kennedy",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "G Kennedy",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "DA Rankin",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "G Kennedy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "G Kennedy",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Kennedy",
+                  "fielders": [
+                    {
+                      "name": "J Grassi"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "J Thompson",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "J Thompson",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "J Thompson",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "J Thompson",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "DA Rankin",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "J Thompson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "J Thompson",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "J Thompson",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "DA Rankin",
+              "bowler": "DC Delany",
+              "non_striker": "J Thompson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "DA Rankin",
+              "bowler": "DC Delany",
+              "non_striker": "J Thompson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "J Thompson",
+              "bowler": "DC Delany",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "DA Rankin",
+              "bowler": "DC Delany",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "J Thompson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "DA Rankin",
+              "bowler": "DC Delany",
+              "non_striker": "J Thompson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "J Thompson",
+              "bowler": "DC Delany",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "J Thompson",
+              "bowler": "DC Delany",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "DA Rankin",
+              "bowler": "DC Delany",
+              "non_striker": "J Thompson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "DA Rankin",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "J Thompson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "DA Rankin",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "J Thompson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "DA Rankin",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "J Thompson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "DA Rankin",
+              "bowler": "Yaqoob Ali",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "J Thompson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "J Thompson",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "J Thompson",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "J Thompson",
+              "bowler": "HT Tector",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Thompson",
+                  "fielders": [
+                    {
+                      "name": "RJ Forrest"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "AR McBrine",
+              "bowler": "HT Tector",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "DA Rankin",
+              "bowler": "HT Tector",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "AR McBrine",
+              "bowler": "HT Tector",
+              "non_striker": "DA Rankin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "DA Rankin",
+              "bowler": "HT Tector",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DA Rankin",
+                  "fielders": [
+                    {
+                      "name": "J Grassi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "RL Dougherty",
+              "bowler": "HT Tector",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "AR McBrine",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "RL Dougherty",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "RL Dougherty",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "RL Dougherty",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "RL Dougherty",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "AR McBrine",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "AR McBrine",
+              "bowler": "HT Tector",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "RL Dougherty",
+              "bowler": "HT Tector",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "AR McBrine",
+              "bowler": "HT Tector",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "RL Dougherty",
+              "bowler": "HT Tector",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "RL Dougherty",
+              "bowler": "HT Tector",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "RL Dougherty",
+              "bowler": "HT Tector",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "AR McBrine",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "RL Dougherty",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "RL Dougherty",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "RL Dougherty",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "AR McBrine",
+              "bowler": "Muhammad Sadique",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "AR McBrine",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "RL Dougherty",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "RL Dougherty",
+              "bowler": "M Neville",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "AR McBrine",
+              "bowler": "M Neville",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "AR McBrine",
+              "bowler": "M Neville",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "RL Dougherty",
+              "bowler": "M Neville",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "RL Dougherty",
+              "bowler": "M Neville",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "RL Dougherty",
+              "bowler": "M Neville",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "RL Dougherty",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "RL Dougherty",
+              "bowler": "Yaqoob Ali",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "RL Dougherty",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "AR McBrine",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "AR McBrine",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "RL Dougherty",
+              "bowler": "Yaqoob Ali",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "AR McBrine",
+              "bowler": "M Neville",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "AR McBrine",
+              "bowler": "M Neville",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "AR McBrine",
+              "bowler": "M Neville",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "AR McBrine",
+              "bowler": "M Neville",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "RL Dougherty",
+              "bowler": "M Neville",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "RL Dougherty",
+              "bowler": "M Neville",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "AR McBrine",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "RL Dougherty",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "AR McBrine",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "AR McBrine",
+              "bowler": "Muhammad Sadique",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "RL Dougherty",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "AR McBrine",
+              "bowler": "Muhammad Sadique",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "RL Dougherty",
+              "bowler": "DC Delany",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "AR McBrine",
+              "bowler": "DC Delany",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "AR McBrine",
+              "bowler": "DC Delany",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "AR McBrine",
+              "bowler": "DC Delany",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "AR McBrine",
+              "bowler": "DC Delany",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "AR McBrine",
+              "bowler": "DC Delany",
+              "non_striker": "RL Dougherty",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Munster Reds",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "J Grassi",
+              "bowler": "SA Britton",
+              "non_striker": "JB Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "JB Tector",
+              "bowler": "SA Britton",
+              "non_striker": "J Grassi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "JB Tector",
+              "bowler": "SA Britton",
+              "non_striker": "J Grassi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "JB Tector",
+              "bowler": "SA Britton",
+              "non_striker": "J Grassi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "JB Tector",
+              "bowler": "SA Britton",
+              "non_striker": "J Grassi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "JB Tector",
+              "bowler": "SA Britton",
+              "non_striker": "J Grassi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "J Grassi",
+              "bowler": "D Scanlon",
+              "non_striker": "JB Tector",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "J Grassi",
+              "bowler": "D Scanlon",
+              "non_striker": "JB Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Grassi",
+                  "fielders": [
+                    {
+                      "name": "RL Dougherty"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "N Pretorius",
+              "bowler": "D Scanlon",
+              "non_striker": "JB Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "JB Tector",
+              "bowler": "D Scanlon",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Pretorius",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "JB Tector",
+              "bowler": "D Scanlon",
+              "non_striker": "N Pretorius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JB Tector",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "RJ Forrest",
+              "bowler": "D Scanlon",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Pretorius",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "RJ Forrest",
+              "bowler": "D Scanlon",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "N Pretorius",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "N Pretorius",
+              "bowler": "D Scanlon",
+              "non_striker": "RJ Forrest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "RJ Forrest",
+              "bowler": "SA Britton",
+              "non_striker": "N Pretorius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "N Pretorius",
+              "bowler": "SA Britton",
+              "non_striker": "RJ Forrest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "N Pretorius",
+              "bowler": "SA Britton",
+              "non_striker": "RJ Forrest",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "N Pretorius",
+              "bowler": "SA Britton",
+              "non_striker": "RJ Forrest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "N Pretorius",
+              "bowler": "SA Britton",
+              "non_striker": "RJ Forrest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "RJ Forrest",
+              "bowler": "SA Britton",
+              "non_striker": "N Pretorius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "N Pretorius",
+              "bowler": "D Scanlon",
+              "non_striker": "RJ Forrest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "RJ Forrest",
+              "bowler": "D Scanlon",
+              "non_striker": "N Pretorius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "N Pretorius",
+              "bowler": "D Scanlon",
+              "non_striker": "RJ Forrest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "N Pretorius",
+              "bowler": "D Scanlon",
+              "non_striker": "RJ Forrest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "N Pretorius",
+              "bowler": "D Scanlon",
+              "non_striker": "RJ Forrest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "RJ Forrest",
+              "bowler": "D Scanlon",
+              "non_striker": "N Pretorius",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "N Pretorius",
+              "bowler": "SR Thompson",
+              "non_striker": "RJ Forrest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "RJ Forrest",
+              "bowler": "SR Thompson",
+              "non_striker": "N Pretorius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "RJ Forrest",
+              "bowler": "SR Thompson",
+              "non_striker": "N Pretorius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "RJ Forrest",
+              "bowler": "SR Thompson",
+              "non_striker": "N Pretorius",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "RJ Forrest",
+              "bowler": "SR Thompson",
+              "non_striker": "N Pretorius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "RJ Forrest",
+              "bowler": "SR Thompson",
+              "non_striker": "N Pretorius",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "N Pretorius",
+              "bowler": "SV Lazars",
+              "non_striker": "RJ Forrest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "N Pretorius",
+              "bowler": "SV Lazars",
+              "non_striker": "RJ Forrest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "N Pretorius",
+              "bowler": "SV Lazars",
+              "non_striker": "RJ Forrest",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "N Pretorius",
+              "bowler": "SV Lazars",
+              "non_striker": "RJ Forrest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Pretorius",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "SF Grobler",
+              "bowler": "SV Lazars",
+              "non_striker": "RJ Forrest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "RJ Forrest",
+              "bowler": "SV Lazars",
+              "non_striker": "SF Grobler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "RJ Forrest",
+              "bowler": "J Thompson",
+              "non_striker": "SF Grobler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "RJ Forrest",
+              "bowler": "J Thompson",
+              "non_striker": "SF Grobler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "SF Grobler",
+              "bowler": "J Thompson",
+              "non_striker": "RJ Forrest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "SF Grobler",
+              "bowler": "J Thompson",
+              "non_striker": "RJ Forrest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "RJ Forrest",
+              "bowler": "J Thompson",
+              "non_striker": "SF Grobler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RJ Forrest",
+                  "fielders": [
+                    {
+                      "name": "DA Rankin"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "SF Grobler",
+              "bowler": "J Thompson",
+              "non_striker": "Arslan Anwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Arslan Anwar",
+              "bowler": "SV Lazars",
+              "non_striker": "SF Grobler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "SF Grobler",
+              "bowler": "SV Lazars",
+              "non_striker": "Arslan Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "SF Grobler",
+              "bowler": "SV Lazars",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Arslan Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "SF Grobler",
+              "bowler": "SV Lazars",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Arslan Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Arslan Anwar",
+              "bowler": "SV Lazars",
+              "non_striker": "SF Grobler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "SF Grobler",
+              "bowler": "SV Lazars",
+              "non_striker": "Arslan Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Arslan Anwar",
+              "bowler": "SV Lazars",
+              "non_striker": "SF Grobler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "SF Grobler",
+              "bowler": "J Thompson",
+              "non_striker": "Arslan Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "SF Grobler",
+              "bowler": "J Thompson",
+              "non_striker": "Arslan Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Arslan Anwar",
+              "bowler": "J Thompson",
+              "non_striker": "SF Grobler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Arslan Anwar",
+                  "fielders": [
+                    {
+                      "name": "SR Thompson"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "SF Grobler",
+              "bowler": "J Thompson",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "SF Grobler",
+              "bowler": "J Thompson",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "SF Grobler",
+              "bowler": "J Thompson",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "SF Grobler",
+              "bowler": "SV Lazars",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SF Grobler",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "DC Delany",
+              "bowler": "SV Lazars",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "DC Delany",
+              "bowler": "SV Lazars",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "DC Delany",
+              "bowler": "SV Lazars",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "DC Delany",
+              "bowler": "SV Lazars",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "DC Delany",
+              "bowler": "SV Lazars",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "HT Tector",
+              "bowler": "R Allen",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "DC Delany",
+              "bowler": "R Allen",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "DC Delany",
+              "bowler": "R Allen",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "HT Tector",
+              "bowler": "R Allen",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "HT Tector",
+              "bowler": "R Allen",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "HT Tector",
+              "bowler": "R Allen",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "HT Tector",
+              "bowler": "SV Lazars",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "HT Tector",
+              "bowler": "SV Lazars",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "DC Delany",
+              "bowler": "SV Lazars",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "DC Delany",
+              "bowler": "SV Lazars",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "DC Delany",
+              "bowler": "SV Lazars",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "HT Tector",
+              "bowler": "SV Lazars",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "HT Tector",
+              "bowler": "R Allen",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "DC Delany",
+              "bowler": "R Allen",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "HT Tector",
+              "bowler": "R Allen",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "HT Tector",
+              "bowler": "R Allen",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "DC Delany",
+              "bowler": "R Allen",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "DC Delany",
+              "bowler": "R Allen",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "DC Delany",
+              "bowler": "J Thompson",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "HT Tector",
+              "bowler": "J Thompson",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "DC Delany",
+              "bowler": "J Thompson",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "HT Tector",
+              "bowler": "J Thompson",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "DC Delany",
+              "bowler": "J Thompson",
+              "non_striker": "HT Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "HT Tector",
+              "bowler": "J Thompson",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HT Tector",
+                  "fielders": [
+                    {
+                      "name": "RL Dougherty"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Muhammad Sadique",
+              "bowler": "SA Britton",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "DC Delany",
+              "bowler": "SA Britton",
+              "non_striker": "Muhammad Sadique",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "DC Delany",
+              "bowler": "SA Britton",
+              "non_striker": "Muhammad Sadique",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DC Delany",
+                  "fielders": [
+                    {
+                      "name": "W McClintock"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "M Neville",
+              "bowler": "SA Britton",
+              "non_striker": "Muhammad Sadique",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "M Neville",
+              "bowler": "SA Britton",
+              "non_striker": "Muhammad Sadique",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "M Neville",
+              "bowler": "SA Britton",
+              "non_striker": "Muhammad Sadique",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Muhammad Sadique",
+              "bowler": "J Thompson",
+              "non_striker": "M Neville",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Muhammad Sadique",
+              "bowler": "J Thompson",
+              "non_striker": "M Neville",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Muhammad Sadique",
+              "bowler": "J Thompson",
+              "non_striker": "M Neville",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "M Neville",
+              "bowler": "J Thompson",
+              "non_striker": "Muhammad Sadique",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "M Neville",
+              "bowler": "J Thompson",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Muhammad Sadique",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Muhammad Sadique",
+              "bowler": "J Thompson",
+              "non_striker": "M Neville",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "M Neville",
+              "bowler": "SA Britton",
+              "non_striker": "Muhammad Sadique",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Neville",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Yaqoob Ali",
+              "bowler": "SA Britton",
+              "non_striker": "Muhammad Sadique",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Yaqoob Ali",
+              "bowler": "SA Britton",
+              "non_striker": "Muhammad Sadique",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Muhammad Sadique",
+              "bowler": "SA Britton",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Yaqoob Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Muhammad Sadique",
+              "bowler": "SA Britton",
+              "non_striker": "Yaqoob Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Muhammad Sadique",
+              "bowler": "SA Britton",
+              "non_striker": "Yaqoob Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Yaqoob Ali",
+              "bowler": "SA Britton",
+              "non_striker": "Muhammad Sadique",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Yaqoob Ali",
+              "bowler": "D Scanlon",
+              "non_striker": "Muhammad Sadique",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Muhammad Sadique",
+              "bowler": "D Scanlon",
+              "non_striker": "Yaqoob Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Yaqoob Ali",
+              "bowler": "D Scanlon",
+              "non_striker": "Muhammad Sadique",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Muhammad Sadique",
+              "bowler": "D Scanlon",
+              "non_striker": "Yaqoob Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Sadique",
+                  "fielders": [
+                    {
+                      "name": "SR Thompson"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 143
+      }
+    }
+  ]
+}

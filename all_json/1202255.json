@@ -1,0 +1,1550 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2019-11-18",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Providence",
+    "dates": [
+      "2019-11-17"
+    ],
+    "event": {
+      "name": "India Women tour of West Indies",
+      "match_number": 4
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 800,
+    "officials": {
+      "match_referees": [
+        "Reon King"
+      ],
+      "reserve_umpires": [
+        "PA Gustard"
+      ],
+      "umpires": [
+        "JM Williams",
+        "Zahid Bassarath"
+      ]
+    },
+    "outcome": {
+      "winner": "India",
+      "by": {
+        "runs": 5
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "HK Matthews"
+    ],
+    "players": {
+      "India": [
+        "Shafali Verma",
+        "JI Rodrigues",
+        "V Krishnamurthy",
+        "H Kaur",
+        "DB Sharma",
+        "P Vastrakar",
+        "H Deol",
+        "T Bhatia",
+        "AA Patil",
+        "RP Yadav",
+        "M Joshi"
+      ],
+      "West Indies": [
+        "HK Matthews",
+        "CN Nation",
+        "CA Henry",
+        "NY McLean",
+        "SA Campbelle",
+        "SS Grimmond",
+        "SACA King",
+        "A Mohammed",
+        "S Gajnabi",
+        "ASS Fletcher",
+        "Kyshona A Knight"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Mohammed": "a49985e6",
+        "AA Patil": "7c1ba524",
+        "ASS Fletcher": "42d9dd09",
+        "CA Henry": "75820733",
+        "CN Nation": "639000b6",
+        "DB Sharma": "201fef33",
+        "H Deol": "3664712e",
+        "H Kaur": "53cd8da6",
+        "HK Matthews": "d32cf49a",
+        "JI Rodrigues": "cb08b611",
+        "JM Williams": "b61d9d70",
+        "Kyshona A Knight": "d85a1960",
+        "M Joshi": "47fb8d80",
+        "NY McLean": "1d39dc61",
+        "P Vastrakar": "8026ea72",
+        "PA Gustard": "25bcf808",
+        "RP Yadav": "6c3aef71",
+        "Reon King": "20fbf68c",
+        "S Gajnabi": "c35739a1",
+        "SA Campbelle": "a7cd72b2",
+        "SACA King": "77851c2d",
+        "SS Grimmond": "6bebf334",
+        "Shafali Verma": "d8f59089",
+        "T Bhatia": "211dc1ce",
+        "V Krishnamurthy": "c3f21798",
+        "Zahid Bassarath": "ca6bf044"
+      }
+    },
+    "season": "2019/20",
+    "team_type": "international",
+    "teams": [
+      "West Indies",
+      "India"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "West Indies"
+    },
+    "venue": "Providence Stadium, Guyana"
+  },
+  "innings": [
+    {
+      "team": "India",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Shafali Verma",
+              "bowler": "HK Matthews",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Shafali Verma",
+              "bowler": "HK Matthews",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "JI Rodrigues",
+              "bowler": "HK Matthews",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shafali Verma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Shafali Verma",
+              "bowler": "HK Matthews",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Shafali Verma",
+              "bowler": "HK Matthews",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Shafali Verma",
+                  "fielders": [
+                    {
+                      "name": "CA Henry"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "JI Rodrigues",
+              "bowler": "HK Matthews",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "V Krishnamurthy",
+              "bowler": "A Mohammed",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "JI Rodrigues",
+              "bowler": "A Mohammed",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "JI Rodrigues",
+              "bowler": "A Mohammed",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "JI Rodrigues",
+              "bowler": "A Mohammed",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "V Krishnamurthy",
+              "bowler": "A Mohammed",
+              "non_striker": "JI Rodrigues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "JI Rodrigues",
+              "bowler": "A Mohammed",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "JI Rodrigues",
+              "bowler": "HK Matthews",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JI Rodrigues",
+                  "fielders": [
+                    {
+                      "name": "Kyshona A Knight"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "V Krishnamurthy",
+              "bowler": "HK Matthews",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "V Krishnamurthy",
+              "bowler": "HK Matthews",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "V Krishnamurthy",
+              "bowler": "HK Matthews",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "V Krishnamurthy",
+                  "fielders": [
+                    {
+                      "name": "NY McLean"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "H Kaur",
+              "bowler": "HK Matthews",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "H Kaur",
+              "bowler": "HK Matthews",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "DB Sharma",
+              "bowler": "A Mohammed",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "H Kaur",
+              "bowler": "A Mohammed",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "H Kaur",
+              "bowler": "A Mohammed",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "DB Sharma",
+              "bowler": "A Mohammed",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "H Kaur",
+              "bowler": "A Mohammed",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "DB Sharma",
+              "bowler": "A Mohammed",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "H Kaur",
+              "bowler": "ASS Fletcher",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "H Kaur",
+              "bowler": "ASS Fletcher",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "H Kaur",
+              "bowler": "ASS Fletcher",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "H Kaur",
+              "bowler": "ASS Fletcher",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "DB Sharma",
+              "bowler": "ASS Fletcher",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "DB Sharma",
+              "bowler": "ASS Fletcher",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "H Kaur",
+              "bowler": "SS Grimmond",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "H Kaur",
+              "bowler": "SS Grimmond",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "DB Sharma",
+              "bowler": "SS Grimmond",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "DB Sharma",
+              "bowler": "SS Grimmond",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "DB Sharma"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "P Vastrakar",
+              "bowler": "SS Grimmond",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "P Vastrakar",
+              "bowler": "SS Grimmond",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "P Vastrakar",
+              "bowler": "ASS Fletcher",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "H Kaur",
+              "bowler": "ASS Fletcher",
+              "non_striker": "P Vastrakar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "H Kaur",
+                  "fielders": [
+                    {
+                      "name": "SA Campbelle"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "H Deol",
+              "bowler": "ASS Fletcher",
+              "non_striker": "P Vastrakar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "H Deol",
+                  "fielders": [
+                    {
+                      "name": "A Mohammed"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "T Bhatia",
+              "bowler": "ASS Fletcher",
+              "non_striker": "P Vastrakar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "T Bhatia",
+              "bowler": "ASS Fletcher",
+              "non_striker": "P Vastrakar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "T Bhatia",
+              "bowler": "ASS Fletcher",
+              "non_striker": "P Vastrakar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "P Vastrakar",
+              "bowler": "SS Grimmond",
+              "non_striker": "T Bhatia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "P Vastrakar",
+              "bowler": "SS Grimmond",
+              "non_striker": "T Bhatia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "P Vastrakar",
+              "bowler": "SS Grimmond",
+              "non_striker": "T Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "P Vastrakar",
+              "bowler": "SS Grimmond",
+              "non_striker": "T Bhatia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "P Vastrakar",
+              "bowler": "SS Grimmond",
+              "non_striker": "T Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "P Vastrakar",
+                  "fielders": [
+                    {
+                      "name": "CA Henry"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "T Bhatia",
+              "bowler": "SS Grimmond",
+              "non_striker": "AA Patil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "AA Patil",
+              "bowler": "SACA King",
+              "non_striker": "T Bhatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "T Bhatia",
+              "bowler": "SACA King",
+              "non_striker": "AA Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "AA Patil",
+              "bowler": "SACA King",
+              "non_striker": "T Bhatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "T Bhatia",
+              "bowler": "SACA King",
+              "non_striker": "AA Patil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "T Bhatia",
+              "bowler": "SACA King",
+              "non_striker": "AA Patil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "T Bhatia",
+              "bowler": "SACA King",
+              "non_striker": "AA Patil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "West Indies",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "HK Matthews",
+              "bowler": "DB Sharma",
+              "non_striker": "CN Nation",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "HK Matthews",
+              "bowler": "DB Sharma",
+              "non_striker": "CN Nation",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "HK Matthews",
+              "bowler": "DB Sharma",
+              "non_striker": "CN Nation",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "CN Nation",
+              "bowler": "DB Sharma",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "CN Nation",
+              "bowler": "DB Sharma",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "HK Matthews",
+              "bowler": "DB Sharma",
+              "non_striker": "CN Nation",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "CN Nation",
+              "bowler": "RP Yadav",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "CN Nation",
+              "bowler": "RP Yadav",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "HK Matthews",
+              "bowler": "RP Yadav",
+              "non_striker": "CN Nation",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "HK Matthews",
+              "bowler": "RP Yadav",
+              "non_striker": "CN Nation",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "HK Matthews",
+              "bowler": "RP Yadav",
+              "non_striker": "CN Nation",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "HK Matthews",
+              "bowler": "RP Yadav",
+              "non_striker": "CN Nation",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "CN Nation",
+              "bowler": "DB Sharma",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "HK Matthews",
+              "bowler": "DB Sharma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CN Nation",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "HK Matthews",
+              "bowler": "DB Sharma",
+              "non_striker": "CN Nation",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "CN Nation",
+              "bowler": "DB Sharma",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "CN Nation",
+              "bowler": "DB Sharma",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "CN Nation",
+              "bowler": "DB Sharma",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "CN Nation"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "CA Henry",
+              "bowler": "DB Sharma",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "HK Matthews",
+              "bowler": "H Deol",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "CA Henry",
+              "bowler": "H Deol",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "HK Matthews",
+              "bowler": "H Deol",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "HK Matthews",
+              "bowler": "H Deol",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "HK Matthews",
+              "bowler": "H Deol",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "CA Henry",
+              "bowler": "H Deol",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "CA Henry",
+              "bowler": "AA Patil",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "CA Henry",
+              "bowler": "AA Patil",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "CA Henry",
+              "bowler": "AA Patil",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "CA Henry",
+              "bowler": "AA Patil",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "CA Henry",
+              "bowler": "AA Patil",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "HK Matthews",
+              "bowler": "AA Patil",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "HK Matthews"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "CA Henry",
+              "bowler": "M Joshi",
+              "non_striker": "NY McLean",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "CA Henry",
+              "bowler": "M Joshi",
+              "non_striker": "NY McLean",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "CA Henry",
+              "bowler": "M Joshi",
+              "non_striker": "NY McLean",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "NY McLean",
+              "bowler": "M Joshi",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "NY McLean",
+              "bowler": "M Joshi",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "CA Henry",
+              "bowler": "M Joshi",
+              "non_striker": "NY McLean",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "NY McLean",
+              "bowler": "H Deol",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "CA Henry",
+              "bowler": "H Deol",
+              "non_striker": "NY McLean",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "NY McLean",
+              "bowler": "H Deol",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "CA Henry",
+              "bowler": "H Deol",
+              "non_striker": "NY McLean",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "NY McLean",
+              "bowler": "H Deol",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "CA Henry",
+              "bowler": "H Deol",
+              "non_striker": "NY McLean",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "CA Henry",
+              "bowler": "RP Yadav",
+              "non_striker": "NY McLean",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "CA Henry"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "SA Campbelle",
+              "bowler": "RP Yadav",
+              "non_striker": "NY McLean",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "NY McLean",
+              "bowler": "RP Yadav",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "NY McLean",
+              "bowler": "RP Yadav",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "NY McLean",
+              "bowler": "RP Yadav",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "NY McLean",
+              "bowler": "RP Yadav",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "SA Campbelle",
+              "bowler": "AA Patil",
+              "non_striker": "NY McLean",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "SA Campbelle",
+              "bowler": "AA Patil",
+              "non_striker": "NY McLean",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "NY McLean"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "SA Campbelle",
+              "bowler": "AA Patil",
+              "non_striker": "SS Grimmond",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "SS Grimmond",
+              "bowler": "AA Patil",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "SS Grimmond",
+              "bowler": "AA Patil",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SS Grimmond",
+                  "fielders": [
+                    {
+                      "name": "T Bhatia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "SACA King",
+              "bowler": "AA Patil",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 9,
+        "runs": 51
+      }
+    }
+  ]
+}

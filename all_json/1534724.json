@@ -1,0 +1,5729 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-07-03",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bready",
+    "dates": [
+      "2026-06-30"
+    ],
+    "event": {
+      "name": "Cricket Ireland Inter-Provincial Limited Over Cup",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "ODM",
+    "officials": {
+      "match_referees": [
+        "G McCrea"
+      ],
+      "reserve_umpires": [
+        "W McCully"
+      ],
+      "umpires": [
+        "Jonathan Kennedy",
+        "R Black"
+      ]
+    },
+    "outcome": {
+      "winner": "North-West Warriors",
+      "by": {
+        "wickets": 6
+      },
+      "method": "D/L"
+    },
+    "overs": 50,
+    "player_of_match": [
+      "Gavin Roulston"
+    ],
+    "players": {
+      "Leinster Lightning": [
+        "TH Tector",
+        "ST Doheny",
+        "C De Freitas",
+        "J Martins",
+        "L Tucker",
+        "GH Dockrell",
+        "DC Delany",
+        "G Hoey",
+        "F Hand",
+        "MS Tonge",
+        "BD McDonough"
+      ],
+      "North-West Warriors": [
+        "Jake Egan",
+        "Gavin Roulston",
+        "AR McBrine",
+        "SJ MacBeth",
+        "BF Calitz",
+        "GJ Delany",
+        "A Balbirnie",
+        "L McCarthy",
+        "CA Young",
+        "R MacBeth",
+        "T McKeegan"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Balbirnie": "6ef13460",
+        "AR McBrine": "e957b38f",
+        "BD McDonough": "d2c250c8",
+        "BF Calitz": "24ad97e7",
+        "C De Freitas": "22072cab",
+        "CA Young": "bd0a4a7d",
+        "DC Delany": "0f9c9d1d",
+        "F Hand": "e3fe4b49",
+        "G Hoey": "19d0a172",
+        "G McCrea": "46f4a901",
+        "GH Dockrell": "99cddc5e",
+        "GJ Delany": "33b3d2df",
+        "Gavin Roulston": "be5b02fa",
+        "J Martins": "9c96b71f",
+        "Jake Egan": "a863ba68",
+        "Jonathan Kennedy": "f7ad4494",
+        "L McCarthy": "8eb2e2e6",
+        "L Tucker": "3979b5e0",
+        "MS Tonge": "0e71ea22",
+        "R Black": "156c8fb1",
+        "R MacBeth": "b4402d8a",
+        "SJ MacBeth": "5d4338a2",
+        "ST Doheny": "4992d6f6",
+        "T McKeegan": "2052d6f4",
+        "TH Tector": "0348f9a5",
+        "W McCully": "e5b61a1b"
+      }
+    },
+    "season": "2026",
+    "team_type": "club",
+    "teams": [
+      "Leinster Lightning",
+      "North-West Warriors"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "North-West Warriors"
+    },
+    "venue": "Bready Cricket Club, Magheramason, Bready"
+  },
+  "innings": [
+    {
+      "team": "Leinster Lightning",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "TH Tector",
+              "bowler": "L McCarthy",
+              "non_striker": "ST Doheny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "TH Tector",
+              "bowler": "L McCarthy",
+              "non_striker": "ST Doheny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "TH Tector",
+              "bowler": "L McCarthy",
+              "non_striker": "ST Doheny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "TH Tector",
+              "bowler": "L McCarthy",
+              "non_striker": "ST Doheny",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "TH Tector",
+              "bowler": "L McCarthy",
+              "non_striker": "ST Doheny",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "TH Tector",
+              "bowler": "L McCarthy",
+              "non_striker": "ST Doheny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "ST Doheny",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "ST Doheny",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "TH Tector",
+              "bowler": "R MacBeth",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ST Doheny",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "TH Tector",
+              "bowler": "R MacBeth",
+              "non_striker": "ST Doheny",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "TH Tector",
+              "bowler": "R MacBeth",
+              "non_striker": "ST Doheny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "TH Tector",
+              "bowler": "R MacBeth",
+              "non_striker": "ST Doheny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "TH Tector",
+              "bowler": "R MacBeth",
+              "non_striker": "ST Doheny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "ST Doheny",
+              "bowler": "L McCarthy",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "ST Doheny",
+              "bowler": "L McCarthy",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "ST Doheny",
+              "bowler": "L McCarthy",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "ST Doheny",
+              "bowler": "L McCarthy",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "ST Doheny",
+              "bowler": "L McCarthy",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "ST Doheny",
+              "bowler": "L McCarthy",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "TH Tector",
+              "bowler": "R MacBeth",
+              "non_striker": "ST Doheny",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "ST Doheny",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "ST Doheny",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "ST Doheny",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "ST Doheny",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "ST Doheny",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "TH Tector",
+              "bowler": "L McCarthy",
+              "non_striker": "ST Doheny",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "TH Tector",
+              "bowler": "L McCarthy",
+              "non_striker": "ST Doheny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "TH Tector",
+              "bowler": "L McCarthy",
+              "non_striker": "ST Doheny",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "ST Doheny",
+              "bowler": "L McCarthy",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "ST Doheny",
+              "bowler": "L McCarthy",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "ST Doheny",
+              "bowler": "L McCarthy",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "ST Doheny",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "ST Doheny",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "ST Doheny",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "ST Doheny",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ST Doheny",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "C De Freitas",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "C De Freitas",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C De Freitas",
+                  "fielders": [
+                    {
+                      "name": "Gavin Roulston"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "J Martins",
+              "bowler": "CA Young",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "J Martins",
+              "bowler": "CA Young",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "J Martins",
+              "bowler": "CA Young",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "J Martins",
+              "bowler": "CA Young",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "J Martins",
+              "bowler": "CA Young",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "J Martins",
+              "bowler": "CA Young",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "TH Tector",
+              "bowler": "CA Young",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "J Martins",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "J Martins",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "TH Tector",
+              "bowler": "R MacBeth",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "TH Tector",
+              "bowler": "R MacBeth",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "TH Tector",
+              "bowler": "R MacBeth",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "TH Tector",
+              "bowler": "R MacBeth",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "J Martins",
+              "bowler": "CA Young",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.1",
+              "batter": "J Martins",
+              "bowler": "CA Young",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "J Martins",
+              "bowler": "CA Young",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "J Martins",
+              "bowler": "CA Young",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "J Martins",
+              "bowler": "CA Young",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "J Martins",
+              "bowler": "CA Young",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "J Martins",
+              "bowler": "CA Young",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "TH Tector",
+              "bowler": "R MacBeth",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "TH Tector",
+              "bowler": "R MacBeth",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "J Martins",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "J Martins",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "J Martins",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "J Martins",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "J Martins",
+              "bowler": "CA Young",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "J Martins",
+              "bowler": "CA Young",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "J Martins",
+              "bowler": "CA Young",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "J Martins",
+              "bowler": "CA Young",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "J Martins",
+              "bowler": "CA Young",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "J Martins",
+              "bowler": "CA Young",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "TH Tector",
+              "bowler": "R MacBeth",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "TH Tector",
+              "bowler": "R MacBeth",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "J Martins",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "J Martins",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "J Martins",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "J Martins",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "TH Tector",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "TH Tector",
+              "bowler": "AR McBrine",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "TH Tector",
+              "bowler": "AR McBrine",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "TH Tector",
+              "bowler": "AR McBrine",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "TH Tector",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "J Martins",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "TH Tector",
+              "bowler": "R MacBeth",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "TH Tector",
+              "bowler": "R MacBeth",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "J Martins",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "J Martins",
+              "bowler": "R MacBeth",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "TH Tector",
+              "bowler": "R MacBeth",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "TH Tector",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "TH Tector",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "TH Tector",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "TH Tector",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "J Martins",
+              "bowler": "GJ Delany",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "J Martins",
+              "bowler": "GJ Delany",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "TH Tector",
+              "bowler": "GJ Delany",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "J Martins",
+              "bowler": "GJ Delany",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "TH Tector",
+              "bowler": "GJ Delany",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "TH Tector",
+              "bowler": "GJ Delany",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "TH Tector",
+              "bowler": "GJ Delany",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "J Martins",
+              "bowler": "GJ Delany",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "TH Tector",
+              "bowler": "GJ Delany",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "J Martins",
+              "bowler": "GJ Delany",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "J Martins",
+              "bowler": "GJ Delany",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "J Martins",
+              "bowler": "GJ Delany",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "TH Tector",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "TH Tector",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "TH Tector",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "TH Tector",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "J Martins",
+              "bowler": "GJ Delany",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "TH Tector",
+              "bowler": "GJ Delany",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "J Martins",
+              "bowler": "GJ Delany",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "TH Tector",
+              "bowler": "GJ Delany",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "TH Tector",
+              "bowler": "GJ Delany",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "TH Tector",
+              "bowler": "GJ Delany",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "actual_delivery": "20.1",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "20.2",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.3",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.4",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "20.5",
+              "batter": "TH Tector",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "20.6",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "actual_delivery": "21.1",
+              "batter": "TH Tector",
+              "bowler": "T McKeegan",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.2",
+              "batter": "J Martins",
+              "bowler": "T McKeegan",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.3",
+              "batter": "J Martins",
+              "bowler": "T McKeegan",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.4",
+              "batter": "TH Tector",
+              "bowler": "T McKeegan",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.5",
+              "batter": "J Martins",
+              "bowler": "T McKeegan",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.6",
+              "batter": "J Martins",
+              "bowler": "T McKeegan",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "actual_delivery": "22.1",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.2",
+              "batter": "TH Tector",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TH Tector",
+                  "fielders": [
+                    {
+                      "name": "BF Calitz"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "22.3",
+              "batter": "L Tucker",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.4",
+              "batter": "L Tucker",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.5",
+              "batter": "L Tucker",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.6",
+              "batter": "L Tucker",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "actual_delivery": "23.1",
+              "batter": "J Martins",
+              "bowler": "T McKeegan",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "23.2",
+              "batter": "J Martins",
+              "bowler": "T McKeegan",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.3",
+              "batter": "L Tucker",
+              "bowler": "T McKeegan",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "23.4",
+              "batter": "L Tucker",
+              "bowler": "T McKeegan",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.5",
+              "batter": "L Tucker",
+              "bowler": "T McKeegan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.5",
+              "batter": "L Tucker",
+              "bowler": "T McKeegan",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.6",
+              "batter": "J Martins",
+              "bowler": "T McKeegan",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "actual_delivery": "24.1",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.2",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.3",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.4",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.5",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.6",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "actual_delivery": "25.1",
+              "batter": "J Martins",
+              "bowler": "T McKeegan",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.2",
+              "batter": "J Martins",
+              "bowler": "T McKeegan",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.3",
+              "batter": "L Tucker",
+              "bowler": "T McKeegan",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.4",
+              "batter": "J Martins",
+              "bowler": "T McKeegan",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.5",
+              "batter": "J Martins",
+              "bowler": "T McKeegan",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.6",
+              "batter": "J Martins",
+              "bowler": "T McKeegan",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "actual_delivery": "26.1",
+              "batter": "L Tucker",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.2",
+              "batter": "J Martins",
+              "bowler": "AR McBrine",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.3",
+              "batter": "L Tucker",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.4",
+              "batter": "L Tucker",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.5",
+              "batter": "L Tucker",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "26.6",
+              "batter": "L Tucker",
+              "bowler": "AR McBrine",
+              "non_striker": "J Martins",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "actual_delivery": "27.1",
+              "batter": "J Martins",
+              "bowler": "CA Young",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Martins",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "27.2",
+              "batter": "GH Dockrell",
+              "bowler": "CA Young",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.3",
+              "batter": "L Tucker",
+              "bowler": "CA Young",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.4",
+              "batter": "L Tucker",
+              "bowler": "CA Young",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.5",
+              "batter": "L Tucker",
+              "bowler": "CA Young",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.6",
+              "batter": "GH Dockrell",
+              "bowler": "CA Young",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "actual_delivery": "28.1",
+              "batter": "L Tucker",
+              "bowler": "SJ MacBeth",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "28.2",
+              "batter": "L Tucker",
+              "bowler": "SJ MacBeth",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "28.3",
+              "batter": "L Tucker",
+              "bowler": "SJ MacBeth",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "28.4",
+              "batter": "L Tucker",
+              "bowler": "SJ MacBeth",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "28.5",
+              "batter": "L Tucker",
+              "bowler": "SJ MacBeth",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.6",
+              "batter": "L Tucker",
+              "bowler": "SJ MacBeth",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "actual_delivery": "29.1",
+              "batter": "L Tucker",
+              "bowler": "CA Young",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "29.1",
+              "batter": "L Tucker",
+              "bowler": "CA Young",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.2",
+              "batter": "L Tucker",
+              "bowler": "CA Young",
+              "non_striker": "GH Dockrell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "29.3",
+              "batter": "GH Dockrell",
+              "bowler": "CA Young",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GH Dockrell",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "29.4",
+              "batter": "DC Delany",
+              "bowler": "CA Young",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "29.5",
+              "batter": "L Tucker",
+              "bowler": "CA Young",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.6",
+              "batter": "L Tucker",
+              "bowler": "CA Young",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "actual_delivery": "30.1",
+              "batter": "L Tucker",
+              "bowler": "SJ MacBeth",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.2",
+              "batter": "DC Delany",
+              "bowler": "SJ MacBeth",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.3",
+              "batter": "DC Delany",
+              "bowler": "SJ MacBeth",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "30.4",
+              "batter": "DC Delany",
+              "bowler": "SJ MacBeth",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.5",
+              "batter": "L Tucker",
+              "bowler": "SJ MacBeth",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.6",
+              "batter": "L Tucker",
+              "bowler": "SJ MacBeth",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "actual_delivery": "31.1",
+              "batter": "DC Delany",
+              "bowler": "L McCarthy",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.2",
+              "batter": "DC Delany",
+              "bowler": "L McCarthy",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "31.3",
+              "batter": "DC Delany",
+              "bowler": "L McCarthy",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "31.4",
+              "batter": "L Tucker",
+              "bowler": "L McCarthy",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "31.5",
+              "batter": "DC Delany",
+              "bowler": "L McCarthy",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.6",
+              "batter": "DC Delany",
+              "bowler": "L McCarthy",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "actual_delivery": "32.1",
+              "batter": "L Tucker",
+              "bowler": "SJ MacBeth",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.2",
+              "batter": "DC Delany",
+              "bowler": "SJ MacBeth",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.3",
+              "batter": "DC Delany",
+              "bowler": "SJ MacBeth",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.4",
+              "batter": "DC Delany",
+              "bowler": "SJ MacBeth",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.5",
+              "batter": "L Tucker",
+              "bowler": "SJ MacBeth",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.6",
+              "batter": "DC Delany",
+              "bowler": "SJ MacBeth",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "actual_delivery": "33.1",
+              "batter": "L Tucker",
+              "bowler": "L McCarthy",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.2",
+              "batter": "L Tucker",
+              "bowler": "L McCarthy",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.3",
+              "batter": "L Tucker",
+              "bowler": "L McCarthy",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "33.4",
+              "batter": "L Tucker",
+              "bowler": "L McCarthy",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "33.5",
+              "batter": "DC Delany",
+              "bowler": "L McCarthy",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DC Delany",
+                  "fielders": [
+                    {
+                      "name": "Jake Egan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "33.6",
+              "batter": "G Hoey",
+              "bowler": "L McCarthy",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "actual_delivery": "34.1",
+              "batter": "G Hoey",
+              "bowler": "T McKeegan",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.2",
+              "batter": "G Hoey",
+              "bowler": "T McKeegan",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "34.3",
+              "batter": "L Tucker",
+              "bowler": "T McKeegan",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "34.4",
+              "batter": "L Tucker",
+              "bowler": "T McKeegan",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "34.5",
+              "batter": "L Tucker",
+              "bowler": "T McKeegan",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "34.6",
+              "batter": "G Hoey",
+              "bowler": "T McKeegan",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "actual_delivery": "35.1",
+              "batter": "L Tucker",
+              "bowler": "CA Young",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "35.2",
+              "batter": "G Hoey",
+              "bowler": "CA Young",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "35.3",
+              "batter": "L Tucker",
+              "bowler": "CA Young",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "35.4",
+              "batter": "L Tucker",
+              "bowler": "CA Young",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "35.5",
+              "batter": "G Hoey",
+              "bowler": "CA Young",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "35.6",
+              "batter": "L Tucker",
+              "bowler": "CA Young",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "actual_delivery": "36.1",
+              "batter": "G Hoey",
+              "bowler": "L McCarthy",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "36.2",
+              "batter": "L Tucker",
+              "bowler": "L McCarthy",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "36.3",
+              "batter": "L Tucker",
+              "bowler": "L McCarthy",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "36.4",
+              "batter": "L Tucker",
+              "bowler": "L McCarthy",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "36.5",
+              "batter": "G Hoey",
+              "bowler": "L McCarthy",
+              "non_striker": "L Tucker",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "36.6",
+              "batter": "L Tucker",
+              "bowler": "L McCarthy",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 8.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 9.1,
+          "to": 29.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 30.1,
+          "to": 36.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "North-West Warriors",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Jake Egan",
+              "bowler": "BD McDonough",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "Jake Egan",
+              "bowler": "BD McDonough",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Jake Egan",
+              "bowler": "BD McDonough",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Jake Egan",
+              "bowler": "BD McDonough",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Jake Egan",
+              "bowler": "BD McDonough",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Jake Egan",
+              "bowler": "BD McDonough",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Jake Egan",
+              "bowler": "BD McDonough",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Gavin Roulston",
+              "bowler": "F Hand",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Gavin Roulston",
+              "bowler": "F Hand",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Gavin Roulston",
+              "bowler": "F Hand",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Gavin Roulston",
+              "bowler": "F Hand",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Gavin Roulston",
+              "bowler": "F Hand",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Jake Egan",
+              "bowler": "F Hand",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Jake Egan",
+              "bowler": "F Hand",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Gavin Roulston",
+              "bowler": "BD McDonough",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Gavin Roulston",
+              "bowler": "BD McDonough",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Jake Egan",
+              "bowler": "BD McDonough",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Jake Egan",
+              "bowler": "BD McDonough",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Jake Egan",
+              "bowler": "BD McDonough",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Jake Egan",
+              "bowler": "BD McDonough",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Gavin Roulston",
+              "bowler": "F Hand",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Gavin Roulston",
+              "bowler": "F Hand",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Jake Egan",
+              "bowler": "F Hand",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Gavin Roulston",
+              "bowler": "F Hand",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Gavin Roulston",
+              "bowler": "F Hand",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Gavin Roulston",
+              "bowler": "F Hand",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Jake Egan",
+              "bowler": "BD McDonough",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Jake Egan",
+              "bowler": "BD McDonough",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Gavin Roulston",
+              "bowler": "BD McDonough",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Gavin Roulston",
+              "bowler": "BD McDonough",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Gavin Roulston",
+              "bowler": "BD McDonough",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Jake Egan",
+              "bowler": "BD McDonough",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Gavin Roulston",
+              "bowler": "F Hand",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.1",
+              "batter": "Gavin Roulston",
+              "bowler": "F Hand",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.1",
+              "batter": "Gavin Roulston",
+              "bowler": "F Hand",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Gavin Roulston",
+              "bowler": "F Hand",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Gavin Roulston",
+              "bowler": "F Hand",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Gavin Roulston",
+              "bowler": "F Hand",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Gavin Roulston",
+              "bowler": "F Hand",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Jake Egan",
+              "bowler": "F Hand",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Gavin Roulston",
+              "bowler": "BD McDonough",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Gavin Roulston",
+              "bowler": "BD McDonough",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Jake Egan",
+              "bowler": "BD McDonough",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Jake Egan",
+              "bowler": "BD McDonough",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Gavin Roulston",
+              "bowler": "BD McDonough",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Gavin Roulston",
+              "bowler": "BD McDonough",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Jake Egan",
+              "bowler": "F Hand",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.1",
+              "batter": "Jake Egan",
+              "bowler": "F Hand",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Jake Egan",
+              "bowler": "F Hand",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Jake Egan",
+              "bowler": "F Hand",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Jake Egan",
+              "bowler": "F Hand",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Gavin Roulston",
+              "bowler": "F Hand",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Gavin Roulston",
+              "bowler": "F Hand",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Jake Egan",
+              "bowler": "BD McDonough",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Jake Egan",
+              "bowler": "BD McDonough",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Jake Egan",
+              "bowler": "BD McDonough",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Jake Egan",
+              "bowler": "BD McDonough",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Gavin Roulston",
+              "bowler": "BD McDonough",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Gavin Roulston",
+              "bowler": "BD McDonough",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Gavin Roulston",
+              "bowler": "G Hoey",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Gavin Roulston",
+              "bowler": "G Hoey",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Gavin Roulston",
+              "bowler": "G Hoey",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Jake Egan",
+              "bowler": "G Hoey",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Jake Egan",
+              "bowler": "G Hoey",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Gavin Roulston",
+              "bowler": "G Hoey",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Jake Egan",
+              "bowler": "MS Tonge",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Jake Egan",
+              "bowler": "MS Tonge",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Jake Egan",
+              "bowler": "MS Tonge",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Jake Egan",
+              "bowler": "MS Tonge",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Jake Egan",
+              "bowler": "G Hoey",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Gavin Roulston",
+              "bowler": "G Hoey",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Jake Egan",
+              "bowler": "G Hoey",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Gavin Roulston",
+              "bowler": "G Hoey",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Jake Egan",
+              "bowler": "G Hoey",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Gavin Roulston",
+              "bowler": "G Hoey",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Jake Egan",
+              "bowler": "MS Tonge",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Jake Egan",
+              "bowler": "MS Tonge",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Jake Egan",
+              "bowler": "MS Tonge",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Jake Egan",
+              "bowler": "MS Tonge",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Jake Egan",
+              "bowler": "MS Tonge",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Jake Egan",
+              "bowler": "G Hoey",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Gavin Roulston",
+              "bowler": "G Hoey",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Gavin Roulston",
+              "bowler": "G Hoey",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Jake Egan",
+              "bowler": "G Hoey",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Jake Egan",
+              "bowler": "G Hoey",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Gavin Roulston",
+              "bowler": "G Hoey",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Jake Egan",
+              "bowler": "MS Tonge",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Jake Egan",
+              "bowler": "MS Tonge",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Jake Egan",
+              "bowler": "MS Tonge",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Jake Egan",
+              "bowler": "MS Tonge",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Gavin Roulston",
+              "bowler": "GH Dockrell",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Gavin Roulston",
+              "bowler": "GH Dockrell",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Jake Egan",
+              "bowler": "GH Dockrell",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Jake Egan",
+              "bowler": "GH Dockrell",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Jake Egan",
+              "bowler": "GH Dockrell",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Jake Egan",
+              "bowler": "GH Dockrell",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Jake Egan",
+              "bowler": "MS Tonge",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Jake Egan",
+              "bowler": "MS Tonge",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Jake Egan",
+              "bowler": "MS Tonge",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Gavin Roulston",
+              "bowler": "GH Dockrell",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Gavin Roulston",
+              "bowler": "GH Dockrell",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Gavin Roulston",
+              "bowler": "GH Dockrell",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Jake Egan",
+              "bowler": "GH Dockrell",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Jake Egan",
+              "bowler": "GH Dockrell",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Jake Egan",
+              "bowler": "GH Dockrell",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Jake Egan",
+              "bowler": "MS Tonge",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Jake Egan",
+              "bowler": "MS Tonge",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Gavin Roulston",
+              "bowler": "MS Tonge",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Jake Egan",
+              "bowler": "MS Tonge",
+              "non_striker": "Gavin Roulston",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "actual_delivery": "20.1",
+              "batter": "Gavin Roulston",
+              "bowler": "GH Dockrell",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.2",
+              "batter": "Gavin Roulston",
+              "bowler": "GH Dockrell",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "20.3",
+              "batter": "Gavin Roulston",
+              "bowler": "GH Dockrell",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Gavin Roulston",
+                  "fielders": [
+                    {
+                      "name": "C De Freitas"
+                    },
+                    {
+                      "name": "L Tucker"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "20.4",
+              "batter": "AR McBrine",
+              "bowler": "GH Dockrell",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.5",
+              "batter": "AR McBrine",
+              "bowler": "GH Dockrell",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "20.6",
+              "batter": "Jake Egan",
+              "bowler": "GH Dockrell",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "actual_delivery": "21.1",
+              "batter": "AR McBrine",
+              "bowler": "G Hoey",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.2",
+              "batter": "AR McBrine",
+              "bowler": "G Hoey",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.3",
+              "batter": "Jake Egan",
+              "bowler": "G Hoey",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.4",
+              "batter": "Jake Egan",
+              "bowler": "G Hoey",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.5",
+              "batter": "AR McBrine",
+              "bowler": "G Hoey",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.6",
+              "batter": "Jake Egan",
+              "bowler": "G Hoey",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "actual_delivery": "22.1",
+              "batter": "Jake Egan",
+              "bowler": "GH Dockrell",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.2",
+              "batter": "AR McBrine",
+              "bowler": "GH Dockrell",
+              "non_striker": "Jake Egan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.3",
+              "batter": "Jake Egan",
+              "bowler": "GH Dockrell",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jake Egan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "22.4",
+              "batter": "SJ MacBeth",
+              "bowler": "GH Dockrell",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.5",
+              "batter": "SJ MacBeth",
+              "bowler": "GH Dockrell",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.6",
+              "batter": "AR McBrine",
+              "bowler": "GH Dockrell",
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "actual_delivery": "23.1",
+              "batter": "SJ MacBeth",
+              "bowler": "G Hoey",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.2",
+              "batter": "SJ MacBeth",
+              "bowler": "G Hoey",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.3",
+              "batter": "SJ MacBeth",
+              "bowler": "G Hoey",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.4",
+              "batter": "SJ MacBeth",
+              "bowler": "G Hoey",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.5",
+              "batter": "SJ MacBeth",
+              "bowler": "G Hoey",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.6",
+              "batter": "AR McBrine",
+              "bowler": "G Hoey",
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "actual_delivery": "24.1",
+              "batter": "AR McBrine",
+              "bowler": "GH Dockrell",
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.2",
+              "batter": "AR McBrine",
+              "bowler": "GH Dockrell",
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.3",
+              "batter": "AR McBrine",
+              "bowler": "GH Dockrell",
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.4",
+              "batter": "AR McBrine",
+              "bowler": "GH Dockrell",
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.5",
+              "batter": "SJ MacBeth",
+              "bowler": "GH Dockrell",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.6",
+              "batter": "SJ MacBeth",
+              "bowler": "GH Dockrell",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "actual_delivery": "25.1",
+              "batter": "SJ MacBeth",
+              "bowler": "G Hoey",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.2",
+              "batter": "AR McBrine",
+              "bowler": "G Hoey",
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "25.3",
+              "batter": "AR McBrine",
+              "bowler": "G Hoey",
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.4",
+              "batter": "SJ MacBeth",
+              "bowler": "G Hoey",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.5",
+              "batter": "SJ MacBeth",
+              "bowler": "G Hoey",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.6",
+              "batter": "AR McBrine",
+              "bowler": "G Hoey",
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "actual_delivery": "26.1",
+              "batter": "SJ MacBeth",
+              "bowler": "F Hand",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.2",
+              "batter": "SJ MacBeth",
+              "bowler": "F Hand",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "26.3",
+              "batter": "SJ MacBeth",
+              "bowler": "F Hand",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.3",
+              "batter": "SJ MacBeth",
+              "bowler": "F Hand",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "26.4",
+              "batter": "SJ MacBeth",
+              "bowler": "F Hand",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.5",
+              "batter": "AR McBrine",
+              "bowler": "F Hand",
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.6",
+              "batter": "AR McBrine",
+              "bowler": "F Hand",
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "actual_delivery": "27.1",
+              "batter": "AR McBrine",
+              "bowler": "MS Tonge",
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.2",
+              "batter": "SJ MacBeth",
+              "bowler": "MS Tonge",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "27.3",
+              "batter": "SJ MacBeth",
+              "bowler": "MS Tonge",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.4",
+              "batter": "AR McBrine",
+              "bowler": "MS Tonge",
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.5",
+              "batter": "SJ MacBeth",
+              "bowler": "MS Tonge",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.5",
+              "batter": "SJ MacBeth",
+              "bowler": "MS Tonge",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.6",
+              "batter": "SJ MacBeth",
+              "bowler": "MS Tonge",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "actual_delivery": "28.1",
+              "batter": "AR McBrine",
+              "bowler": "BD McDonough",
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.2",
+              "batter": "SJ MacBeth",
+              "bowler": "BD McDonough",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.3",
+              "batter": "AR McBrine",
+              "bowler": "BD McDonough",
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.4",
+              "batter": "AR McBrine",
+              "bowler": "BD McDonough",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.4",
+              "batter": "AR McBrine",
+              "bowler": "BD McDonough",
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "28.5",
+              "batter": "AR McBrine",
+              "bowler": "BD McDonough",
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.6",
+              "batter": "AR McBrine",
+              "bowler": "BD McDonough",
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "actual_delivery": "29.1",
+              "batter": "AR McBrine",
+              "bowler": "F Hand",
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "29.2",
+              "batter": "AR McBrine",
+              "bowler": "F Hand",
+              "non_striker": "SJ MacBeth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "29.3",
+              "batter": "SJ MacBeth",
+              "bowler": "F Hand",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "29.4",
+              "batter": "SJ MacBeth",
+              "bowler": "F Hand",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "29.5",
+              "batter": "SJ MacBeth",
+              "bowler": "F Hand",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.6",
+              "batter": "SJ MacBeth",
+              "bowler": "F Hand",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "actual_delivery": "30.1",
+              "batter": "SJ MacBeth",
+              "bowler": "GH Dockrell",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SJ MacBeth",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "30.2",
+              "batter": "BF Calitz",
+              "bowler": "GH Dockrell",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.3",
+              "batter": "AR McBrine",
+              "bowler": "GH Dockrell",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.4",
+              "batter": "AR McBrine",
+              "bowler": "GH Dockrell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.4",
+              "batter": "AR McBrine",
+              "bowler": "GH Dockrell",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.5",
+              "batter": "AR McBrine",
+              "bowler": "GH Dockrell",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.6",
+              "batter": "BF Calitz",
+              "bowler": "GH Dockrell",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "actual_delivery": "31.1",
+              "batter": "BF Calitz",
+              "bowler": "G Hoey",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.2",
+              "batter": "BF Calitz",
+              "bowler": "G Hoey",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "31.3",
+              "batter": "BF Calitz",
+              "bowler": "G Hoey",
+              "non_striker": "AR McBrine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "31.4",
+              "batter": "AR McBrine",
+              "bowler": "G Hoey",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AR McBrine",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "31.5",
+              "batter": "GJ Delany",
+              "bowler": "G Hoey",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.6",
+              "batter": "GJ Delany",
+              "bowler": "G Hoey",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "actual_delivery": "32.1",
+              "batter": "BF Calitz",
+              "bowler": "GH Dockrell",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "32.2",
+              "batter": "BF Calitz",
+              "bowler": "GH Dockrell",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.3",
+              "batter": "GJ Delany",
+              "bowler": "GH Dockrell",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.4",
+              "batter": "BF Calitz",
+              "bowler": "GH Dockrell",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.5",
+              "batter": "GJ Delany",
+              "bowler": "GH Dockrell",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.6",
+              "batter": "BF Calitz",
+              "bowler": "GH Dockrell",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "actual_delivery": "33.1",
+              "batter": "GJ Delany",
+              "bowler": "G Hoey",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.2",
+              "batter": "GJ Delany",
+              "bowler": "G Hoey",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.3",
+              "batter": "GJ Delany",
+              "bowler": "G Hoey",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "33.4",
+              "batter": "BF Calitz",
+              "bowler": "G Hoey",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "33.5",
+              "batter": "GJ Delany",
+              "bowler": "G Hoey",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "33.6",
+              "batter": "BF Calitz",
+              "bowler": "G Hoey",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "actual_delivery": "34.1",
+              "batter": "BF Calitz",
+              "bowler": "GH Dockrell",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "34.2",
+              "batter": "GJ Delany",
+              "bowler": "GH Dockrell",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "34.3",
+              "batter": "BF Calitz",
+              "bowler": "GH Dockrell",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "34.4",
+              "batter": "GJ Delany",
+              "bowler": "GH Dockrell",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.5",
+              "batter": "GJ Delany",
+              "bowler": "GH Dockrell",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "34.6",
+              "batter": "BF Calitz",
+              "bowler": "GH Dockrell",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "actual_delivery": "35.1",
+              "batter": "BF Calitz",
+              "bowler": "BD McDonough",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "35.2",
+              "batter": "BF Calitz",
+              "bowler": "BD McDonough",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "35.3",
+              "batter": "GJ Delany",
+              "bowler": "BD McDonough",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.4",
+              "batter": "GJ Delany",
+              "bowler": "BD McDonough",
+              "non_striker": "BF Calitz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "35.5",
+              "batter": "BF Calitz",
+              "bowler": "BD McDonough",
+              "non_striker": "GJ Delany",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 7.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 8.1,
+          "to": 29.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 30.1,
+          "to": 35.5,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 37,
+        "runs": 215
+      }
+    }
+  ]
+}

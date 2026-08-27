@@ -1,0 +1,1825 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-03",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Buenos Aires",
+    "dates": [
+      "2026-08-01"
+    ],
+    "event": {
+      "name": "Canada Women tour of Argentina",
+      "match_number": 5
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2947,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Canada",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "H Santhoshkumar"
+    ],
+    "players": {
+      "Argentina": [
+        "M Castineiras",
+        "A Galan",
+        "J Andujar",
+        "M Bestani",
+        "M Lollo",
+        "AC Dei Castelli",
+        "T Basile",
+        "A Emch",
+        "C Sosa",
+        "MV Lehmann",
+        "C Valencia"
+      ],
+      "Canada": [
+        "A Perera",
+        "K Kapadia",
+        "Harper Chalmers",
+        "H Santhoshkumar",
+        "Khadeeja Fatima",
+        "Rabbjyot Rajput",
+        "Snigdha Malhotra",
+        "Elyssa Sun",
+        "M Hundal",
+        "Shreya Voya",
+        "Vritti Dahiya"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Emch": "24403a9f",
+        "A Galan": "ad5165c2",
+        "A Perera": "788afc32",
+        "AC Dei Castelli": "d2db7b61",
+        "C Sosa": "b2f4cb0d",
+        "C Valencia": "2edff783",
+        "Elyssa Sun": "aa29cd55",
+        "H Santhoshkumar": "a3586afb",
+        "Harper Chalmers": "26c257be",
+        "J Andujar": "4c257434",
+        "K Kapadia": "52fc5577",
+        "Khadeeja Fatima": "8292d2e4",
+        "M Bestani": "e8045847",
+        "M Castineiras": "b9094958",
+        "M Hundal": "213dc641",
+        "M Lollo": "e6d1f4bb",
+        "MV Lehmann": "d2c61d83",
+        "Rabbjyot Rajput": "8b1f5f91",
+        "Shreya Voya": "5c8f43ab",
+        "Snigdha Malhotra": "aaec928b",
+        "T Basile": "7a640d66",
+        "Vritti Dahiya": "36b5d84b"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Argentina",
+      "Canada"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Argentina"
+    },
+    "venue": "St George's College Ground, Buenos Aires"
+  },
+  "innings": [
+    {
+      "team": "Argentina",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "M Castineiras",
+              "bowler": "Harper Chalmers",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "M Castineiras",
+              "bowler": "Harper Chalmers",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "A Galan",
+              "bowler": "Harper Chalmers",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "A Galan",
+              "bowler": "Harper Chalmers",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "M Castineiras",
+              "bowler": "Harper Chalmers",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "M Castineiras",
+              "bowler": "Harper Chalmers",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "M Castineiras",
+              "bowler": "Shreya Voya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.1",
+              "batter": "M Castineiras",
+              "bowler": "Shreya Voya",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "M Castineiras",
+              "bowler": "Shreya Voya",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "M Castineiras",
+              "bowler": "Shreya Voya",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "M Castineiras",
+              "bowler": "Shreya Voya",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "M Castineiras",
+              "bowler": "Shreya Voya",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "A Galan",
+              "bowler": "Shreya Voya",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "A Galan",
+              "bowler": "Harper Chalmers",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "A Galan",
+              "bowler": "Harper Chalmers",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "A Galan",
+              "bowler": "Harper Chalmers",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "M Castineiras",
+              "bowler": "Harper Chalmers",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "M Castineiras",
+              "bowler": "Harper Chalmers",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "M Castineiras",
+              "bowler": "Harper Chalmers",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "A Galan",
+              "bowler": "Snigdha Malhotra",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "M Castineiras",
+              "bowler": "Snigdha Malhotra",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "A Galan",
+              "bowler": "Snigdha Malhotra",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "M Castineiras",
+              "bowler": "Snigdha Malhotra",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "M Castineiras",
+              "bowler": "Snigdha Malhotra",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "M Castineiras",
+              "bowler": "Snigdha Malhotra",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "A Galan",
+              "bowler": "Snigdha Malhotra",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "M Castineiras",
+              "bowler": "Rabbjyot Rajput",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "A Galan",
+              "bowler": "Rabbjyot Rajput",
+              "non_striker": "M Castineiras",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "M Castineiras",
+              "bowler": "Rabbjyot Rajput",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "M Castineiras",
+              "bowler": "Rabbjyot Rajput",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "M Castineiras",
+              "bowler": "Rabbjyot Rajput",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "M Castineiras",
+              "bowler": "Rabbjyot Rajput",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "M Castineiras",
+              "bowler": "Snigdha Malhotra",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "M Castineiras",
+                  "fielders": [
+                    {
+                      "name": "H Santhoshkumar"
+                    },
+                    {
+                      "name": "Khadeeja Fatima"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "J Andujar",
+              "bowler": "Snigdha Malhotra",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "J Andujar",
+              "bowler": "Snigdha Malhotra",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "J Andujar",
+                  "fielders": [
+                    {
+                      "name": "Khadeeja Fatima"
+                    },
+                    {
+                      "name": "Vritti Dahiya"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "M Bestani",
+              "bowler": "Snigdha Malhotra",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Bestani",
+                  "fielders": [
+                    {
+                      "name": "M Hundal"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "M Lollo",
+              "bowler": "Snigdha Malhotra",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "M Lollo",
+              "bowler": "Snigdha Malhotra",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "M Lollo",
+              "bowler": "Snigdha Malhotra",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "M Lollo",
+              "bowler": "H Santhoshkumar",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "A Galan",
+              "bowler": "H Santhoshkumar",
+              "non_striker": "M Lollo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "M Lollo",
+              "bowler": "H Santhoshkumar",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Lollo",
+                  "fielders": [
+                    {
+                      "name": "Khadeeja Fatima"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "AC Dei Castelli",
+              "bowler": "H Santhoshkumar",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AC Dei Castelli",
+                  "fielders": [
+                    {
+                      "name": "Harper Chalmers"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "T Basile",
+              "bowler": "H Santhoshkumar",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "A Galan",
+              "bowler": "H Santhoshkumar",
+              "non_striker": "T Basile",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "A Galan",
+              "bowler": "Shreya Voya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Basile",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.1",
+              "batter": "A Galan",
+              "bowler": "Shreya Voya",
+              "non_striker": "T Basile",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Basile",
+                  "fielders": [
+                    {
+                      "name": "Khadeeja Fatima"
+                    },
+                    {
+                      "name": "Elyssa Sun"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "A Galan",
+              "bowler": "Shreya Voya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Emch",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "A Galan",
+              "bowler": "Shreya Voya",
+              "non_striker": "A Emch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "A Emch",
+              "bowler": "Shreya Voya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "A Emch",
+              "bowler": "Shreya Voya",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "A Emch",
+              "bowler": "Shreya Voya",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "A Galan",
+              "bowler": "Shreya Voya",
+              "non_striker": "A Emch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "A Emch",
+              "bowler": "Shreya Voya",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "A Galan",
+              "bowler": "H Santhoshkumar",
+              "non_striker": "A Emch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "A Emch",
+              "bowler": "H Santhoshkumar",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "A Galan",
+              "bowler": "H Santhoshkumar",
+              "non_striker": "A Emch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "A Galan",
+              "bowler": "H Santhoshkumar",
+              "non_striker": "A Emch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "A Galan",
+              "bowler": "H Santhoshkumar",
+              "non_striker": "A Emch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "A Galan",
+              "bowler": "H Santhoshkumar",
+              "non_striker": "A Emch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "A Emch",
+              "bowler": "M Hundal",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "A Emch",
+              "bowler": "M Hundal",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "A Galan",
+              "bowler": "M Hundal",
+              "non_striker": "A Emch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "A Emch",
+              "bowler": "M Hundal",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "A Galan",
+              "bowler": "M Hundal",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "A Emch",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "A Emch",
+              "bowler": "M Hundal",
+              "non_striker": "A Galan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Emch",
+                  "fielders": [
+                    {
+                      "name": "Khadeeja Fatima"
+                    },
+                    {
+                      "name": "M Hundal"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Canada",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "A Perera",
+              "bowler": "C Sosa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "A Perera",
+              "bowler": "C Sosa",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "A Perera",
+              "bowler": "C Sosa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "A Perera",
+              "bowler": "C Sosa",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "K Kapadia",
+              "bowler": "C Sosa",
+              "non_striker": "A Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "K Kapadia",
+              "bowler": "C Sosa",
+              "non_striker": "A Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "A Perera",
+              "bowler": "C Sosa",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "A Perera",
+              "bowler": "C Sosa",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "K Kapadia",
+              "bowler": "C Sosa",
+              "non_striker": "A Perera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "A Perera",
+              "bowler": "A Galan",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "K Kapadia",
+              "bowler": "A Galan",
+              "non_striker": "A Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "K Kapadia",
+              "bowler": "A Galan",
+              "non_striker": "A Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "K Kapadia",
+              "bowler": "A Galan",
+              "non_striker": "A Perera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "K Kapadia",
+              "bowler": "A Galan",
+              "non_striker": "A Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "A Perera",
+              "bowler": "A Galan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "A Perera",
+              "bowler": "A Galan",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "K Kapadia",
+              "bowler": "C Valencia",
+              "non_striker": "A Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "A Perera",
+              "bowler": "C Valencia",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "K Kapadia",
+              "bowler": "C Valencia",
+              "non_striker": "A Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "A Perera",
+              "bowler": "C Valencia",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "A Perera",
+              "bowler": "C Valencia",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "A Perera",
+              "bowler": "C Valencia",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Perera",
+                  "fielders": [
+                    {
+                      "name": "C Sosa"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Harper Chalmers",
+              "bowler": "C Valencia",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Harper Chalmers",
+              "bowler": "C Valencia",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "K Kapadia",
+              "bowler": "AC Dei Castelli",
+              "non_striker": "Harper Chalmers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "K Kapadia",
+              "bowler": "AC Dei Castelli",
+              "non_striker": "Harper Chalmers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "K Kapadia",
+              "bowler": "AC Dei Castelli",
+              "non_striker": "Harper Chalmers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Harper Chalmers",
+              "bowler": "AC Dei Castelli",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Harper Chalmers",
+              "bowler": "AC Dei Castelli",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "K Kapadia",
+              "bowler": "AC Dei Castelli",
+              "non_striker": "Harper Chalmers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "K Kapadia",
+              "bowler": "J Andujar",
+              "non_striker": "Harper Chalmers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Harper Chalmers",
+              "bowler": "J Andujar",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Harper Chalmers",
+              "bowler": "J Andujar",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "K Kapadia",
+              "bowler": "J Andujar",
+              "non_striker": "Harper Chalmers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "K Kapadia",
+              "bowler": "J Andujar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Harper Chalmers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "K Kapadia",
+              "bowler": "J Andujar",
+              "non_striker": "Harper Chalmers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Harper Chalmers",
+              "bowler": "J Andujar",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "K Kapadia",
+              "bowler": "A Galan",
+              "non_striker": "Harper Chalmers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Harper Chalmers",
+              "bowler": "A Galan",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Harper Chalmers",
+              "bowler": "A Galan",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "K Kapadia",
+              "bowler": "A Galan",
+              "non_striker": "Harper Chalmers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Harper Chalmers",
+              "bowler": "A Galan",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "K Kapadia",
+              "bowler": "A Galan",
+              "non_striker": "Harper Chalmers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Harper Chalmers",
+              "bowler": "A Emch",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Harper Chalmers",
+              "bowler": "A Emch",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Harper Chalmers",
+              "bowler": "A Emch",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "K Kapadia",
+              "bowler": "A Emch",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Harper Chalmers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "K Kapadia",
+              "bowler": "A Emch",
+              "non_striker": "Harper Chalmers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "K Kapadia",
+              "bowler": "A Emch",
+              "non_striker": "Harper Chalmers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Harper Chalmers",
+              "bowler": "A Emch",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Harper Chalmers",
+              "bowler": "J Andujar",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Harper Chalmers",
+              "bowler": "J Andujar",
+              "non_striker": "K Kapadia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Kapadia",
+                  "fielders": [
+                    {
+                      "name": "M Bestani"
+                    },
+                    {
+                      "name": "C Sosa"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "H Santhoshkumar",
+              "bowler": "J Andujar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Harper Chalmers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "H Santhoshkumar",
+              "bowler": "J Andujar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Harper Chalmers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "H Santhoshkumar",
+              "bowler": "J Andujar",
+              "non_striker": "Harper Chalmers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Harper Chalmers",
+              "bowler": "J Andujar",
+              "non_striker": "H Santhoshkumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "H Santhoshkumar",
+              "bowler": "J Andujar",
+              "non_striker": "Harper Chalmers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Harper Chalmers",
+              "bowler": "J Andujar",
+              "non_striker": "H Santhoshkumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Harper Chalmers",
+              "bowler": "C Valencia",
+              "non_striker": "H Santhoshkumar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Harper Chalmers",
+              "bowler": "C Valencia",
+              "non_striker": "H Santhoshkumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "H Santhoshkumar",
+              "bowler": "C Valencia",
+              "non_striker": "Harper Chalmers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "H Santhoshkumar",
+              "bowler": "C Valencia",
+              "non_striker": "Harper Chalmers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Harper Chalmers",
+              "bowler": "C Valencia",
+              "non_striker": "H Santhoshkumar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Harper Chalmers",
+              "bowler": "C Valencia",
+              "non_striker": "H Santhoshkumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 10,
+        "runs": 72
+      }
+    }
+  ]
+}

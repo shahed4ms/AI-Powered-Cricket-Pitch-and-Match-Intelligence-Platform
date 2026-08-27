@@ -1,0 +1,3166 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2021-11-03",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dhaka",
+    "dates": [
+      "2015-12-06"
+    ],
+    "event": {
+      "name": "Bangladesh Premier League",
+      "match_number": 22
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "Showkatur Rahman"
+      ],
+      "reserve_umpires": [
+        "Awal Babu"
+      ],
+      "tv_umpires": [
+        "Masudur Rahman"
+      ],
+      "umpires": [
+        "Ahsan Raza",
+        "Enamul Haque"
+      ]
+    },
+    "outcome": {
+      "winner": "Rangpur Riders",
+      "by": {
+        "wickets": 6
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Jahurul Islam"
+    ],
+    "players": {
+      "Dhaka Dynamites": [
+        "Shamsur Rahman",
+        "Shadman Islam",
+        "Shykat Ali",
+        "KC Sangakkara",
+        "Nasir Hossain",
+        "RN ten Doeschate",
+        "Mosaddek Hossain",
+        "Abul Hasan",
+        "Sohail Khan",
+        "Mohammad Irfan",
+        "Mustafizur Rahman"
+      ],
+      "Rangpur Riders": [
+        "LMP Simmons",
+        "Soumya Sarkar",
+        "Jahurul Islam",
+        "Shakib Al Hasan",
+        "DJG Sammy",
+        "NLTC Perera",
+        "Mohammad Nabi",
+        "Muktar Ali",
+        "Abu Jayed",
+        "Mohammad Mithun",
+        "Arafat Sunny"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Abu Jayed": "1bb0993e",
+        "Abul Hasan": "5c756df3",
+        "Ahsan Raza": "e0e5b209",
+        "Arafat Sunny": "1f7adc8a",
+        "Awal Babu": "286d5990",
+        "DJG Sammy": "c03c6200",
+        "Enamul Haque": "2ae9be7f",
+        "Jahurul Islam": "6752c57b",
+        "KC Sangakkara": "6b71e6cf",
+        "LMP Simmons": "89f64c19",
+        "Masudur Rahman": "9581ac6b",
+        "Mohammad Irfan": "a8e3170f",
+        "Mohammad Mithun": "77191792",
+        "Mohammad Nabi": "62af8546",
+        "Mosaddek Hossain": "8919756f",
+        "Muktar Ali": "4a491652",
+        "Mustafizur Rahman": "0a8fce53",
+        "NLTC Perera": "0f12f9df",
+        "Nasir Hossain": "6eea0b32",
+        "RN ten Doeschate": "4ec07775",
+        "Shadman Islam": "246d11a2",
+        "Shakib Al Hasan": "7dc35884",
+        "Shamsur Rahman": "02789d88",
+        "Showkatur Rahman": "5340a1c1",
+        "Shykat Ali": "288dd46e",
+        "Sohail Khan": "5af743d0",
+        "Soumya Sarkar": "4d9f9686"
+      }
+    },
+    "season": "2015/16",
+    "team_type": "club",
+    "teams": [
+      "Dhaka Dynamites",
+      "Rangpur Riders"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Dhaka Dynamites"
+    },
+    "venue": "Shere Bangla National Stadium, Mirpur"
+  },
+  "innings": [
+    {
+      "team": "Dhaka Dynamites",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Shamsur Rahman",
+              "bowler": "NLTC Perera",
+              "non_striker": "Shadman Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Shadman Islam",
+              "bowler": "NLTC Perera",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Shadman Islam",
+              "bowler": "NLTC Perera",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Shadman Islam",
+              "bowler": "NLTC Perera",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Shadman Islam",
+              "bowler": "NLTC Perera",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Shadman Islam",
+              "bowler": "NLTC Perera",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Shadman Islam",
+              "bowler": "Abu Jayed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.1",
+              "batter": "Shadman Islam",
+              "bowler": "Abu Jayed",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Shadman Islam",
+              "bowler": "Abu Jayed",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Shadman Islam",
+              "bowler": "Abu Jayed",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Shadman Islam",
+              "bowler": "Abu Jayed",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Shamsur Rahman",
+              "bowler": "Abu Jayed",
+              "non_striker": "Shadman Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Shamsur Rahman",
+              "bowler": "Abu Jayed",
+              "non_striker": "Shadman Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Shadman Islam",
+              "bowler": "NLTC Perera",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Shadman Islam",
+              "bowler": "NLTC Perera",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Shadman Islam",
+              "bowler": "NLTC Perera",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Shadman Islam",
+              "bowler": "NLTC Perera",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Shadman Islam",
+              "bowler": "NLTC Perera",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Shadman Islam",
+              "bowler": "NLTC Perera",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Shamsur Rahman",
+              "bowler": "Abu Jayed",
+              "non_striker": "Shadman Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Shadman Islam",
+              "bowler": "Abu Jayed",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Shadman Islam",
+              "bowler": "Abu Jayed",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Shadman Islam",
+              "bowler": "Abu Jayed",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Shadman Islam",
+              "bowler": "Abu Jayed",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Shadman Islam",
+              "bowler": "Abu Jayed",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shadman Islam",
+                  "fielders": [
+                    {
+                      "name": "Soumya Sarkar"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Shykat Ali",
+              "bowler": "DJG Sammy",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Shamsur Rahman",
+              "bowler": "DJG Sammy",
+              "non_striker": "Shykat Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Shykat Ali",
+              "bowler": "DJG Sammy",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Shykat Ali",
+              "bowler": "DJG Sammy",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Shamsur Rahman",
+              "bowler": "DJG Sammy",
+              "non_striker": "Shykat Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Shykat Ali",
+              "bowler": "DJG Sammy",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Shykat Ali",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Shykat Ali",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Shykat Ali",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shamsur Rahman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Shamsur Rahman",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shykat Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shamsur Rahman",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "KC Sangakkara",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shykat Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "KC Sangakkara",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Shykat Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Shykat Ali",
+              "bowler": "DJG Sammy",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Shykat Ali",
+              "bowler": "DJG Sammy",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Shykat Ali",
+              "bowler": "DJG Sammy",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Shykat Ali",
+              "bowler": "DJG Sammy",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Shykat Ali",
+              "bowler": "DJG Sammy",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Shykat Ali",
+              "bowler": "DJG Sammy",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shykat Ali",
+                  "fielders": [
+                    {
+                      "name": "NLTC Perera"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Nasir Hossain",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Nasir Hossain",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "KC Sangakkara",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "KC Sangakkara",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "KC Sangakkara",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Nasir Hossain",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Nasir Hossain",
+              "bowler": "DJG Sammy",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Nasir Hossain",
+              "bowler": "DJG Sammy",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "KC Sangakkara",
+              "bowler": "DJG Sammy",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Nasir Hossain",
+              "bowler": "DJG Sammy",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "KC Sangakkara",
+              "bowler": "DJG Sammy",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Nasir Hossain",
+              "bowler": "DJG Sammy",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Nasir Hossain",
+              "bowler": "Abu Jayed",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "KC Sangakkara",
+              "bowler": "Abu Jayed",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Nasir Hossain",
+              "bowler": "Abu Jayed",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "KC Sangakkara",
+              "bowler": "Abu Jayed",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "KC Sangakkara",
+              "bowler": "Abu Jayed",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "KC Sangakkara",
+              "bowler": "Abu Jayed",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Nasir Hossain",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "KC Sangakkara",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Nasir Hossain",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Nasir Hossain",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Nasir Hossain",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "KC Sangakkara",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Nasir Hossain",
+              "bowler": "NLTC Perera",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "KC Sangakkara",
+              "bowler": "NLTC Perera",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "KC Sangakkara",
+              "bowler": "NLTC Perera",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Nasir Hossain",
+              "bowler": "NLTC Perera",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "KC Sangakkara",
+              "bowler": "NLTC Perera",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Nasir Hossain",
+              "bowler": "NLTC Perera",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Nasir Hossain",
+              "bowler": "Muktar Ali",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "KC Sangakkara",
+              "bowler": "Muktar Ali",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Nasir Hossain",
+              "bowler": "Muktar Ali",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "KC Sangakkara",
+              "bowler": "Muktar Ali",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "KC Sangakkara",
+              "bowler": "Muktar Ali",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Nasir Hossain",
+              "bowler": "Muktar Ali",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "KC Sangakkara",
+              "bowler": "Arafat Sunny",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "KC Sangakkara",
+              "bowler": "Arafat Sunny",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Nasir Hossain",
+              "bowler": "Arafat Sunny",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "KC Sangakkara",
+              "bowler": "Arafat Sunny",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "KC Sangakkara",
+              "bowler": "Arafat Sunny",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KC Sangakkara",
+                  "fielders": [
+                    {
+                      "name": "Shakib Al Hasan"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Nasir Hossain",
+              "bowler": "Arafat Sunny",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Nasir Hossain",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Nasir Hossain",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "RN ten Doeschate",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "RN ten Doeschate",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "RN ten Doeschate",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "RN ten Doeschate",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Nasir Hossain",
+              "bowler": "Arafat Sunny",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Nasir Hossain",
+              "bowler": "Arafat Sunny",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Nasir Hossain",
+              "bowler": "Arafat Sunny",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "RN ten Doeschate",
+              "bowler": "Arafat Sunny",
+              "non_striker": "Nasir Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Nasir Hossain",
+              "bowler": "Arafat Sunny",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Nasir Hossain",
+              "bowler": "Arafat Sunny",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Nasir Hossain",
+              "bowler": "Arafat Sunny",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nasir Hossain",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "RN ten Doeschate",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Mosaddek Hossain",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Mosaddek Hossain",
+              "bowler": "Shakib Al Hasan",
+              "extras": {
+                "legbyes": 3
+              },
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "RN ten Doeschate",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Mosaddek Hossain",
+              "bowler": "Shakib Al Hasan",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "RN ten Doeschate",
+              "bowler": "Shakib Al Hasan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "RN ten Doeschate",
+              "bowler": "Arafat Sunny",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "RN ten Doeschate",
+              "bowler": "Arafat Sunny",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Mosaddek Hossain",
+              "bowler": "Arafat Sunny",
+              "non_striker": "RN ten Doeschate",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "RN ten Doeschate",
+              "bowler": "Arafat Sunny",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "RN ten Doeschate",
+              "bowler": "Arafat Sunny",
+              "non_striker": "Mosaddek Hossain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RN ten Doeschate",
+                  "fielders": [
+                    {
+                      "name": "Jahurul Islam"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Mosaddek Hossain",
+              "bowler": "Arafat Sunny",
+              "non_striker": "Abul Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Mosaddek Hossain",
+              "bowler": "NLTC Perera",
+              "non_striker": "Abul Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Mosaddek Hossain",
+              "bowler": "NLTC Perera",
+              "non_striker": "Abul Hasan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Mosaddek Hossain",
+              "bowler": "NLTC Perera",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Mosaddek Hossain",
+              "bowler": "NLTC Perera",
+              "non_striker": "Abul Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Mosaddek Hossain",
+              "bowler": "NLTC Perera",
+              "non_striker": "Abul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Mosaddek Hossain",
+              "bowler": "NLTC Perera",
+              "non_striker": "Abul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Mosaddek Hossain",
+              "bowler": "NLTC Perera",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abul Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Mosaddek Hossain",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Mithun"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Sohail Khan",
+              "bowler": "NLTC Perera",
+              "non_striker": "Abul Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Sohail Khan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Abul Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Abul Hasan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Sohail Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Sohail Khan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Abul Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Sohail Khan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Abul Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Abul Hasan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Sohail Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Sohail Khan",
+              "bowler": "Mohammad Nabi",
+              "non_striker": "Abul Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Rangpur Riders",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "LMP Simmons",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Soumya Sarkar",
+              "bowler": "Mohammad Irfan",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Soumya Sarkar",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Soumya Sarkar",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "LMP Simmons",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "LMP Simmons",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Soumya Sarkar",
+              "bowler": "Sohail Khan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Soumya Sarkar",
+              "bowler": "Sohail Khan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Soumya Sarkar",
+              "bowler": "Sohail Khan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Soumya Sarkar",
+              "bowler": "Sohail Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Soumya Sarkar",
+              "bowler": "Sohail Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Soumya Sarkar",
+              "bowler": "Sohail Khan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Soumya Sarkar",
+              "bowler": "Sohail Khan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Soumya Sarkar",
+              "bowler": "Sohail Khan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "LMP Simmons",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "LMP Simmons",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Soumya Sarkar",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Soumya Sarkar",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Soumya Sarkar",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "LMP Simmons",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Soumya Sarkar",
+              "bowler": "Mustafizur Rahman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "Soumya Sarkar",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Soumya Sarkar",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Soumya Sarkar",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Soumya Sarkar",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "LMP Simmons",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Soumya Sarkar",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Soumya Sarkar",
+              "bowler": "Sohail Khan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Soumya Sarkar",
+              "bowler": "Sohail Khan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Soumya Sarkar",
+              "bowler": "Sohail Khan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Soumya Sarkar",
+              "bowler": "Sohail Khan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Soumya Sarkar",
+              "bowler": "Sohail Khan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Soumya Sarkar",
+              "bowler": "Sohail Khan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Soumya Sarkar",
+              "bowler": "Mustafizur Rahman",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "LMP Simmons",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "LMP Simmons",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "LMP Simmons",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Soumya Sarkar",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Soumya Sarkar",
+              "bowler": "Mustafizur Rahman",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "LMP Simmons",
+              "bowler": "Abul Hasan",
+              "non_striker": "Soumya Sarkar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Soumya Sarkar",
+              "bowler": "Abul Hasan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Soumya Sarkar",
+                  "fielders": [
+                    {
+                      "name": "Shadman Islam"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Jahurul Islam",
+              "bowler": "Abul Hasan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Jahurul Islam",
+              "bowler": "Abul Hasan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Jahurul Islam",
+              "bowler": "Abul Hasan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "LMP Simmons",
+              "bowler": "Abul Hasan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "LMP Simmons",
+              "bowler": "Shykat Ali",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "LMP Simmons",
+              "bowler": "Shykat Ali",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "LMP Simmons",
+              "bowler": "Shykat Ali",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "LMP Simmons",
+              "bowler": "Shykat Ali",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "LMP Simmons",
+              "bowler": "Shykat Ali",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "LMP Simmons",
+              "bowler": "Shykat Ali",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "LMP Simmons",
+              "bowler": "Abul Hasan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Jahurul Islam",
+              "bowler": "Abul Hasan",
+              "non_striker": "LMP Simmons",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "LMP Simmons",
+              "bowler": "Abul Hasan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "LMP Simmons",
+              "bowler": "Abul Hasan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "LMP Simmons",
+              "bowler": "Abul Hasan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LMP Simmons",
+                  "fielders": [
+                    {
+                      "name": "Mosaddek Hossain"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Shakib Al Hasan",
+              "bowler": "Abul Hasan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Jahurul Islam",
+              "bowler": "Shykat Ali",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Shakib Al Hasan",
+              "bowler": "Shykat Ali",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Jahurul Islam",
+              "bowler": "Shykat Ali",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Jahurul Islam",
+              "bowler": "Shykat Ali",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Jahurul Islam",
+              "bowler": "Shykat Ali",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Jahurul Islam",
+              "bowler": "Shykat Ali",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Shakib Al Hasan",
+              "bowler": "Abul Hasan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Jahurul Islam",
+              "bowler": "Abul Hasan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Shakib Al Hasan",
+              "bowler": "Abul Hasan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Jahurul Islam",
+              "bowler": "Abul Hasan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Jahurul Islam",
+              "bowler": "Abul Hasan",
+              "non_striker": "Shakib Al Hasan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Shakib Al Hasan",
+              "bowler": "Abul Hasan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Shakib Al Hasan",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shakib Al Hasan",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "DJG Sammy",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "DJG Sammy",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "DJG Sammy",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "DJG Sammy",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "DJG Sammy",
+              "bowler": "Mustafizur Rahman",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Jahurul Islam",
+              "bowler": "Abul Hasan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.1",
+              "batter": "Jahurul Islam",
+              "bowler": "Abul Hasan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "DJG Sammy",
+              "bowler": "Abul Hasan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "DJG Sammy",
+              "bowler": "Abul Hasan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "DJG Sammy",
+              "bowler": "Abul Hasan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "DJG Sammy",
+              "bowler": "Abul Hasan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "DJG Sammy",
+              "bowler": "Abul Hasan",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Jahurul Islam",
+              "bowler": "Shykat Ali",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "DJG Sammy",
+              "bowler": "Shykat Ali",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "DJG Sammy",
+              "bowler": "Shykat Ali",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Jahurul Islam",
+              "bowler": "Shykat Ali",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Jahurul Islam",
+              "bowler": "Shykat Ali",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "DJG Sammy",
+              "bowler": "Shykat Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "DJG Sammy",
+              "bowler": "Shykat Ali",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Jahurul Islam",
+              "bowler": "Sohail Khan",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Jahurul Islam",
+              "bowler": "Sohail Khan",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "DJG Sammy",
+              "bowler": "Sohail Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Jahurul Islam",
+              "bowler": "Sohail Khan",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "DJG Sammy",
+              "bowler": "Sohail Khan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "DJG Sammy",
+              "bowler": "Sohail Khan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Jahurul Islam",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "DJG Sammy",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "DJG Sammy",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "DJG Sammy",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "DJG Sammy",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "DJG Sammy",
+              "bowler": "Mohammad Irfan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "DJG Sammy",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DJG Sammy",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Jahurul Islam",
+              "bowler": "Nasir Hossain",
+              "non_striker": "NLTC Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "NLTC Perera",
+              "bowler": "Nasir Hossain",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Jahurul Islam",
+              "bowler": "Nasir Hossain",
+              "non_striker": "NLTC Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Jahurul Islam",
+              "bowler": "Nasir Hossain",
+              "non_striker": "NLTC Perera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Jahurul Islam",
+              "bowler": "Nasir Hossain",
+              "non_striker": "NLTC Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "NLTC Perera",
+              "bowler": "Nasir Hossain",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "NLTC Perera",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "NLTC Perera",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "NLTC Perera",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "NLTC Perera",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "NLTC Perera",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "NLTC Perera",
+              "bowler": "Mohammad Irfan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "NLTC Perera",
+              "bowler": "Mohammad Irfan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "NLTC Perera",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "Jahurul Islam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Jahurul Islam",
+              "bowler": "Sohail Khan",
+              "non_striker": "NLTC Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Jahurul Islam",
+              "bowler": "Sohail Khan",
+              "non_striker": "NLTC Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 136
+      }
+    }
+  ]
+}

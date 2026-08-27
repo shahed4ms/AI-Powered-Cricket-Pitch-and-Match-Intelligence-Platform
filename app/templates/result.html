@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+{% block title %}Match Result - {{ match.match_name }} | PitchVisionAI{% endblock %}
+
+{% block content %}
+<div class="max-w-3xl mx-auto space-y-6">
+    <a href="{{ url_for('analysis.index', match_id=match.id) }}" class="text-brand-400 hover:text-brand-300 text-sm">&larr; Back to analysis</a>
+
+    <section class="bg-gray-900 rounded-2xl p-7 card-shadow border border-cyan-400/30">
+        <div class="flex items-start justify-between gap-4 mb-6">
+            <div>
+                <p class="text-xs uppercase tracking-widest text-cyan-300 mb-1">Post-match update</p>
+                <h1 class="text-3xl font-bold text-white">{{ match.match_name }}</h1>
+                <p class="text-gray-400 mt-1">{{ match.format }} &middot; {{ match.date_start.strftime('%d %b %Y') }}</p>
+            </div>
+            {% if match.result_status == 'completed' %}
+            <span class="px-3 py-1 rounded-full bg-emerald-500/15 text-emerald-300 text-xs">Completed</span>
+            {% elif match.result_status == 'skipped' %}
+            <span class="px-3 py-1 rounded-full bg-gray-700 text-gray-300 text-xs">Dummy / skipped</span>
+            {% else %}
+            <span class="px-3 py-1 rounded-full bg-cyan-500/15 text-cyan-300 text-xs">Pending</span>
+            {% endif %}
+        </div>
+
+        {% if match.result_status == 'skipped' %}
+        <div class="rounded-xl bg-gray-800/60 border border-gray-700 p-5 text-gray-300">
+            This match was marked as a dummy. No result or feedback is recorded.
+        </div>
+        {% else %}
+        <form method="POST" action="{{ url_for('analysis.save_result', match_id=match.id) }}" class="space-y-4">
+            <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+            <input type="hidden" name="status" value="completed">
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                <label class="text-gray-400 text-sm">Toss result
+                    <select name="toss_outcome" required class="block mt-2 w-full px-4 py-3 bg-gray-800 border border-gray-700 rounded-xl text-white">
+                        <option value="">Choose</option><option value="won" {% if match.toss_outcome == 'won' %}selected{% endif %}>Won toss</option><option value="lost" {% if match.toss_outcome == 'lost' %}selected{% endif %}>Lost toss</option>
+                    </select>
+                </label>
+                <label class="text-gray-400 text-sm">Match result
+                    <select name="outcome" required class="block mt-2 w-full px-4 py-3 bg-gray-800 border border-gray-700 rounded-xl text-white">
+                        <option value="">Choose</option><option value="won" {% if match.result_outcome == 'won' %}selected{% endif %}>Won match</option><option value="lost" {% if match.result_outcome == 'lost' %}selected{% endif %}>Lost match</option><option value="draw" {% if match.result_outcome == 'draw' %}selected{% endif %}>Draw / no result</option>
+                    </select>
+                </label>
+                <label class="text-gray-400 text-sm">Your batting innings
+                    <select name="batting_innings" required class="block mt-2 w-full px-4 py-3 bg-gray-800 border border-gray-700 rounded-xl text-white">
+                        <option value="">Choose</option><option value="first" {% if match.batting_innings == 'first' %}selected{% endif %}>Batted first</option><option value="second" {% if match.batting_innings == 'second' %}selected{% endif %}>Batted second</option>
+                    </select>
+                </label>
+                <label class="text-gray-400 text-sm">Your score
+                    <input name="own_score" required value="{{ match.own_score or '' }}" placeholder="185/6" class="block mt-2 w-full px-4 py-3 bg-gray-800 border border-gray-700 rounded-xl text-white placeholder-gray-500">
+                </label>
+                <label class="text-gray-400 text-sm">Opponent score
+                    <input name="opponent_score" required value="{{ match.opponent_score or '' }}" placeholder="182/8" class="block mt-2 w-full px-4 py-3 bg-gray-800 border border-gray-700 rounded-xl text-white placeholder-gray-500">
+                </label>
+            </div>
+            <button type="submit" class="px-5 py-3 bg-cyan-500 hover:bg-cyan-400 text-gray-950 font-bold rounded-xl">Save result</button>
+        </form>
+        {% endif %}
+    </section>
+
+    {% if match.result_status == 'completed' %}
+    <section class="bg-gray-900 rounded-2xl p-7 card-shadow border border-gray-800">
+        <p class="text-xs uppercase tracking-widest text-pink-300 mb-1">Feedback</p>
+        <h2 class="text-2xl font-bold text-white mb-1">Review the analysis</h2>
+        <p class="text-gray-400 text-sm mb-6">Your feedback is saved here, separately from the analysis page.</p>
+        {% if review and review.overall_rating %}
+        <div class="rounded-xl bg-gray-800/60 border border-gray-700 p-5">
+            <p class="text-white font-semibold">Review submitted</p>
+            <p class="text-yellow-300 mt-1">{{ review.overall_rating }}/5</p>
+            {% if review.comments %}<p class="text-gray-300 text-sm mt-3">{{ review.comments }}</p>{% endif %}
+        </div>
+        {% else %}
+        <form method="POST" action="{{ url_for('profile.submit_review', analysis_id=analysis.id) }}" class="space-y-5">
+            <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+            <div>
+                <p class="text-gray-300 text-sm mb-2">Rating</p>
+                <div class="flex gap-1">
+                    {% for value in range(1, 6) %}<label class="cursor-pointer"><input class="sr-only peer" type="radio" name="rating" value="{{ value }}" required><span class="text-3xl text-gray-600 peer-checked:text-yellow-400">&#9733;</span></label>{% endfor %}
+                </div>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                <select name="toss_accurate" class="px-4 py-3 bg-gray-800 border border-gray-700 rounded-xl text-white"><option value="">Was toss suggestion accurate?</option><option value="true">Yes</option><option value="false">No</option></select>
+                <select name="score_accurate" class="px-4 py-3 bg-gray-800 border border-gray-700 rounded-xl text-white"><option value="">Was score prediction accurate?</option><option value="true">Yes</option><option value="false">No</option></select>
+            </div>
+            <textarea name="comments" rows="4" placeholder="Share feedback on the analysis..." class="w-full px-4 py-3 bg-gray-800 border border-gray-700 rounded-xl text-white placeholder-gray-500"></textarea>
+            <button type="submit" class="px-5 py-3 bg-pink-500 hover:bg-pink-400 text-white font-bold rounded-xl">Submit feedback</button>
+        </form>
+        {% endif %}
+    </section>
+    {% endif %}
+</div>
+{% endblock %}

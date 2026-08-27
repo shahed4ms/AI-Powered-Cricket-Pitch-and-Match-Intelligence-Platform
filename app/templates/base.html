@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}PitchVisionAI{% endblock %}</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['DM Sans', 'sans-serif'], display: ['Space Grotesk', 'sans-serif'] },
+                    colors: {
+                        brand: {
+                            50: '#f0fdf4', 100: '#dcfce7', 200: '#bbf7d0',
+                            300: '#86efac', 400: '#4ade80', 500: '#22c55e',
+                            600: '#16a34a', 700: '#15803d', 800: '#166534', 900: '#14532d',
+                        },
+                        pitch: {
+                            50: '#fefce8', 100: '#fef9c3', 200: '#fef08a',
+                            300: '#fde047', 400: '#facc15', 500: '#eab308',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        [x-cloak] { display: none !important; }
+        :root {
+            --ink: #09090d;
+            --panel: #111116;
+            --panel-soft: #17171e;
+            --line: rgba(167, 139, 250, 0.28);
+            --violet: #a78bfa;
+            --cyan: #67e8f9;
+        }
+        [x-cloak] { display: none !important; }
+        body {
+            font-family: 'DM Sans', sans-serif;
+            background-color: var(--ink) !important;
+            background-image: linear-gradient(rgba(167,139,250,.045) 1px, transparent 1px), linear-gradient(90deg, rgba(103,232,249,.035) 1px, transparent 1px);
+            background-size: 42px 42px;
+            letter-spacing: .01em;
+        }
+        h1, h2, h3, .font-bold { font-family: 'Space Grotesk', sans-serif; }
+        main { position: relative; }
+        .gradient-bg { background: rgba(9, 9, 13, .9); border-bottom-color: rgba(167,139,250,.3) !important; backdrop-filter: blur(18px); }
+        .gradient-bg a { color: #c4b5fd; }
+        .card-shadow { box-shadow: 0 18px 50px rgba(0,0,0,.28), inset 0 1px 0 rgba(255,255,255,.025); }
+        .glass { background: rgba(17,17,22,.76); backdrop-filter: blur(16px); border: 1px solid var(--line); }
+        .bg-gray-900 { background-color: rgba(17,17,22,.9) !important; border-color: rgba(167,139,250,.28) !important; }
+        .bg-gray-800 { background-color: #191920 !important; }
+        .bg-gray-800\/50 { background-color: rgba(25,25,32,.72) !important; }
+        .bg-gray-800\/30 { background-color: rgba(25,25,32,.46) !important; }
+        .border-gray-700, .border-gray-800 { border-color: rgba(167,139,250,.24) !important; }
+        input, select, textarea { color-scheme: dark; }
+        input:focus, select:focus, textarea:focus { border-color: var(--violet) !important; box-shadow: 0 0 0 3px rgba(167,139,250,.14) !important; }
+        .text-brand-400 { color: var(--violet) !important; }
+        .bg-brand-600 { background-color: #7c3aed !important; }
+        .bg-brand-600:hover, .hover\:bg-brand-500:hover { background-color: #8b5cf6 !important; }
+        .border-brand-500 { border-color: var(--violet) !important; }
+        footer { border-color: rgba(167,139,250,.16) !important; }
+    </style>
+    {% block head %}{% endblock %}
+</head>
+<body class="h-full bg-gray-950 text-gray-100">
+    {% if current_user.is_authenticated %}
+    <nav class="gradient-bg border-b border-green-800/50 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <a href="{{ url_for('dashboard.index') }}" class="flex items-center gap-2">
+                    <span class="text-xl font-bold text-white">Pitch<span class="text-brand-400">VisionAI</span></span>
+                </a>
+                <div class="flex items-center gap-4">
+                    <a href="{{ url_for('dashboard.index') }}" class="text-sm text-green-200 hover:text-white transition">Dashboard</a>
+                    <a href="{{ url_for('profile.index') }}" class="text-sm text-green-200 hover:text-white transition">Profile</a>
+                    <div class="flex items-center gap-2">
+                        {% if current_user.avatar_url %}
+                        <img src="{{ current_user.avatar_url }}" class="w-8 h-8 rounded-full border-2 border-brand-400">
+                        {% else %}
+                        <div class="w-8 h-8 rounded-full bg-brand-600 flex items-center justify-center text-sm font-bold">
+                            {{ current_user.username[0]|upper }}
+                        </div>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+    {% endif %}
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}
+    <div class="max-w-7xl mx-auto px-4 mt-4" x-data="{ show: true }" x-show="show" x-init="setTimeout(() => show = false, 4000)">
+        {% for category, message in messages %}
+        <div class="mb-2 p-4 rounded-lg text-sm font-medium
+            {% if category == 'success' %}bg-green-900/50 text-green-300 border border-green-700
+            {% elif category == 'error' %}bg-red-900/50 text-red-300 border border-red-700
+            {% else %}bg-blue-900/50 text-blue-300 border border-blue-700{% endif %}">
+            {{ message }}
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %}
+    {% endwith %}
+
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer class="border-t border-gray-800 mt-16 py-8 text-center text-gray-500 text-sm">
+        <p>PitchVisionAI &copy; 2026 &mdash; AI-Powered Cricket Strategy</p>
+    </footer>
+
+    {% block scripts %}{% endblock %}
+</body>
+</html>

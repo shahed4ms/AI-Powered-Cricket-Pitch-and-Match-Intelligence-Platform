@@ -1,0 +1,3287 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-07-26",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Tallinn",
+    "dates": [
+      "2026-07-25"
+    ],
+    "event": {
+      "name": "Finland Women tour of Estonia",
+      "match_number": 1
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2923,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Finland",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "T Mulepati"
+    ],
+    "players": {
+      "Estonia": [
+        "A Vessik",
+        "H Kerge",
+        "E Ellermaa",
+        "C Lokuge",
+        "G Madanayake",
+        "M Valner",
+        "Ragne Hallik",
+        "Aryaa Kulkarni",
+        "S Pattenden",
+        "Kadri Just",
+        "Laura-Anette Taei"
+      ],
+      "Finland": [
+        "S Sheridan",
+        "Elina Rama",
+        "T Mulepati",
+        "H Nguyen",
+        "L Martin",
+        "Malyun Hassan",
+        "M Kaitaranta",
+        "M Stolt",
+        "R Khullar",
+        "T Leskinen",
+        "M Kojo"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Vessik": "d30d4a0c",
+        "Aryaa Kulkarni": "ab42bc93",
+        "C Lokuge": "f805e474",
+        "E Ellermaa": "37c085d2",
+        "Elina Rama": "43490928",
+        "G Madanayake": "cc72f8df",
+        "H Kerge": "76207d36",
+        "H Nguyen": "8047ca8c",
+        "Kadri Just": "8c9a7c92",
+        "L Martin": "1c19e5eb",
+        "Laura-Anette Taei": "fa21c431",
+        "M Kaitaranta": "25f2e969",
+        "M Kojo": "7a652afa",
+        "M Stolt": "e7cae029",
+        "M Valner": "b5472435",
+        "Malyun Hassan": "22cbe7fb",
+        "R Khullar": "76a5e857",
+        "Ragne Hallik": "1ac4b030",
+        "S Pattenden": "b7880d1d",
+        "S Sheridan": "2d093c80",
+        "T Leskinen": "9fd62e40",
+        "T Mulepati": "cb83a7df"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Estonia",
+      "Finland"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Estonia"
+    },
+    "venue": "Estonian National Cricket and Rugby Field"
+  },
+  "innings": [
+    {
+      "team": "Estonia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "A Vessik",
+              "bowler": "M Kojo",
+              "non_striker": "H Kerge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "H Kerge",
+              "bowler": "M Kojo",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "H Kerge",
+              "bowler": "M Kojo",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Kerge",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "E Ellermaa",
+              "bowler": "M Kojo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "E Ellermaa",
+              "bowler": "M Kojo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "E Ellermaa",
+              "bowler": "M Kojo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "E Ellermaa",
+              "bowler": "M Kojo",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "E Ellermaa",
+              "bowler": "M Kojo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "E Ellermaa",
+              "bowler": "M Kojo",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "E Ellermaa",
+              "bowler": "M Kojo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "E Ellermaa",
+              "bowler": "M Kojo",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "A Vessik",
+              "bowler": "L Martin",
+              "non_striker": "E Ellermaa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "A Vessik",
+              "bowler": "L Martin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Ellermaa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "A Vessik",
+              "bowler": "L Martin",
+              "non_striker": "E Ellermaa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "E Ellermaa",
+              "bowler": "L Martin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "E Ellermaa",
+              "bowler": "L Martin",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "E Ellermaa",
+              "bowler": "L Martin",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "E Ellermaa",
+              "bowler": "L Martin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "E Ellermaa",
+              "bowler": "L Martin",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "E Ellermaa",
+              "bowler": "L Martin",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "E Ellermaa",
+              "bowler": "L Martin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "E Ellermaa",
+              "bowler": "L Martin",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "E Ellermaa",
+              "bowler": "M Kojo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.1",
+              "batter": "E Ellermaa",
+              "bowler": "M Kojo",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "E Ellermaa",
+              "bowler": "M Kojo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "E Ellermaa",
+              "bowler": "M Kojo",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "E Ellermaa",
+              "bowler": "M Kojo",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "E Ellermaa",
+              "bowler": "M Kojo",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Ellermaa",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "C Lokuge",
+              "bowler": "M Kojo",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "C Lokuge",
+              "bowler": "M Kojo",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "A Vessik",
+              "bowler": "L Martin",
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "A Vessik",
+              "bowler": "L Martin",
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "A Vessik",
+              "bowler": "L Martin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "A Vessik",
+              "bowler": "L Martin",
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "C Lokuge",
+              "bowler": "L Martin",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "A Vessik",
+              "bowler": "L Martin",
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "A Vessik",
+              "bowler": "L Martin",
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "C Lokuge",
+              "bowler": "M Kojo",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "C Lokuge",
+              "bowler": "M Kojo",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "C Lokuge",
+              "bowler": "M Kojo",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "A Vessik",
+              "bowler": "M Kojo",
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "C Lokuge",
+              "bowler": "M Kojo",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "C Lokuge",
+              "bowler": "M Kojo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "C Lokuge",
+              "bowler": "M Kojo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "C Lokuge",
+              "bowler": "M Kojo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "C Lokuge",
+              "bowler": "M Kojo",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "A Vessik",
+              "bowler": "L Martin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.1",
+              "batter": "A Vessik",
+              "bowler": "L Martin",
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "A Vessik",
+              "bowler": "L Martin",
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "C Lokuge",
+              "bowler": "L Martin",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "A Vessik",
+              "bowler": "L Martin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "A Vessik",
+              "bowler": "L Martin",
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "A Vessik",
+              "bowler": "L Martin",
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "C Lokuge",
+              "bowler": "L Martin",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "A Vessik",
+              "bowler": "Elina Rama",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.1",
+              "batter": "A Vessik",
+              "bowler": "Elina Rama",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.1",
+              "batter": "A Vessik",
+              "bowler": "Elina Rama",
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "A Vessik",
+              "bowler": "Elina Rama",
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "A Vessik",
+              "bowler": "Elina Rama",
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "C Lokuge",
+              "bowler": "Elina Rama",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "A Vessik",
+              "bowler": "Elina Rama",
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "A Vessik",
+              "bowler": "Elina Rama",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "A Vessik",
+              "bowler": "Elina Rama",
+              "non_striker": "C Lokuge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "C Lokuge",
+              "bowler": "L Martin",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Lokuge",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "G Madanayake",
+              "bowler": "L Martin",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "G Madanayake",
+              "bowler": "L Martin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "G Madanayake",
+              "bowler": "L Martin",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "G Madanayake",
+              "bowler": "L Martin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "G Madanayake",
+              "bowler": "L Martin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "G Madanayake",
+              "bowler": "L Martin",
+              "non_striker": "A Vessik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "A Vessik",
+              "bowler": "L Martin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Madanayake",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "A Vessik",
+              "bowler": "L Martin",
+              "non_striker": "G Madanayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Vessik",
+                  "fielders": [
+                    {
+                      "name": "S Sheridan"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "G Madanayake",
+              "bowler": "L Martin",
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "M Valner",
+              "bowler": "M Kaitaranta",
+              "non_striker": "G Madanayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "M Valner",
+              "bowler": "M Kaitaranta",
+              "non_striker": "G Madanayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "M Valner",
+              "bowler": "M Kaitaranta",
+              "non_striker": "G Madanayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "M Valner",
+              "bowler": "M Kaitaranta",
+              "non_striker": "G Madanayake",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "M Valner",
+              "bowler": "M Kaitaranta",
+              "non_striker": "G Madanayake",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "G Madanayake",
+              "bowler": "M Kaitaranta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "G Madanayake",
+              "bowler": "M Kaitaranta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "G Madanayake",
+              "bowler": "M Kaitaranta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "G Madanayake",
+              "bowler": "M Kaitaranta",
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "G Madanayake",
+              "bowler": "T Mulepati",
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "G Madanayake",
+              "bowler": "T Mulepati",
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "G Madanayake",
+              "bowler": "T Mulepati",
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "G Madanayake",
+              "bowler": "T Mulepati",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "G Madanayake",
+              "bowler": "T Mulepati",
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "G Madanayake",
+              "bowler": "T Mulepati",
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Madanayake",
+                  "fielders": [
+                    {
+                      "name": "Malyun Hassan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Ragne Hallik",
+              "bowler": "T Mulepati",
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Ragne Hallik",
+              "bowler": "M Kaitaranta",
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Ragne Hallik",
+              "bowler": "M Kaitaranta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Ragne Hallik",
+              "bowler": "M Kaitaranta",
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Ragne Hallik",
+              "bowler": "M Kaitaranta",
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Ragne Hallik",
+              "bowler": "M Kaitaranta",
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Ragne Hallik",
+              "bowler": "M Kaitaranta",
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Ragne Hallik",
+              "bowler": "M Kaitaranta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Ragne Hallik",
+              "bowler": "M Kaitaranta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Ragne Hallik",
+              "bowler": "M Kaitaranta",
+              "non_striker": "M Valner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "M Valner",
+              "bowler": "T Mulepati",
+              "non_striker": "Ragne Hallik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "M Valner",
+              "bowler": "T Mulepati",
+              "non_striker": "Ragne Hallik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Valner",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Aryaa Kulkarni",
+              "bowler": "T Mulepati",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ragne Hallik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Aryaa Kulkarni",
+              "bowler": "T Mulepati",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ragne Hallik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Aryaa Kulkarni",
+              "bowler": "T Mulepati",
+              "non_striker": "Ragne Hallik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Aryaa Kulkarni",
+              "bowler": "T Mulepati",
+              "non_striker": "Ragne Hallik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Aryaa Kulkarni",
+              "bowler": "T Mulepati",
+              "non_striker": "Ragne Hallik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aryaa Kulkarni",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "S Pattenden",
+              "bowler": "T Mulepati",
+              "non_striker": "Ragne Hallik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Ragne Hallik",
+              "bowler": "Elina Rama",
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Ragne Hallik",
+              "bowler": "Elina Rama",
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "S Pattenden",
+              "bowler": "Elina Rama",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Ragne Hallik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Ragne Hallik",
+              "bowler": "Elina Rama",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Ragne Hallik",
+              "bowler": "Elina Rama",
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Ragne Hallik",
+              "bowler": "Elina Rama",
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "S Pattenden",
+              "bowler": "Elina Rama",
+              "non_striker": "Ragne Hallik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Ragne Hallik",
+              "bowler": "T Mulepati",
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Ragne Hallik",
+              "bowler": "T Mulepati",
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Ragne Hallik",
+              "bowler": "T Mulepati",
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Ragne Hallik",
+              "bowler": "T Mulepati",
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Ragne Hallik",
+              "bowler": "T Mulepati",
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Ragne Hallik",
+              "bowler": "T Mulepati",
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Ragne Hallik",
+              "bowler": "S Sheridan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.1",
+              "batter": "Ragne Hallik",
+              "bowler": "S Sheridan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.1",
+              "batter": "Ragne Hallik",
+              "bowler": "S Sheridan",
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "S Pattenden",
+              "bowler": "S Sheridan",
+              "non_striker": "Ragne Hallik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "S Pattenden",
+              "bowler": "S Sheridan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ragne Hallik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "S Pattenden",
+              "bowler": "S Sheridan",
+              "non_striker": "Ragne Hallik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "S Pattenden",
+              "bowler": "S Sheridan",
+              "non_striker": "Ragne Hallik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "S Pattenden",
+              "bowler": "S Sheridan",
+              "non_striker": "Ragne Hallik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Ragne Hallik",
+              "bowler": "S Sheridan",
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "S Pattenden",
+              "bowler": "T Mulepati",
+              "non_striker": "Ragne Hallik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Ragne Hallik",
+              "bowler": "T Mulepati",
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Ragne Hallik",
+              "bowler": "T Mulepati",
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Ragne Hallik",
+              "bowler": "T Mulepati",
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Ragne Hallik",
+              "bowler": "T Mulepati",
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ragne Hallik",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Kadri Just",
+              "bowler": "T Mulepati",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Kadri Just",
+              "bowler": "T Mulepati",
+              "non_striker": "S Pattenden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "S Pattenden",
+              "bowler": "R Khullar",
+              "non_striker": "Kadri Just",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "S Pattenden",
+              "bowler": "R Khullar",
+              "non_striker": "Kadri Just",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "S Pattenden",
+              "bowler": "R Khullar",
+              "non_striker": "Kadri Just",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Pattenden",
+                  "fielders": [
+                    {
+                      "name": "M Stolt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Laura-Anette Taei",
+              "bowler": "R Khullar",
+              "non_striker": "Kadri Just",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Laura-Anette Taei",
+              "bowler": "R Khullar",
+              "non_striker": "Kadri Just",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Laura-Anette Taei",
+              "bowler": "R Khullar",
+              "non_striker": "Kadri Just",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Kadri Just",
+              "bowler": "Malyun Hassan",
+              "non_striker": "Laura-Anette Taei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Kadri Just",
+              "bowler": "Malyun Hassan",
+              "non_striker": "Laura-Anette Taei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Kadri Just",
+              "bowler": "Malyun Hassan",
+              "non_striker": "Laura-Anette Taei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Kadri Just",
+              "bowler": "Malyun Hassan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Laura-Anette Taei",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Kadri Just",
+              "bowler": "Malyun Hassan",
+              "non_striker": "Laura-Anette Taei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Kadri Just",
+              "bowler": "Malyun Hassan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Laura-Anette Taei",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Kadri Just",
+              "bowler": "Malyun Hassan",
+              "non_striker": "Laura-Anette Taei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Kadri Just",
+              "bowler": "Malyun Hassan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Laura-Anette Taei",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Kadri Just",
+              "bowler": "Malyun Hassan",
+              "non_striker": "Laura-Anette Taei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Laura-Anette Taei",
+              "bowler": "M Kojo",
+              "non_striker": "Kadri Just",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Laura-Anette Taei",
+              "bowler": "M Kojo",
+              "non_striker": "Kadri Just",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Laura-Anette Taei",
+              "bowler": "M Kojo",
+              "non_striker": "Kadri Just",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Kadri Just",
+              "bowler": "M Kojo",
+              "non_striker": "Laura-Anette Taei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Kadri Just",
+              "bowler": "M Kojo",
+              "non_striker": "Laura-Anette Taei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Kadri Just",
+              "bowler": "M Kojo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Laura-Anette Taei",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Kadri Just",
+              "bowler": "M Kojo",
+              "non_striker": "Laura-Anette Taei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Laura-Anette Taei",
+              "bowler": "Malyun Hassan",
+              "non_striker": "Kadri Just",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Kadri Just",
+              "bowler": "Malyun Hassan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Laura-Anette Taei",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Kadri Just",
+              "bowler": "Malyun Hassan",
+              "non_striker": "Laura-Anette Taei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Kadri Just",
+              "bowler": "Malyun Hassan",
+              "non_striker": "Laura-Anette Taei",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kadri Just",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Finland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "S Sheridan",
+              "bowler": "M Valner",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "S Sheridan",
+              "bowler": "M Valner",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "S Sheridan",
+              "bowler": "M Valner",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "S Sheridan",
+              "bowler": "M Valner",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "S Sheridan",
+              "bowler": "M Valner",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "S Sheridan",
+              "bowler": "M Valner",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "S Sheridan",
+              "bowler": "M Valner",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Elina Rama",
+              "bowler": "A Vessik",
+              "non_striker": "S Sheridan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "S Sheridan",
+              "bowler": "A Vessik",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "S Sheridan",
+              "bowler": "A Vessik",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Elina Rama",
+              "bowler": "A Vessik",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "S Sheridan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Elina Rama",
+              "bowler": "A Vessik",
+              "non_striker": "S Sheridan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Elina Rama",
+              "bowler": "A Vessik",
+              "non_striker": "S Sheridan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "S Sheridan",
+              "bowler": "M Valner",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "S Sheridan",
+              "bowler": "M Valner",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Sheridan",
+                  "fielders": [
+                    {
+                      "name": "Laura-Anette Taei"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "T Mulepati",
+              "bowler": "M Valner",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "T Mulepati",
+              "bowler": "M Valner",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "T Mulepati",
+              "bowler": "M Valner",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "T Mulepati",
+              "bowler": "M Valner",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "T Mulepati",
+              "bowler": "M Valner",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "T Mulepati",
+              "bowler": "M Valner",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Elina Rama",
+              "bowler": "A Vessik",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Elina Rama",
+              "bowler": "A Vessik",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "T Mulepati",
+              "bowler": "A Vessik",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "T Mulepati",
+              "bowler": "A Vessik",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "T Mulepati",
+              "bowler": "A Vessik",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "T Mulepati",
+              "bowler": "A Vessik",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "T Mulepati",
+              "bowler": "A Vessik",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Elina Rama",
+              "bowler": "M Valner",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Elina Rama",
+              "bowler": "M Valner",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Elina Rama",
+              "bowler": "M Valner",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Elina Rama",
+              "bowler": "M Valner",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Elina Rama",
+              "bowler": "M Valner",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "T Mulepati",
+              "bowler": "M Valner",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "T Mulepati",
+              "bowler": "A Vessik",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "T Mulepati",
+              "bowler": "A Vessik",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "T Mulepati",
+              "bowler": "A Vessik",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "T Mulepati",
+              "bowler": "A Vessik",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Elina Rama",
+              "bowler": "A Vessik",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Elina Rama",
+              "bowler": "A Vessik",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Elina Rama",
+              "bowler": "A Vessik",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "T Mulepati",
+              "bowler": "Ragne Hallik",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.1",
+              "batter": "T Mulepati",
+              "bowler": "Ragne Hallik",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Elina Rama",
+              "bowler": "Ragne Hallik",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Elina Rama",
+              "bowler": "Ragne Hallik",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Elina Rama",
+              "bowler": "Ragne Hallik",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "T Mulepati",
+              "bowler": "Ragne Hallik",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Elina Rama",
+              "bowler": "Ragne Hallik",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Elina Rama",
+              "bowler": "Ragne Hallik",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Elina Rama",
+              "bowler": "Ragne Hallik",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "T Mulepati",
+              "bowler": "Aryaa Kulkarni",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "T Mulepati",
+              "bowler": "Aryaa Kulkarni",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "T Mulepati",
+              "bowler": "Aryaa Kulkarni",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "T Mulepati",
+              "bowler": "Aryaa Kulkarni",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "T Mulepati",
+              "bowler": "Aryaa Kulkarni",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "T Mulepati",
+              "bowler": "Aryaa Kulkarni",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Elina Rama",
+              "bowler": "S Pattenden",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Elina Rama",
+              "bowler": "S Pattenden",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "T Mulepati",
+              "bowler": "S Pattenden",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "T Mulepati",
+              "bowler": "S Pattenden",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Elina Rama",
+              "bowler": "S Pattenden",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Elina Rama",
+              "bowler": "S Pattenden",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Elina Rama",
+              "bowler": "S Pattenden",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Elina Rama",
+              "bowler": "S Pattenden",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "T Mulepati",
+              "bowler": "S Pattenden",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Elina Rama",
+              "bowler": "Aryaa Kulkarni",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "T Mulepati",
+              "bowler": "Aryaa Kulkarni",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "T Mulepati",
+              "bowler": "Aryaa Kulkarni",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "T Mulepati",
+              "bowler": "Aryaa Kulkarni",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "T Mulepati",
+              "bowler": "Aryaa Kulkarni",
+              "non_striker": "Elina Rama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Elina Rama",
+              "bowler": "Aryaa Kulkarni",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Elina Rama",
+              "bowler": "Aryaa Kulkarni",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Elina Rama",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "H Nguyen",
+              "bowler": "Aryaa Kulkarni",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "T Mulepati",
+              "bowler": "G Madanayake",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "H Nguyen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.1",
+              "batter": "T Mulepati",
+              "bowler": "G Madanayake",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "H Nguyen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.1",
+              "batter": "T Mulepati",
+              "bowler": "G Madanayake",
+              "non_striker": "H Nguyen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "H Nguyen",
+              "bowler": "G Madanayake",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "H Nguyen",
+              "bowler": "G Madanayake",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "H Nguyen",
+              "bowler": "G Madanayake",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "H Nguyen",
+              "bowler": "G Madanayake",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "H Nguyen",
+              "bowler": "G Madanayake",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "T Mulepati",
+              "bowler": "Aryaa Kulkarni",
+              "non_striker": "H Nguyen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "T Mulepati",
+              "bowler": "Aryaa Kulkarni",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Nguyen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "T Mulepati",
+              "bowler": "Aryaa Kulkarni",
+              "non_striker": "H Nguyen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "H Nguyen",
+              "bowler": "Aryaa Kulkarni",
+              "non_striker": "T Mulepati",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "T Mulepati",
+              "bowler": "Aryaa Kulkarni",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "H Nguyen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 78
+      }
+    }
+  ]
+}

@@ -1,0 +1,4279 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2024-06-05",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Belfast",
+    "dates": [
+      "2024-06-05"
+    ],
+    "event": {
+      "name": "Cricket Ireland Inter-Provincial Limited Over Cup",
+      "match_number": 6
+    },
+    "gender": "male",
+    "match_type": "ODM",
+    "officials": {
+      "match_referees": [
+        "Philip Thompson"
+      ],
+      "reserve_umpires": [
+        "G Morrisey"
+      ],
+      "umpires": [
+        "M Hawthorne",
+        "R Black"
+      ]
+    },
+    "outcome": {
+      "winner": "Northern Knights",
+      "by": {
+        "wickets": 8
+      },
+      "method": "D/L"
+    },
+    "overs": 50,
+    "players": {
+      "Leinster Lightning": [
+        "S Modgil",
+        "TH Tector",
+        "C De Freitas",
+        "MK Patel",
+        "DC Delany",
+        "SJ Harbinson",
+        "G Hoey",
+        "S Lynch",
+        "F Hand",
+        "D Lues",
+        "A Sidhu"
+      ],
+      "Northern Knights": [
+        "JB van der Merwe",
+        "SJ Topping",
+        "JA McCollum",
+        "C Carmichael",
+        "BF Calitz",
+        "R Pretorius",
+        "M Topping",
+        "T Mayes",
+        "MJ Humphreys",
+        "C Robertson",
+        "MT Foster"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Sidhu": "69b1224b",
+        "BF Calitz": "24ad97e7",
+        "C Carmichael": "f3b158d9",
+        "C De Freitas": "22072cab",
+        "C Robertson": "d26de4de",
+        "D Lues": "6f0111a6",
+        "DC Delany": "0f9c9d1d",
+        "F Hand": "e3fe4b49",
+        "G Hoey": "19d0a172",
+        "G Morrisey": "f442110f",
+        "JA McCollum": "c7105dab",
+        "JB van der Merwe": "0482c3ad",
+        "M Hawthorne": "ea123ee4",
+        "M Topping": "33f44dfc",
+        "MJ Humphreys": "2c54c49b",
+        "MK Patel": "91180bcf",
+        "MT Foster": "14e801aa",
+        "Philip Thompson": "0c677650",
+        "R Black": "156c8fb1",
+        "R Pretorius": "8ff85f5c",
+        "S Lynch": "5ffe6225",
+        "S Modgil": "b95f28af",
+        "SJ Harbinson": "ccc17282",
+        "SJ Topping": "5ee4759d",
+        "T Mayes": "9aedf23b",
+        "TH Tector": "0348f9a5"
+      }
+    },
+    "season": "2024",
+    "team_type": "club",
+    "teams": [
+      "Leinster Lightning",
+      "Northern Knights"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Leinster Lightning"
+    },
+    "venue": "Civil Service Cricket Club, Stormont, Belfast"
+  },
+  "innings": [
+    {
+      "team": "Leinster Lightning",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "TH Tector",
+              "bowler": "R Pretorius",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "S Modgil",
+              "bowler": "MT Foster",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "TH Tector",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "TH Tector",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "TH Tector",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "TH Tector",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "TH Tector",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "TH Tector",
+              "bowler": "R Pretorius",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "TH Tector",
+              "bowler": "R Pretorius",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "TH Tector",
+              "bowler": "R Pretorius",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "TH Tector",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "TH Tector",
+              "bowler": "R Pretorius",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TH Tector",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "S Modgil",
+              "bowler": "MT Foster",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "S Modgil",
+              "bowler": "MT Foster",
+              "non_striker": "C De Freitas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "C De Freitas",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "C De Freitas",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "C De Freitas",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C De Freitas",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "MK Patel",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "MK Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MK Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "MK Patel",
+              "bowler": "R Pretorius",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "MK Patel",
+              "bowler": "R Pretorius",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "MK Patel",
+              "bowler": "R Pretorius",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "MK Patel",
+              "bowler": "R Pretorius",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "S Modgil",
+              "bowler": "MT Foster",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MK Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "MK Patel",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "MK Patel",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "MK Patel",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "MK Patel",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "MK Patel",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "MK Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "MK Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "MK Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "MK Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "MK Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "MK Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "MK Patel",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "MK Patel",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "MK Patel",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "S Modgil",
+              "bowler": "MT Foster",
+              "non_striker": "MK Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "S Modgil",
+              "bowler": "MT Foster",
+              "non_striker": "MK Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "S Modgil",
+              "bowler": "MT Foster",
+              "non_striker": "MK Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "MK Patel",
+              "bowler": "R Pretorius",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "MK Patel",
+              "bowler": "R Pretorius",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "MK Patel",
+              "bowler": "R Pretorius",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "MK Patel",
+              "bowler": "R Pretorius",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "MK Patel",
+              "bowler": "R Pretorius",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "MK Patel",
+              "bowler": "R Pretorius",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "S Modgil",
+              "bowler": "MT Foster",
+              "non_striker": "MK Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "MK Patel",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "MK Patel",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "MK Patel",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "MK Patel",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "S Modgil",
+              "bowler": "MT Foster",
+              "non_striker": "MK Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "MK Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "MK Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "MK Patel",
+              "bowler": "R Pretorius",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "MK Patel",
+              "bowler": "R Pretorius",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MK Patel",
+                  "fielders": [
+                    {
+                      "name": "MJ Humphreys"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "DC Delany",
+              "bowler": "R Pretorius",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "DC Delany",
+              "bowler": "R Pretorius",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "DC Delany",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "DC Delany",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "DC Delany",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "DC Delany",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "DC Delany",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "DC Delany",
+              "bowler": "MT Foster",
+              "non_striker": "S Modgil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "S Modgil",
+              "bowler": "R Pretorius",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "S Modgil",
+              "bowler": "MJ Humphreys",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "S Modgil",
+              "bowler": "MJ Humphreys",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Modgil",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "SJ Harbinson",
+              "bowler": "MJ Humphreys",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "SJ Harbinson",
+              "bowler": "MJ Humphreys",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "DC Delany",
+              "bowler": "MJ Humphreys",
+              "non_striker": "SJ Harbinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "DC Delany",
+              "bowler": "MJ Humphreys",
+              "non_striker": "SJ Harbinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "SJ Harbinson",
+              "bowler": "T Mayes",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SJ Harbinson",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "G Hoey",
+              "bowler": "T Mayes",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "G Hoey",
+              "bowler": "T Mayes",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "G Hoey",
+              "bowler": "T Mayes",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "DC Delany",
+              "bowler": "T Mayes",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "G Hoey",
+              "bowler": "T Mayes",
+              "non_striker": "DC Delany",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "DC Delany",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "DC Delany",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "DC Delany",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "DC Delany",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "DC Delany",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DC Delany",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "S Lynch",
+              "bowler": "T Mayes",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "S Lynch",
+              "bowler": "T Mayes",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "S Lynch",
+              "bowler": "T Mayes",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "G Hoey",
+              "bowler": "T Mayes",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "G Hoey",
+              "bowler": "T Mayes",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "G Hoey",
+              "bowler": "T Mayes",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "G Hoey",
+              "bowler": "MJ Humphreys",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "G Hoey",
+              "bowler": "MJ Humphreys",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "G Hoey",
+              "bowler": "MJ Humphreys",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "G Hoey",
+              "bowler": "MJ Humphreys",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "G Hoey",
+              "bowler": "MJ Humphreys",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "S Lynch",
+              "bowler": "T Mayes",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "S Lynch",
+              "bowler": "T Mayes",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "G Hoey",
+              "bowler": "T Mayes",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "G Hoey",
+              "bowler": "T Mayes",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "G Hoey",
+              "bowler": "T Mayes",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "G Hoey",
+              "bowler": "T Mayes",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "actual_delivery": "20.1",
+              "batter": "G Hoey",
+              "bowler": "T Mayes",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.2",
+              "batter": "G Hoey",
+              "bowler": "T Mayes",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "20.3",
+              "batter": "G Hoey",
+              "bowler": "T Mayes",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.4",
+              "batter": "G Hoey",
+              "bowler": "T Mayes",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.5",
+              "batter": "G Hoey",
+              "bowler": "T Mayes",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "20.6",
+              "batter": "S Lynch",
+              "bowler": "T Mayes",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "actual_delivery": "21.1",
+              "batter": "G Hoey",
+              "bowler": "MJ Humphreys",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.2",
+              "batter": "G Hoey",
+              "bowler": "MJ Humphreys",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.3",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.4",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.5",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.6",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "actual_delivery": "22.1",
+              "batter": "G Hoey",
+              "bowler": "C Robertson",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.2",
+              "batter": "G Hoey",
+              "bowler": "C Robertson",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.3",
+              "batter": "G Hoey",
+              "bowler": "C Robertson",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.4",
+              "batter": "S Lynch",
+              "bowler": "C Robertson",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.5",
+              "batter": "S Lynch",
+              "bowler": "C Robertson",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.6",
+              "batter": "G Hoey",
+              "bowler": "C Robertson",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "actual_delivery": "23.1",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.2",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.3",
+              "batter": "G Hoey",
+              "bowler": "MJ Humphreys",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.4",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.5",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "23.6",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "actual_delivery": "24.1",
+              "batter": "S Lynch",
+              "bowler": "C Robertson",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.2",
+              "batter": "G Hoey",
+              "bowler": "C Robertson",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.3",
+              "batter": "S Lynch",
+              "bowler": "C Robertson",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.4",
+              "batter": "G Hoey",
+              "bowler": "C Robertson",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.5",
+              "batter": "G Hoey",
+              "bowler": "C Robertson",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.6",
+              "batter": "S Lynch",
+              "bowler": "C Robertson",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "actual_delivery": "25.1",
+              "batter": "G Hoey",
+              "bowler": "MJ Humphreys",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.2",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.3",
+              "batter": "G Hoey",
+              "bowler": "MJ Humphreys",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.4",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "25.5",
+              "batter": "G Hoey",
+              "bowler": "MJ Humphreys",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "25.6",
+              "batter": "G Hoey",
+              "bowler": "MJ Humphreys",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "actual_delivery": "26.1",
+              "batter": "G Hoey",
+              "bowler": "C Robertson",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.2",
+              "batter": "S Lynch",
+              "bowler": "C Robertson",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.3",
+              "batter": "G Hoey",
+              "bowler": "C Robertson",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.4",
+              "batter": "S Lynch",
+              "bowler": "C Robertson",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.5",
+              "batter": "G Hoey",
+              "bowler": "C Robertson",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.6",
+              "batter": "G Hoey",
+              "bowler": "C Robertson",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "actual_delivery": "27.1",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.2",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.3",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.4",
+              "batter": "G Hoey",
+              "bowler": "MJ Humphreys",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.5",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "27.6",
+              "batter": "S Lynch",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "actual_delivery": "28.1",
+              "batter": "G Hoey",
+              "bowler": "R Pretorius",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.2",
+              "batter": "G Hoey",
+              "bowler": "R Pretorius",
+              "non_striker": "S Lynch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.3",
+              "batter": "S Lynch",
+              "bowler": "R Pretorius",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Lynch",
+                  "fielders": [
+                    {
+                      "name": "C Carmichael"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "28.4",
+              "batter": "F Hand",
+              "bowler": "R Pretorius",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.5",
+              "batter": "F Hand",
+              "bowler": "R Pretorius",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.6",
+              "batter": "F Hand",
+              "bowler": "R Pretorius",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F Hand",
+                  "fielders": [
+                    {
+                      "name": "JA McCollum"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "actual_delivery": "29.1",
+              "batter": "G Hoey",
+              "bowler": "MJ Humphreys",
+              "non_striker": "D Lues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "29.2",
+              "batter": "D Lues",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.3",
+              "batter": "D Lues",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.4",
+              "batter": "D Lues",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "29.5",
+              "batter": "G Hoey",
+              "bowler": "MJ Humphreys",
+              "non_striker": "D Lues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.6",
+              "batter": "G Hoey",
+              "bowler": "MJ Humphreys",
+              "non_striker": "D Lues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "actual_delivery": "30.1",
+              "batter": "G Hoey",
+              "bowler": "R Pretorius",
+              "non_striker": "D Lues",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "30.2",
+              "batter": "G Hoey",
+              "bowler": "R Pretorius",
+              "non_striker": "D Lues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.3",
+              "batter": "G Hoey",
+              "bowler": "R Pretorius",
+              "non_striker": "D Lues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.4",
+              "batter": "D Lues",
+              "bowler": "R Pretorius",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.5",
+              "batter": "G Hoey",
+              "bowler": "R Pretorius",
+              "non_striker": "D Lues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.6",
+              "batter": "G Hoey",
+              "bowler": "R Pretorius",
+              "non_striker": "D Lues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "actual_delivery": "31.1",
+              "batter": "G Hoey",
+              "bowler": "MJ Humphreys",
+              "non_striker": "D Lues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "31.2",
+              "batter": "D Lues",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.3",
+              "batter": "D Lues",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.4",
+              "batter": "D Lues",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "31.5",
+              "batter": "D Lues",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.6",
+              "batter": "D Lues",
+              "bowler": "MJ Humphreys",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "actual_delivery": "32.1",
+              "batter": "G Hoey",
+              "bowler": "R Pretorius",
+              "non_striker": "D Lues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.2",
+              "batter": "D Lues",
+              "bowler": "R Pretorius",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.2",
+              "batter": "D Lues",
+              "bowler": "R Pretorius",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "32.3",
+              "batter": "D Lues",
+              "bowler": "R Pretorius",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.4",
+              "batter": "G Hoey",
+              "bowler": "R Pretorius",
+              "non_striker": "D Lues",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "32.5",
+              "batter": "D Lues",
+              "bowler": "R Pretorius",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.6",
+              "batter": "D Lues",
+              "bowler": "R Pretorius",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "actual_delivery": "33.1",
+              "batter": "G Hoey",
+              "bowler": "C Robertson",
+              "non_striker": "D Lues",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "33.2",
+              "batter": "D Lues",
+              "bowler": "C Robertson",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.3",
+              "batter": "D Lues",
+              "bowler": "C Robertson",
+              "non_striker": "G Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "33.4",
+              "batter": "G Hoey",
+              "bowler": "C Robertson",
+              "non_striker": "D Lues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.5",
+              "batter": "G Hoey",
+              "bowler": "C Robertson",
+              "non_striker": "D Lues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Hoey",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "33.6",
+              "batter": "A Sidhu",
+              "bowler": "C Robertson",
+              "non_striker": "D Lues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "actual_delivery": "34.1",
+              "batter": "D Lues",
+              "bowler": "T Mayes",
+              "non_striker": "A Sidhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.2",
+              "batter": "D Lues",
+              "bowler": "T Mayes",
+              "non_striker": "A Sidhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "34.3",
+              "batter": "A Sidhu",
+              "bowler": "T Mayes",
+              "non_striker": "D Lues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.4",
+              "batter": "A Sidhu",
+              "bowler": "T Mayes",
+              "non_striker": "D Lues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.5",
+              "batter": "A Sidhu",
+              "bowler": "T Mayes",
+              "non_striker": "D Lues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.6",
+              "batter": "A Sidhu",
+              "bowler": "T Mayes",
+              "non_striker": "D Lues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "actual_delivery": "35.1",
+              "batter": "D Lues",
+              "bowler": "C Robertson",
+              "non_striker": "A Sidhu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "35.2",
+              "batter": "D Lues",
+              "bowler": "C Robertson",
+              "non_striker": "A Sidhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "35.3",
+              "batter": "A Sidhu",
+              "bowler": "C Robertson",
+              "non_striker": "D Lues",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Sidhu",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 35.3,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Northern Knights",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "JB van der Merwe",
+              "bowler": "F Hand",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "JB van der Merwe",
+              "bowler": "F Hand",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "JB van der Merwe",
+              "bowler": "F Hand",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "JB van der Merwe",
+              "bowler": "F Hand",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "JB van der Merwe",
+              "bowler": "F Hand",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "JB van der Merwe",
+              "bowler": "F Hand",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "SJ Topping",
+              "bowler": "SJ Harbinson",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "SJ Topping",
+              "bowler": "SJ Harbinson",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "SJ Topping",
+              "bowler": "SJ Harbinson",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "SJ Topping",
+              "bowler": "SJ Harbinson",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "SJ Topping",
+              "bowler": "SJ Harbinson",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "SJ Topping",
+              "bowler": "SJ Harbinson",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "JB van der Merwe",
+              "bowler": "F Hand",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "JB van der Merwe",
+              "bowler": "F Hand",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "JB van der Merwe",
+              "bowler": "F Hand",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "JB van der Merwe",
+              "bowler": "F Hand",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "JB van der Merwe",
+              "bowler": "F Hand",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "JB van der Merwe",
+              "bowler": "F Hand",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "SJ Topping",
+              "bowler": "SJ Harbinson",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "SJ Topping",
+              "bowler": "SJ Harbinson",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "SJ Topping",
+              "bowler": "SJ Harbinson",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "SJ Topping",
+              "bowler": "SJ Harbinson",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "SJ Topping",
+              "bowler": "SJ Harbinson",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "JB van der Merwe",
+              "bowler": "SJ Harbinson",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "JB van der Merwe",
+              "bowler": "D Lues",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "JB van der Merwe",
+              "bowler": "D Lues",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "JB van der Merwe",
+              "bowler": "D Lues",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "JB van der Merwe",
+              "bowler": "D Lues",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "JB van der Merwe",
+              "bowler": "D Lues",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "JB van der Merwe",
+              "bowler": "D Lues",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "JB van der Merwe",
+              "bowler": "F Hand",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "JB van der Merwe",
+              "bowler": "F Hand",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "SJ Topping",
+              "bowler": "F Hand",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "SJ Topping",
+              "bowler": "F Hand",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "SJ Topping",
+              "bowler": "F Hand",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "SJ Topping",
+              "bowler": "F Hand",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "JB van der Merwe",
+              "bowler": "D Lues",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "JB van der Merwe",
+              "bowler": "D Lues",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "JB van der Merwe",
+              "bowler": "D Lues",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "JB van der Merwe",
+              "bowler": "D Lues",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "JB van der Merwe",
+              "bowler": "D Lues",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "SJ Topping",
+              "bowler": "D Lues",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "JB van der Merwe",
+              "bowler": "F Hand",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "JB van der Merwe",
+              "bowler": "F Hand",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "JB van der Merwe",
+              "bowler": "F Hand",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "JB van der Merwe",
+              "bowler": "F Hand",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "JB van der Merwe",
+              "bowler": "F Hand",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "JB van der Merwe",
+              "bowler": "F Hand",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "JB van der Merwe",
+              "bowler": "G Hoey",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "JB van der Merwe",
+              "bowler": "G Hoey",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "JB van der Merwe",
+              "bowler": "A Sidhu",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "SJ Topping",
+              "bowler": "A Sidhu",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "SJ Topping",
+              "bowler": "A Sidhu",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "SJ Topping",
+              "bowler": "A Sidhu",
+              "non_striker": "JB van der Merwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "JB van der Merwe",
+              "bowler": "A Sidhu",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JB van der Merwe",
+                  "fielders": [
+                    {
+                      "name": "C De Freitas"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "JA McCollum",
+              "bowler": "A Sidhu",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "JA McCollum",
+              "bowler": "G Hoey",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "SJ Topping",
+              "bowler": "A Sidhu",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "SJ Topping",
+              "bowler": "A Sidhu",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "SJ Topping",
+              "bowler": "A Sidhu",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "SJ Topping",
+              "bowler": "A Sidhu",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "JA McCollum",
+              "bowler": "A Sidhu",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "JA McCollum",
+              "bowler": "A Sidhu",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "JA McCollum",
+              "bowler": "A Sidhu",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "JA McCollum",
+              "bowler": "A Sidhu",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "JA McCollum",
+              "bowler": "A Sidhu",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "JA McCollum",
+              "bowler": "A Sidhu",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "JA McCollum",
+              "bowler": "A Sidhu",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "JA McCollum",
+              "bowler": "A Sidhu",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "JA McCollum",
+              "bowler": "G Hoey",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "JA McCollum",
+              "bowler": "G Hoey",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "JA McCollum",
+              "bowler": "G Hoey",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "JA McCollum",
+              "bowler": "G Hoey",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "JA McCollum",
+              "bowler": "G Hoey",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "SJ Topping",
+              "bowler": "A Sidhu",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "JA McCollum",
+              "bowler": "A Sidhu",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "JA McCollum",
+              "bowler": "A Sidhu",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "JA McCollum",
+              "bowler": "A Sidhu",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "JA McCollum",
+              "bowler": "A Sidhu",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "JA McCollum",
+              "bowler": "A Sidhu",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "JA McCollum",
+              "bowler": "G Hoey",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "JA McCollum",
+              "bowler": "G Hoey",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "JA McCollum",
+              "bowler": "G Hoey",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "JA McCollum",
+              "bowler": "G Hoey",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "SJ Topping",
+              "bowler": "A Sidhu",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "SJ Topping",
+              "bowler": "A Sidhu",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "SJ Topping",
+              "bowler": "A Sidhu",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "SJ Topping",
+              "bowler": "A Sidhu",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "JA McCollum",
+              "bowler": "A Sidhu",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "JA McCollum",
+              "bowler": "A Sidhu",
+              "non_striker": "SJ Topping",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "SJ Topping",
+              "bowler": "G Hoey",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SJ Topping",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "C Carmichael",
+              "bowler": "G Hoey",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "C Carmichael",
+              "bowler": "G Hoey",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "C Carmichael",
+              "bowler": "G Hoey",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "C Carmichael",
+              "bowler": "G Hoey",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "C Carmichael",
+              "bowler": "G Hoey",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "JA McCollum",
+              "bowler": "A Sidhu",
+              "non_striker": "C Carmichael",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "JA McCollum",
+              "bowler": "A Sidhu",
+              "non_striker": "C Carmichael",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "JA McCollum",
+              "bowler": "A Sidhu",
+              "non_striker": "C Carmichael",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "C Carmichael",
+              "bowler": "A Sidhu",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "C Carmichael",
+              "bowler": "A Sidhu",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "C Carmichael",
+              "bowler": "A Sidhu",
+              "non_striker": "JA McCollum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "actual_delivery": "20.1",
+              "batter": "JA McCollum",
+              "bowler": "G Hoey",
+              "non_striker": "C Carmichael",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.2",
+              "batter": "JA McCollum",
+              "bowler": "G Hoey",
+              "non_striker": "C Carmichael",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 20.2,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 47,
+        "runs": 130
+      }
+    }
+  ]
+}

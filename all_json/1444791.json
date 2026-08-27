@@ -1,0 +1,2626 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2024-10-23",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Durban",
+    "dates": [
+      "2024-10-19"
+    ],
+    "event": {
+      "name": "CSA T20 Challenge",
+      "match_number": 27
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "GH Pienaar"
+      ],
+      "reserve_umpires": [
+        "DJ Smith"
+      ],
+      "umpires": [
+        "PJ Vosloo",
+        "W Wyngaard"
+      ]
+    },
+    "outcome": {
+      "winner": "Boland",
+      "by": {
+        "runs": 4
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "S von Berg",
+      "I Manack"
+    ],
+    "players": {
+      "Boland": [
+        "C Fortuin",
+        "G Roelofsen",
+        "S von Berg",
+        "B Capell",
+        "A Mgijima",
+        "L Botha",
+        "KJ Dudgeon",
+        "A Gqamane",
+        "I Manack",
+        "A Mnyaka",
+        "GA Stuurman"
+      ],
+      "Dolphins": [
+        "JT Smuts",
+        "B Parsons",
+        "JF Smith",
+        "DA Miller",
+        "H Viljoen",
+        "P Subrayen",
+        "S van Staden",
+        "A Simelane",
+        "B Cele",
+        "OEG Baartman",
+        "O Cele"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Gqamane": "a83c44b8",
+        "A Mgijima": "955e8e86",
+        "A Mnyaka": "bd36db2c",
+        "A Simelane": "ebb74564",
+        "B Capell": "b8604ebf",
+        "B Cele": "ffb0e5c7",
+        "B Parsons": "fc60e81a",
+        "C Fortuin": "f25cebec",
+        "DA Miller": "d67d5f00",
+        "DJ Smith": "d17bec15",
+        "G Roelofsen": "ac688e55",
+        "GA Stuurman": "d4d37c31",
+        "GH Pienaar": "3516e46b",
+        "H Viljoen": "7a80e2a5",
+        "I Manack": "5ec126fa",
+        "JF Smith": "91cd48e0",
+        "JT Smuts": "42172c3c",
+        "KJ Dudgeon": "b8828a1b",
+        "L Botha": "60285d55",
+        "O Cele": "6e5840e3",
+        "OEG Baartman": "6b9eb501",
+        "P Subrayen": "7ec9711d",
+        "PJ Vosloo": "93a6d2d0",
+        "S van Staden": "e7199177",
+        "S von Berg": "ffd3fc37",
+        "W Wyngaard": "5cafa9ed"
+      }
+    },
+    "season": "2024/25",
+    "team_type": "club",
+    "teams": [
+      "Boland",
+      "Dolphins"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Dolphins"
+    },
+    "venue": "Kingsmead, Durban"
+  },
+  "innings": [
+    {
+      "team": "Boland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "C Fortuin",
+              "bowler": "JT Smuts",
+              "non_striker": "G Roelofsen",
+              "over": 0,
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "G Roelofsen",
+              "bowler": "JT Smuts",
+              "non_striker": "C Fortuin",
+              "over": 0,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "G Roelofsen",
+              "bowler": "JT Smuts",
+              "non_striker": "C Fortuin",
+              "over": 0,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "G Roelofsen",
+              "bowler": "JT Smuts",
+              "non_striker": "C Fortuin",
+              "over": 0,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "G Roelofsen",
+              "bowler": "JT Smuts",
+              "non_striker": "C Fortuin",
+              "over": 0,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "G Roelofsen",
+              "bowler": "JT Smuts",
+              "non_striker": "C Fortuin",
+              "over": 0,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "G Roelofsen",
+              "bowler": "O Cele",
+              "non_striker": "C Fortuin",
+              "over": 1,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "G Roelofsen",
+              "bowler": "O Cele",
+              "non_striker": "C Fortuin",
+              "over": 1,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "G Roelofsen",
+              "bowler": "O Cele",
+              "non_striker": "C Fortuin",
+              "over": 1,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "G Roelofsen",
+              "bowler": "O Cele",
+              "non_striker": "C Fortuin",
+              "over": 1,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "G Roelofsen",
+              "bowler": "O Cele",
+              "non_striker": "C Fortuin",
+              "over": 1,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "G Roelofsen",
+              "bowler": "O Cele",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "C Fortuin",
+              "over": 1,
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "G Roelofsen",
+                  "kind": "retired hurt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "S von Berg",
+              "bowler": "JT Smuts",
+              "non_striker": "C Fortuin",
+              "over": 2,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "S von Berg",
+              "bowler": "JT Smuts",
+              "non_striker": "C Fortuin",
+              "over": 2,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "C Fortuin",
+              "bowler": "JT Smuts",
+              "non_striker": "S von Berg",
+              "over": 2,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "C Fortuin",
+              "bowler": "JT Smuts",
+              "non_striker": "S von Berg",
+              "over": 2,
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "C Fortuin",
+              "bowler": "JT Smuts",
+              "non_striker": "S von Berg",
+              "over": 2,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "C Fortuin",
+              "bowler": "JT Smuts",
+              "non_striker": "S von Berg",
+              "over": 2,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "S von Berg",
+              "bowler": "O Cele",
+              "non_striker": "C Fortuin",
+              "over": 3,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "S von Berg",
+              "bowler": "O Cele",
+              "non_striker": "C Fortuin",
+              "over": 3,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "S von Berg",
+              "bowler": "O Cele",
+              "non_striker": "C Fortuin",
+              "over": 3,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "S von Berg",
+              "bowler": "O Cele",
+              "non_striker": "C Fortuin",
+              "over": 3,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "S von Berg",
+              "bowler": "O Cele",
+              "non_striker": "C Fortuin",
+              "over": 3,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "S von Berg",
+              "bowler": "O Cele",
+              "non_striker": "C Fortuin",
+              "over": 3,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "S von Berg",
+              "bowler": "A Simelane",
+              "non_striker": "C Fortuin",
+              "over": 4,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "S von Berg",
+              "bowler": "A Simelane",
+              "non_striker": "C Fortuin",
+              "over": 4,
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "S von Berg",
+              "bowler": "A Simelane",
+              "non_striker": "C Fortuin",
+              "over": 4,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "S von Berg",
+              "bowler": "A Simelane",
+              "non_striker": "C Fortuin",
+              "over": 4,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "C Fortuin",
+              "bowler": "A Simelane",
+              "non_striker": "S von Berg",
+              "over": 4,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "C Fortuin",
+              "bowler": "A Simelane",
+              "non_striker": "S von Berg",
+              "over": 4,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Fortuin",
+                  "fielders": [
+                    {
+                      "name": "OEG Baartman"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "S von Berg",
+              "bowler": "P Subrayen",
+              "non_striker": "B Capell",
+              "over": 5,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "B Capell",
+              "bowler": "P Subrayen",
+              "non_striker": "S von Berg",
+              "over": 5,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "B Capell",
+              "bowler": "P Subrayen",
+              "non_striker": "S von Berg",
+              "over": 5,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "S von Berg",
+              "bowler": "P Subrayen",
+              "non_striker": "B Capell",
+              "over": 5,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "S von Berg",
+              "bowler": "P Subrayen",
+              "non_striker": "B Capell",
+              "over": 5,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "B Capell",
+              "bowler": "P Subrayen",
+              "non_striker": "S von Berg",
+              "over": 5,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "S von Berg",
+              "bowler": "OEG Baartman",
+              "non_striker": "B Capell",
+              "over": 6,
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "S von Berg",
+              "bowler": "OEG Baartman",
+              "non_striker": "B Capell",
+              "over": 6,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "B Capell",
+              "bowler": "OEG Baartman",
+              "non_striker": "S von Berg",
+              "over": 6,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "S von Berg",
+              "bowler": "OEG Baartman",
+              "non_striker": "B Capell",
+              "over": 6,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "S von Berg",
+              "bowler": "OEG Baartman",
+              "non_striker": "B Capell",
+              "over": 6,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "B Capell",
+              "bowler": "OEG Baartman",
+              "non_striker": "S von Berg",
+              "over": 6,
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "S von Berg",
+              "bowler": "P Subrayen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Capell",
+              "over": 7,
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.1",
+              "batter": "S von Berg",
+              "bowler": "P Subrayen",
+              "non_striker": "B Capell",
+              "over": 7,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "B Capell",
+              "bowler": "P Subrayen",
+              "non_striker": "S von Berg",
+              "over": 7,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Capell",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "A Mgijima",
+              "bowler": "P Subrayen",
+              "non_striker": "S von Berg",
+              "over": 7,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "S von Berg",
+              "bowler": "P Subrayen",
+              "non_striker": "A Mgijima",
+              "over": 7,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "A Mgijima",
+              "bowler": "P Subrayen",
+              "non_striker": "S von Berg",
+              "over": 7,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "S von Berg",
+              "bowler": "P Subrayen",
+              "non_striker": "A Mgijima",
+              "over": 7,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "S von Berg",
+              "bowler": "OEG Baartman",
+              "non_striker": "A Mgijima",
+              "over": 8,
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "S von Berg",
+              "bowler": "OEG Baartman",
+              "non_striker": "A Mgijima",
+              "over": 8,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "S von Berg",
+              "bowler": "OEG Baartman",
+              "non_striker": "A Mgijima",
+              "over": 8,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "S von Berg",
+              "bowler": "OEG Baartman",
+              "non_striker": "A Mgijima",
+              "over": 8,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "A Mgijima",
+              "bowler": "OEG Baartman",
+              "non_striker": "S von Berg",
+              "over": 8,
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "A Mgijima",
+              "bowler": "OEG Baartman",
+              "non_striker": "S von Berg",
+              "over": 8,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "S von Berg",
+              "bowler": "B Parsons",
+              "non_striker": "A Mgijima",
+              "over": 9,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "A Mgijima",
+              "bowler": "B Parsons",
+              "non_striker": "S von Berg",
+              "over": 9,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "S von Berg",
+              "bowler": "B Parsons",
+              "non_striker": "A Mgijima",
+              "over": 9,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "A Mgijima",
+              "bowler": "B Parsons",
+              "non_striker": "S von Berg",
+              "over": 9,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "S von Berg",
+              "bowler": "B Parsons",
+              "non_striker": "A Mgijima",
+              "over": 9,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "A Mgijima",
+              "bowler": "B Parsons",
+              "non_striker": "S von Berg",
+              "over": 9,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "A Mgijima",
+              "bowler": "JT Smuts",
+              "non_striker": "S von Berg",
+              "over": 10,
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "S von Berg",
+              "bowler": "JT Smuts",
+              "non_striker": "A Mgijima",
+              "over": 10,
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "S von Berg",
+              "bowler": "JT Smuts",
+              "non_striker": "A Mgijima",
+              "over": 10,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S von Berg",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "L Botha",
+              "bowler": "JT Smuts",
+              "non_striker": "A Mgijima",
+              "over": 10,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "A Mgijima",
+              "bowler": "JT Smuts",
+              "non_striker": "L Botha",
+              "over": 10,
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "A Mgijima",
+              "bowler": "JT Smuts",
+              "non_striker": "L Botha",
+              "over": 10,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "A Mgijima",
+              "bowler": "B Parsons",
+              "non_striker": "L Botha",
+              "over": 11,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "L Botha",
+              "bowler": "B Parsons",
+              "non_striker": "A Mgijima",
+              "over": 11,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "A Mgijima",
+              "bowler": "B Parsons",
+              "non_striker": "L Botha",
+              "over": 11,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "A Mgijima",
+              "bowler": "B Parsons",
+              "non_striker": "L Botha",
+              "over": 11,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "L Botha",
+              "bowler": "B Parsons",
+              "non_striker": "A Mgijima",
+              "over": 11,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "A Mgijima",
+              "bowler": "B Parsons",
+              "non_striker": "L Botha",
+              "over": 11,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Mgijima",
+                  "fielders": [
+                    {
+                      "name": "H Viljoen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "L Botha",
+              "bowler": "JT Smuts",
+              "non_striker": "KJ Dudgeon",
+              "over": 12,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "KJ Dudgeon",
+              "bowler": "JT Smuts",
+              "non_striker": "L Botha",
+              "over": 12,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "KJ Dudgeon",
+              "bowler": "JT Smuts",
+              "non_striker": "L Botha",
+              "over": 12,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "L Botha",
+              "bowler": "JT Smuts",
+              "non_striker": "KJ Dudgeon",
+              "over": 12,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "KJ Dudgeon",
+              "bowler": "JT Smuts",
+              "non_striker": "L Botha",
+              "over": 12,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "L Botha",
+              "bowler": "JT Smuts",
+              "non_striker": "KJ Dudgeon",
+              "over": 12,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "KJ Dudgeon",
+              "bowler": "OEG Baartman",
+              "non_striker": "L Botha",
+              "over": 13,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "KJ Dudgeon",
+              "bowler": "OEG Baartman",
+              "non_striker": "L Botha",
+              "over": 13,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "L Botha",
+              "bowler": "OEG Baartman",
+              "non_striker": "KJ Dudgeon",
+              "over": 13,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "KJ Dudgeon",
+              "bowler": "OEG Baartman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Botha",
+              "over": 13,
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "KJ Dudgeon",
+              "bowler": "OEG Baartman",
+              "non_striker": "L Botha",
+              "over": 13,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "L Botha",
+              "bowler": "OEG Baartman",
+              "non_striker": "KJ Dudgeon",
+              "over": 13,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "L Botha",
+              "bowler": "OEG Baartman",
+              "non_striker": "KJ Dudgeon",
+              "over": 13,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "L Botha",
+              "bowler": "JF Smith",
+              "non_striker": "KJ Dudgeon",
+              "over": 14,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "L Botha",
+              "bowler": "JF Smith",
+              "non_striker": "KJ Dudgeon",
+              "over": 14,
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "L Botha",
+              "bowler": "JF Smith",
+              "non_striker": "KJ Dudgeon",
+              "over": 14,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "KJ Dudgeon",
+              "bowler": "JF Smith",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "L Botha",
+              "over": 14,
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "L Botha",
+              "bowler": "JF Smith",
+              "non_striker": "KJ Dudgeon",
+              "over": 14,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "L Botha",
+              "bowler": "JF Smith",
+              "non_striker": "KJ Dudgeon",
+              "over": 14,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "KJ Dudgeon",
+              "bowler": "B Parsons",
+              "non_striker": "L Botha",
+              "over": 15,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "L Botha",
+              "bowler": "B Parsons",
+              "non_striker": "KJ Dudgeon",
+              "over": 15,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "KJ Dudgeon",
+              "bowler": "B Parsons",
+              "non_striker": "L Botha",
+              "over": 15,
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "KJ Dudgeon",
+              "bowler": "B Parsons",
+              "non_striker": "L Botha",
+              "over": 15,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "L Botha",
+              "bowler": "B Parsons",
+              "non_striker": "KJ Dudgeon",
+              "over": 15,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "KJ Dudgeon",
+              "bowler": "B Parsons",
+              "non_striker": "L Botha",
+              "over": 15,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "L Botha",
+              "bowler": "O Cele",
+              "non_striker": "KJ Dudgeon",
+              "over": 16,
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "L Botha",
+              "bowler": "O Cele",
+              "non_striker": "KJ Dudgeon",
+              "over": 16,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "L Botha",
+              "bowler": "O Cele",
+              "non_striker": "KJ Dudgeon",
+              "over": 16,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "KJ Dudgeon",
+              "bowler": "O Cele",
+              "non_striker": "L Botha",
+              "over": 16,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "KJ Dudgeon",
+              "bowler": "O Cele",
+              "non_striker": "L Botha",
+              "over": 16,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "L Botha",
+              "bowler": "O Cele",
+              "non_striker": "KJ Dudgeon",
+              "over": 16,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "KJ Dudgeon",
+              "bowler": "JF Smith",
+              "non_striker": "L Botha",
+              "over": 17,
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "KJ Dudgeon",
+              "bowler": "JF Smith",
+              "non_striker": "L Botha",
+              "over": 17,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "KJ Dudgeon",
+              "bowler": "JF Smith",
+              "non_striker": "L Botha",
+              "over": 17,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "L Botha",
+              "bowler": "JF Smith",
+              "non_striker": "KJ Dudgeon",
+              "over": 17,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "KJ Dudgeon",
+              "bowler": "JF Smith",
+              "non_striker": "L Botha",
+              "over": 17,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "KJ Dudgeon",
+              "bowler": "JF Smith",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Botha",
+              "over": 17,
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "KJ Dudgeon",
+              "bowler": "OEG Baartman",
+              "non_striker": "L Botha",
+              "over": 18,
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "KJ Dudgeon",
+              "bowler": "OEG Baartman",
+              "non_striker": "L Botha",
+              "over": 18,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "KJ Dudgeon",
+              "bowler": "OEG Baartman",
+              "non_striker": "L Botha",
+              "over": 18,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "KJ Dudgeon",
+              "bowler": "OEG Baartman",
+              "non_striker": "L Botha",
+              "over": 18,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "KJ Dudgeon",
+              "bowler": "OEG Baartman",
+              "non_striker": "L Botha",
+              "over": 18,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "KJ Dudgeon",
+              "bowler": "OEG Baartman",
+              "non_striker": "L Botha",
+              "over": 18,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "L Botha",
+              "bowler": "JF Smith",
+              "non_striker": "KJ Dudgeon",
+              "over": 19,
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "L Botha",
+              "bowler": "JF Smith",
+              "non_striker": "KJ Dudgeon",
+              "over": 19,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "KJ Dudgeon",
+              "bowler": "JF Smith",
+              "non_striker": "L Botha",
+              "over": 19,
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "KJ Dudgeon",
+              "bowler": "JF Smith",
+              "non_striker": "L Botha",
+              "over": 19,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "KJ Dudgeon",
+              "bowler": "JF Smith",
+              "non_striker": "L Botha",
+              "over": 19,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "KJ Dudgeon",
+              "bowler": "JF Smith",
+              "non_striker": "L Botha",
+              "over": 19,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Dolphins",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "JT Smuts",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "B Parsons",
+              "over": 0,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "JT Smuts",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "B Parsons",
+              "over": 0,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "JT Smuts",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "B Parsons",
+              "over": 0,
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "JT Smuts",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "B Parsons",
+              "over": 0,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "B Parsons",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "JT Smuts",
+              "over": 0,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "JT Smuts",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "B Parsons",
+              "over": 0,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "B Parsons",
+              "bowler": "GA Stuurman",
+              "non_striker": "JT Smuts",
+              "over": 1,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "B Parsons",
+              "bowler": "GA Stuurman",
+              "non_striker": "JT Smuts",
+              "over": 1,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "B Parsons",
+              "bowler": "GA Stuurman",
+              "non_striker": "JT Smuts",
+              "over": 1,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "B Parsons",
+              "bowler": "GA Stuurman",
+              "non_striker": "JT Smuts",
+              "over": 1,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "JT Smuts",
+              "bowler": "GA Stuurman",
+              "non_striker": "B Parsons",
+              "over": 1,
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "JT Smuts",
+              "bowler": "GA Stuurman",
+              "non_striker": "B Parsons",
+              "over": 1,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "B Parsons",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "JT Smuts",
+              "over": 2,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "B Parsons",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "JT Smuts",
+              "over": 2,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "B Parsons",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "JT Smuts",
+              "over": 2,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "JT Smuts",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "B Parsons",
+              "over": 2,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "JT Smuts",
+              "bowler": "KJ Dudgeon",
+              "extras": {
+                "legbyes": 3
+              },
+              "non_striker": "B Parsons",
+              "over": 2,
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "B Parsons",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "JT Smuts",
+              "over": 2,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "JT Smuts",
+              "bowler": "I Manack",
+              "non_striker": "B Parsons",
+              "over": 3,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "JT Smuts",
+              "bowler": "I Manack",
+              "non_striker": "B Parsons",
+              "over": 3,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "JT Smuts",
+              "bowler": "I Manack",
+              "non_striker": "B Parsons",
+              "over": 3,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "JT Smuts",
+              "bowler": "I Manack",
+              "non_striker": "B Parsons",
+              "over": 3,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "B Parsons",
+              "bowler": "I Manack",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "JT Smuts",
+              "over": 3,
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "B Parsons",
+              "bowler": "I Manack",
+              "non_striker": "JT Smuts",
+              "over": 3,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "B Parsons",
+              "bowler": "I Manack",
+              "non_striker": "JT Smuts",
+              "over": 3,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "B Parsons",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "JT Smuts",
+              "over": 4,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "B Parsons",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "JT Smuts",
+              "over": 4,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "JT Smuts",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "B Parsons",
+              "over": 4,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "B Parsons",
+              "bowler": "KJ Dudgeon",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JT Smuts",
+              "over": 4,
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "B Parsons",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "JT Smuts",
+              "over": 4,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "JT Smuts",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "B Parsons",
+              "over": 4,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "B Parsons",
+              "bowler": "KJ Dudgeon",
+              "non_striker": "JT Smuts",
+              "over": 4,
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "JT Smuts",
+              "bowler": "I Manack",
+              "non_striker": "B Parsons",
+              "over": 5,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "JT Smuts",
+              "bowler": "I Manack",
+              "non_striker": "B Parsons",
+              "over": 5,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JT Smuts",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "JF Smith",
+              "bowler": "I Manack",
+              "non_striker": "B Parsons",
+              "over": 5,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "B Parsons",
+              "bowler": "I Manack",
+              "non_striker": "JF Smith",
+              "over": 5,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Parsons",
+                  "fielders": [
+                    {
+                      "name": "KJ Dudgeon"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "DA Miller",
+              "bowler": "I Manack",
+              "non_striker": "JF Smith",
+              "over": 5,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "JF Smith",
+              "bowler": "I Manack",
+              "non_striker": "DA Miller",
+              "over": 5,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "JF Smith",
+              "bowler": "A Mnyaka",
+              "non_striker": "DA Miller",
+              "over": 6,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "JF Smith",
+              "bowler": "A Mnyaka",
+              "non_striker": "DA Miller",
+              "over": 6,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JF Smith",
+                  "fielders": [
+                    {
+                      "name": "C Fortuin"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "H Viljoen",
+              "bowler": "A Mnyaka",
+              "non_striker": "DA Miller",
+              "over": 6,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "DA Miller",
+              "bowler": "A Mnyaka",
+              "non_striker": "H Viljoen",
+              "over": 6,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "DA Miller",
+              "bowler": "A Mnyaka",
+              "non_striker": "H Viljoen",
+              "over": 6,
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "DA Miller",
+              "bowler": "A Mnyaka",
+              "non_striker": "H Viljoen",
+              "over": 6,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "DA Miller",
+              "bowler": "GA Stuurman",
+              "non_striker": "H Viljoen",
+              "over": 7,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "DA Miller",
+              "bowler": "GA Stuurman",
+              "non_striker": "H Viljoen",
+              "over": 7,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "H Viljoen",
+              "bowler": "GA Stuurman",
+              "non_striker": "DA Miller",
+              "over": 7,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "DA Miller",
+              "bowler": "GA Stuurman",
+              "non_striker": "H Viljoen",
+              "over": 7,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "DA Miller",
+              "bowler": "GA Stuurman",
+              "non_striker": "H Viljoen",
+              "over": 7,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "H Viljoen",
+              "bowler": "GA Stuurman",
+              "non_striker": "DA Miller",
+              "over": 7,
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "DA Miller",
+              "bowler": "A Mnyaka",
+              "non_striker": "H Viljoen",
+              "over": 8,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "DA Miller",
+              "bowler": "A Mnyaka",
+              "non_striker": "H Viljoen",
+              "over": 8,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "DA Miller",
+              "bowler": "A Mnyaka",
+              "non_striker": "H Viljoen",
+              "over": 8,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "H Viljoen",
+              "bowler": "A Mnyaka",
+              "non_striker": "DA Miller",
+              "over": 8,
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "H Viljoen",
+              "bowler": "A Mnyaka",
+              "non_striker": "DA Miller",
+              "over": 8,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "DA Miller",
+              "bowler": "A Mnyaka",
+              "non_striker": "H Viljoen",
+              "over": 8,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "DA Miller",
+              "bowler": "A Gqamane",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Viljoen",
+              "over": 9,
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.1",
+              "batter": "DA Miller",
+              "bowler": "A Gqamane",
+              "non_striker": "H Viljoen",
+              "over": 9,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DA Miller",
+                  "fielders": [
+                    {
+                      "name": "C Fortuin"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "P Subrayen",
+              "bowler": "A Gqamane",
+              "non_striker": "H Viljoen",
+              "over": 9,
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "P Subrayen",
+              "bowler": "A Gqamane",
+              "non_striker": "H Viljoen",
+              "over": 9,
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Subrayen",
+                  "fielders": [
+                    {
+                      "name": "A Mgijima"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "S van Staden",
+              "bowler": "A Gqamane",
+              "non_striker": "H Viljoen",
+              "over": 9,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "H Viljoen",
+              "bowler": "A Gqamane",
+              "non_striker": "S van Staden",
+              "over": 9,
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "H Viljoen",
+              "bowler": "A Gqamane",
+              "non_striker": "S van Staden",
+              "over": 9,
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 4.5,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

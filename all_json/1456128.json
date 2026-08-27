@@ -1,0 +1,3402 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2024-10-29",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Singapore",
+    "dates": [
+      "2024-10-28"
+    ],
+    "event": {
+      "name": "Singapore Women's T20I Tri-Series",
+      "match_number": 8
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2110,
+    "officials": {
+      "match_referees": [
+        "T Senthil Kumar"
+      ],
+      "reserve_umpires": [
+        "R Arun Prasanth"
+      ],
+      "umpires": [
+        "Foyes Ahmed",
+        "KSVP Venu Madhav"
+      ]
+    },
+    "outcome": {
+      "winner": "Kuwait",
+      "by": {
+        "runs": 20
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "S Lita D'Sa"
+    ],
+    "players": {
+      "Kuwait": [
+        "Priyada Murali",
+        "Zeefa Jilani",
+        "Amna Tariq",
+        "B Shanti",
+        "S Lita D'Sa",
+        "Mariamma Hyder",
+        "SL Gomez",
+        "Maria Jasvi",
+        "Maryyam Ashraf",
+        "Khadija Khalil",
+        "CJ Dias"
+      ],
+      "Myanmar": [
+        "TT Aung",
+        "Zon Lin",
+        "MPP San",
+        "TT Soe",
+        "KM Myat",
+        "ZT Kyaw",
+        "ZL Win",
+        "LL Htun",
+        "Thae Thae Po",
+        "SY Win",
+        "Pan Ei Phyu"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Amna Tariq": "44b53fba",
+        "B Shanti": "f50ca46d",
+        "CJ Dias": "7e6a3f17",
+        "Foyes Ahmed": "465cdd1d",
+        "KM Myat": "c1b4e25c",
+        "KSVP Venu Madhav": "8c7fb752",
+        "Khadija Khalil": "7c61a686",
+        "LL Htun": "ec687c3a",
+        "MPP San": "5bc290a2",
+        "Maria Jasvi": "4bed6af7",
+        "Mariamma Hyder": "c8ae2573",
+        "Maryyam Ashraf": "1b9d3eb3",
+        "Pan Ei Phyu": "9fcaeb60",
+        "Priyada Murali": "f4b942ae",
+        "R Arun Prasanth": "ca13b949",
+        "S Lita D'Sa": "a289cfa0",
+        "SL Gomez": "02264be0",
+        "SY Win": "33d65ab4",
+        "T Senthil Kumar": "961ddfac",
+        "TT Aung": "57fb24e6",
+        "TT Soe": "59f44fde",
+        "Thae Thae Po": "48a372a4",
+        "ZL Win": "b5714cf9",
+        "ZT Kyaw": "cdf63aaa",
+        "Zeefa Jilani": "3f2b40f0",
+        "Zon Lin": "3b492b8d"
+      }
+    },
+    "season": "2024/25",
+    "team_type": "international",
+    "teams": [
+      "Kuwait",
+      "Myanmar"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Kuwait"
+    },
+    "venue": "Singapore National Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Kuwait",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Priyada Murali",
+              "bowler": "MPP San",
+              "non_striker": "Zeefa Jilani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Priyada Murali",
+              "bowler": "MPP San",
+              "non_striker": "Zeefa Jilani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Priyada Murali",
+              "bowler": "MPP San",
+              "non_striker": "Zeefa Jilani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Priyada Murali",
+              "bowler": "MPP San",
+              "non_striker": "Zeefa Jilani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Priyada Murali",
+                  "fielders": [
+                    {
+                      "name": "MPP San"
+                    },
+                    {
+                      "name": "TT Soe"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Amna Tariq",
+              "bowler": "MPP San",
+              "non_striker": "Zeefa Jilani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Amna Tariq",
+              "bowler": "MPP San",
+              "non_striker": "Zeefa Jilani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Zeefa Jilani",
+              "bowler": "ZL Win",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Zeefa Jilani",
+              "bowler": "ZL Win",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Zeefa Jilani",
+              "bowler": "ZL Win",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Zeefa Jilani",
+              "bowler": "ZL Win",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Zeefa Jilani",
+              "bowler": "ZL Win",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Zeefa Jilani",
+              "bowler": "ZL Win",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Amna Tariq",
+              "bowler": "MPP San",
+              "non_striker": "Zeefa Jilani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Amna Tariq",
+              "bowler": "MPP San",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zeefa Jilani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Amna Tariq",
+              "bowler": "MPP San",
+              "non_striker": "Zeefa Jilani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Zeefa Jilani",
+              "bowler": "MPP San",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Zeefa Jilani",
+              "bowler": "MPP San",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Amna Tariq",
+              "bowler": "MPP San",
+              "non_striker": "Zeefa Jilani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Amna Tariq",
+              "bowler": "MPP San",
+              "non_striker": "Zeefa Jilani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Zeefa Jilani",
+              "bowler": "ZL Win",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Zeefa Jilani",
+              "bowler": "ZL Win",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Zeefa Jilani",
+              "bowler": "ZL Win",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Zeefa Jilani",
+              "bowler": "ZL Win",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Zeefa Jilani",
+              "bowler": "ZL Win",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Zeefa Jilani",
+              "bowler": "ZL Win",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zeefa Jilani",
+                  "fielders": [
+                    {
+                      "name": "Thae Thae Po"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Amna Tariq",
+              "bowler": "MPP San",
+              "non_striker": "B Shanti",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Amna Tariq",
+              "bowler": "MPP San",
+              "non_striker": "B Shanti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Amna Tariq",
+              "bowler": "MPP San",
+              "non_striker": "B Shanti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Shanti",
+                  "fielders": [
+                    {
+                      "name": "MPP San"
+                    },
+                    {
+                      "name": "KM Myat"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Amna Tariq",
+              "bowler": "MPP San",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "S Lita D'Sa",
+              "bowler": "MPP San",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "S Lita D'Sa",
+              "bowler": "MPP San",
+              "non_striker": "Amna Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Amna Tariq",
+              "bowler": "ZL Win",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Amna Tariq",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Mariamma Hyder",
+              "bowler": "ZL Win",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Mariamma Hyder",
+              "bowler": "ZL Win",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Mariamma Hyder",
+              "bowler": "ZL Win",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Mariamma Hyder",
+              "bowler": "ZL Win",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Mariamma Hyder",
+              "bowler": "ZL Win",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "S Lita D'Sa",
+              "bowler": "Zon Lin",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "S Lita D'Sa",
+              "bowler": "Zon Lin",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "S Lita D'Sa",
+              "bowler": "Zon Lin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "S Lita D'Sa",
+              "bowler": "Zon Lin",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Mariamma Hyder",
+              "bowler": "Zon Lin",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Mariamma Hyder",
+              "bowler": "Zon Lin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Mariamma Hyder",
+              "bowler": "Zon Lin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Mariamma Hyder",
+              "bowler": "Zon Lin",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Mariamma Hyder",
+              "bowler": "Zon Lin",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "S Lita D'Sa",
+              "bowler": "ZL Win",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "S Lita D'Sa",
+              "bowler": "ZL Win",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "S Lita D'Sa",
+              "bowler": "ZL Win",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "S Lita D'Sa",
+              "bowler": "ZL Win",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "S Lita D'Sa",
+              "bowler": "ZL Win",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "S Lita D'Sa",
+              "bowler": "ZL Win",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Mariamma Hyder",
+              "bowler": "TT Soe",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Mariamma Hyder",
+              "bowler": "TT Soe",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Mariamma Hyder",
+              "bowler": "TT Soe",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Mariamma Hyder",
+              "bowler": "TT Soe",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "S Lita D'Sa",
+              "bowler": "TT Soe",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Mariamma Hyder",
+              "bowler": "TT Soe",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "S Lita D'Sa",
+              "bowler": "SY Win",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.1",
+              "batter": "S Lita D'Sa",
+              "bowler": "SY Win",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "S Lita D'Sa",
+              "bowler": "SY Win",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Mariamma Hyder",
+              "bowler": "SY Win",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Mariamma Hyder",
+              "bowler": "SY Win",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Mariamma Hyder",
+              "bowler": "SY Win",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Mariamma Hyder",
+              "bowler": "SY Win",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "S Lita D'Sa",
+              "bowler": "LL Htun",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Mariamma Hyder",
+              "bowler": "LL Htun",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Mariamma Hyder",
+              "bowler": "LL Htun",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Mariamma Hyder",
+              "bowler": "LL Htun",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Mariamma Hyder",
+              "bowler": "LL Htun",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Mariamma Hyder",
+              "bowler": "LL Htun",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Mariamma Hyder",
+              "bowler": "LL Htun",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "S Lita D'Sa",
+              "bowler": "TT Soe",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "S Lita D'Sa",
+              "bowler": "TT Soe",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "S Lita D'Sa",
+              "bowler": "TT Soe",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Mariamma Hyder",
+              "bowler": "TT Soe",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Mariamma Hyder",
+              "bowler": "TT Soe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Mariamma Hyder",
+              "bowler": "TT Soe",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Mariamma Hyder",
+              "bowler": "TT Soe",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "S Lita D'Sa",
+              "bowler": "LL Htun",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Mariamma Hyder",
+              "bowler": "LL Htun",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Mariamma Hyder",
+              "bowler": "LL Htun",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Mariamma Hyder",
+              "bowler": "LL Htun",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Mariamma Hyder",
+              "bowler": "LL Htun",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Mariamma Hyder",
+              "bowler": "LL Htun",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "S Lita D'Sa",
+              "bowler": "Pan Ei Phyu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.1",
+              "batter": "S Lita D'Sa",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "S Lita D'Sa",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "S Lita D'Sa",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "S Lita D'Sa",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "S Lita D'Sa",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "S Lita D'Sa",
+              "bowler": "Pan Ei Phyu",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "S Lita D'Sa",
+              "bowler": "LL Htun",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "S Lita D'Sa",
+              "bowler": "LL Htun",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "S Lita D'Sa",
+              "bowler": "LL Htun",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Mariamma Hyder",
+              "bowler": "LL Htun",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Mariamma Hyder",
+              "bowler": "LL Htun",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "S Lita D'Sa",
+              "bowler": "LL Htun",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "S Lita D'Sa",
+              "bowler": "TT Soe",
+              "non_striker": "Mariamma Hyder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Mariamma Hyder",
+              "bowler": "TT Soe",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Mariamma Hyder",
+              "bowler": "TT Soe",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Mariamma Hyder",
+              "bowler": "TT Soe",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mariamma Hyder",
+                  "fielders": [
+                    {
+                      "name": "Thae Thae Po"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "SL Gomez",
+              "bowler": "TT Soe",
+              "non_striker": "S Lita D'Sa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "S Lita D'Sa",
+              "bowler": "TT Soe",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Lita D'Sa",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "SL Gomez",
+              "bowler": "LL Htun",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "SL Gomez",
+              "bowler": "LL Htun",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "SL Gomez",
+              "bowler": "LL Htun",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "SL Gomez",
+              "bowler": "LL Htun",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Maria Jasvi",
+              "bowler": "LL Htun",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "SL Gomez",
+              "bowler": "LL Htun",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "SL Gomez",
+              "bowler": "LL Htun",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "SL Gomez",
+              "bowler": "TT Soe",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "SL Gomez",
+              "bowler": "TT Soe",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Maria Jasvi",
+              "bowler": "TT Soe",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "SL Gomez",
+              "bowler": "TT Soe",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Maria Jasvi",
+              "bowler": "TT Soe",
+              "non_striker": "SL Gomez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "SL Gomez",
+              "bowler": "TT Soe",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "SL Gomez",
+              "bowler": "TT Aung",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SL Gomez",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Maryyam Ashraf",
+              "bowler": "TT Aung",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Maria Jasvi",
+              "bowler": "TT Aung",
+              "non_striker": "Maryyam Ashraf",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Maria Jasvi",
+              "bowler": "TT Aung",
+              "non_striker": "Maryyam Ashraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Maria Jasvi",
+              "bowler": "TT Aung",
+              "non_striker": "Maryyam Ashraf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Maryyam Ashraf",
+              "bowler": "TT Aung",
+              "non_striker": "Maria Jasvi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Maria Jasvi",
+              "bowler": "MPP San",
+              "non_striker": "Maryyam Ashraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Maria Jasvi",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Khadija Khalil",
+              "bowler": "MPP San",
+              "non_striker": "Maryyam Ashraf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Maryyam Ashraf",
+              "bowler": "MPP San",
+              "non_striker": "Khadija Khalil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Maryyam Ashraf",
+              "bowler": "MPP San",
+              "non_striker": "Khadija Khalil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Maryyam Ashraf",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "CJ Dias",
+              "bowler": "MPP San",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Khadija Khalil",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "CJ Dias",
+              "bowler": "MPP San",
+              "non_striker": "Khadija Khalil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Khadija Khalil",
+              "bowler": "MPP San",
+              "non_striker": "CJ Dias",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Myanmar",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "TT Aung",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "TT Aung",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "TT Aung",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "TT Aung",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "TT Aung",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "TT Aung",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TT Aung",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Zon Lin",
+              "bowler": "Amna Tariq",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Zon Lin",
+              "bowler": "Amna Tariq",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Zon Lin",
+              "bowler": "Amna Tariq",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "MPP San",
+              "bowler": "Amna Tariq",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Zon Lin",
+              "bowler": "Amna Tariq",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Zon Lin",
+              "bowler": "Amna Tariq",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Zon Lin",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Zon Lin",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Zon Lin",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Zon Lin",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Zon Lin",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Zon Lin",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "MPP San",
+              "bowler": "Amna Tariq",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Zon Lin",
+              "bowler": "Amna Tariq",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Zon Lin",
+              "bowler": "Amna Tariq",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Zon Lin",
+              "bowler": "Amna Tariq",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Zon Lin",
+              "bowler": "Amna Tariq",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "MPP San",
+              "bowler": "Amna Tariq",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "MPP San",
+              "bowler": "Mariamma Hyder",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.1",
+              "batter": "MPP San",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "MPP San",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Zon Lin",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "MPP San",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Zon Lin",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "MPP San",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Zon Lin",
+              "bowler": "CJ Dias",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Zon Lin",
+              "bowler": "CJ Dias",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Zon Lin",
+              "bowler": "CJ Dias",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "MPP San",
+              "bowler": "CJ Dias",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "MPP San",
+              "bowler": "CJ Dias",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "MPP San",
+              "bowler": "CJ Dias",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "MPP San",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "MPP San",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Zon Lin",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Zon Lin",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Zon Lin",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Zon Lin",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Zon Lin",
+              "bowler": "CJ Dias",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "MPP San",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.1",
+              "batter": "MPP San",
+              "bowler": "CJ Dias",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MPP San",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "TT Soe",
+              "bowler": "CJ Dias",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Zon Lin",
+              "bowler": "CJ Dias",
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Zon Lin",
+              "bowler": "CJ Dias",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Zon Lin",
+              "bowler": "CJ Dias",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Zon Lin",
+              "bowler": "CJ Dias",
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "TT Soe",
+              "bowler": "CJ Dias",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Zon Lin",
+              "bowler": "CJ Dias",
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Zon Lin",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Zon Lin",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "TT Soe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "TT Soe",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TT Soe",
+                  "fielders": [
+                    {
+                      "name": "S Lita D'Sa"
+                    },
+                    {
+                      "name": "Khadija Khalil"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "KM Myat",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Zon Lin",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Zon Lin",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Zon Lin",
+              "bowler": "CJ Dias",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "KM Myat",
+              "bowler": "CJ Dias",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "KM Myat",
+              "bowler": "CJ Dias",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "KM Myat",
+              "bowler": "CJ Dias",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "KM Myat",
+              "bowler": "CJ Dias",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Zon Lin",
+              "bowler": "CJ Dias",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Zon Lin",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "KM Myat",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "KM Myat",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "KM Myat",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "KM Myat",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Zon Lin",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "KM Myat",
+              "bowler": "Priyada Murali",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "KM Myat",
+              "bowler": "Priyada Murali",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Zon Lin",
+              "bowler": "Priyada Murali",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Zon Lin",
+              "bowler": "Priyada Murali",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Zon Lin",
+              "bowler": "Priyada Murali",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Zon Lin",
+              "bowler": "Priyada Murali",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "KM Myat",
+              "bowler": "Amna Tariq",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Zon Lin",
+              "bowler": "Amna Tariq",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "KM Myat",
+              "bowler": "Amna Tariq",
+              "non_striker": "Zon Lin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zon Lin",
+                  "fielders": [
+                    {
+                      "name": "Amna Tariq"
+                    },
+                    {
+                      "name": "SL Gomez"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "KM Myat",
+              "bowler": "Amna Tariq",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "KM Myat",
+              "bowler": "Amna Tariq",
+              "non_striker": "ZT Kyaw",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ZT Kyaw",
+                  "fielders": [
+                    {
+                      "name": "Amna Tariq"
+                    },
+                    {
+                      "name": "Maria Jasvi"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "KM Myat",
+              "bowler": "Amna Tariq",
+              "non_striker": "ZL Win",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "ZL Win",
+              "bowler": "Priyada Murali",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "ZL Win",
+              "bowler": "Priyada Murali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "ZL Win",
+              "bowler": "Priyada Murali",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "ZL Win",
+              "bowler": "Priyada Murali",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "ZL Win",
+              "bowler": "Priyada Murali",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "ZL Win",
+              "bowler": "Priyada Murali",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "KM Myat",
+              "bowler": "Priyada Murali",
+              "non_striker": "ZL Win",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "KM Myat",
+              "bowler": "Maria Jasvi",
+              "non_striker": "ZL Win",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "ZL Win",
+              "bowler": "Maria Jasvi",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "ZL Win",
+              "bowler": "Maria Jasvi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "ZL Win",
+              "bowler": "Maria Jasvi",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "ZL Win",
+              "bowler": "Maria Jasvi",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "ZL Win",
+              "bowler": "Maria Jasvi",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "KM Myat",
+              "bowler": "Maria Jasvi",
+              "non_striker": "ZL Win",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "KM Myat",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "ZL Win",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "KM Myat",
+              "bowler": "Zeefa Jilani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ZL Win",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "KM Myat",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "ZL Win",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "ZL Win",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "ZL Win",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "ZL Win",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "KM Myat",
+              "bowler": "Zeefa Jilani",
+              "non_striker": "ZL Win",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "ZL Win",
+              "bowler": "Maria Jasvi",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ZL Win",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "LL Htun",
+              "bowler": "Maria Jasvi",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "KM Myat",
+              "bowler": "Maria Jasvi",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "LL Htun",
+              "bowler": "Maria Jasvi",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "LL Htun",
+              "bowler": "Maria Jasvi",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "LL Htun",
+              "bowler": "Maria Jasvi",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "KM Myat",
+              "bowler": "Amna Tariq",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "KM Myat",
+              "bowler": "Amna Tariq",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "LL Htun",
+              "bowler": "Amna Tariq",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "KM Myat",
+              "bowler": "Amna Tariq",
+              "non_striker": "LL Htun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "LL Htun",
+              "bowler": "Amna Tariq",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LL Htun",
+                  "fielders": [
+                    {
+                      "name": "Zeefa Jilani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Thae Thae Po",
+              "bowler": "Amna Tariq",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "KM Myat",
+              "bowler": "Maria Jasvi",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "KM Myat",
+              "bowler": "Maria Jasvi",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Thae Thae Po",
+              "bowler": "Maria Jasvi",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Thae Thae Po",
+              "bowler": "Maria Jasvi",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Thae Thae Po",
+              "bowler": "Maria Jasvi",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "KM Myat",
+              "bowler": "Maria Jasvi",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "KM Myat",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Thae Thae Po",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Thae Thae Po",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Thae Thae Po",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "KM Myat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "KM Myat",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "KM Myat",
+              "bowler": "Mariamma Hyder",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "KM Myat",
+              "bowler": "Mariamma Hyder",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "KM Myat",
+              "bowler": "Mariamma Hyder",
+              "non_striker": "Thae Thae Po",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 131
+      }
+    }
+  ]
+}

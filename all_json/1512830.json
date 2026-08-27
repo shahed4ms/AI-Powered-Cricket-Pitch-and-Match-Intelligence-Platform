@@ -1,0 +1,3017 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-06-28",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Cardiff",
+    "dates": [
+      "2026-06-26"
+    ],
+    "event": {
+      "name": "Vitality Blast Men",
+      "group": "Cross Pool"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "AM Smith"
+      ],
+      "umpires": [
+        "NJ Llong",
+        "RJ Warren"
+      ]
+    },
+    "outcome": {
+      "winner": "Glamorgan",
+      "by": {
+        "wickets": 6
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Middlesex": [
+        "JB Cracknell",
+        "MDE Holden",
+        "MWT Boyle",
+        "JL du Plooy",
+        "BBA Geddes",
+        "LBK Hollman",
+        "Zafar Gohar",
+        "E Bosch",
+        "SHB Morgan",
+        "TG Helm",
+        "N Sharma"
+      ],
+      "Glamorgan": [
+        "KS Carlson",
+        "WT Smale",
+        "BI Kellaway",
+        "AM Tribe",
+        "SR Dickson",
+        "JDS Neesham",
+        "CB Cooke",
+        "DA Douthwaite",
+        "T van der Gugten",
+        "MS Crane",
+        "N McAndrew"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AM Smith": "a0bc360f",
+        "AM Tribe": "86f84b37",
+        "BBA Geddes": "305c31f2",
+        "BI Kellaway": "eafe8a94",
+        "CB Cooke": "6755cd5c",
+        "DA Douthwaite": "03df7a25",
+        "E Bosch": "28d6c44d",
+        "JB Cracknell": "dd6e32da",
+        "JDS Neesham": "9219eff0",
+        "JL du Plooy": "6e6fb538",
+        "KS Carlson": "9e707e02",
+        "LBK Hollman": "bdc0670a",
+        "MDE Holden": "d34a2268",
+        "MS Crane": "f0a0204e",
+        "MWT Boyle": "b42d5053",
+        "N McAndrew": "38c276e1",
+        "N Sharma": "764f35d8",
+        "NJ Llong": "573fb985",
+        "RJ Warren": "9d1c62d7",
+        "SHB Morgan": "b7096165",
+        "SR Dickson": "2344bdd1",
+        "T van der Gugten": "d99cc23a",
+        "TG Helm": "74a274cc",
+        "WT Smale": "97da28bd",
+        "Zafar Gohar": "9fd3a210"
+      }
+    },
+    "season": "2026",
+    "team_type": "club",
+    "teams": [
+      "Middlesex",
+      "Glamorgan"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Glamorgan"
+    },
+    "venue": "Sophia Gardens, Cardiff"
+  },
+  "innings": [
+    {
+      "team": "Middlesex",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "JB Cracknell",
+              "bowler": "T van der Gugten",
+              "non_striker": "MDE Holden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "JB Cracknell",
+              "bowler": "T van der Gugten",
+              "non_striker": "MDE Holden",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "JB Cracknell",
+              "bowler": "T van der Gugten",
+              "non_striker": "MDE Holden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "JB Cracknell",
+              "bowler": "T van der Gugten",
+              "non_striker": "MDE Holden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "MDE Holden",
+              "bowler": "T van der Gugten",
+              "non_striker": "JB Cracknell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "MDE Holden",
+              "bowler": "T van der Gugten",
+              "non_striker": "JB Cracknell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "JB Cracknell",
+              "bowler": "N McAndrew",
+              "non_striker": "MDE Holden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "MDE Holden",
+              "bowler": "N McAndrew",
+              "non_striker": "JB Cracknell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "MDE Holden",
+              "bowler": "N McAndrew",
+              "non_striker": "JB Cracknell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MDE Holden",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "MWT Boyle",
+              "bowler": "N McAndrew",
+              "non_striker": "JB Cracknell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "MWT Boyle",
+              "bowler": "N McAndrew",
+              "non_striker": "JB Cracknell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "MWT Boyle",
+              "bowler": "N McAndrew",
+              "non_striker": "JB Cracknell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "JB Cracknell",
+              "bowler": "T van der Gugten",
+              "non_striker": "MWT Boyle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "JB Cracknell",
+              "bowler": "T van der Gugten",
+              "non_striker": "MWT Boyle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "MWT Boyle",
+              "bowler": "T van der Gugten",
+              "non_striker": "JB Cracknell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "MWT Boyle",
+              "bowler": "T van der Gugten",
+              "non_striker": "JB Cracknell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "MWT Boyle",
+              "bowler": "T van der Gugten",
+              "non_striker": "JB Cracknell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "MWT Boyle",
+              "bowler": "T van der Gugten",
+              "non_striker": "JB Cracknell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "JB Cracknell",
+              "bowler": "DA Douthwaite",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MWT Boyle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "JB Cracknell",
+              "bowler": "DA Douthwaite",
+              "non_striker": "MWT Boyle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "JB Cracknell",
+              "bowler": "DA Douthwaite",
+              "non_striker": "MWT Boyle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "MWT Boyle",
+              "bowler": "DA Douthwaite",
+              "non_striker": "JB Cracknell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "MWT Boyle",
+              "bowler": "DA Douthwaite",
+              "non_striker": "JB Cracknell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "JB Cracknell",
+              "bowler": "DA Douthwaite",
+              "non_striker": "MWT Boyle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "JB Cracknell",
+              "bowler": "DA Douthwaite",
+              "non_striker": "MWT Boyle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "JB Cracknell",
+              "bowler": "T van der Gugten",
+              "non_striker": "MWT Boyle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "JB Cracknell",
+              "bowler": "T van der Gugten",
+              "non_striker": "MWT Boyle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "JB Cracknell",
+              "bowler": "T van der Gugten",
+              "non_striker": "MWT Boyle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "JB Cracknell",
+              "bowler": "T van der Gugten",
+              "non_striker": "MWT Boyle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "JB Cracknell",
+              "bowler": "T van der Gugten",
+              "non_striker": "MWT Boyle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "JB Cracknell",
+              "bowler": "T van der Gugten",
+              "non_striker": "MWT Boyle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "MWT Boyle",
+              "bowler": "N McAndrew",
+              "non_striker": "JB Cracknell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "MWT Boyle",
+              "bowler": "N McAndrew",
+              "non_striker": "JB Cracknell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MWT Boyle",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "JL du Plooy",
+              "bowler": "N McAndrew",
+              "non_striker": "JB Cracknell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "JL du Plooy",
+              "bowler": "N McAndrew",
+              "non_striker": "JB Cracknell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "JL du Plooy",
+              "bowler": "N McAndrew",
+              "non_striker": "JB Cracknell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "JL du Plooy",
+              "bowler": "N McAndrew",
+              "non_striker": "JB Cracknell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "JB Cracknell",
+              "bowler": "MS Crane",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JB Cracknell",
+                  "fielders": [
+                    {
+                      "name": "CB Cooke"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "BBA Geddes",
+              "bowler": "MS Crane",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "JL du Plooy",
+              "bowler": "MS Crane",
+              "non_striker": "BBA Geddes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "BBA Geddes",
+              "bowler": "MS Crane",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "JL du Plooy",
+              "bowler": "MS Crane",
+              "non_striker": "BBA Geddes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "BBA Geddes",
+              "bowler": "MS Crane",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "BBA Geddes",
+              "bowler": "DA Douthwaite",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "BBA Geddes",
+              "bowler": "DA Douthwaite",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "JL du Plooy",
+              "bowler": "DA Douthwaite",
+              "non_striker": "BBA Geddes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "JL du Plooy",
+              "bowler": "DA Douthwaite",
+              "non_striker": "BBA Geddes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "JL du Plooy",
+              "bowler": "DA Douthwaite",
+              "non_striker": "BBA Geddes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "JL du Plooy",
+              "bowler": "DA Douthwaite",
+              "non_striker": "BBA Geddes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "JL du Plooy",
+              "bowler": "MS Crane",
+              "non_striker": "BBA Geddes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JL du Plooy",
+                  "fielders": [
+                    {
+                      "name": "AM Tribe"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "LBK Hollman",
+              "bowler": "MS Crane",
+              "non_striker": "BBA Geddes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "BBA Geddes",
+              "bowler": "MS Crane",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "BBA Geddes",
+              "bowler": "MS Crane",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "BBA Geddes",
+              "bowler": "MS Crane",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "BBA Geddes",
+              "bowler": "MS Crane",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "LBK Hollman",
+              "bowler": "BI Kellaway",
+              "non_striker": "BBA Geddes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "BBA Geddes",
+              "bowler": "BI Kellaway",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "BBA Geddes",
+              "bowler": "BI Kellaway",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "LBK Hollman",
+              "bowler": "BI Kellaway",
+              "non_striker": "BBA Geddes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "LBK Hollman",
+              "bowler": "BI Kellaway",
+              "non_striker": "BBA Geddes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "BBA Geddes",
+              "bowler": "BI Kellaway",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "BBA Geddes",
+              "bowler": "MS Crane",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "LBK Hollman",
+              "bowler": "MS Crane",
+              "non_striker": "BBA Geddes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "BBA Geddes",
+              "bowler": "MS Crane",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "LBK Hollman",
+              "bowler": "MS Crane",
+              "non_striker": "BBA Geddes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "BBA Geddes",
+              "bowler": "MS Crane",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "LBK Hollman",
+              "bowler": "MS Crane",
+              "non_striker": "BBA Geddes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "LBK Hollman",
+              "bowler": "JDS Neesham",
+              "non_striker": "BBA Geddes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "BBA Geddes",
+              "bowler": "JDS Neesham",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "BBA Geddes",
+              "bowler": "JDS Neesham",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "BBA Geddes",
+              "bowler": "JDS Neesham",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "LBK Hollman",
+              "bowler": "JDS Neesham",
+              "non_striker": "BBA Geddes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "BBA Geddes",
+              "bowler": "JDS Neesham",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "LBK Hollman",
+              "bowler": "T van der Gugten",
+              "non_striker": "BBA Geddes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "BBA Geddes",
+              "bowler": "T van der Gugten",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "BBA Geddes",
+              "bowler": "T van der Gugten",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "BBA Geddes",
+              "bowler": "T van der Gugten",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "BBA Geddes",
+              "bowler": "T van der Gugten",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BBA Geddes",
+                  "fielders": [
+                    {
+                      "name": "KS Carlson"
+                    },
+                    {
+                      "name": "CB Cooke"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Zafar Gohar",
+              "bowler": "T van der Gugten",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Zafar Gohar",
+              "bowler": "T van der Gugten",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "LBK Hollman",
+              "bowler": "BI Kellaway",
+              "non_striker": "Zafar Gohar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Zafar Gohar",
+              "bowler": "BI Kellaway",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Zafar Gohar",
+              "bowler": "BI Kellaway",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Zafar Gohar",
+              "bowler": "BI Kellaway",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Zafar Gohar",
+              "bowler": "BI Kellaway",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Zafar Gohar",
+              "bowler": "BI Kellaway",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Zafar Gohar",
+              "bowler": "MS Crane",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zafar Gohar",
+                  "fielders": [
+                    {
+                      "name": "WT Smale"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "E Bosch",
+              "bowler": "MS Crane",
+              "non_striker": "LBK Hollman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "LBK Hollman",
+              "bowler": "MS Crane",
+              "non_striker": "E Bosch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LBK Hollman",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "SHB Morgan",
+              "bowler": "MS Crane",
+              "non_striker": "E Bosch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "E Bosch",
+              "bowler": "MS Crane",
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "E Bosch",
+              "bowler": "MS Crane",
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "SHB Morgan",
+              "bowler": "BI Kellaway",
+              "non_striker": "E Bosch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "E Bosch",
+              "bowler": "BI Kellaway",
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "SHB Morgan",
+              "bowler": "BI Kellaway",
+              "non_striker": "E Bosch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "E Bosch",
+              "bowler": "BI Kellaway",
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "SHB Morgan",
+              "bowler": "BI Kellaway",
+              "non_striker": "E Bosch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "E Bosch",
+              "bowler": "BI Kellaway",
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "E Bosch",
+              "bowler": "N McAndrew",
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "SHB Morgan",
+              "bowler": "N McAndrew",
+              "non_striker": "E Bosch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "E Bosch",
+              "bowler": "N McAndrew",
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "E Bosch",
+              "bowler": "N McAndrew",
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "E Bosch",
+              "bowler": "N McAndrew",
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "E Bosch",
+              "bowler": "N McAndrew",
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "E Bosch",
+              "bowler": "DA Douthwaite",
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "SHB Morgan",
+              "bowler": "DA Douthwaite",
+              "non_striker": "E Bosch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "E Bosch",
+              "bowler": "DA Douthwaite",
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "SHB Morgan",
+              "bowler": "DA Douthwaite",
+              "non_striker": "E Bosch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "SHB Morgan",
+              "bowler": "DA Douthwaite",
+              "non_striker": "E Bosch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "E Bosch",
+              "bowler": "DA Douthwaite",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "E Bosch",
+              "bowler": "DA Douthwaite",
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "E Bosch",
+              "bowler": "JDS Neesham",
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "SHB Morgan",
+              "bowler": "JDS Neesham",
+              "non_striker": "E Bosch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "SHB Morgan",
+              "bowler": "JDS Neesham",
+              "non_striker": "E Bosch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "E Bosch",
+              "bowler": "JDS Neesham",
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "SHB Morgan",
+              "bowler": "JDS Neesham",
+              "non_striker": "E Bosch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "SHB Morgan",
+              "bowler": "JDS Neesham",
+              "non_striker": "E Bosch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "E Bosch",
+              "bowler": "N McAndrew",
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "E Bosch",
+              "bowler": "N McAndrew",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "SHB Morgan",
+              "bowler": "N McAndrew",
+              "non_striker": "E Bosch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "E Bosch",
+              "bowler": "N McAndrew",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "E Bosch",
+              "bowler": "N McAndrew",
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "E Bosch",
+              "bowler": "N McAndrew",
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "E Bosch",
+              "bowler": "N McAndrew",
+              "non_striker": "SHB Morgan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Glamorgan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "KS Carlson",
+              "bowler": "Zafar Gohar",
+              "non_striker": "WT Smale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KS Carlson",
+                  "fielders": [
+                    {
+                      "name": "SHB Morgan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "BI Kellaway",
+              "bowler": "Zafar Gohar",
+              "non_striker": "WT Smale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "WT Smale",
+              "bowler": "Zafar Gohar",
+              "non_striker": "BI Kellaway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "WT Smale",
+              "bowler": "Zafar Gohar",
+              "non_striker": "BI Kellaway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "WT Smale",
+              "bowler": "Zafar Gohar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BI Kellaway",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "WT Smale",
+              "bowler": "Zafar Gohar",
+              "non_striker": "BI Kellaway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "BI Kellaway",
+              "bowler": "Zafar Gohar",
+              "non_striker": "WT Smale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "BI Kellaway",
+              "bowler": "N Sharma",
+              "non_striker": "WT Smale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "BI Kellaway",
+              "bowler": "N Sharma",
+              "non_striker": "WT Smale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "WT Smale",
+              "bowler": "N Sharma",
+              "non_striker": "BI Kellaway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "BI Kellaway",
+              "bowler": "N Sharma",
+              "non_striker": "WT Smale",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "BI Kellaway",
+              "bowler": "N Sharma",
+              "non_striker": "WT Smale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "WT Smale",
+              "bowler": "N Sharma",
+              "non_striker": "BI Kellaway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "WT Smale",
+              "bowler": "TG Helm",
+              "non_striker": "BI Kellaway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "WT Smale",
+              "bowler": "TG Helm",
+              "non_striker": "BI Kellaway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "WT Smale",
+              "bowler": "TG Helm",
+              "non_striker": "BI Kellaway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "WT Smale",
+              "bowler": "TG Helm",
+              "non_striker": "BI Kellaway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "BI Kellaway",
+              "bowler": "TG Helm",
+              "non_striker": "WT Smale",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "BI Kellaway",
+              "bowler": "TG Helm",
+              "non_striker": "WT Smale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "BI Kellaway",
+              "bowler": "E Bosch",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WT Smale",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "BI Kellaway",
+              "bowler": "E Bosch",
+              "non_striker": "WT Smale",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "BI Kellaway",
+              "bowler": "E Bosch",
+              "non_striker": "WT Smale",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "BI Kellaway",
+              "bowler": "E Bosch",
+              "non_striker": "WT Smale",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "WT Smale",
+              "bowler": "E Bosch",
+              "non_striker": "BI Kellaway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WT Smale",
+                  "fielders": [
+                    {
+                      "name": "LBK Hollman"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "AM Tribe",
+              "bowler": "E Bosch",
+              "non_striker": "BI Kellaway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "AM Tribe",
+              "bowler": "E Bosch",
+              "non_striker": "BI Kellaway",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "BI Kellaway",
+              "bowler": "SHB Morgan",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "AM Tribe",
+              "bowler": "SHB Morgan",
+              "non_striker": "BI Kellaway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "BI Kellaway",
+              "bowler": "SHB Morgan",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "BI Kellaway",
+              "bowler": "SHB Morgan",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "BI Kellaway",
+              "bowler": "SHB Morgan",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "AM Tribe",
+              "bowler": "SHB Morgan",
+              "non_striker": "BI Kellaway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "BI Kellaway",
+              "bowler": "E Bosch",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "BI Kellaway",
+              "bowler": "E Bosch",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "BI Kellaway",
+              "bowler": "E Bosch",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "AM Tribe",
+              "bowler": "E Bosch",
+              "non_striker": "BI Kellaway",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "AM Tribe",
+              "bowler": "E Bosch",
+              "non_striker": "BI Kellaway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "BI Kellaway",
+              "bowler": "E Bosch",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "AM Tribe",
+              "bowler": "LBK Hollman",
+              "non_striker": "BI Kellaway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "BI Kellaway",
+              "bowler": "LBK Hollman",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "AM Tribe",
+              "bowler": "LBK Hollman",
+              "non_striker": "BI Kellaway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "BI Kellaway",
+              "bowler": "LBK Hollman",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "AM Tribe",
+              "bowler": "LBK Hollman",
+              "non_striker": "BI Kellaway",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "BI Kellaway",
+              "bowler": "LBK Hollman",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "BI Kellaway",
+              "bowler": "N Sharma",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "BI Kellaway",
+              "bowler": "N Sharma",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BI Kellaway",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "SR Dickson",
+              "bowler": "N Sharma",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "AM Tribe",
+              "bowler": "N Sharma",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "SR Dickson",
+              "bowler": "N Sharma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "SR Dickson",
+              "bowler": "N Sharma",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "SR Dickson",
+              "bowler": "N Sharma",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "AM Tribe",
+              "bowler": "Zafar Gohar",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "SR Dickson",
+              "bowler": "Zafar Gohar",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "AM Tribe",
+              "bowler": "Zafar Gohar",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "AM Tribe",
+              "bowler": "Zafar Gohar",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "AM Tribe",
+              "bowler": "Zafar Gohar",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "SR Dickson",
+              "bowler": "Zafar Gohar",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "SR Dickson",
+              "bowler": "TG Helm",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "SR Dickson",
+              "bowler": "TG Helm",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "AM Tribe",
+              "bowler": "TG Helm",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "SR Dickson",
+              "bowler": "TG Helm",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "SR Dickson",
+              "bowler": "TG Helm",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "AM Tribe",
+              "bowler": "TG Helm",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "SR Dickson",
+              "bowler": "LBK Hollman",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "AM Tribe",
+              "bowler": "LBK Hollman",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "SR Dickson",
+              "bowler": "LBK Hollman",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "SR Dickson",
+              "bowler": "LBK Hollman",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "AM Tribe",
+              "bowler": "LBK Hollman",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "AM Tribe",
+              "bowler": "LBK Hollman",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "AM Tribe",
+              "bowler": "SHB Morgan",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "AM Tribe",
+              "bowler": "SHB Morgan",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "SR Dickson",
+              "bowler": "SHB Morgan",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "SR Dickson",
+              "bowler": "SHB Morgan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "SR Dickson",
+              "bowler": "SHB Morgan",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "AM Tribe",
+              "bowler": "SHB Morgan",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "SR Dickson",
+              "bowler": "SHB Morgan",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "AM Tribe",
+              "bowler": "LBK Hollman",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "SR Dickson",
+              "bowler": "LBK Hollman",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "AM Tribe",
+              "bowler": "LBK Hollman",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "SR Dickson",
+              "bowler": "LBK Hollman",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "AM Tribe",
+              "bowler": "LBK Hollman",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "AM Tribe",
+              "bowler": "LBK Hollman",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "AM Tribe",
+              "bowler": "TG Helm",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "AM Tribe",
+              "bowler": "TG Helm",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "SR Dickson",
+              "bowler": "TG Helm",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "AM Tribe",
+              "bowler": "TG Helm",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "SR Dickson",
+              "bowler": "TG Helm",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "SR Dickson",
+              "bowler": "TG Helm",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "AM Tribe",
+              "bowler": "Zafar Gohar",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "AM Tribe",
+              "bowler": "Zafar Gohar",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "SR Dickson",
+              "bowler": "Zafar Gohar",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "SR Dickson",
+              "bowler": "Zafar Gohar",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "SR Dickson",
+              "bowler": "Zafar Gohar",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "AM Tribe",
+              "bowler": "Zafar Gohar",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "AM Tribe",
+              "bowler": "E Bosch",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "SR Dickson",
+              "bowler": "E Bosch",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "SR Dickson",
+              "bowler": "E Bosch",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "SR Dickson",
+              "bowler": "E Bosch",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "SR Dickson",
+              "bowler": "E Bosch",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "SR Dickson",
+              "bowler": "E Bosch",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "AM Tribe",
+              "bowler": "LBK Hollman",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "SR Dickson",
+              "bowler": "LBK Hollman",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "SR Dickson",
+              "bowler": "LBK Hollman",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "SR Dickson",
+              "bowler": "LBK Hollman",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "SR Dickson",
+              "bowler": "LBK Hollman",
+              "non_striker": "AM Tribe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "AM Tribe",
+              "bowler": "LBK Hollman",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AM Tribe",
+                  "fielders": [
+                    {
+                      "name": "MDE Holden"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "SR Dickson",
+              "bowler": "TG Helm",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "JDS Neesham",
+              "bowler": "TG Helm",
+              "non_striker": "SR Dickson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "SR Dickson",
+              "bowler": "TG Helm",
+              "non_striker": "JDS Neesham",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

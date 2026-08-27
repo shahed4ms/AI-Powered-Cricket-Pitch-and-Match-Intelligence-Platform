@@ -1,0 +1,3193 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2020-09-20",
+    "revision": 3
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Lagos",
+    "dates": [
+      "2018-04-14"
+    ],
+    "event": {
+      "name": "ICC World Twenty20 Africa Region Qualifier A",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "IT20",
+    "missing": [
+      "player_of_match"
+    ],
+    "officials": {
+      "match_referees": [
+        "D Govindjee"
+      ],
+      "reserve_umpires": [
+        "D Odhiambo"
+      ],
+      "umpires": [
+        "A Louw",
+        "VR Angara"
+      ]
+    },
+    "outcome": {
+      "winner": "Nigeria",
+      "by": {
+        "runs": 88
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Nigeria": [
+        "AJ Ayannaike",
+        "Sulaimon Runsewe",
+        "AA Onikoyi",
+        "O Olatunji",
+        "CN Onwuzulike",
+        "OA Olympio",
+        "IO Okpe",
+        "B Adu",
+        "SA Okpe",
+        "Mohameed Taiwo",
+        "SO Akolade"
+      ],
+      "Sierra Leone": [
+        "G Ngegba",
+        "Y Jalloh",
+        "I Mansaray",
+        "AB Kamara",
+        "L Lamin",
+        "A Gbla",
+        "S Williams",
+        "R Tommy",
+        "I Kamara",
+        "M Mansaray",
+        "HR Bhamu"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Gbla": "34ab1e6e",
+        "A Louw": "5eecae5d",
+        "AA Onikoyi": "409ce380",
+        "AB Kamara": "3951be49",
+        "B Adu": "ba1408ac",
+        "CN Onwuzulike": "715dbf27",
+        "D Govindjee": "8b4c4069",
+        "D Odhiambo": "45994517",
+        "G Ngegba": "69caf2be",
+        "HR Bhamu": "879cf1dd",
+        "I Kamara": "38702fb5",
+        "I Mansaray": "ea45f98b",
+        "IO Okpe": "1c5c3dce",
+        "AJ Ayannaike": "f74b682b",
+        "L Lamin": "5a970aab",
+        "M Mansaray": "20e085c6",
+        "Mohameed Taiwo": "a9d788e3",
+        "O Olatunji": "4dea1a43",
+        "OA Olympio": "0c8e89cc",
+        "R Tommy": "6579788b",
+        "S Williams": "7ae1aad9",
+        "SA Okpe": "681f522f",
+        "SO Akolade": "da569a0d",
+        "Sulaimon Runsewe": "c25d26dc",
+        "VR Angara": "5b7b706f",
+        "Y Jalloh": "7fe9a7e6"
+      }
+    },
+    "season": "2018",
+    "team_type": "international",
+    "teams": [
+      "Nigeria",
+      "Sierra Leone"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Sierra Leone"
+    },
+    "venue": "Tafawa Balewa Square Cricket Oval"
+  },
+  "innings": [
+    {
+      "team": "Nigeria",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "AJ Ayannaike",
+              "bowler": "AB Kamara",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "AJ Ayannaike",
+              "bowler": "AB Kamara",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "AJ Ayannaike",
+              "bowler": "AB Kamara",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "AJ Ayannaike",
+                  "fielders": [
+                    {
+                      "name": "M Mansaray"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "AA Onikoyi",
+              "bowler": "AB Kamara",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Sulaimon Runsewe",
+              "bowler": "AB Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Sulaimon Runsewe",
+              "bowler": "AB Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "AA Onikoyi",
+              "bowler": "I Kamara",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "AA Onikoyi",
+              "bowler": "I Kamara",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Sulaimon Runsewe",
+              "bowler": "I Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Sulaimon Runsewe",
+              "bowler": "I Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "AA Onikoyi",
+              "bowler": "I Kamara",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Sulaimon Runsewe",
+              "bowler": "I Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "AA Onikoyi",
+              "bowler": "AB Kamara",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "AA Onikoyi",
+              "bowler": "AB Kamara",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "AA Onikoyi",
+              "bowler": "AB Kamara",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "AA Onikoyi",
+              "bowler": "AB Kamara",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "AA Onikoyi",
+              "bowler": "AB Kamara",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "AA Onikoyi",
+              "bowler": "AB Kamara",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Sulaimon Runsewe",
+              "bowler": "I Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Sulaimon Runsewe",
+              "bowler": "I Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Sulaimon Runsewe",
+              "bowler": "I Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "AA Onikoyi",
+              "bowler": "I Kamara",
+              "non_striker": "Sulaimon Runsewe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Sulaimon Runsewe",
+              "bowler": "I Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Sulaimon Runsewe"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "O Olatunji",
+              "bowler": "I Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "AA Onikoyi",
+              "bowler": "S Williams",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "AA Onikoyi",
+              "bowler": "S Williams",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "AA Onikoyi",
+              "bowler": "S Williams",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "AA Onikoyi",
+              "bowler": "S Williams",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "AA Onikoyi",
+              "bowler": "S Williams",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "AA Onikoyi",
+              "bowler": "S Williams",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "AA Onikoyi",
+              "bowler": "S Williams",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "O Olatunji",
+              "bowler": "I Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "AA Onikoyi",
+              "bowler": "I Kamara",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "O Olatunji",
+              "bowler": "I Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "O Olatunji",
+              "bowler": "I Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "O Olatunji",
+              "bowler": "I Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "O Olatunji",
+              "bowler": "I Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "AA Onikoyi",
+              "bowler": "S Williams",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "AA Onikoyi",
+              "bowler": "S Williams",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "O Olatunji",
+              "bowler": "S Williams",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "O Olatunji",
+              "bowler": "S Williams",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "O Olatunji",
+              "bowler": "S Williams",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "O Olatunji",
+              "bowler": "S Williams",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "O Olatunji",
+              "bowler": "I Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "O Olatunji",
+              "bowler": "I Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "O Olatunji",
+              "bowler": "I Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "O Olatunji",
+              "bowler": "I Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "O Olatunji",
+              "bowler": "I Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "O Olatunji",
+              "bowler": "I Kamara",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "AA Onikoyi",
+              "bowler": "S Williams",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "AA Onikoyi",
+              "bowler": "S Williams",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "O Olatunji",
+              "bowler": "S Williams",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "AA Onikoyi",
+              "bowler": "S Williams",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "O Olatunji",
+              "bowler": "S Williams",
+              "non_striker": "AA Onikoyi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "AA Onikoyi",
+              "bowler": "S Williams",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "AA Onikoyi",
+                  "fielders": [
+                    {
+                      "name": "I Mansaray"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "CN Onwuzulike",
+              "bowler": "A Gbla",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "CN Onwuzulike",
+              "bowler": "A Gbla",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "CN Onwuzulike",
+              "bowler": "A Gbla",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "CN Onwuzulike",
+              "bowler": "A Gbla",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "CN Onwuzulike",
+              "bowler": "A Gbla",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "CN Onwuzulike",
+              "bowler": "A Gbla",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "O Olatunji",
+              "bowler": "A Gbla",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "O Olatunji",
+              "bowler": "L Lamin",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "O Olatunji",
+              "bowler": "L Lamin",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "CN Onwuzulike",
+              "bowler": "L Lamin",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "CN Onwuzulike",
+              "bowler": "L Lamin",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "CN Onwuzulike",
+              "bowler": "L Lamin",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "CN Onwuzulike",
+              "bowler": "L Lamin",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "O Olatunji",
+              "bowler": "A Gbla",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "O Olatunji",
+              "bowler": "A Gbla",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "CN Onwuzulike",
+              "bowler": "A Gbla",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "CN Onwuzulike",
+              "bowler": "A Gbla",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "CN Onwuzulike",
+              "bowler": "A Gbla",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "O Olatunji",
+              "bowler": "A Gbla",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "CN Onwuzulike",
+              "bowler": "A Gbla",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "CN Onwuzulike",
+              "bowler": "G Ngegba",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "CN Onwuzulike",
+              "bowler": "G Ngegba",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "O Olatunji",
+              "bowler": "G Ngegba",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "CN Onwuzulike",
+              "bowler": "G Ngegba",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "O Olatunji",
+              "bowler": "G Ngegba",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "O Olatunji",
+              "bowler": "G Ngegba",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "CN Onwuzulike",
+              "bowler": "R Tommy",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "CN Onwuzulike",
+              "bowler": "R Tommy",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "CN Onwuzulike",
+              "bowler": "R Tommy",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "O Olatunji",
+              "bowler": "R Tommy",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "O Olatunji",
+              "bowler": "R Tommy",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "CN Onwuzulike",
+              "bowler": "R Tommy",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "CN Onwuzulike",
+              "bowler": "L Lamin",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "CN Onwuzulike",
+              "bowler": "L Lamin",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "CN Onwuzulike",
+              "bowler": "L Lamin",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "O Olatunji",
+              "bowler": "L Lamin",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "CN Onwuzulike",
+              "bowler": "L Lamin",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "O Olatunji",
+              "bowler": "L Lamin",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "CN Onwuzulike",
+              "bowler": "R Tommy",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "CN Onwuzulike",
+              "bowler": "R Tommy",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "CN Onwuzulike",
+              "bowler": "R Tommy",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "CN Onwuzulike",
+              "bowler": "R Tommy",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "CN Onwuzulike",
+              "bowler": "R Tommy",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "CN Onwuzulike",
+              "bowler": "R Tommy",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "O Olatunji",
+              "bowler": "AB Kamara",
+              "non_striker": "CN Onwuzulike",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "CN Onwuzulike",
+              "bowler": "AB Kamara",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "CN Onwuzulike",
+              "bowler": "AB Kamara",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "CN Onwuzulike",
+              "bowler": "AB Kamara",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "CN Onwuzulike",
+              "bowler": "AB Kamara",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "CN Onwuzulike",
+                  "fielders": [
+                    {
+                      "name": "Y Jalloh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "OA Olympio",
+              "bowler": "AB Kamara",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "OA Olympio",
+              "bowler": "R Tommy",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "O Olatunji",
+              "bowler": "R Tommy",
+              "non_striker": "OA Olympio",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "O Olatunji",
+              "bowler": "R Tommy",
+              "non_striker": "OA Olympio",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "OA Olympio",
+              "bowler": "R Tommy",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "OA Olympio",
+              "bowler": "R Tommy",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "OA Olympio",
+                  "fielders": [
+                    {
+                      "name": "I Mansaray"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "O Olatunji",
+              "bowler": "R Tommy",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "IO Okpe",
+              "bowler": "A Gbla",
+              "non_striker": "O Olatunji",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "O Olatunji",
+              "bowler": "A Gbla",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "O Olatunji",
+                  "fielders": [
+                    {
+                      "name": "G Ngegba"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "IO Okpe",
+              "bowler": "A Gbla",
+              "non_striker": "B Adu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "IO Okpe",
+              "bowler": "A Gbla",
+              "non_striker": "B Adu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "IO Okpe",
+              "bowler": "A Gbla",
+              "non_striker": "B Adu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "B Adu",
+              "bowler": "A Gbla",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "IO Okpe",
+              "bowler": "R Tommy",
+              "non_striker": "B Adu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "IO Okpe",
+              "bowler": "R Tommy",
+              "non_striker": "B Adu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "B Adu",
+              "bowler": "R Tommy",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "B Adu",
+              "bowler": "R Tommy",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "B Adu",
+              "bowler": "R Tommy",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "B Adu",
+              "bowler": "R Tommy",
+              "non_striker": "IO Okpe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sierra Leone",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "G Ngegba",
+              "bowler": "SO Akolade",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "Y Jalloh",
+              "bowler": "SO Akolade",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Y Jalloh",
+              "bowler": "SO Akolade",
+              "non_striker": "G Ngegba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "G Ngegba",
+              "bowler": "SO Akolade",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "G Ngegba",
+              "bowler": "SO Akolade",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "G Ngegba",
+                  "fielders": [
+                    {
+                      "name": "O Olatunji"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "I Mansaray",
+              "bowler": "SO Akolade",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "I Mansaray",
+              "bowler": "SO Akolade",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Y Jalloh",
+              "bowler": "SO Akolade",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "I Mansaray",
+              "bowler": "IO Okpe",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Y Jalloh",
+              "bowler": "IO Okpe",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "I Mansaray",
+              "bowler": "IO Okpe",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "I Mansaray",
+              "bowler": "IO Okpe",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "I Mansaray",
+              "bowler": "IO Okpe",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Y Jalloh",
+              "bowler": "IO Okpe",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "I Mansaray",
+              "bowler": "SO Akolade",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "I Mansaray",
+              "bowler": "SO Akolade",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Y Jalloh",
+              "bowler": "SO Akolade",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Y Jalloh",
+              "bowler": "SO Akolade",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Y Jalloh",
+              "bowler": "SO Akolade",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Y Jalloh",
+              "bowler": "SO Akolade",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Y Jalloh",
+              "bowler": "SO Akolade",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Y Jalloh",
+              "bowler": "IO Okpe",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Y Jalloh",
+              "bowler": "IO Okpe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Y Jalloh",
+              "bowler": "IO Okpe",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Y Jalloh",
+              "bowler": "IO Okpe",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "I Mansaray",
+              "bowler": "IO Okpe",
+              "non_striker": "Y Jalloh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Y Jalloh",
+              "bowler": "IO Okpe",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Y Jalloh",
+              "bowler": "IO Okpe",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Y Jalloh",
+                  "fielders": [
+                    {
+                      "name": "O Olatunji"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "I Mansaray",
+              "bowler": "OA Olympio",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AB Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.1",
+              "batter": "I Mansaray",
+              "bowler": "OA Olympio",
+              "non_striker": "AB Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "I Mansaray",
+              "bowler": "OA Olympio",
+              "non_striker": "AB Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "I Mansaray",
+              "bowler": "OA Olympio",
+              "non_striker": "AB Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "I Mansaray",
+              "bowler": "OA Olympio",
+              "non_striker": "AB Kamara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "I Mansaray",
+              "bowler": "OA Olympio",
+              "non_striker": "AB Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "AB Kamara",
+              "bowler": "OA Olympio",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "AB Kamara",
+              "bowler": "OA Olympio",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "I Mansaray",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "AB Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "AB Kamara",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "I Mansaray",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "AB Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "I Mansaray",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "AB Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "I Mansaray",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "AB Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "I Mansaray",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "AB Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "I Mansaray",
+              "bowler": "OA Olympio",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AB Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.1",
+              "batter": "I Mansaray",
+              "bowler": "OA Olympio",
+              "non_striker": "AB Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "I Mansaray",
+              "bowler": "OA Olympio",
+              "non_striker": "AB Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "AB Kamara",
+              "bowler": "OA Olympio",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "AB Kamara"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "L Lamin",
+              "bowler": "OA Olympio",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "L Lamin",
+              "bowler": "OA Olympio",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "I Mansaray",
+              "bowler": "OA Olympio",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "I Mansaray",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "I Mansaray",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "I Mansaray",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "I Mansaray",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "I Mansaray",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "I Mansaray",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "L Lamin",
+              "bowler": "OA Olympio",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "L Lamin",
+              "bowler": "OA Olympio",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "I Mansaray",
+              "bowler": "OA Olympio",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "I Mansaray",
+              "bowler": "OA Olympio",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "I Mansaray",
+              "bowler": "OA Olympio",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "L Lamin",
+              "bowler": "OA Olympio",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "I Mansaray",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "L Lamin",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "L Lamin",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "I Mansaray",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "I Mansaray",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "I Mansaray",
+                  "fielders": [
+                    {
+                      "name": "SA Okpe"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "A Gbla",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "A Gbla",
+                  "fielders": [
+                    {
+                      "name": "Mohameed Taiwo"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "S Williams",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "L Lamin",
+              "bowler": "OA Olympio",
+              "non_striker": "S Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "L Lamin",
+              "bowler": "OA Olympio",
+              "non_striker": "S Williams",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "S Williams",
+              "bowler": "OA Olympio",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "L Lamin",
+              "bowler": "OA Olympio",
+              "non_striker": "S Williams",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "L Lamin",
+              "bowler": "OA Olympio",
+              "non_striker": "S Williams",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "L Lamin",
+              "bowler": "OA Olympio",
+              "non_striker": "S Williams",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "L Lamin",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "S Williams",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "L Lamin",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "S Williams",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "S Williams",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "S Williams",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "S Williams",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "S Williams",
+              "bowler": "CN Onwuzulike",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "L Lamin",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "S Williams",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "S Williams",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "S Williams",
+              "bowler": "Mohameed Taiwo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "S Williams",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "L Lamin",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "S Williams",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "S Williams",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "S Williams"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "R Tommy",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "L Lamin",
+              "bowler": "SA Okpe",
+              "non_striker": "R Tommy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "L Lamin",
+              "bowler": "SA Okpe",
+              "non_striker": "R Tommy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "L Lamin",
+              "bowler": "SA Okpe",
+              "non_striker": "R Tommy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "R Tommy",
+              "bowler": "SA Okpe",
+              "non_striker": "L Lamin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "L Lamin",
+              "bowler": "SA Okpe",
+              "non_striker": "R Tommy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "L Lamin",
+                  "fielders": [
+                    {
+                      "name": "Sulaimon Runsewe"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "R Tommy",
+              "bowler": "SA Okpe",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "I Kamara",
+              "bowler": "Mohameed Taiwo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Tommy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.1",
+              "batter": "I Kamara",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "R Tommy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "I Kamara",
+              "bowler": "Mohameed Taiwo",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "R Tommy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "R Tommy",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "I Kamara",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "R Tommy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "R Tommy",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "I Kamara",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "R Tommy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "R Tommy",
+              "bowler": "SA Okpe",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "R Tommy",
+              "bowler": "SA Okpe",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "I Kamara",
+              "bowler": "SA Okpe",
+              "non_striker": "R Tommy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "I Kamara",
+              "bowler": "SA Okpe",
+              "non_striker": "R Tommy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "R Tommy",
+              "bowler": "SA Okpe",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "R Tommy",
+                  "fielders": [
+                    {
+                      "name": "CN Onwuzulike"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "I Kamara",
+              "bowler": "SA Okpe",
+              "non_striker": "M Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "M Mansaray",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "M Mansaray",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "M Mansaray",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "I Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "I Kamara",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "M Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "I Kamara",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "M Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "I Kamara",
+                  "fielders": [
+                    {
+                      "name": "Sulaimon Runsewe"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "HR Bhamu",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "M Mansaray",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "HR Bhamu",
+              "bowler": "SA Okpe",
+              "non_striker": "M Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "HR Bhamu",
+              "bowler": "SA Okpe",
+              "non_striker": "M Mansaray",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "M Mansaray",
+              "bowler": "SA Okpe",
+              "non_striker": "HR Bhamu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "M Mansaray",
+              "bowler": "SA Okpe",
+              "non_striker": "HR Bhamu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "HR Bhamu",
+              "bowler": "SA Okpe",
+              "non_striker": "M Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "HR Bhamu",
+              "bowler": "SA Okpe",
+              "non_striker": "M Mansaray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "M Mansaray",
+              "bowler": "Mohameed Taiwo",
+              "non_striker": "HR Bhamu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "M Mansaray",
+                  "fielders": [
+                    {
+                      "name": "OA Olympio"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 166
+      }
+    }
+  ]
+}

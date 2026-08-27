@@ -1,0 +1,3342 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2020-10-06",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangkok",
+    "dates": [
+      "2017-11-23"
+    ],
+    "event": {
+      "name": "ICC Women's World Twenty20 Qualifying Series Asia Region",
+      "match_number": 7
+    },
+    "gender": "female",
+    "match_type": "IT20",
+    "officials": {
+      "reserve_umpires": [
+        "B Ramani"
+      ],
+      "umpires": [
+        "AK Rana",
+        "V Kalidas"
+      ]
+    },
+    "outcome": {
+      "winner": "Hong Kong",
+      "by": {
+        "runs": 52
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "KK Gill"
+    ],
+    "players": {
+      "Hong Kong": [
+        "KK Gill",
+        "Y Daswani",
+        "M Hill",
+        "KY Chan",
+        "Shanzeen Shahzad",
+        "Chan Ka Man",
+        "MBA Lamplough",
+        "Chan Sau Har",
+        "JM Davies",
+        "Bella Poon",
+        "WK Lai"
+      ],
+      "China": [
+        "Zhang Chan",
+        "Liu Xiaonan",
+        "C Zhou",
+        "F Song",
+        "Z Lyu",
+        "Han Lili",
+        "Zhang Yanling",
+        "M Zhu",
+        "Zhang Xiangxue",
+        "LI Haoye",
+        "Wang Luo Wanyu"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AK Rana": "562d74d0",
+        "B Ramani": "92ad5353",
+        "Bella Poon": "84dc77ad",
+        "C Zhou": "5b84f3bc",
+        "Chan Ka Man": "c4022bff",
+        "Chan Sau Har": "3c567308",
+        "F Song": "72a025a0",
+        "Han Lili": "cd7134f5",
+        "JM Davies": "18016785",
+        "KK Gill": "b3f390aa",
+        "KY Chan": "6348c6e9",
+        "LI Haoye": "fe7ba5cf",
+        "Liu Xiaonan": "279f075e",
+        "M Hill": "bf5e7711",
+        "M Zhu": "36c3302e",
+        "MBA Lamplough": "997fffbe",
+        "Shanzeen Shahzad": "ce291858",
+        "V Kalidas": "42d76418",
+        "WK Lai": "6ab99b17",
+        "Wang Luo Wanyu": "adbeaa6f",
+        "Y Daswani": "2038a273",
+        "Z Lyu": "5a058533",
+        "Zhang Chan": "d21f6f26",
+        "Zhang Xiangxue": "13fdbc7e",
+        "Zhang Yanling": "963bb0c7"
+      }
+    },
+    "season": "2017/18",
+    "team_type": "international",
+    "teams": [
+      "Hong Kong",
+      "China"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Hong Kong"
+    },
+    "venue": "Asian Institute of Technology Ground"
+  },
+  "innings": [
+    {
+      "team": "Hong Kong",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "KK Gill",
+              "bowler": "Z Lyu",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "KK Gill",
+              "bowler": "Z Lyu",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "KK Gill",
+              "bowler": "Z Lyu",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "KK Gill",
+              "bowler": "Z Lyu",
+              "non_striker": "Y Daswani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Y Daswani",
+              "bowler": "Z Lyu",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Y Daswani",
+                  "fielders": [
+                    {
+                      "name": "Liu Xiaonan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "M Hill",
+              "bowler": "Z Lyu",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "KK Gill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "M Hill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "KK Gill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "KK Gill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "KK Gill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "M Hill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "KK Gill",
+              "bowler": "Z Lyu",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "M Hill",
+              "bowler": "Z Lyu",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "M Hill",
+              "bowler": "Z Lyu",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "M Hill",
+              "bowler": "Z Lyu",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "M Hill",
+              "bowler": "Z Lyu",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "KK Gill",
+              "bowler": "Z Lyu",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "M Hill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "KK Gill",
+              "bowler": "Zhang Xiangxue",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "M Hill",
+              "bowler": "Zhang Xiangxue",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "KK Gill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "KK Gill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "KK Gill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "M Hill",
+              "bowler": "LI Haoye",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "M Hill",
+              "bowler": "LI Haoye",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "M Hill",
+              "bowler": "LI Haoye",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "M Hill",
+              "bowler": "LI Haoye",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "M Hill",
+              "bowler": "LI Haoye",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "KK Gill",
+              "bowler": "LI Haoye",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "M Hill",
+              "bowler": "M Zhu",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "M Hill",
+              "bowler": "M Zhu",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "M Hill",
+              "bowler": "M Zhu",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "KK Gill",
+              "bowler": "M Zhu",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "M Hill",
+              "bowler": "M Zhu",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "M Hill",
+              "bowler": "M Zhu",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "KK Gill",
+              "bowler": "LI Haoye",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "KK Gill",
+              "bowler": "LI Haoye",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "M Hill",
+              "bowler": "LI Haoye",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "M Hill",
+              "bowler": "LI Haoye",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "KK Gill",
+              "bowler": "LI Haoye",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "M Hill",
+              "bowler": "LI Haoye",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "KK Gill",
+              "bowler": "M Zhu",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "KK Gill",
+              "bowler": "M Zhu",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "M Hill",
+              "bowler": "M Zhu",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "KK Gill",
+              "bowler": "M Zhu",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "KK Gill",
+              "bowler": "M Zhu",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "KK Gill",
+              "bowler": "M Zhu",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "KK Gill",
+              "bowler": "LI Haoye",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "KK Gill",
+              "bowler": "LI Haoye",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "KK Gill",
+              "bowler": "LI Haoye",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "KK Gill",
+              "bowler": "LI Haoye",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "KK Gill",
+              "bowler": "LI Haoye",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "M Hill",
+              "bowler": "LI Haoye",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "M Hill",
+              "bowler": "LI Haoye",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "KK Gill",
+              "bowler": "Han Lili",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.1",
+              "batter": "KK Gill",
+              "bowler": "Han Lili",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "M Hill",
+              "bowler": "Han Lili",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "KK Gill",
+              "bowler": "Han Lili",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "KK Gill",
+              "bowler": "Han Lili",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "KK Gill",
+              "bowler": "Han Lili",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "KK Gill",
+              "bowler": "Han Lili",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "KK Gill",
+              "bowler": "LI Haoye",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "KK Gill",
+              "bowler": "LI Haoye",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "M Hill",
+              "bowler": "LI Haoye",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "KK Gill",
+              "bowler": "LI Haoye",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "M Hill",
+              "bowler": "LI Haoye",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "M Hill",
+              "bowler": "LI Haoye",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "M Hill",
+              "bowler": "Han Lili",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "M Hill",
+              "bowler": "Han Lili",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "M Hill",
+              "bowler": "Han Lili",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "M Hill",
+              "bowler": "Han Lili",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "KK Gill",
+              "bowler": "Han Lili",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "KK Gill",
+              "bowler": "Han Lili",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "M Hill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "M Hill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "M Hill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "M Hill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "M Hill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "M Hill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "M Hill",
+              "bowler": "C Zhou",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.1",
+              "batter": "M Hill",
+              "bowler": "C Zhou",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.1",
+              "batter": "M Hill",
+              "bowler": "C Zhou",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.1",
+              "batter": "M Hill",
+              "bowler": "C Zhou",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "13.1",
+              "batter": "M Hill",
+              "bowler": "C Zhou",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.1",
+              "batter": "KK Gill",
+              "bowler": "C Zhou",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "M Hill",
+              "bowler": "C Zhou",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "M Hill",
+              "bowler": "C Zhou",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "KK Gill",
+              "bowler": "C Zhou",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "KK Gill",
+              "bowler": "C Zhou",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "KK Gill",
+              "bowler": "C Zhou",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "KK Gill",
+              "bowler": "C Zhou",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "M Hill",
+              "bowler": "C Zhou",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "KK Gill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "M Hill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "KK Gill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "KK Gill",
+              "bowler": "Zhang Xiangxue",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "KK Gill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "M Hill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "M Hill",
+              "bowler": "Zhang Xiangxue",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "M Hill",
+              "bowler": "Han Lili",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.1",
+              "batter": "M Hill",
+              "bowler": "Han Lili",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "KK Gill",
+              "bowler": "Han Lili",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "KK Gill",
+              "bowler": "Han Lili",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "M Hill",
+              "bowler": "Han Lili",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "M Hill",
+              "bowler": "Han Lili",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "M Hill",
+              "bowler": "Han Lili",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "KK Gill",
+              "bowler": "M Zhu",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "M Hill",
+              "bowler": "M Zhu",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "M Hill",
+              "bowler": "M Zhu",
+              "non_striker": "KK Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "KK Gill",
+              "bowler": "M Zhu",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "KK Gill",
+              "bowler": "M Zhu",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KK Gill",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "KY Chan",
+              "bowler": "M Zhu",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "KY Chan",
+              "bowler": "Z Lyu",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "KY Chan",
+              "bowler": "Z Lyu",
+              "non_striker": "M Hill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "M Hill",
+              "bowler": "Z Lyu",
+              "non_striker": "KY Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Hill",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Shanzeen Shahzad",
+              "bowler": "Z Lyu",
+              "non_striker": "KY Chan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "KY Chan",
+              "bowler": "Z Lyu",
+              "non_striker": "Shanzeen Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Shanzeen Shahzad",
+              "bowler": "Z Lyu",
+              "non_striker": "KY Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "KY Chan",
+              "bowler": "Han Lili",
+              "non_striker": "Shanzeen Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Shanzeen Shahzad",
+              "bowler": "Han Lili",
+              "non_striker": "KY Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Shanzeen Shahzad",
+              "bowler": "Han Lili",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KY Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Shanzeen Shahzad",
+              "bowler": "Han Lili",
+              "non_striker": "KY Chan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Shanzeen Shahzad",
+              "bowler": "Han Lili",
+              "non_striker": "KY Chan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "KY Chan",
+              "bowler": "Han Lili",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shanzeen Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "KY Chan",
+              "bowler": "Han Lili",
+              "non_striker": "Shanzeen Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Shanzeen Shahzad",
+              "bowler": "Han Lili",
+              "non_striker": "KY Chan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Shanzeen Shahzad",
+              "bowler": "Z Lyu",
+              "non_striker": "KY Chan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Shanzeen Shahzad",
+              "bowler": "Z Lyu",
+              "non_striker": "KY Chan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "KY Chan",
+              "bowler": "Z Lyu",
+              "non_striker": "Shanzeen Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "KY Chan",
+              "bowler": "Z Lyu",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Shanzeen Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Shanzeen Shahzad",
+              "bowler": "Z Lyu",
+              "non_striker": "KY Chan",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "KY Chan",
+              "bowler": "Z Lyu",
+              "non_striker": "Shanzeen Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "KY Chan",
+              "bowler": "Z Lyu",
+              "non_striker": "Shanzeen Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KY Chan",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "China",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Zhang Chan",
+              "bowler": "Chan Ka Man",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "Zhang Chan",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Zhang Chan",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Zhang Chan",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Zhang Chan",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Zhang Chan",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Liu Xiaonan",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Zhang Chan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Zhang Chan",
+              "bowler": "MBA Lamplough",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Zhang Chan",
+              "bowler": "MBA Lamplough",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Zhang Chan",
+              "bowler": "MBA Lamplough",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Zhang Chan",
+              "bowler": "MBA Lamplough",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Zhang Chan",
+              "bowler": "MBA Lamplough",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Zhang Chan",
+              "bowler": "MBA Lamplough",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zhang Chan",
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "C Zhou",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "C Zhou",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "C Zhou",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "C Zhou",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "C Zhou",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Liu Xiaonan",
+              "bowler": "Chan Ka Man",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "C Zhou",
+              "bowler": "MBA Lamplough",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "C Zhou",
+              "bowler": "MBA Lamplough",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "C Zhou",
+              "bowler": "MBA Lamplough",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Liu Xiaonan",
+              "bowler": "MBA Lamplough",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Liu Xiaonan",
+              "bowler": "MBA Lamplough",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Liu Xiaonan",
+              "bowler": "MBA Lamplough",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Liu Xiaonan",
+              "bowler": "MBA Lamplough",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "C Zhou",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "C Zhou",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "C Zhou",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "C Zhou",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "C Zhou",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "C Zhou",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "C Zhou",
+              "bowler": "KK Gill",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.1",
+              "batter": "C Zhou",
+              "bowler": "KK Gill",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "C Zhou",
+              "bowler": "KK Gill",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "C Zhou",
+              "bowler": "KK Gill",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Liu Xiaonan",
+              "bowler": "KK Gill",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Liu Xiaonan",
+              "bowler": "KK Gill",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Liu Xiaonan",
+              "bowler": "KK Gill",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "C Zhou",
+              "bowler": "Chan Sau Har",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "C Zhou",
+              "bowler": "Chan Sau Har",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "C Zhou",
+              "bowler": "Chan Sau Har",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Liu Xiaonan",
+              "bowler": "Chan Sau Har",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Liu Xiaonan",
+              "bowler": "Chan Sau Har",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Liu Xiaonan",
+              "bowler": "Chan Sau Har",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "C Zhou",
+              "bowler": "KK Gill",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "C Zhou",
+              "bowler": "KK Gill",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "C Zhou",
+              "bowler": "KK Gill",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "C Zhou",
+              "bowler": "KK Gill",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "C Zhou",
+              "bowler": "KK Gill",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Liu Xiaonan",
+              "bowler": "KK Gill",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "C Zhou",
+              "bowler": "Chan Sau Har",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "C Zhou",
+              "bowler": "Chan Sau Har",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "C Zhou",
+              "bowler": "Chan Sau Har",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "C Zhou",
+              "bowler": "Chan Sau Har",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Liu Xiaonan",
+              "bowler": "Chan Sau Har",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Liu Xiaonan",
+              "bowler": "Chan Sau Har",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Liu Xiaonan",
+              "bowler": "M Hill",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Liu Xiaonan",
+              "bowler": "M Hill",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Liu Xiaonan",
+              "bowler": "M Hill",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "C Zhou",
+              "bowler": "M Hill",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "C Zhou",
+              "bowler": "M Hill",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "C Zhou",
+              "bowler": "M Hill",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Liu Xiaonan",
+              "bowler": "Chan Sau Har",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "C Zhou",
+              "bowler": "Chan Sau Har",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "C Zhou",
+              "bowler": "Chan Sau Har",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "C Zhou",
+              "bowler": "Chan Sau Har",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Liu Xiaonan",
+              "bowler": "Chan Sau Har",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "C Zhou",
+              "bowler": "Chan Sau Har",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Liu Xiaonan",
+              "bowler": "M Hill",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Liu Xiaonan",
+              "bowler": "M Hill",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Liu Xiaonan",
+              "bowler": "M Hill",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Liu Xiaonan",
+              "bowler": "M Hill",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Liu Xiaonan",
+              "bowler": "M Hill",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Liu Xiaonan",
+              "bowler": "M Hill",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "C Zhou",
+              "bowler": "Chan Sau Har",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "C Zhou",
+              "bowler": "Chan Sau Har",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Liu Xiaonan",
+              "bowler": "Chan Sau Har",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "C Zhou",
+              "bowler": "Chan Sau Har",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "C Zhou",
+              "bowler": "Chan Sau Har",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Liu Xiaonan",
+              "bowler": "Chan Sau Har",
+              "non_striker": "C Zhou",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "C Zhou",
+              "bowler": "Chan Sau Har",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Zhou",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Liu Xiaonan",
+              "bowler": "KK Gill",
+              "non_striker": "F Song",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "F Song",
+              "bowler": "KK Gill",
+              "non_striker": "Liu Xiaonan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Liu Xiaonan",
+              "bowler": "KK Gill",
+              "non_striker": "F Song",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Liu Xiaonan",
+                  "fielders": [
+                    {
+                      "name": "Y Daswani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Z Lyu",
+              "bowler": "KK Gill",
+              "non_striker": "F Song",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Z Lyu",
+              "bowler": "KK Gill",
+              "non_striker": "F Song",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Z Lyu",
+              "bowler": "KK Gill",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "F Song",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Z Lyu",
+              "bowler": "Shanzeen Shahzad",
+              "non_striker": "F Song",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Z Lyu",
+              "bowler": "Shanzeen Shahzad",
+              "non_striker": "F Song",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Z Lyu",
+              "bowler": "Shanzeen Shahzad",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "F Song",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "F Song",
+              "bowler": "Shanzeen Shahzad",
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F Song",
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Han Lili",
+              "bowler": "Shanzeen Shahzad",
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Z Lyu",
+              "bowler": "Shanzeen Shahzad",
+              "non_striker": "Han Lili",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Han Lili",
+              "bowler": "KK Gill",
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Han Lili",
+              "bowler": "KK Gill",
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Z Lyu",
+              "bowler": "KK Gill",
+              "non_striker": "Han Lili",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Z Lyu",
+              "bowler": "KK Gill",
+              "non_striker": "Han Lili",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Z Lyu",
+              "bowler": "KK Gill",
+              "non_striker": "Han Lili",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Z Lyu",
+              "bowler": "KK Gill",
+              "non_striker": "Han Lili",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Han Lili",
+              "bowler": "MBA Lamplough",
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Han Lili",
+              "bowler": "MBA Lamplough",
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Han Lili",
+              "bowler": "MBA Lamplough",
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Han Lili",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Zhang Yanling",
+              "bowler": "MBA Lamplough",
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Zhang Yanling",
+              "bowler": "MBA Lamplough",
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Zhang Yanling",
+              "bowler": "MBA Lamplough",
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zhang Yanling",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "M Zhu",
+              "bowler": "M Hill",
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "M Zhu",
+              "bowler": "M Hill",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "M Zhu",
+              "bowler": "M Hill",
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "M Zhu",
+              "bowler": "M Hill",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "M Zhu",
+              "bowler": "M Hill",
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Z Lyu",
+              "bowler": "M Hill",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "M Zhu",
+              "bowler": "M Hill",
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "M Zhu",
+              "bowler": "M Hill",
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Z Lyu",
+              "bowler": "MBA Lamplough",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Z Lyu",
+              "bowler": "MBA Lamplough",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Z Lyu",
+              "bowler": "MBA Lamplough",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "M Zhu",
+              "bowler": "MBA Lamplough",
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "M Zhu",
+              "bowler": "MBA Lamplough",
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "M Zhu",
+              "bowler": "MBA Lamplough",
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Z Lyu",
+              "bowler": "Chan Ka Man",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Z Lyu",
+              "bowler": "Chan Ka Man",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Z Lyu",
+              "bowler": "Chan Ka Man",
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "M Zhu",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "M Zhu",
+              "bowler": "Chan Ka Man",
+              "non_striker": "Z Lyu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Z Lyu",
+              "bowler": "Chan Ka Man",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M Zhu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 130
+      }
+    }
+  ]
+}

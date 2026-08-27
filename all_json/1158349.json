@@ -1,0 +1,3741 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2020-06-25",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Gaborone",
+    "dates": [
+      "2018-08-21"
+    ],
+    "event": {
+      "name": "Botswana Cricket Association Women's T20I Series",
+      "match_number": 6
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 474,
+    "missing": [
+      "umpires",
+      "player_of_match"
+    ],
+    "outcome": {
+      "winner": "Mozambique",
+      "by": {
+        "runs": 70
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Mozambique": [
+        "O Mondlane",
+        "M Matine",
+        "E Moiane",
+        "P Cuinica",
+        "C Magaia",
+        "F Guirrugo",
+        "A Cossa",
+        "O Matsolo",
+        "C Murrombe",
+        "I Chuma",
+        "A Salomao"
+      ],
+      "Lesotho": [
+        "T Kobeli",
+        "T Khabo",
+        "T Ramabitsa",
+        "B Lekau",
+        "M Tsarsi",
+        "P Pheko",
+        "B Phelenyane",
+        "M Moalosi",
+        "R Khasana",
+        "T Koloi",
+        "M Mohasane"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Cossa": "ef160d73",
+        "A Salomao": "04e145f4",
+        "B Lekau": "2fdcecae",
+        "B Phelenyane": "c982ad6f",
+        "C Magaia": "bb4d1237",
+        "C Murrombe": "2cf802eb",
+        "E Moiane": "17f2fbf4",
+        "F Guirrugo": "1745c7d4",
+        "I Chuma": "b1021056",
+        "M Matine": "021b4be9",
+        "M Moalosi": "34628c4a",
+        "M Mohasane": "210aa845",
+        "M Tsarsi": "0f42a805",
+        "O Matsolo": "3c4a62c4",
+        "O Mondlane": "7f97139f",
+        "P Cuinica": "efca38df",
+        "P Pheko": "24e0b90f",
+        "R Khasana": "5a6b2c1d",
+        "T Khabo": "7be9cb29",
+        "T Kobeli": "10f52b3a",
+        "T Koloi": "97b1bd58",
+        "T Ramabitsa": "3a341948"
+      }
+    },
+    "season": "2018",
+    "team_type": "international",
+    "teams": [
+      "Mozambique",
+      "Lesotho"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Lesotho"
+    },
+    "venue": "Botswana Cricket Association Oval 2"
+  },
+  "innings": [
+    {
+      "team": "Mozambique",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "O Mondlane",
+              "bowler": "B Lekau",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "O Mondlane",
+              "bowler": "B Lekau",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "O Mondlane",
+              "bowler": "B Lekau",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "O Mondlane",
+              "bowler": "B Lekau",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "M Matine",
+              "bowler": "B Lekau",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "M Matine",
+              "bowler": "B Lekau",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "O Mondlane",
+              "bowler": "B Lekau",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "M Matine",
+              "bowler": "T Khabo",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "M Matine",
+              "bowler": "T Khabo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "M Matine",
+              "bowler": "T Khabo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "M Matine",
+              "bowler": "T Khabo",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "M Matine",
+              "bowler": "T Khabo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "M Matine",
+              "bowler": "T Khabo",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "O Mondlane",
+              "bowler": "T Khabo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "O Mondlane",
+              "bowler": "T Khabo",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "O Mondlane",
+              "bowler": "T Khabo",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "O Mondlane",
+              "bowler": "T Khabo",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "M Matine",
+              "bowler": "B Lekau",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.1",
+              "batter": "M Matine",
+              "bowler": "B Lekau",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "O Mondlane",
+              "bowler": "B Lekau",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "O Mondlane",
+              "bowler": "B Lekau",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "M Matine",
+              "bowler": "B Lekau",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "O Mondlane",
+              "bowler": "B Lekau",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "O Mondlane",
+              "bowler": "B Lekau",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "O Mondlane",
+              "bowler": "B Lekau",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "O Mondlane",
+              "bowler": "T Khabo",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "O Mondlane",
+              "bowler": "T Khabo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "O Mondlane",
+              "bowler": "T Khabo",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "O Mondlane",
+              "bowler": "T Khabo",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "O Mondlane",
+              "bowler": "T Khabo",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "O Mondlane",
+              "bowler": "T Khabo",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "O Mondlane",
+              "bowler": "T Khabo",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "O Mondlane",
+              "bowler": "B Lekau",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "O Mondlane",
+              "bowler": "B Lekau",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "O Mondlane",
+              "bowler": "B Lekau",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "O Mondlane",
+              "bowler": "B Lekau",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "O Mondlane",
+              "bowler": "B Lekau",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "O Mondlane",
+              "bowler": "B Lekau",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "O Mondlane",
+              "bowler": "T Khabo",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "O Mondlane",
+              "bowler": "T Khabo",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "O Mondlane",
+              "bowler": "T Khabo",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "O Mondlane",
+              "bowler": "T Khabo",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "O Mondlane",
+              "bowler": "T Khabo",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "O Mondlane",
+              "bowler": "T Khabo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "O Mondlane",
+              "bowler": "T Khabo",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "M Matine",
+              "bowler": "R Khasana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.1",
+              "batter": "M Matine",
+              "bowler": "R Khasana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.1",
+              "batter": "O Mondlane",
+              "bowler": "R Khasana",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "O Mondlane",
+              "bowler": "R Khasana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "O Mondlane",
+              "bowler": "R Khasana",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "M Matine",
+              "bowler": "R Khasana",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "O Mondlane",
+              "bowler": "R Khasana",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "O Mondlane",
+              "bowler": "R Khasana",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "O Mondlane",
+              "bowler": "R Khasana",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "O Mondlane",
+              "bowler": "R Khasana",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "O Mondlane",
+              "bowler": "B Phelenyane",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "M Matine",
+              "bowler": "B Phelenyane",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "O Mondlane",
+              "bowler": "B Phelenyane",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "O Mondlane",
+              "bowler": "B Phelenyane",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "O Mondlane",
+              "bowler": "B Phelenyane",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "O Mondlane",
+              "bowler": "B Phelenyane",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "M Matine",
+              "bowler": "R Khasana",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.1",
+              "batter": "O Mondlane",
+              "bowler": "R Khasana",
+              "non_striker": "M Matine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "M Matine",
+              "bowler": "R Khasana",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Matine",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "E Moiane",
+              "bowler": "R Khasana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "E Moiane",
+              "bowler": "R Khasana",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "E Moiane",
+              "bowler": "R Khasana",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "E Moiane",
+              "bowler": "R Khasana",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "E Moiane",
+              "bowler": "R Khasana",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "O Mondlane",
+              "bowler": "B Phelenyane",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "O Mondlane",
+              "bowler": "B Phelenyane",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "O Mondlane",
+              "bowler": "B Phelenyane",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "O Mondlane",
+              "bowler": "B Phelenyane",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "O Mondlane",
+              "bowler": "B Phelenyane",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "O Mondlane",
+              "bowler": "B Phelenyane",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "O Mondlane",
+              "bowler": "B Phelenyane",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "O Mondlane",
+              "bowler": "R Khasana",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "O Mondlane",
+              "bowler": "R Khasana",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "O Mondlane",
+              "bowler": "R Khasana",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "O Mondlane",
+              "bowler": "R Khasana",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "O Mondlane",
+              "bowler": "R Khasana",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "O Mondlane",
+              "bowler": "R Khasana",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "O Mondlane",
+              "bowler": "B Phelenyane",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "E Moiane",
+              "bowler": "B Phelenyane",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "E Moiane",
+              "bowler": "B Phelenyane",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "O Mondlane",
+              "bowler": "B Phelenyane",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "O Mondlane",
+              "bowler": "B Phelenyane",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "O Mondlane",
+              "bowler": "B Phelenyane",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "O Mondlane",
+              "bowler": "B Phelenyane",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "E Moiane",
+              "bowler": "T Ramabitsa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.1",
+              "batter": "E Moiane",
+              "bowler": "T Ramabitsa",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "E Moiane",
+              "bowler": "T Ramabitsa",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "O Mondlane",
+              "bowler": "T Ramabitsa",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "O Mondlane",
+              "bowler": "T Ramabitsa",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "E Moiane",
+              "bowler": "T Ramabitsa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "E Moiane",
+              "bowler": "T Ramabitsa",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "E Moiane",
+              "bowler": "T Ramabitsa",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "O Mondlane",
+              "bowler": "T Koloi",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "O Mondlane",
+              "bowler": "T Koloi",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "O Mondlane",
+              "bowler": "T Koloi",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "O Mondlane",
+              "bowler": "T Koloi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "O Mondlane",
+              "bowler": "T Koloi",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "E Moiane",
+              "bowler": "T Koloi",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "E Moiane",
+              "bowler": "T Koloi",
+              "non_striker": "O Mondlane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "O Mondlane",
+              "bowler": "T Ramabitsa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.1",
+              "batter": "O Mondlane",
+              "bowler": "T Ramabitsa",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "O Mondlane",
+              "bowler": "T Ramabitsa",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "O Mondlane",
+              "bowler": "T Ramabitsa",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "O Mondlane",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "P Cuinica",
+              "bowler": "T Ramabitsa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "P Cuinica",
+              "bowler": "T Ramabitsa",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "E Moiane",
+              "bowler": "T Ramabitsa",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "P Cuinica",
+              "bowler": "T Ramabitsa",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "E Moiane",
+              "bowler": "T Koloi",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "P Cuinica",
+              "bowler": "T Koloi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "P Cuinica",
+              "bowler": "T Koloi",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "E Moiane",
+              "bowler": "T Koloi",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "E Moiane",
+              "bowler": "T Koloi",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "E Moiane",
+              "bowler": "T Koloi",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "E Moiane",
+              "bowler": "T Koloi",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "P Cuinica",
+              "bowler": "T Ramabitsa",
+              "non_striker": "E Moiane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "E Moiane",
+              "bowler": "T Ramabitsa",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Moiane",
+                  "fielders": [
+                    {
+                      "name": "P Pheko"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "C Magaia",
+              "bowler": "T Ramabitsa",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "P Cuinica",
+              "bowler": "T Ramabitsa",
+              "non_striker": "C Magaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "P Cuinica",
+              "bowler": "T Ramabitsa",
+              "non_striker": "C Magaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "P Cuinica",
+              "bowler": "T Ramabitsa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Magaia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "P Cuinica",
+              "bowler": "T Ramabitsa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Magaia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "P Cuinica",
+              "bowler": "T Ramabitsa",
+              "non_striker": "C Magaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "C Magaia",
+              "bowler": "T Koloi",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "C Magaia",
+              "bowler": "T Koloi",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "C Magaia",
+              "bowler": "T Koloi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "C Magaia",
+              "bowler": "T Koloi",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "P Cuinica",
+              "bowler": "T Koloi",
+              "non_striker": "C Magaia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "P Cuinica",
+              "bowler": "T Koloi",
+              "non_striker": "C Magaia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "C Magaia",
+              "bowler": "T Koloi",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "P Cuinica",
+              "bowler": "B Lekau",
+              "non_striker": "C Magaia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "C Magaia",
+              "bowler": "B Lekau",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "C Magaia",
+              "bowler": "B Lekau",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "P Cuinica",
+              "bowler": "B Lekau",
+              "non_striker": "C Magaia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "P Cuinica",
+              "bowler": "B Lekau",
+              "non_striker": "C Magaia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "P Cuinica",
+              "bowler": "B Lekau",
+              "non_striker": "C Magaia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "P Cuinica",
+              "bowler": "B Lekau",
+              "non_striker": "C Magaia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "C Magaia",
+              "bowler": "B Phelenyane",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "C Magaia",
+              "bowler": "B Phelenyane",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "C Magaia",
+              "bowler": "B Phelenyane",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "C Magaia",
+              "bowler": "B Phelenyane",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "C Magaia",
+              "bowler": "B Phelenyane",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "C Magaia",
+              "bowler": "B Phelenyane",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "C Magaia",
+              "bowler": "B Phelenyane",
+              "non_striker": "P Cuinica",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Lesotho",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "T Kobeli",
+              "bowler": "P Cuinica",
+              "non_striker": "T Khabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "T Khabo",
+              "bowler": "P Cuinica",
+              "non_striker": "T Kobeli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "T Khabo",
+              "bowler": "P Cuinica",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Kobeli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "T Khabo",
+              "bowler": "P Cuinica",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "T Kobeli",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "T Kobeli",
+              "bowler": "P Cuinica",
+              "non_striker": "T Khabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "T Khabo",
+              "bowler": "P Cuinica",
+              "non_striker": "T Kobeli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "T Khabo",
+              "bowler": "P Cuinica",
+              "non_striker": "T Kobeli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "T Khabo",
+              "bowler": "P Cuinica",
+              "non_striker": "T Kobeli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "T Kobeli",
+              "bowler": "A Salomao",
+              "non_striker": "T Khabo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "T Kobeli",
+              "bowler": "A Salomao",
+              "non_striker": "T Khabo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "T Khabo",
+              "bowler": "A Salomao",
+              "non_striker": "T Kobeli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "T Khabo",
+              "bowler": "A Salomao",
+              "non_striker": "T Kobeli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "T Khabo",
+              "bowler": "A Salomao",
+              "non_striker": "T Kobeli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Khabo",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "T Ramabitsa",
+              "bowler": "A Salomao",
+              "non_striker": "T Kobeli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "T Kobeli",
+              "bowler": "P Cuinica",
+              "non_striker": "T Ramabitsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Kobeli",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "B Lekau",
+              "bowler": "P Cuinica",
+              "non_striker": "T Ramabitsa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "B Lekau",
+              "bowler": "P Cuinica",
+              "non_striker": "T Ramabitsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "B Lekau",
+              "bowler": "P Cuinica",
+              "non_striker": "T Ramabitsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "B Lekau",
+              "bowler": "P Cuinica",
+              "non_striker": "T Ramabitsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "B Lekau",
+              "bowler": "P Cuinica",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Ramabitsa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "B Lekau",
+              "bowler": "P Cuinica",
+              "non_striker": "T Ramabitsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "T Ramabitsa",
+              "bowler": "A Salomao",
+              "non_striker": "B Lekau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "T Ramabitsa",
+              "bowler": "A Salomao",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Lekau",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "T Ramabitsa",
+              "bowler": "A Salomao",
+              "non_striker": "B Lekau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "T Ramabitsa",
+              "bowler": "A Salomao",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Lekau",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "T Ramabitsa",
+              "bowler": "A Salomao",
+              "non_striker": "B Lekau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "T Ramabitsa",
+              "bowler": "A Salomao",
+              "non_striker": "B Lekau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "B Lekau",
+              "bowler": "A Salomao",
+              "non_striker": "T Ramabitsa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "T Ramabitsa",
+              "bowler": "A Salomao",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Lekau",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "T Ramabitsa",
+              "bowler": "A Salomao",
+              "non_striker": "B Lekau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Ramabitsa",
+                  "fielders": [
+                    {
+                      "name": "E Moiane"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "B Lekau",
+              "bowler": "P Cuinica",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "B Lekau",
+              "bowler": "P Cuinica",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "B Lekau",
+              "bowler": "P Cuinica",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "B Lekau",
+              "bowler": "P Cuinica",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "B Lekau",
+              "bowler": "P Cuinica",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "B Lekau",
+              "bowler": "P Cuinica",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "B Lekau",
+              "bowler": "P Cuinica",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "B Lekau",
+              "bowler": "P Cuinica",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "B Lekau",
+              "bowler": "P Cuinica",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "M Tsarsi",
+              "bowler": "I Chuma",
+              "non_striker": "B Lekau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "M Tsarsi",
+              "bowler": "I Chuma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Lekau",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "M Tsarsi",
+              "bowler": "I Chuma",
+              "non_striker": "B Lekau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "M Tsarsi",
+              "bowler": "I Chuma",
+              "non_striker": "B Lekau",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "B Lekau",
+              "bowler": "I Chuma",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "B Lekau",
+              "bowler": "I Chuma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "B Lekau",
+              "bowler": "I Chuma",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "B Lekau",
+              "bowler": "I Chuma",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "B Lekau",
+              "bowler": "I Chuma",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "M Tsarsi",
+              "bowler": "P Cuinica",
+              "non_striker": "B Lekau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "M Tsarsi",
+              "bowler": "P Cuinica",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Lekau",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "M Tsarsi",
+              "bowler": "P Cuinica",
+              "non_striker": "B Lekau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "M Tsarsi",
+              "bowler": "P Cuinica",
+              "non_striker": "B Lekau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "M Tsarsi",
+              "bowler": "P Cuinica",
+              "non_striker": "B Lekau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "M Tsarsi",
+              "bowler": "P Cuinica",
+              "non_striker": "B Lekau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "M Tsarsi",
+              "bowler": "P Cuinica",
+              "non_striker": "B Lekau",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "B Lekau",
+              "bowler": "I Chuma",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Lekau",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "P Pheko",
+              "bowler": "I Chuma",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "P Pheko",
+              "bowler": "I Chuma",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "P Pheko",
+              "bowler": "I Chuma",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "P Pheko",
+              "bowler": "I Chuma",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "P Pheko",
+              "bowler": "I Chuma",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "M Tsarsi",
+              "bowler": "O Matsolo",
+              "non_striker": "P Pheko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "M Tsarsi",
+              "bowler": "O Matsolo",
+              "non_striker": "P Pheko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "M Tsarsi",
+              "bowler": "O Matsolo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Pheko",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "M Tsarsi",
+              "bowler": "O Matsolo",
+              "non_striker": "P Pheko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "P Pheko",
+              "bowler": "O Matsolo",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "P Pheko",
+              "bowler": "O Matsolo",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "P Pheko",
+              "bowler": "O Matsolo",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "M Tsarsi",
+              "bowler": "I Chuma",
+              "non_striker": "P Pheko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "M Tsarsi",
+              "bowler": "I Chuma",
+              "non_striker": "P Pheko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "M Tsarsi",
+              "bowler": "I Chuma",
+              "non_striker": "P Pheko",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "M Tsarsi",
+              "bowler": "I Chuma",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "P Pheko",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "P Pheko",
+              "bowler": "I Chuma",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "P Pheko",
+              "bowler": "I Chuma",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "M Tsarsi",
+              "bowler": "I Chuma",
+              "non_striker": "P Pheko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "P Pheko",
+              "bowler": "O Matsolo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.1",
+              "batter": "P Pheko",
+              "bowler": "O Matsolo",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "P Pheko",
+              "bowler": "O Matsolo",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "P Pheko",
+              "bowler": "O Matsolo",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "P Pheko",
+              "bowler": "O Matsolo",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "P Pheko",
+              "bowler": "O Matsolo",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "P Pheko",
+              "bowler": "O Matsolo",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "P Pheko",
+              "bowler": "I Chuma",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Pheko",
+                  "fielders": [
+                    {
+                      "name": "E Moiane"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "B Phelenyane",
+              "bowler": "I Chuma",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "B Phelenyane",
+              "bowler": "I Chuma",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "B Phelenyane",
+              "bowler": "I Chuma",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "M Tsarsi",
+              "bowler": "I Chuma",
+              "non_striker": "B Phelenyane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "M Tsarsi",
+              "bowler": "I Chuma",
+              "non_striker": "B Phelenyane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "B Phelenyane",
+              "bowler": "O Matsolo",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "B Phelenyane",
+              "bowler": "O Matsolo",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "M Tsarsi",
+              "bowler": "O Matsolo",
+              "non_striker": "B Phelenyane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "M Tsarsi",
+              "bowler": "O Matsolo",
+              "non_striker": "B Phelenyane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "M Tsarsi",
+              "bowler": "O Matsolo",
+              "non_striker": "B Phelenyane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "B Phelenyane",
+              "bowler": "O Matsolo",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "M Tsarsi",
+              "bowler": "O Matsolo",
+              "non_striker": "B Phelenyane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "M Tsarsi",
+              "bowler": "A Salomao",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "B Phelenyane",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.1",
+              "batter": "B Phelenyane",
+              "bowler": "A Salomao",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.1",
+              "batter": "M Tsarsi",
+              "bowler": "A Salomao",
+              "non_striker": "B Phelenyane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "M Tsarsi",
+              "bowler": "A Salomao",
+              "non_striker": "B Phelenyane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "M Tsarsi",
+              "bowler": "A Salomao",
+              "non_striker": "B Phelenyane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "M Tsarsi",
+              "bowler": "A Salomao",
+              "non_striker": "B Phelenyane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "M Tsarsi",
+              "bowler": "A Salomao",
+              "non_striker": "B Phelenyane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "M Tsarsi",
+              "bowler": "A Salomao",
+              "non_striker": "B Phelenyane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "B Phelenyane",
+              "bowler": "E Moiane",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "B Phelenyane",
+              "bowler": "E Moiane",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "M Tsarsi",
+              "bowler": "E Moiane",
+              "non_striker": "B Phelenyane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "M Tsarsi",
+              "bowler": "E Moiane",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Phelenyane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "M Tsarsi",
+              "bowler": "E Moiane",
+              "non_striker": "B Phelenyane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "M Tsarsi",
+              "bowler": "E Moiane",
+              "non_striker": "B Phelenyane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "M Tsarsi",
+              "bowler": "E Moiane",
+              "non_striker": "B Phelenyane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "B Phelenyane",
+              "bowler": "A Salomao",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "B Phelenyane",
+              "bowler": "A Salomao",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "B Phelenyane",
+              "bowler": "A Salomao",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "B Phelenyane",
+              "bowler": "A Salomao",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "B Phelenyane",
+              "bowler": "A Salomao",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Phelenyane",
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "M Moalosi",
+              "bowler": "A Salomao",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "M Moalosi",
+              "bowler": "A Salomao",
+              "non_striker": "M Tsarsi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "M Tsarsi",
+              "bowler": "E Moiane",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Moalosi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.1",
+              "batter": "M Tsarsi",
+              "bowler": "E Moiane",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Moalosi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.1",
+              "batter": "M Tsarsi",
+              "bowler": "E Moiane",
+              "non_striker": "M Moalosi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "M Tsarsi",
+              "bowler": "E Moiane",
+              "non_striker": "M Moalosi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "M Tsarsi",
+              "bowler": "E Moiane",
+              "non_striker": "M Moalosi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Tsarsi",
+                  "fielders": [
+                    {
+                      "name": "P Cuinica"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "R Khasana",
+              "bowler": "E Moiane",
+              "non_striker": "M Moalosi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "R Khasana",
+              "bowler": "E Moiane",
+              "non_striker": "M Moalosi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "R Khasana",
+              "bowler": "E Moiane",
+              "non_striker": "M Moalosi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "M Moalosi",
+              "bowler": "A Cossa",
+              "non_striker": "R Khasana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "R Khasana",
+              "bowler": "A Cossa",
+              "non_striker": "M Moalosi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "M Moalosi",
+              "bowler": "A Cossa",
+              "non_striker": "R Khasana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "M Moalosi",
+              "bowler": "A Cossa",
+              "non_striker": "R Khasana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "M Moalosi",
+              "bowler": "A Cossa",
+              "non_striker": "R Khasana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Moalosi",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "T Koloi",
+              "bowler": "A Cossa",
+              "non_striker": "R Khasana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "R Khasana",
+              "bowler": "E Moiane",
+              "non_striker": "T Koloi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "T Koloi",
+              "bowler": "E Moiane",
+              "non_striker": "R Khasana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "T Koloi",
+              "bowler": "E Moiane",
+              "non_striker": "R Khasana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "T Koloi",
+              "bowler": "E Moiane",
+              "non_striker": "R Khasana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Koloi",
+                  "fielders": [
+                    {
+                      "name": "M Matine"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "M Mohasane",
+              "bowler": "E Moiane",
+              "non_striker": "R Khasana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "R Khasana",
+              "bowler": "E Moiane",
+              "non_striker": "M Mohasane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "M Mohasane",
+              "bowler": "A Cossa",
+              "non_striker": "R Khasana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Mohasane",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.9,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 158
+      }
+    }
+  ]
+}

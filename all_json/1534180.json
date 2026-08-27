@@ -1,0 +1,2959 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-09",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kingstown",
+    "dates": [
+      "2026-08-08"
+    ],
+    "event": {
+      "name": "Caribbean Premier League",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "Denavon Hayles"
+      ],
+      "reserve_umpires": [
+        "Christopher Taylor"
+      ],
+      "tv_umpires": [
+        "DK Butler"
+      ],
+      "umpires": [
+        "LS Reifer",
+        "R Banwarie"
+      ]
+    },
+    "outcome": {
+      "winner": "Trinbago Knight Riders",
+      "by": {
+        "runs": 19
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "SP Narine"
+    ],
+    "players": {
+      "St Kitts and Nevis Patriots": [
+        "ADS Fletcher",
+        "J Charles",
+        "KR Mayers",
+        "A Athanaze",
+        "KO Wickham",
+        "JO Holder",
+        "N Bidaisee",
+        "AR Nedd",
+        "SN Netravalkar",
+        "OC McCoy",
+        "Waqar Salamkheil"
+      ],
+      "Trinbago Knight Riders": [
+        "C Munro",
+        "AD Hales",
+        "J Da Silva",
+        "MP Breetzke",
+        "JU Goolie",
+        "MW Tromp",
+        "T Hinds",
+        "AJ Hosein",
+        "SP Narine",
+        "DC Drakes",
+        "D Sween"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Athanaze": "58c2fac4",
+        "AD Hales": "92aeac25",
+        "ADS Fletcher": "1bae756b",
+        "AJ Hosein": "4d7f517e",
+        "AR Nedd": "92b7602a",
+        "C Munro": "af2c687b",
+        "Christopher Taylor": "1f50a44a",
+        "D Sween": "025c7a63",
+        "DC Drakes": "34b332d3",
+        "DK Butler": "671398e3",
+        "Denavon Hayles": "5cbeeb02",
+        "J Charles": "09a9d073",
+        "J Da Silva": "bab78fa2",
+        "JO Holder": "0f721006",
+        "JU Goolie": "92780e2f",
+        "KO Wickham": "211aeb65",
+        "KR Mayers": "73c18486",
+        "LS Reifer": "5dee559a",
+        "MP Breetzke": "35f173a0",
+        "MW Tromp": "568473e4",
+        "N Bidaisee": "af5b6464",
+        "OC McCoy": "529eb9e0",
+        "R Banwarie": "85dbb571",
+        "SN Netravalkar": "c8a3f688",
+        "SP Narine": "9d430b40",
+        "T Hinds": "45a62071",
+        "Waqar Salamkheil": "3f1066d0"
+      }
+    },
+    "season": "2026",
+    "team_type": "club",
+    "teams": [
+      "St Kitts and Nevis Patriots",
+      "Trinbago Knight Riders"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Trinbago Knight Riders"
+    },
+    "venue": "Arnos Vale Ground, Kingstown, St Vincent"
+  },
+  "innings": [
+    {
+      "team": "St Kitts and Nevis Patriots",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "ADS Fletcher",
+              "bowler": "AJ Hosein",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "ADS Fletcher",
+              "bowler": "AJ Hosein",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "ADS Fletcher",
+              "bowler": "AJ Hosein",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "ADS Fletcher",
+              "bowler": "AJ Hosein",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "ADS Fletcher",
+              "bowler": "AJ Hosein",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "ADS Fletcher",
+              "bowler": "AJ Hosein",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "J Charles",
+              "bowler": "SP Narine",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "J Charles",
+              "bowler": "SP Narine",
+              "non_striker": "ADS Fletcher",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "ADS Fletcher",
+              "bowler": "SP Narine",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "ADS Fletcher",
+              "bowler": "SP Narine",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "ADS Fletcher",
+              "bowler": "SP Narine",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ADS Fletcher",
+                  "fielders": [
+                    {
+                      "name": "JU Goolie"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "KR Mayers",
+              "bowler": "SP Narine",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "KR Mayers",
+              "bowler": "SP Narine",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KR Mayers",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "J Charles",
+              "bowler": "AJ Hosein",
+              "non_striker": "A Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "J Charles",
+              "bowler": "AJ Hosein",
+              "non_striker": "A Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "J Charles",
+              "bowler": "AJ Hosein",
+              "non_striker": "A Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "J Charles",
+              "bowler": "AJ Hosein",
+              "non_striker": "A Athanaze",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "J Charles",
+              "bowler": "AJ Hosein",
+              "non_striker": "A Athanaze",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "J Charles",
+              "bowler": "AJ Hosein",
+              "non_striker": "A Athanaze",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "A Athanaze",
+              "bowler": "SP Narine",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "A Athanaze",
+              "bowler": "SP Narine",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "A Athanaze",
+              "bowler": "SP Narine",
+              "non_striker": "J Charles",
+              "review": {
+                "by": "Trinbago Knight Riders",
+                "umpire": "LS Reifer",
+                "batter": "A Athanaze",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Athanaze",
+                  "fielders": [
+                    {
+                      "name": "JU Goolie"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "KO Wickham",
+              "bowler": "SP Narine",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "KO Wickham",
+              "bowler": "SP Narine",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "KO Wickham",
+              "bowler": "SP Narine",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "J Charles",
+              "bowler": "AJ Hosein",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "J Charles",
+              "bowler": "AJ Hosein",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "J Charles",
+              "bowler": "AJ Hosein",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "KO Wickham",
+              "bowler": "AJ Hosein",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "KO Wickham",
+              "bowler": "AJ Hosein",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "KO Wickham",
+              "bowler": "AJ Hosein",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "KO Wickham",
+              "bowler": "SP Narine",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "KO Wickham",
+              "bowler": "SP Narine",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "KO Wickham",
+              "bowler": "SP Narine",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "KO Wickham",
+              "bowler": "SP Narine",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "KO Wickham",
+              "bowler": "SP Narine",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "KO Wickham",
+              "bowler": "SP Narine",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "J Charles",
+              "bowler": "DC Drakes",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "J Charles",
+              "bowler": "DC Drakes",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "J Charles",
+              "bowler": "DC Drakes",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "KO Wickham",
+              "bowler": "DC Drakes",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "J Charles",
+              "bowler": "DC Drakes",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "J Charles",
+              "bowler": "DC Drakes",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "J Charles",
+              "bowler": "JU Goolie",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "J Charles",
+              "bowler": "JU Goolie",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "J Charles",
+              "bowler": "JU Goolie",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "KO Wickham",
+              "bowler": "JU Goolie",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "J Charles",
+              "bowler": "JU Goolie",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "KO Wickham",
+              "bowler": "JU Goolie",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "KO Wickham",
+              "bowler": "DC Drakes",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "KO Wickham",
+              "bowler": "DC Drakes",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "J Charles",
+              "bowler": "DC Drakes",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "J Charles",
+              "bowler": "DC Drakes",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "KO Wickham",
+              "bowler": "DC Drakes",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "J Charles",
+              "bowler": "DC Drakes",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "J Charles",
+              "bowler": "DC Drakes",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "J Charles",
+              "bowler": "JU Goolie",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "KO Wickham",
+              "bowler": "JU Goolie",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "J Charles",
+              "bowler": "JU Goolie",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Charles",
+                  "fielders": [
+                    {
+                      "name": "J Da Silva"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "JO Holder",
+              "bowler": "JU Goolie",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "KO Wickham",
+              "bowler": "JU Goolie",
+              "non_striker": "JO Holder",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "KO Wickham",
+              "bowler": "JU Goolie",
+              "non_striker": "JO Holder",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "JO Holder",
+              "bowler": "T Hinds",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "KO Wickham",
+              "bowler": "T Hinds",
+              "non_striker": "JO Holder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "JO Holder",
+              "bowler": "T Hinds",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "KO Wickham",
+              "bowler": "T Hinds",
+              "non_striker": "JO Holder",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "JO Holder",
+              "bowler": "T Hinds",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JO Holder",
+                  "fielders": [
+                    {
+                      "name": "AJ Hosein"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "N Bidaisee",
+              "bowler": "T Hinds",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Bidaisee",
+                  "fielders": [
+                    {
+                      "name": "J Da Silva"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "KO Wickham",
+              "bowler": "JU Goolie",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "KO Wickham",
+              "bowler": "JU Goolie",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "KO Wickham",
+              "bowler": "JU Goolie",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "KO Wickham",
+              "bowler": "JU Goolie",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "KO Wickham",
+              "bowler": "JU Goolie",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "AR Nedd",
+              "bowler": "JU Goolie",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "KO Wickham",
+              "bowler": "T Hinds",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "KO Wickham",
+              "bowler": "T Hinds",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "AR Nedd",
+              "bowler": "T Hinds",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "AR Nedd",
+              "bowler": "T Hinds",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "AR Nedd",
+              "bowler": "T Hinds",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "KO Wickham",
+              "bowler": "T Hinds",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "KO Wickham",
+              "bowler": "T Hinds",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "KO Wickham",
+              "bowler": "JU Goolie",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "AR Nedd",
+              "bowler": "JU Goolie",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "KO Wickham",
+              "bowler": "JU Goolie",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "KO Wickham",
+              "bowler": "JU Goolie",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "AR Nedd",
+              "bowler": "JU Goolie",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "AR Nedd",
+              "bowler": "JU Goolie",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "AR Nedd",
+              "bowler": "JU Goolie",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "AR Nedd",
+              "bowler": "AJ Hosein",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "KO Wickham",
+              "bowler": "AJ Hosein",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "KO Wickham",
+              "bowler": "AJ Hosein",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "AR Nedd",
+              "bowler": "AJ Hosein",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "AR Nedd",
+              "bowler": "AJ Hosein",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "AR Nedd",
+              "bowler": "AJ Hosein",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "AR Nedd",
+              "bowler": "AJ Hosein",
+              "non_striker": "KO Wickham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "KO Wickham",
+              "bowler": "SP Narine",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "KO Wickham",
+              "bowler": "SP Narine",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "KO Wickham",
+              "bowler": "SP Narine",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "KO Wickham",
+              "bowler": "SP Narine",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "KO Wickham",
+              "bowler": "SP Narine",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "KO Wickham",
+              "bowler": "SP Narine",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "KO Wickham",
+              "bowler": "DC Drakes",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "KO Wickham",
+              "bowler": "DC Drakes",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "KO Wickham",
+              "bowler": "DC Drakes",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KO Wickham",
+                  "fielders": [
+                    {
+                      "name": "AJ Hosein"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "SN Netravalkar",
+              "bowler": "DC Drakes",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "SN Netravalkar",
+              "bowler": "DC Drakes",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "SN Netravalkar",
+              "bowler": "DC Drakes",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SN Netravalkar",
+                  "fielders": [
+                    {
+                      "name": "J Da Silva"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "AR Nedd",
+              "bowler": "T Hinds",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "OC McCoy",
+              "bowler": "T Hinds",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "AR Nedd",
+              "bowler": "T Hinds",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "AR Nedd",
+              "bowler": "T Hinds",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "OC McCoy",
+              "bowler": "T Hinds",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "OC McCoy",
+              "bowler": "T Hinds",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "OC McCoy",
+              "bowler": "T Hinds",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "OC McCoy",
+              "bowler": "T Hinds",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "AR Nedd",
+              "bowler": "DC Drakes",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "AR Nedd",
+              "bowler": "DC Drakes",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "AR Nedd",
+              "bowler": "DC Drakes",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "OC McCoy",
+              "review": {
+                "by": "St Kitts and Nevis Patriots",
+                "umpire": "R Banwarie",
+                "batter": "AR Nedd",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "AR Nedd",
+              "bowler": "DC Drakes",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "OC McCoy",
+              "bowler": "DC Drakes",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "OC McCoy",
+              "bowler": "DC Drakes",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "OC McCoy",
+              "bowler": "DC Drakes",
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "AR Nedd",
+              "bowler": "T Hinds",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "OC McCoy",
+              "bowler": "T Hinds",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AR Nedd",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "AR Nedd",
+              "bowler": "T Hinds",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AR Nedd",
+                  "fielders": [
+                    {
+                      "name": "JU Goolie"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Waqar Salamkheil",
+              "bowler": "T Hinds",
+              "non_striker": "OC McCoy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "OC McCoy",
+              "bowler": "T Hinds",
+              "non_striker": "Waqar Salamkheil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "OC McCoy",
+              "bowler": "T Hinds",
+              "non_striker": "Waqar Salamkheil",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Trinbago Knight Riders",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "C Munro",
+              "bowler": "AR Nedd",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "C Munro",
+              "bowler": "AR Nedd",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "C Munro",
+              "bowler": "AR Nedd",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "C Munro",
+              "bowler": "AR Nedd",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "C Munro",
+              "bowler": "AR Nedd",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "AD Hales",
+              "bowler": "AR Nedd",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "AD Hales",
+              "bowler": "JO Holder",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "AD Hales",
+              "bowler": "JO Holder",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "C Munro",
+              "bowler": "JO Holder",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "C Munro",
+              "bowler": "JO Holder",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "AD Hales",
+              "bowler": "JO Holder",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "C Munro",
+              "bowler": "JO Holder",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "C Munro",
+              "bowler": "SN Netravalkar",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "AD Hales",
+              "bowler": "SN Netravalkar",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "AD Hales",
+              "bowler": "SN Netravalkar",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "AD Hales",
+              "bowler": "SN Netravalkar",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "AD Hales",
+              "bowler": "SN Netravalkar",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "C Munro",
+              "bowler": "SN Netravalkar",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "AD Hales",
+              "bowler": "JO Holder",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "AD Hales",
+              "bowler": "JO Holder",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "C Munro",
+              "bowler": "JO Holder",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "C Munro",
+              "bowler": "JO Holder",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "C Munro",
+              "bowler": "JO Holder",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "AD Hales",
+              "bowler": "JO Holder",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AD Hales",
+                  "fielders": [
+                    {
+                      "name": "OC McCoy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "C Munro",
+              "bowler": "SN Netravalkar",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "J Da Silva",
+              "bowler": "SN Netravalkar",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "C Munro",
+              "bowler": "SN Netravalkar",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "J Da Silva",
+              "bowler": "SN Netravalkar",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "J Da Silva",
+              "bowler": "SN Netravalkar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "J Da Silva",
+              "bowler": "SN Netravalkar",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "C Munro",
+              "bowler": "SN Netravalkar",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "J Da Silva",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "J Da Silva",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "C Munro",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "C Munro",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Munro",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "MP Breetzke",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "MP Breetzke",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "MP Breetzke",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "J Da Silva",
+              "bowler": "AR Nedd",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "J Da Silva",
+              "bowler": "AR Nedd",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "MP Breetzke",
+              "bowler": "AR Nedd",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "MP Breetzke",
+              "bowler": "AR Nedd",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "MP Breetzke",
+              "bowler": "AR Nedd",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "MP Breetzke",
+              "bowler": "AR Nedd",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "J Da Silva",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "MP Breetzke",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "MP Breetzke",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "J Da Silva",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "J Da Silva",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "J Da Silva",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "MP Breetzke",
+              "bowler": "AR Nedd",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "J Da Silva",
+              "bowler": "AR Nedd",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "MP Breetzke",
+              "bowler": "AR Nedd",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "J Da Silva",
+              "bowler": "AR Nedd",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "MP Breetzke",
+              "bowler": "AR Nedd",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "J Da Silva",
+              "bowler": "AR Nedd",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "MP Breetzke",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "J Da Silva",
+              "bowler": "Waqar Salamkheil",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "J Da Silva",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "MP Breetzke",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "MP Breetzke",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "J Da Silva",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "J Da Silva",
+              "bowler": "Waqar Salamkheil",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "J Da Silva",
+              "bowler": "OC McCoy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.1",
+              "batter": "J Da Silva",
+              "bowler": "OC McCoy",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "MP Breetzke",
+              "bowler": "OC McCoy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "MP Breetzke",
+              "bowler": "OC McCoy",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "MP Breetzke",
+              "bowler": "OC McCoy",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "J Da Silva",
+              "bowler": "OC McCoy",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "MP Breetzke",
+              "bowler": "OC McCoy",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "MP Breetzke",
+              "bowler": "OC McCoy",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "MP Breetzke",
+              "bowler": "N Bidaisee",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "MP Breetzke",
+              "bowler": "N Bidaisee",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "J Da Silva",
+              "bowler": "N Bidaisee",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "MP Breetzke",
+              "bowler": "N Bidaisee",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "MP Breetzke",
+              "bowler": "N Bidaisee",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "J Da Silva",
+              "bowler": "N Bidaisee",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "MP Breetzke",
+              "bowler": "OC McCoy",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "MP Breetzke",
+              "bowler": "OC McCoy",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "MP Breetzke",
+              "bowler": "OC McCoy",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "MP Breetzke",
+              "bowler": "OC McCoy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "MP Breetzke",
+              "bowler": "OC McCoy",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "J Da Silva",
+              "bowler": "OC McCoy",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "MP Breetzke",
+              "bowler": "OC McCoy",
+              "non_striker": "J Da Silva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "J Da Silva",
+                  "kind": "retired hurt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "MP Breetzke",
+              "bowler": "N Bidaisee",
+              "non_striker": "JU Goolie",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "MP Breetzke",
+              "bowler": "N Bidaisee",
+              "non_striker": "JU Goolie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "MP Breetzke",
+              "bowler": "N Bidaisee",
+              "non_striker": "JU Goolie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "MP Breetzke",
+              "bowler": "N Bidaisee",
+              "non_striker": "JU Goolie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "JU Goolie",
+              "bowler": "N Bidaisee",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "MP Breetzke",
+              "bowler": "N Bidaisee",
+              "non_striker": "JU Goolie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "JU Goolie",
+              "bowler": "JO Holder",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "JU Goolie",
+              "bowler": "JO Holder",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "JU Goolie",
+              "bowler": "JO Holder",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "MP Breetzke",
+              "bowler": "JO Holder",
+              "non_striker": "JU Goolie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "MP Breetzke",
+              "bowler": "JO Holder",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JU Goolie",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "JU Goolie",
+              "bowler": "JO Holder",
+              "non_striker": "MP Breetzke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 15,
+        "runs": 76
+      }
+    }
+  ]
+}

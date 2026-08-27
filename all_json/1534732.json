@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-06-09",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bready",
+    "dates": [
+      "2026-06-03"
+    ],
+    "event": {
+      "name": "Cricket Ireland Inter-Provincial Twenty20 Trophy",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "Bala Kailash"
+      ],
+      "reserve_umpires": [
+        "M Hawthorne"
+      ],
+      "umpires": [
+        "GN Brolly",
+        "W McCully"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Northern Knights": [
+        "GR Adair",
+        "C Carmichael",
+        "JA McCollum",
+        "M Topping",
+        "S Dadswell",
+        "K Hilton",
+        "T Mayes",
+        "C Robertson",
+        "MJ Humphreys",
+        "CJB McCullough",
+        "R Wilson"
+      ],
+      "Leinster Lightning": [
+        "TH Tector",
+        "ST Doheny",
+        "HT Tector",
+        "L Tucker",
+        "C De Freitas",
+        "S Lynch",
+        "J Martins",
+        "F Hand",
+        "J Moondra",
+        "MK Hollard",
+        "B White"
+      ]
+    },
+    "registry": {
+      "people": {
+        "B White": "1a448be0",
+        "Bala Kailash": "adcc3906",
+        "C Carmichael": "f3b158d9",
+        "C De Freitas": "22072cab",
+        "C Robertson": "d26de4de",
+        "CJB McCullough": "5d6364f0",
+        "F Hand": "e3fe4b49",
+        "GN Brolly": "b7e4df9e",
+        "GR Adair": "4ec96094",
+        "HT Tector": "59ea70a4",
+        "J Martins": "9c96b71f",
+        "J Moondra": "3bea7ea9",
+        "JA McCollum": "c7105dab",
+        "K Hilton": "9339830a",
+        "L Tucker": "3979b5e0",
+        "M Hawthorne": "ea123ee4",
+        "M Topping": "33f44dfc",
+        "MJ Humphreys": "2c54c49b",
+        "MK Hollard": "95b5bda3",
+        "R Wilson": "81b0935a",
+        "S Dadswell": "0ecf791e",
+        "S Lynch": "5ffe6225",
+        "ST Doheny": "4992d6f6",
+        "T Mayes": "9aedf23b",
+        "TH Tector": "0348f9a5",
+        "W McCully": "e5b61a1b"
+      }
+    },
+    "season": "2026",
+    "team_type": "club",
+    "teams": [
+      "Northern Knights",
+      "Leinster Lightning"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Leinster Lightning"
+    },
+    "venue": "Bready Cricket Club, Magheramason, Bready"
+  },
+  "innings": [
+    {
+      "team": "Northern Knights",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "GR Adair",
+              "bowler": "MK Hollard",
+              "non_striker": "C Carmichael",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "C Carmichael",
+              "bowler": "MK Hollard",
+              "non_striker": "GR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "GR Adair",
+              "bowler": "MK Hollard",
+              "non_striker": "C Carmichael",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "C Carmichael",
+              "bowler": "MK Hollard",
+              "non_striker": "GR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "GR Adair",
+              "bowler": "MK Hollard",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "C Carmichael",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "C Carmichael",
+              "bowler": "MK Hollard",
+              "non_striker": "GR Adair",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "GR Adair",
+              "bowler": "MK Hollard",
+              "non_striker": "C Carmichael",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "GR Adair",
+              "bowler": "J Moondra",
+              "non_striker": "C Carmichael",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "GR Adair",
+              "bowler": "J Moondra",
+              "non_striker": "C Carmichael",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.2,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3342 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2020-03-28",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Sydney",
+    "dates": [
+      "2019-01-19"
+    ],
+    "event": {
+      "name": "Women's Big Bash League",
+      "stage": "Semi Final"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "D Talalla"
+      ],
+      "tv_umpires": [
+        "BC Treloar"
+      ],
+      "umpires": [
+        "CA Polosak",
+        "DM Koch"
+      ]
+    },
+    "outcome": {
+      "result": "tie",
+      "eliminator": "Sydney Sixers"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "EA Perry"
+    ],
+    "players": {
+      "Sydney Sixers": [
+        "AJ Healy",
+        "EA Perry",
+        "A Gardner",
+        "EA Burns",
+        "SJ McGlashan",
+        "D van Niekerk",
+        "M Kapp",
+        "LG Smith",
+        "SE Aley",
+        "H Silver-holmes",
+        "L Cheatle"
+      ],
+      "Melbourne Renegades": [
+        "S Molineux",
+        "DN Wyatt",
+        "EJ Inglis",
+        "AE Satterthwaite",
+        "JE Duffin",
+        "C Webb",
+        "CJ Koski",
+        "M Brown",
+        "M Strano",
+        "G Wareham",
+        "LMM Tahuhu"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Gardner": "bc969efb",
+        "AE Satterthwaite": "72b7ed1e",
+        "AJ Healy": "321644de",
+        "BC Treloar": "f7e8ee52",
+        "C Webb": "1f4a8a2a",
+        "CA Polosak": "26a360d2",
+        "CJ Koski": "0f00b4d7",
+        "D Talalla": "dcfe6cdd",
+        "D van Niekerk": "8c5775f3",
+        "DM Koch": "6d10c034",
+        "DN Wyatt": "a139c379",
+        "EA Burns": "2e0b6638",
+        "EA Perry": "be150fc8",
+        "EJ Inglis": "b0ca6975",
+        "G Wareham": "f0b4e47d",
+        "H Silver-holmes": "2bfc7199",
+        "JE Duffin": "5ebc3941",
+        "L Cheatle": "275dff85",
+        "LG Smith": "9c515112",
+        "LMM Tahuhu": "60471339",
+        "M Brown": "78bec461",
+        "M Kapp": "63e3b6b3",
+        "M Strano": "f57d5dbb",
+        "S Molineux": "99e23670",
+        "SE Aley": "5be043df",
+        "SJ McGlashan": "af71535d"
+      }
+    },
+    "season": "2018/19",
+    "team_type": "club",
+    "teams": [
+      "Sydney Sixers",
+      "Melbourne Renegades"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Sydney Sixers"
+    },
+    "venue": "Drummoyne Oval"
+  },
+  "innings": [
+    {
+      "team": "Sydney Sixers",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "AJ Healy",
+              "bowler": "M Strano",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "AJ Healy",
+              "bowler": "M Strano",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "AJ Healy",
+              "bowler": "M Strano",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "AJ Healy",
+              "bowler": "M Strano",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "EA Perry",
+              "bowler": "M Strano",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "EA Perry",
+              "bowler": "M Strano",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "AJ Healy",
+              "bowler": "LMM Tahuhu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.1",
+              "batter": "AJ Healy",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "AJ Healy",
+              "bowler": "LMM Tahuhu",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "EA Perry",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "EA Perry",
+              "bowler": "LMM Tahuhu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "EA Perry",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "EA Perry",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "EA Perry",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "AJ Healy",
+              "bowler": "S Molineux",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "AJ Healy",
+                  "fielders": [
+                    {
+                      "name": "DN Wyatt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "EA Perry",
+              "bowler": "S Molineux",
+              "non_striker": "A Gardner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "EA Perry",
+              "bowler": "S Molineux",
+              "non_striker": "A Gardner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "EA Perry",
+              "bowler": "S Molineux",
+              "non_striker": "A Gardner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "EA Perry",
+              "bowler": "S Molineux",
+              "non_striker": "A Gardner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "EA Perry",
+              "bowler": "S Molineux",
+              "non_striker": "A Gardner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "A Gardner",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "A Gardner",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "A Gardner",
+                  "fielders": [
+                    {
+                      "name": "AE Satterthwaite"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "EA Burns",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "EA Burns",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "EA Burns",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "EA Burns",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "EA Perry",
+              "bowler": "M Strano",
+              "non_striker": "EA Burns",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "EA Perry",
+              "bowler": "M Strano",
+              "non_striker": "EA Burns",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "EA Burns",
+              "bowler": "M Strano",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "EA Perry",
+              "bowler": "M Strano",
+              "non_striker": "EA Burns",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "EA Perry",
+              "bowler": "M Strano",
+              "non_striker": "EA Burns",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "EA Perry",
+              "bowler": "M Strano",
+              "non_striker": "EA Burns",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "EA Burns"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "EA Perry",
+              "bowler": "S Molineux",
+              "non_striker": "SJ McGlashan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "EA Perry",
+              "bowler": "S Molineux",
+              "non_striker": "SJ McGlashan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "EA Perry",
+              "bowler": "S Molineux",
+              "non_striker": "SJ McGlashan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "SJ McGlashan",
+              "bowler": "S Molineux",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "SJ McGlashan",
+              "bowler": "S Molineux",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "SJ McGlashan",
+              "bowler": "S Molineux",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "EA Perry",
+              "bowler": "G Wareham",
+              "non_striker": "SJ McGlashan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "SJ McGlashan",
+              "bowler": "G Wareham",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "EA Perry",
+              "bowler": "G Wareham",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SJ McGlashan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "SJ McGlashan",
+              "bowler": "G Wareham",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "EA Perry",
+              "bowler": "G Wareham",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SJ McGlashan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "EA Perry",
+              "bowler": "G Wareham",
+              "non_striker": "SJ McGlashan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "SJ McGlashan",
+              "bowler": "G Wareham",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "SJ McGlashan",
+              "bowler": "M Brown",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "EA Perry",
+              "bowler": "M Brown",
+              "non_striker": "SJ McGlashan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "EA Perry",
+              "bowler": "M Brown",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SJ McGlashan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "EA Perry",
+              "bowler": "M Brown",
+              "non_striker": "SJ McGlashan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "EA Perry",
+              "bowler": "M Brown",
+              "non_striker": "SJ McGlashan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "SJ McGlashan",
+              "bowler": "M Brown",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "SJ McGlashan",
+              "bowler": "M Brown",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "SJ McGlashan",
+              "bowler": "G Wareham",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "SJ McGlashan",
+              "bowler": "G Wareham",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SJ McGlashan",
+                  "fielders": [
+                    {
+                      "name": "S Molineux"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "D van Niekerk",
+              "bowler": "G Wareham",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "D van Niekerk",
+              "bowler": "G Wareham",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "EA Perry",
+              "bowler": "G Wareham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "D van Niekerk",
+              "bowler": "G Wareham",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "EA Perry",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "EA Perry",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "D van Niekerk",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "EA Perry",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "D van Niekerk",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "EA Perry",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "D van Niekerk",
+              "bowler": "M Strano",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "D van Niekerk",
+              "bowler": "M Strano",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "D van Niekerk",
+              "bowler": "M Strano",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "EA Perry",
+              "bowler": "M Strano",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "D van Niekerk",
+              "bowler": "M Strano",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "D van Niekerk",
+              "bowler": "M Strano",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "EA Perry",
+              "bowler": "M Brown",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "EA Perry",
+              "bowler": "M Brown",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "D van Niekerk",
+              "bowler": "M Brown",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "EA Perry",
+              "bowler": "M Brown",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "D van Niekerk",
+              "bowler": "M Brown",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "EA Perry",
+              "bowler": "M Brown",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "EA Perry",
+              "bowler": "G Wareham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "D van Niekerk",
+              "bowler": "G Wareham",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "D van Niekerk",
+              "bowler": "G Wareham",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "EA Perry",
+              "bowler": "G Wareham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "D van Niekerk",
+              "bowler": "G Wareham",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "D van Niekerk",
+              "bowler": "G Wareham",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "EA Perry",
+              "bowler": "M Brown",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "D van Niekerk",
+              "bowler": "M Brown",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "EA Perry",
+              "bowler": "M Brown",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "EA Perry",
+              "bowler": "M Brown",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "EA Perry",
+              "bowler": "M Brown",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "EA Perry",
+              "bowler": "M Brown",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "EA Perry",
+              "bowler": "M Brown",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "EA Perry",
+              "bowler": "S Molineux",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "EA Perry",
+              "bowler": "S Molineux",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "D van Niekerk",
+              "bowler": "S Molineux",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "D van Niekerk",
+              "bowler": "S Molineux",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "EA Perry",
+              "bowler": "S Molineux",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "D van Niekerk",
+              "bowler": "S Molineux",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "EA Perry",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "EA Perry",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "D van Niekerk",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "EA Perry",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "D van Niekerk",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "D van Niekerk",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "D van Niekerk",
+              "bowler": "G Wareham",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "D van Niekerk",
+              "bowler": "G Wareham",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "D van Niekerk",
+              "bowler": "G Wareham",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "EA Perry",
+              "bowler": "G Wareham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "EA Perry",
+              "bowler": "G Wareham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "EA Perry",
+              "bowler": "G Wareham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "EA Perry",
+              "bowler": "S Molineux",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "EA Perry",
+              "bowler": "S Molineux",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "D van Niekerk",
+              "bowler": "S Molineux",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "D van Niekerk",
+              "bowler": "S Molineux",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "D van Niekerk",
+              "bowler": "S Molineux",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "D van Niekerk",
+              "bowler": "S Molineux",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "EA Perry",
+              "bowler": "M Brown",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "D van Niekerk",
+              "bowler": "M Brown",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "EA Perry",
+              "bowler": "M Brown",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "D van Niekerk",
+              "bowler": "M Brown",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "D van Niekerk",
+              "bowler": "M Brown",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "EA Perry",
+              "bowler": "M Brown",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "D van Niekerk",
+              "bowler": "M Brown",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "D van Niekerk",
+              "bowler": "M Brown",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "EA Perry",
+              "bowler": "M Strano",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "EA Perry",
+              "bowler": "M Strano",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "D van Niekerk",
+              "bowler": "M Strano",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "EA Perry",
+              "bowler": "M Strano",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "D van Niekerk",
+              "bowler": "M Strano",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "D van Niekerk",
+              "bowler": "M Strano",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Melbourne Renegades",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "S Molineux",
+              "bowler": "EA Perry",
+              "non_striker": "DN Wyatt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "S Molineux",
+              "bowler": "EA Perry",
+              "non_striker": "DN Wyatt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "S Molineux",
+              "bowler": "EA Perry",
+              "non_striker": "DN Wyatt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "DN Wyatt",
+              "bowler": "EA Perry",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "DN Wyatt",
+              "bowler": "EA Perry",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "S Molineux",
+              "bowler": "EA Perry",
+              "non_striker": "DN Wyatt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "DN Wyatt",
+              "bowler": "M Kapp",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "DN Wyatt",
+              "bowler": "M Kapp",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "DN Wyatt",
+              "bowler": "M Kapp",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "DN Wyatt",
+              "bowler": "M Kapp",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "DN Wyatt",
+              "bowler": "M Kapp",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DN Wyatt",
+                  "fielders": [
+                    {
+                      "name": "AJ Healy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "EJ Inglis",
+              "bowler": "M Kapp",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "S Molineux",
+              "bowler": "EA Perry",
+              "non_striker": "EJ Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "S Molineux",
+              "bowler": "EA Perry",
+              "non_striker": "EJ Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "S Molineux",
+              "bowler": "EA Perry",
+              "non_striker": "EJ Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "S Molineux",
+              "bowler": "EA Perry",
+              "non_striker": "EJ Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "S Molineux",
+              "bowler": "EA Perry",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "EJ Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "EJ Inglis",
+              "bowler": "EA Perry",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "EJ Inglis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "S Molineux",
+              "bowler": "M Kapp",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "S Molineux",
+              "bowler": "M Kapp",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "S Molineux",
+              "bowler": "M Kapp",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "S Molineux",
+              "bowler": "M Kapp",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "S Molineux",
+              "bowler": "M Kapp",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "S Molineux",
+              "bowler": "M Kapp",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "AE Satterthwaite",
+              "bowler": "M Kapp",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "S Molineux",
+              "bowler": "A Gardner",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "AE Satterthwaite",
+              "bowler": "A Gardner",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "S Molineux",
+              "bowler": "A Gardner",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "AE Satterthwaite",
+              "bowler": "A Gardner",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "AE Satterthwaite",
+              "bowler": "A Gardner",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "AE Satterthwaite"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "JE Duffin",
+              "bowler": "A Gardner",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "S Molineux",
+              "bowler": "M Kapp",
+              "non_striker": "JE Duffin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "JE Duffin",
+              "bowler": "M Kapp",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "JE Duffin",
+              "bowler": "M Kapp",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "JE Duffin",
+              "bowler": "M Kapp",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "JE Duffin",
+              "bowler": "M Kapp",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "JE Duffin",
+              "bowler": "M Kapp",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "JE Duffin",
+              "bowler": "M Kapp",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "S Molineux",
+              "bowler": "A Gardner",
+              "non_striker": "JE Duffin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "S Molineux",
+              "bowler": "A Gardner",
+              "non_striker": "JE Duffin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "JE Duffin",
+              "bowler": "A Gardner",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "S Molineux",
+              "bowler": "A Gardner",
+              "non_striker": "JE Duffin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "S Molineux",
+              "bowler": "A Gardner",
+              "non_striker": "JE Duffin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "JE Duffin",
+              "bowler": "A Gardner",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "S Molineux",
+              "bowler": "D van Niekerk",
+              "non_striker": "JE Duffin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "JE Duffin",
+              "bowler": "D van Niekerk",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "S Molineux",
+              "bowler": "D van Niekerk",
+              "non_striker": "JE Duffin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "JE Duffin",
+              "bowler": "D van Niekerk",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "JE Duffin",
+              "bowler": "D van Niekerk",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "S Molineux",
+              "bowler": "D van Niekerk",
+              "non_striker": "JE Duffin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "S Molineux",
+              "bowler": "A Gardner",
+              "non_striker": "JE Duffin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "JE Duffin",
+              "bowler": "A Gardner",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "JE Duffin",
+              "bowler": "A Gardner",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "JE Duffin",
+              "bowler": "A Gardner",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "S Molineux",
+              "bowler": "A Gardner",
+              "non_striker": "JE Duffin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "JE Duffin",
+              "bowler": "A Gardner",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "S Molineux",
+              "bowler": "D van Niekerk",
+              "non_striker": "JE Duffin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "JE Duffin",
+              "bowler": "D van Niekerk",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "JE Duffin",
+              "bowler": "D van Niekerk",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "S Molineux",
+              "bowler": "D van Niekerk",
+              "non_striker": "JE Duffin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "JE Duffin",
+              "bowler": "D van Niekerk",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "JE Duffin",
+              "bowler": "D van Niekerk",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "S Molineux",
+              "bowler": "EA Perry",
+              "non_striker": "JE Duffin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "JE Duffin",
+              "bowler": "EA Perry",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "JE Duffin",
+              "bowler": "EA Perry",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "JE Duffin",
+              "bowler": "EA Perry",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "JE Duffin",
+              "bowler": "EA Perry",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "JE Duffin",
+              "bowler": "EA Perry",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "JE Duffin",
+              "bowler": "L Cheatle",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "JE Duffin",
+              "bowler": "L Cheatle",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "JE Duffin",
+              "bowler": "L Cheatle",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "JE Duffin",
+              "bowler": "L Cheatle",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "S Molineux",
+              "bowler": "L Cheatle",
+              "non_striker": "JE Duffin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "S Molineux",
+              "bowler": "L Cheatle",
+              "non_striker": "JE Duffin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "JE Duffin",
+              "bowler": "SE Aley",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "JE Duffin",
+              "bowler": "SE Aley",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "S Molineux",
+              "bowler": "SE Aley",
+              "non_striker": "JE Duffin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "S Molineux",
+              "bowler": "SE Aley",
+              "non_striker": "JE Duffin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "JE Duffin",
+              "bowler": "SE Aley",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "S Molineux",
+              "bowler": "SE Aley",
+              "non_striker": "JE Duffin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "JE Duffin",
+              "bowler": "EA Burns",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "JE Duffin",
+              "bowler": "EA Burns",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "JE Duffin",
+              "bowler": "EA Burns",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JE Duffin",
+                  "fielders": [
+                    {
+                      "name": "EA Perry"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "S Molineux",
+              "bowler": "EA Burns",
+              "non_striker": "C Webb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "C Webb",
+              "bowler": "EA Burns",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "C Webb",
+              "bowler": "EA Burns",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "S Molineux",
+              "bowler": "D van Niekerk",
+              "non_striker": "C Webb",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "S Molineux",
+              "bowler": "D van Niekerk",
+              "non_striker": "C Webb",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "S Molineux",
+              "bowler": "D van Niekerk",
+              "non_striker": "C Webb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "S Molineux",
+              "bowler": "D van Niekerk",
+              "non_striker": "C Webb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "C Webb",
+              "bowler": "D van Niekerk",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "C Webb",
+              "bowler": "D van Niekerk",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "S Molineux",
+              "bowler": "EA Burns",
+              "non_striker": "C Webb",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "S Molineux",
+              "bowler": "EA Burns",
+              "non_striker": "C Webb",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "C Webb",
+              "bowler": "EA Burns",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "C Webb",
+                  "fielders": [
+                    {
+                      "name": "AJ Healy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "CJ Koski",
+              "bowler": "EA Burns",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "CJ Koski",
+              "bowler": "EA Burns",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "S Molineux",
+              "bowler": "EA Burns",
+              "non_striker": "CJ Koski",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "CJ Koski",
+              "bowler": "D van Niekerk",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "CJ Koski",
+              "bowler": "D van Niekerk",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "CJ Koski",
+              "bowler": "D van Niekerk",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "S Molineux",
+              "bowler": "D van Niekerk",
+              "non_striker": "CJ Koski",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "S Molineux",
+              "bowler": "D van Niekerk",
+              "non_striker": "CJ Koski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "CJ Koski",
+              "bowler": "D van Niekerk",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "S Molineux",
+              "bowler": "EA Burns",
+              "non_striker": "CJ Koski",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "S Molineux",
+              "bowler": "EA Burns",
+              "non_striker": "CJ Koski",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "S Molineux",
+              "bowler": "EA Burns",
+              "non_striker": "CJ Koski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "CJ Koski",
+              "bowler": "EA Burns",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "CJ Koski",
+              "bowler": "EA Burns",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "CJ Koski",
+              "bowler": "EA Burns",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "CJ Koski",
+              "bowler": "M Kapp",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "S Molineux",
+              "bowler": "M Kapp",
+              "non_striker": "CJ Koski",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "S Molineux",
+              "bowler": "M Kapp",
+              "non_striker": "CJ Koski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "CJ Koski",
+              "bowler": "M Kapp",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "CJ Koski",
+              "bowler": "M Kapp",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "CJ Koski",
+              "bowler": "M Kapp",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "S Molineux",
+              "bowler": "EA Perry",
+              "non_striker": "CJ Koski",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "S Molineux",
+              "bowler": "EA Perry",
+              "non_striker": "CJ Koski",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "CJ Koski",
+              "bowler": "EA Perry",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "S Molineux",
+              "bowler": "EA Perry",
+              "non_striker": "CJ Koski",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "S Molineux",
+              "bowler": "EA Perry",
+              "non_striker": "CJ Koski",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "S Molineux",
+              "bowler": "EA Perry",
+              "non_striker": "CJ Koski",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "S Molineux"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 132
+      }
+    },
+    {
+      "team": "Melbourne Renegades",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "DN Wyatt",
+              "bowler": "M Kapp",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "S Molineux",
+              "bowler": "M Kapp",
+              "non_striker": "DN Wyatt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "DN Wyatt",
+              "bowler": "M Kapp",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "S Molineux",
+              "bowler": "M Kapp",
+              "non_striker": "DN Wyatt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "DN Wyatt",
+              "bowler": "M Kapp",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "DN Wyatt"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "JE Duffin",
+              "bowler": "M Kapp",
+              "non_striker": "S Molineux",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "super_over": true
+    },
+    {
+      "team": "Sydney Sixers",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "AJ Healy",
+              "bowler": "M Strano",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "EA Perry",
+              "bowler": "M Strano",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "AJ Healy",
+              "bowler": "M Strano",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "EA Perry",
+              "bowler": "M Strano",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "super_over": true
+    }
+  ]
+}

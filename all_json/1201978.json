@@ -1,0 +1,3342 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2021-10-27",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Durban",
+    "dates": [
+      "2019-11-17"
+    ],
+    "event": {
+      "name": "Mzansi Super League",
+      "match_number": 9
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "GH Pienaar"
+      ],
+      "reserve_umpires": [
+        "DJ Smith"
+      ],
+      "tv_umpires": [
+        "BP Jele"
+      ],
+      "umpires": [
+        "LB Gcuma",
+        "PJ Vosloo"
+      ]
+    },
+    "outcome": {
+      "winner": "Cape Town Blitz",
+      "by": {
+        "runs": 10
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "DW Steyn"
+    ],
+    "players": {
+      "Cape Town Blitz": [
+        "Q de Kock",
+        "JN Malan",
+        "MJ Ackerman",
+        "LS Livingstone",
+        "Asif Ali",
+        "GF Linde",
+        "Wahab Riaz",
+        "SSB Magala",
+        "G Mahlokwana",
+        "DW Steyn",
+        "A Nortje"
+      ],
+      "Durban Heat": [
+        "SJ Erwee",
+        "AD Hales",
+        "WJ Lubbe",
+        "DJ Vilas",
+        "DA Miller",
+        "RS Bopara",
+        "AL Phehlukwayo",
+        "KA Maharaj",
+        "P Subrayen",
+        "KJ Abbott",
+        "MP Siboto"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Nortje": "acdc62f5",
+        "AD Hales": "92aeac25",
+        "AL Phehlukwayo": "ab6b1c45",
+        "Asif Ali": "0a4736eb",
+        "BP Jele": "7bb1331e",
+        "DA Miller": "d67d5f00",
+        "DJ Smith": "d17bec15",
+        "DJ Vilas": "087210b1",
+        "DW Steyn": "8fd1a8f5",
+        "G Mahlokwana": "d92d8446",
+        "GF Linde": "e5437608",
+        "GH Pienaar": "3516e46b",
+        "JN Malan": "f76d7466",
+        "KA Maharaj": "0b60eb09",
+        "KJ Abbott": "a9da7784",
+        "LB Gcuma": "02ba88e3",
+        "LS Livingstone": "50c6bc2b",
+        "MJ Ackerman": "6287d981",
+        "MP Siboto": "9d50c7e1",
+        "P Subrayen": "7ec9711d",
+        "PJ Vosloo": "93a6d2d0",
+        "Q de Kock": "372455c4",
+        "RS Bopara": "7ca5e05d",
+        "SJ Erwee": "a3ce3d1d",
+        "SSB Magala": "8361e524",
+        "WJ Lubbe": "10f42013",
+        "Wahab Riaz": "b3118300"
+      }
+    },
+    "season": "2019/20",
+    "team_type": "club",
+    "teams": [
+      "Cape Town Blitz",
+      "Durban Heat"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Durban Heat"
+    },
+    "venue": "Kingsmead, Durban"
+  },
+  "innings": [
+    {
+      "team": "Cape Town Blitz",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Q de Kock",
+              "bowler": "KA Maharaj",
+              "non_striker": "JN Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Q de Kock",
+              "bowler": "KA Maharaj",
+              "non_striker": "JN Malan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Q de Kock",
+              "bowler": "KA Maharaj",
+              "non_striker": "JN Malan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Q de Kock",
+              "bowler": "KA Maharaj",
+              "non_striker": "JN Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "JN Malan",
+              "bowler": "KA Maharaj",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Q de Kock",
+              "bowler": "KA Maharaj",
+              "non_striker": "JN Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "JN Malan",
+              "bowler": "KJ Abbott",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Q de Kock",
+              "bowler": "KJ Abbott",
+              "non_striker": "JN Malan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Q de Kock",
+              "bowler": "KJ Abbott",
+              "non_striker": "JN Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Q de Kock",
+              "bowler": "KJ Abbott",
+              "non_striker": "JN Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Q de Kock",
+              "bowler": "KJ Abbott",
+              "non_striker": "JN Malan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Q de Kock",
+              "bowler": "KJ Abbott",
+              "non_striker": "JN Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "JN Malan",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "JN Malan",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "JN Malan",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Q de Kock",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "JN Malan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Q de Kock",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "JN Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Q de Kock",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "JN Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Q de Kock",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "JN Malan",
+              "bowler": "P Subrayen",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "MJ Ackerman",
+              "bowler": "P Subrayen",
+              "non_striker": "JN Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "MJ Ackerman",
+              "bowler": "P Subrayen",
+              "non_striker": "JN Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "JN Malan",
+              "bowler": "P Subrayen",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "JN Malan",
+              "bowler": "P Subrayen",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "MJ Ackerman",
+              "bowler": "P Subrayen",
+              "non_striker": "JN Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "MJ Ackerman",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "JN Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "JN Malan",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "JN Malan",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "JN Malan",
+              "bowler": "AL Phehlukwayo",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "JN Malan",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "JN Malan",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JN Malan",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "MJ Ackerman",
+              "bowler": "KJ Abbott",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "LS Livingstone",
+              "bowler": "KJ Abbott",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "LS Livingstone",
+              "bowler": "KJ Abbott",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "MJ Ackerman",
+              "bowler": "KJ Abbott",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "LS Livingstone",
+              "bowler": "KJ Abbott",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "MJ Ackerman",
+              "bowler": "KJ Abbott",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "LS Livingstone",
+              "bowler": "KA Maharaj",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "MJ Ackerman",
+              "bowler": "KA Maharaj",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "LS Livingstone",
+              "bowler": "KA Maharaj",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "MJ Ackerman",
+              "bowler": "KA Maharaj",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "LS Livingstone",
+              "bowler": "KA Maharaj",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "MJ Ackerman",
+              "bowler": "KA Maharaj",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "LS Livingstone",
+              "bowler": "P Subrayen",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "LS Livingstone",
+              "bowler": "P Subrayen",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "MJ Ackerman",
+              "bowler": "P Subrayen",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "MJ Ackerman",
+              "bowler": "P Subrayen",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "MJ Ackerman",
+              "bowler": "P Subrayen",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "LS Livingstone",
+              "bowler": "P Subrayen",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "MJ Ackerman",
+              "bowler": "KA Maharaj",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "MJ Ackerman",
+              "bowler": "KA Maharaj",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "LS Livingstone",
+              "bowler": "KA Maharaj",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "LS Livingstone",
+              "bowler": "KA Maharaj",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "MJ Ackerman",
+              "bowler": "KA Maharaj",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "MJ Ackerman",
+              "bowler": "KA Maharaj",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "MJ Ackerman",
+              "bowler": "RS Bopara",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "MJ Ackerman",
+              "bowler": "RS Bopara",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "LS Livingstone",
+              "bowler": "RS Bopara",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "LS Livingstone",
+              "bowler": "RS Bopara",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "MJ Ackerman",
+              "bowler": "RS Bopara",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "LS Livingstone",
+              "bowler": "RS Bopara",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "MJ Ackerman",
+              "bowler": "KA Maharaj",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "MJ Ackerman",
+              "bowler": "KA Maharaj",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "MJ Ackerman",
+              "bowler": "KA Maharaj",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "LS Livingstone",
+              "bowler": "KA Maharaj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "LS Livingstone",
+              "bowler": "KA Maharaj",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "MJ Ackerman",
+              "bowler": "KA Maharaj",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "LS Livingstone",
+              "bowler": "KA Maharaj",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LS Livingstone",
+                  "fielders": [
+                    {
+                      "name": "SJ Erwee"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "MJ Ackerman",
+              "bowler": "MP Siboto",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "MJ Ackerman",
+              "bowler": "MP Siboto",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "MJ Ackerman",
+              "bowler": "MP Siboto",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Asif Ali",
+              "bowler": "MP Siboto",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Asif Ali",
+              "bowler": "MP Siboto",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Asif Ali",
+              "bowler": "MP Siboto",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "MJ Ackerman",
+              "bowler": "MP Siboto",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "MJ Ackerman",
+              "bowler": "RS Bopara",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Asif Ali",
+              "bowler": "RS Bopara",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "MJ Ackerman",
+              "bowler": "RS Bopara",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "MJ Ackerman",
+              "bowler": "RS Bopara",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Asif Ali",
+              "bowler": "RS Bopara",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Asif Ali",
+              "bowler": "RS Bopara",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Asif Ali",
+              "bowler": "MP Siboto",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.1",
+              "batter": "Asif Ali",
+              "bowler": "MP Siboto",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Asif Ali",
+              "bowler": "MP Siboto",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "MJ Ackerman",
+              "bowler": "MP Siboto",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Asif Ali",
+              "bowler": "MP Siboto",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Asif Ali",
+              "bowler": "MP Siboto",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Asif Ali",
+              "bowler": "MP Siboto",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "MJ Ackerman",
+              "bowler": "RS Bopara",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Asif Ali",
+              "bowler": "RS Bopara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Asif Ali",
+              "bowler": "RS Bopara",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Asif Ali",
+              "bowler": "RS Bopara",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Asif Ali",
+              "bowler": "RS Bopara",
+              "non_striker": "MJ Ackerman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "MJ Ackerman",
+              "bowler": "RS Bopara",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MJ Ackerman",
+                  "fielders": [
+                    {
+                      "name": "KJ Abbott"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Asif Ali",
+              "bowler": "RS Bopara",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "GF Linde",
+              "bowler": "MP Siboto",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "GF Linde",
+              "bowler": "MP Siboto",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "GF Linde",
+              "bowler": "MP Siboto",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Asif Ali",
+              "bowler": "MP Siboto",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Asif Ali",
+              "bowler": "MP Siboto",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Asif Ali",
+              "bowler": "MP Siboto",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Asif Ali",
+              "bowler": "AL Phehlukwayo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.1",
+              "batter": "Asif Ali",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Asif Ali",
+              "bowler": "AL Phehlukwayo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Asif Ali",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Asif Ali",
+              "bowler": "AL Phehlukwayo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Asif Ali",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "GF Linde",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Asif Ali",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "GF Linde",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Asif Ali",
+              "bowler": "KJ Abbott",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "GF Linde",
+              "bowler": "KJ Abbott",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Asif Ali",
+              "bowler": "KJ Abbott",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "GF Linde",
+              "bowler": "KJ Abbott",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "GF Linde",
+              "bowler": "KJ Abbott",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "GF Linde",
+              "bowler": "KJ Abbott",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "GF Linde",
+              "bowler": "KJ Abbott",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Asif Ali",
+              "bowler": "MP Siboto",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.1",
+              "batter": "GF Linde",
+              "bowler": "MP Siboto",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "GF Linde",
+              "bowler": "MP Siboto",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Asif Ali",
+              "bowler": "MP Siboto",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Asif Ali",
+              "bowler": "MP Siboto",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Asif Ali",
+              "bowler": "MP Siboto",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Asif Ali",
+                  "fielders": [
+                    {
+                      "name": "P Subrayen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "GF Linde",
+              "bowler": "MP Siboto",
+              "non_striker": "Wahab Riaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "GF Linde",
+              "bowler": "MP Siboto",
+              "non_striker": "Wahab Riaz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Wahab Riaz",
+              "bowler": "KJ Abbott",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Wahab Riaz",
+              "bowler": "KJ Abbott",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Wahab Riaz",
+                  "fielders": [
+                    {
+                      "name": "SJ Erwee"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "GF Linde",
+              "bowler": "KJ Abbott",
+              "non_striker": "SSB Magala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "SSB Magala",
+              "bowler": "KJ Abbott",
+              "non_striker": "GF Linde",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "GF Linde",
+              "bowler": "KJ Abbott",
+              "non_striker": "SSB Magala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "GF Linde",
+              "bowler": "KJ Abbott",
+              "non_striker": "SSB Magala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Durban Heat",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "SJ Erwee",
+              "bowler": "DW Steyn",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "SJ Erwee",
+              "bowler": "DW Steyn",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "SJ Erwee",
+              "bowler": "DW Steyn",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "AD Hales",
+              "bowler": "DW Steyn",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "AD Hales",
+              "bowler": "DW Steyn",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AD Hales",
+                  "fielders": [
+                    {
+                      "name": "MJ Ackerman"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "SJ Erwee",
+              "bowler": "DW Steyn",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "WJ Lubbe",
+              "bowler": "A Nortje",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "WJ Lubbe",
+              "bowler": "A Nortje",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "WJ Lubbe",
+              "bowler": "A Nortje",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "WJ Lubbe",
+              "bowler": "A Nortje",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "WJ Lubbe",
+              "bowler": "A Nortje",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "WJ Lubbe",
+              "bowler": "A Nortje",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "SJ Erwee",
+              "bowler": "DW Steyn",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "SJ Erwee",
+              "bowler": "DW Steyn",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "SJ Erwee",
+              "bowler": "DW Steyn",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "WJ Lubbe",
+              "bowler": "DW Steyn",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "SJ Erwee",
+              "bowler": "DW Steyn",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "SJ Erwee",
+              "bowler": "DW Steyn",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "SJ Erwee",
+              "bowler": "Wahab Riaz",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "SJ Erwee",
+              "bowler": "Wahab Riaz",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "SJ Erwee",
+              "bowler": "Wahab Riaz",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "WJ Lubbe",
+              "bowler": "Wahab Riaz",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "WJ Lubbe",
+              "bowler": "Wahab Riaz",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "SJ Erwee",
+              "bowler": "Wahab Riaz",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "SJ Erwee",
+              "bowler": "SSB Magala",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "SJ Erwee",
+              "bowler": "SSB Magala",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "WJ Lubbe",
+              "bowler": "SSB Magala",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "SJ Erwee",
+              "bowler": "SSB Magala",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "WJ Lubbe",
+              "bowler": "SSB Magala",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "SJ Erwee",
+              "bowler": "SSB Magala",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "WJ Lubbe",
+              "bowler": "Wahab Riaz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.1",
+              "batter": "WJ Lubbe",
+              "bowler": "Wahab Riaz",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "SJ Erwee",
+              "bowler": "Wahab Riaz",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "WJ Lubbe",
+              "bowler": "Wahab Riaz",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "WJ Lubbe",
+              "bowler": "Wahab Riaz",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "WJ Lubbe",
+              "bowler": "Wahab Riaz",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "SJ Erwee",
+              "bowler": "Wahab Riaz",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "WJ Lubbe",
+              "bowler": "A Nortje",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "WJ Lubbe",
+              "bowler": "A Nortje",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "WJ Lubbe",
+              "bowler": "A Nortje",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "SJ Erwee",
+              "bowler": "A Nortje",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "WJ Lubbe",
+              "bowler": "A Nortje",
+              "non_striker": "SJ Erwee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "SJ Erwee",
+              "bowler": "A Nortje",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "SJ Erwee",
+              "bowler": "A Nortje",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "SJ Erwee",
+              "bowler": "G Mahlokwana",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "SJ Erwee",
+              "bowler": "G Mahlokwana",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SJ Erwee",
+                  "fielders": [
+                    {
+                      "name": "GF Linde"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "DJ Vilas",
+              "bowler": "G Mahlokwana",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "WJ Lubbe",
+              "bowler": "G Mahlokwana",
+              "non_striker": "DJ Vilas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "WJ Lubbe",
+              "bowler": "G Mahlokwana",
+              "non_striker": "DJ Vilas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "WJ Lubbe",
+              "bowler": "G Mahlokwana",
+              "non_striker": "DJ Vilas",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "DJ Vilas",
+              "bowler": "A Nortje",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "DJ Vilas",
+              "bowler": "A Nortje",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "WJ Lubbe",
+              "bowler": "A Nortje",
+              "non_striker": "DJ Vilas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "WJ Lubbe",
+              "bowler": "A Nortje",
+              "non_striker": "DJ Vilas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "WJ Lubbe",
+              "bowler": "A Nortje",
+              "non_striker": "DJ Vilas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "DJ Vilas",
+              "bowler": "A Nortje",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "DJ Vilas",
+              "bowler": "G Mahlokwana",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "WJ Lubbe",
+              "bowler": "G Mahlokwana",
+              "non_striker": "DJ Vilas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "DJ Vilas",
+              "bowler": "G Mahlokwana",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "DJ Vilas",
+              "bowler": "G Mahlokwana",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "DJ Vilas",
+              "bowler": "G Mahlokwana",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DJ Vilas",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "DA Miller",
+              "bowler": "G Mahlokwana",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "DA Miller",
+              "bowler": "A Nortje",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "WJ Lubbe",
+              "bowler": "A Nortje",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "WJ Lubbe",
+              "bowler": "A Nortje",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "DA Miller",
+              "bowler": "A Nortje",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "DA Miller",
+              "bowler": "A Nortje",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "DA Miller",
+              "bowler": "A Nortje",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "DA Miller",
+              "bowler": "G Mahlokwana",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "WJ Lubbe",
+              "bowler": "G Mahlokwana",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "WJ Lubbe",
+              "bowler": "G Mahlokwana",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "WJ Lubbe",
+              "bowler": "G Mahlokwana",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "DA Miller",
+              "bowler": "G Mahlokwana",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "WJ Lubbe",
+              "bowler": "G Mahlokwana",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "WJ Lubbe",
+              "bowler": "DW Steyn",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "WJ Lubbe",
+              "bowler": "DW Steyn",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "WJ Lubbe",
+              "bowler": "DW Steyn",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "WJ Lubbe",
+              "bowler": "DW Steyn",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "DA Miller",
+              "bowler": "DW Steyn",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "DA Miller",
+              "bowler": "DW Steyn",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "WJ Lubbe",
+              "bowler": "LS Livingstone",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "DA Miller",
+              "bowler": "LS Livingstone",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "DA Miller",
+              "bowler": "LS Livingstone",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "DA Miller",
+              "bowler": "LS Livingstone",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "WJ Lubbe",
+              "bowler": "LS Livingstone",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "WJ Lubbe",
+              "bowler": "LS Livingstone",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "DA Miller",
+              "bowler": "DW Steyn",
+              "non_striker": "WJ Lubbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "WJ Lubbe",
+              "bowler": "DW Steyn",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "WJ Lubbe",
+              "bowler": "DW Steyn",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "WJ Lubbe",
+              "bowler": "DW Steyn",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WJ Lubbe",
+                  "fielders": [
+                    {
+                      "name": "Wahab Riaz"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "RS Bopara",
+              "bowler": "DW Steyn",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "RS Bopara",
+              "bowler": "DW Steyn",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "RS Bopara",
+              "bowler": "DW Steyn",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "DA Miller",
+              "bowler": "SSB Magala",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "RS Bopara",
+              "bowler": "SSB Magala",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "DA Miller",
+              "bowler": "SSB Magala",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "DA Miller",
+              "bowler": "SSB Magala",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "RS Bopara",
+              "bowler": "SSB Magala",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "DA Miller",
+              "bowler": "SSB Magala",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "RS Bopara",
+              "bowler": "Wahab Riaz",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "DA Miller",
+              "bowler": "Wahab Riaz",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "RS Bopara",
+              "bowler": "Wahab Riaz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "RS Bopara",
+              "bowler": "Wahab Riaz",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "DA Miller",
+              "bowler": "Wahab Riaz",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DA Miller",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "AL Phehlukwayo",
+              "bowler": "Wahab Riaz",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "RS Bopara",
+              "bowler": "Wahab Riaz",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "RS Bopara",
+              "bowler": "SSB Magala",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "AL Phehlukwayo",
+              "bowler": "SSB Magala",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "RS Bopara",
+              "bowler": "SSB Magala",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "RS Bopara",
+              "bowler": "SSB Magala",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "AL Phehlukwayo",
+              "bowler": "SSB Magala",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "AL Phehlukwayo",
+              "bowler": "SSB Magala",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "AL Phehlukwayo",
+              "bowler": "SSB Magala",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "AL Phehlukwayo",
+                  "fielders": [
+                    {
+                      "name": "Q de Kock"
+                    },
+                    {
+                      "name": "MJ Ackerman"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "RS Bopara",
+              "bowler": "Wahab Riaz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.1",
+              "batter": "RS Bopara",
+              "bowler": "Wahab Riaz",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "KA Maharaj",
+              "bowler": "Wahab Riaz",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "RS Bopara",
+              "bowler": "Wahab Riaz",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "KA Maharaj",
+              "bowler": "Wahab Riaz",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "KA Maharaj",
+              "bowler": "Wahab Riaz",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "RS Bopara",
+              "bowler": "Wahab Riaz",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "KA Maharaj",
+              "bowler": "SSB Magala",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "KA Maharaj",
+              "bowler": "SSB Magala",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "RS Bopara",
+              "bowler": "SSB Magala",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "RS Bopara",
+              "bowler": "SSB Magala",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RS Bopara",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "P Subrayen",
+              "bowler": "SSB Magala",
+              "non_striker": "KA Maharaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "KA Maharaj",
+              "bowler": "SSB Magala",
+              "non_striker": "P Subrayen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 175
+      }
+    }
+  ]
+}

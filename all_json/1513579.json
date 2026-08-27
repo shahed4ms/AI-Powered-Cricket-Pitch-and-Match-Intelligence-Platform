@@ -1,0 +1,5692 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-06-25",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Chesterfield",
+    "dates": [
+      "2026-06-23"
+    ],
+    "event": {
+      "name": "ECB Women's One-Day Cup",
+      "match_number": 46
+    },
+    "gender": "female",
+    "match_type": "ODM",
+    "officials": {
+      "match_referees": [
+        "IN Ramage"
+      ],
+      "umpires": [
+        "K White",
+        "W Mohammed"
+      ]
+    },
+    "outcome": {
+      "winner": "The Blaze",
+      "by": {
+        "wickets": 4
+      }
+    },
+    "overs": 50,
+    "players": {
+      "Yorkshire": [
+        "L Winfield-Hill",
+        "A Campbell",
+        "EG Thomas",
+        "JL Jonassen",
+        "A Clarke",
+        "R Duckworth",
+        "S Glenn",
+        "IL Blackwell",
+        "BA Langston",
+        "CAR Cooper",
+        "LK Randel-Bissell"
+      ],
+      "The Blaze": [
+        "M Kelly",
+        "TT Beaumont",
+        "CR Knott",
+        "GA Elwiss",
+        "ML Kirk",
+        "PV Thanawala",
+        "E Claridge",
+        "LF Higham",
+        "J Groves",
+        "CN Phillips",
+        "M Andrews"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Campbell": "4b788e61",
+        "A Clarke": "9417b5b6",
+        "BA Langston": "fb192f98",
+        "CAR Cooper": "20af5f5f",
+        "CN Phillips": "c3632caf",
+        "CR Knott": "d7ff1adc",
+        "E Claridge": "d8c6a647",
+        "EG Thomas": "5b641786",
+        "GA Elwiss": "287ed3a0",
+        "IL Blackwell": "c768baf2",
+        "IN Ramage": "33cb7803",
+        "J Groves": "11ff23e3",
+        "JL Jonassen": "0475a86b",
+        "K White": "5766214d",
+        "L Winfield-Hill": "5230a33d",
+        "LF Higham": "fbd79b9b",
+        "LK Randel-Bissell": "f0ea4b20",
+        "M Andrews": "1998dd8c",
+        "M Kelly": "ebf683f9",
+        "ML Kirk": "2dece89c",
+        "PV Thanawala": "b556a68f",
+        "R Duckworth": "8122c036",
+        "S Glenn": "b34e0c77",
+        "TT Beaumont": "b2664905",
+        "W Mohammed": "0a3e73a5"
+      }
+    },
+    "season": "2026",
+    "team_type": "club",
+    "teams": [
+      "Yorkshire",
+      "The Blaze"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Yorkshire"
+    },
+    "venue": "Queen's Park, Chesterfield"
+  },
+  "innings": [
+    {
+      "team": "Yorkshire",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "L Winfield-Hill",
+              "bowler": "CN Phillips",
+              "non_striker": "A Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "L Winfield-Hill",
+              "bowler": "CN Phillips",
+              "non_striker": "A Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "L Winfield-Hill",
+              "bowler": "CN Phillips",
+              "non_striker": "A Campbell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "A Campbell",
+              "bowler": "CN Phillips",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "L Winfield-Hill",
+              "bowler": "CN Phillips",
+              "non_striker": "A Campbell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "A Campbell",
+              "bowler": "CN Phillips",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "L Winfield-Hill",
+              "bowler": "CR Knott",
+              "non_striker": "A Campbell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "L Winfield-Hill",
+              "bowler": "CR Knott",
+              "non_striker": "A Campbell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "A Campbell",
+              "bowler": "CR Knott",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "A Campbell",
+              "bowler": "CR Knott",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "A Campbell",
+              "bowler": "CR Knott",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Campbell",
+                  "fielders": [
+                    {
+                      "name": "PV Thanawala"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "L Winfield-Hill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "L Winfield-Hill",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Winfield-Hill",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "JL Jonassen",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "JL Jonassen",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "JL Jonassen",
+              "bowler": "CN Phillips",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "JL Jonassen",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "JL Jonassen",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "JL Jonassen",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "JL Jonassen",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "JL Jonassen",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "JL Jonassen",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "JL Jonassen",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "JL Jonassen",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "JL Jonassen",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "JL Jonassen",
+              "bowler": "CN Phillips",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.1",
+              "batter": "JL Jonassen",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "JL Jonassen",
+              "bowler": "CN Phillips",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "JL Jonassen",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "JL Jonassen",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "EG Thomas",
+              "bowler": "CN Phillips",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "EG Thomas",
+              "bowler": "CN Phillips",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "EG Thomas",
+              "bowler": "CN Phillips",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "JL Jonassen",
+              "bowler": "CR Knott",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JL Jonassen",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "A Clarke",
+              "bowler": "CR Knott",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "A Clarke",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "A Clarke",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "A Clarke",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "A Clarke",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "A Clarke",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "A Clarke",
+              "bowler": "CN Phillips",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "EG Thomas",
+              "bowler": "CR Knott",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "A Clarke",
+              "bowler": "M Andrews",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "A Clarke",
+              "bowler": "M Andrews",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "A Clarke",
+              "bowler": "M Andrews",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "A Clarke",
+              "bowler": "M Andrews",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "A Clarke",
+              "bowler": "M Andrews",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "A Clarke",
+              "bowler": "M Andrews",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "EG Thomas",
+              "bowler": "GA Elwiss",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "EG Thomas",
+              "bowler": "GA Elwiss",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "A Clarke",
+              "bowler": "GA Elwiss",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "A Clarke",
+              "bowler": "GA Elwiss",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "A Clarke",
+              "bowler": "GA Elwiss",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "A Clarke",
+              "bowler": "GA Elwiss",
+              "non_striker": "EG Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "EG Thomas",
+              "bowler": "M Andrews",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "EG Thomas",
+              "bowler": "M Andrews",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "EG Thomas",
+              "bowler": "M Andrews",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "EG Thomas",
+              "bowler": "M Andrews",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "EG Thomas",
+              "bowler": "M Andrews",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "EG Thomas",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "A Clarke",
+              "bowler": "GA Elwiss",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "A Clarke",
+              "bowler": "GA Elwiss",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "A Clarke",
+              "bowler": "GA Elwiss",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "A Clarke",
+              "bowler": "GA Elwiss",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "A Clarke",
+              "bowler": "GA Elwiss",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "A Clarke",
+              "bowler": "GA Elwiss",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "A Clarke",
+              "bowler": "M Andrews",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "A Clarke",
+              "bowler": "M Andrews",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "R Duckworth",
+              "bowler": "GA Elwiss",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "R Duckworth",
+              "bowler": "GA Elwiss",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "R Duckworth",
+              "bowler": "GA Elwiss",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "R Duckworth",
+              "bowler": "GA Elwiss",
+              "non_striker": "A Clarke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Clarke",
+                  "fielders": [
+                    {
+                      "name": "PV Thanawala"
+                    },
+                    {
+                      "name": "E Claridge"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "S Glenn",
+              "bowler": "GA Elwiss",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "S Glenn",
+              "bowler": "GA Elwiss",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "S Glenn",
+              "bowler": "GA Elwiss",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "S Glenn",
+              "bowler": "GA Elwiss",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "S Glenn",
+              "bowler": "GA Elwiss",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "S Glenn",
+              "bowler": "GA Elwiss",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "S Glenn",
+              "bowler": "GA Elwiss",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "R Duckworth",
+              "bowler": "GA Elwiss",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "S Glenn",
+              "bowler": "LF Higham",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.1",
+              "batter": "S Glenn",
+              "bowler": "LF Higham",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "S Glenn",
+              "bowler": "LF Higham",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "S Glenn",
+              "bowler": "LF Higham",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "S Glenn",
+              "bowler": "LF Higham",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "S Glenn",
+              "bowler": "LF Higham",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "actual_delivery": "20.1",
+              "batter": "S Glenn",
+              "bowler": "M Andrews",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "20.2",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.3",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.4",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.5",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.6",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "actual_delivery": "21.1",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.2",
+              "batter": "S Glenn",
+              "bowler": "LF Higham",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.3",
+              "batter": "S Glenn",
+              "bowler": "LF Higham",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.4",
+              "batter": "S Glenn",
+              "bowler": "LF Higham",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.5",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.6",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "actual_delivery": "22.1",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.2",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.3",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.4",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.5",
+              "batter": "S Glenn",
+              "bowler": "M Andrews",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.6",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "actual_delivery": "23.1",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.2",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.3",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.4",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.5",
+              "batter": "S Glenn",
+              "bowler": "LF Higham",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.6",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "actual_delivery": "24.1",
+              "batter": "S Glenn",
+              "bowler": "J Groves",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.2",
+              "batter": "R Duckworth",
+              "bowler": "J Groves",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.3",
+              "batter": "R Duckworth",
+              "bowler": "J Groves",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.4",
+              "batter": "R Duckworth",
+              "bowler": "J Groves",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.5",
+              "batter": "R Duckworth",
+              "bowler": "J Groves",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.6",
+              "batter": "S Glenn",
+              "bowler": "J Groves",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "actual_delivery": "25.1",
+              "batter": "S Glenn",
+              "bowler": "LF Higham",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.2",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.3",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.4",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.5",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.6",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "actual_delivery": "26.1",
+              "batter": "S Glenn",
+              "bowler": "J Groves",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.2",
+              "batter": "S Glenn",
+              "bowler": "J Groves",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.3",
+              "batter": "S Glenn",
+              "bowler": "J Groves",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "26.4",
+              "batter": "S Glenn",
+              "bowler": "J Groves",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "26.5",
+              "batter": "S Glenn",
+              "bowler": "J Groves",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.6",
+              "batter": "R Duckworth",
+              "bowler": "J Groves",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "actual_delivery": "27.1",
+              "batter": "S Glenn",
+              "bowler": "LF Higham",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.2",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "27.3",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.4",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.5",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.6",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "actual_delivery": "28.1",
+              "batter": "S Glenn",
+              "bowler": "J Groves",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.2",
+              "batter": "R Duckworth",
+              "bowler": "J Groves",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.3",
+              "batter": "S Glenn",
+              "bowler": "J Groves",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.4",
+              "batter": "R Duckworth",
+              "bowler": "J Groves",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.5",
+              "batter": "R Duckworth",
+              "bowler": "J Groves",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.6",
+              "batter": "R Duckworth",
+              "bowler": "J Groves",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "actual_delivery": "29.1",
+              "batter": "S Glenn",
+              "bowler": "LF Higham",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.2",
+              "batter": "S Glenn",
+              "bowler": "LF Higham",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.3",
+              "batter": "S Glenn",
+              "bowler": "LF Higham",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.4",
+              "batter": "S Glenn",
+              "bowler": "LF Higham",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "29.5",
+              "batter": "R Duckworth",
+              "bowler": "LF Higham",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "29.6",
+              "batter": "S Glenn",
+              "bowler": "LF Higham",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "actual_delivery": "30.1",
+              "batter": "R Duckworth",
+              "bowler": "CN Phillips",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.2",
+              "batter": "S Glenn",
+              "bowler": "CN Phillips",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.3",
+              "batter": "R Duckworth",
+              "bowler": "CN Phillips",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.4",
+              "batter": "R Duckworth",
+              "bowler": "CN Phillips",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.5",
+              "batter": "R Duckworth",
+              "bowler": "CN Phillips",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.6",
+              "batter": "R Duckworth",
+              "bowler": "CN Phillips",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "actual_delivery": "31.1",
+              "batter": "S Glenn",
+              "bowler": "CR Knott",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "31.2",
+              "batter": "R Duckworth",
+              "bowler": "CR Knott",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.3",
+              "batter": "R Duckworth",
+              "bowler": "CR Knott",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.4",
+              "batter": "R Duckworth",
+              "bowler": "CR Knott",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "31.5",
+              "batter": "S Glenn",
+              "bowler": "CR Knott",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.6",
+              "batter": "S Glenn",
+              "bowler": "CR Knott",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "actual_delivery": "32.1",
+              "batter": "R Duckworth",
+              "bowler": "CN Phillips",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.2",
+              "batter": "R Duckworth",
+              "bowler": "CN Phillips",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.3",
+              "batter": "S Glenn",
+              "bowler": "CN Phillips",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.4",
+              "batter": "R Duckworth",
+              "bowler": "CN Phillips",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.5",
+              "batter": "R Duckworth",
+              "bowler": "CN Phillips",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.6",
+              "batter": "R Duckworth",
+              "bowler": "CN Phillips",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.6",
+              "batter": "R Duckworth",
+              "bowler": "CN Phillips",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "actual_delivery": "33.1",
+              "batter": "S Glenn",
+              "bowler": "CR Knott",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.2",
+              "batter": "S Glenn",
+              "bowler": "CR Knott",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "33.3",
+              "batter": "R Duckworth",
+              "bowler": "CR Knott",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.4",
+              "batter": "R Duckworth",
+              "bowler": "CR Knott",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.5",
+              "batter": "R Duckworth",
+              "bowler": "CR Knott",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.6",
+              "batter": "R Duckworth",
+              "bowler": "CR Knott",
+              "non_striker": "S Glenn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "actual_delivery": "34.1",
+              "batter": "S Glenn",
+              "bowler": "CN Phillips",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Glenn",
+                  "fielders": [
+                    {
+                      "name": "LF Higham"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "34.2",
+              "batter": "IL Blackwell",
+              "bowler": "CN Phillips",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "34.3",
+              "batter": "IL Blackwell",
+              "bowler": "CN Phillips",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.4",
+              "batter": "IL Blackwell",
+              "bowler": "CN Phillips",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "34.5",
+              "batter": "R Duckworth",
+              "bowler": "CN Phillips",
+              "non_striker": "IL Blackwell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.6",
+              "batter": "R Duckworth",
+              "bowler": "CN Phillips",
+              "non_striker": "IL Blackwell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "actual_delivery": "35.1",
+              "batter": "IL Blackwell",
+              "bowler": "CR Knott",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "35.2",
+              "batter": "R Duckworth",
+              "bowler": "CR Knott",
+              "non_striker": "IL Blackwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "35.3",
+              "batter": "IL Blackwell",
+              "bowler": "CR Knott",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.4",
+              "batter": "IL Blackwell",
+              "bowler": "CR Knott",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.5",
+              "batter": "IL Blackwell",
+              "bowler": "CR Knott",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "35.6",
+              "batter": "R Duckworth",
+              "bowler": "CR Knott",
+              "non_striker": "IL Blackwell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "actual_delivery": "36.1",
+              "batter": "IL Blackwell",
+              "bowler": "M Andrews",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.2",
+              "batter": "IL Blackwell",
+              "bowler": "M Andrews",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.3",
+              "batter": "IL Blackwell",
+              "bowler": "M Andrews",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "36.4",
+              "batter": "IL Blackwell",
+              "bowler": "M Andrews",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.5",
+              "batter": "IL Blackwell",
+              "bowler": "M Andrews",
+              "non_striker": "R Duckworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "36.6",
+              "batter": "R Duckworth",
+              "bowler": "M Andrews",
+              "non_striker": "IL Blackwell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Duckworth",
+                  "fielders": [
+                    {
+                      "name": "E Claridge"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "actual_delivery": "37.1",
+              "batter": "IL Blackwell",
+              "bowler": "GA Elwiss",
+              "non_striker": "BA Langston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.2",
+              "batter": "IL Blackwell",
+              "bowler": "GA Elwiss",
+              "non_striker": "BA Langston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "37.3",
+              "batter": "BA Langston",
+              "bowler": "GA Elwiss",
+              "non_striker": "IL Blackwell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "37.4",
+              "batter": "BA Langston",
+              "bowler": "GA Elwiss",
+              "non_striker": "IL Blackwell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.5",
+              "batter": "BA Langston",
+              "bowler": "GA Elwiss",
+              "non_striker": "IL Blackwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "37.6",
+              "batter": "IL Blackwell",
+              "bowler": "GA Elwiss",
+              "non_striker": "BA Langston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "actual_delivery": "38.1",
+              "batter": "IL Blackwell",
+              "bowler": "M Andrews",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BA Langston",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "38.1",
+              "batter": "IL Blackwell",
+              "bowler": "M Andrews",
+              "non_striker": "BA Langston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "38.2",
+              "batter": "IL Blackwell",
+              "bowler": "M Andrews",
+              "non_striker": "BA Langston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "38.3",
+              "batter": "IL Blackwell",
+              "bowler": "M Andrews",
+              "non_striker": "BA Langston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "38.4",
+              "batter": "IL Blackwell",
+              "bowler": "M Andrews",
+              "non_striker": "BA Langston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "38.5",
+              "batter": "IL Blackwell",
+              "bowler": "M Andrews",
+              "non_striker": "BA Langston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "38.6",
+              "batter": "BA Langston",
+              "bowler": "M Andrews",
+              "non_striker": "IL Blackwell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "actual_delivery": "39.1",
+              "batter": "IL Blackwell",
+              "bowler": "GA Elwiss",
+              "non_striker": "BA Langston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.2",
+              "batter": "IL Blackwell",
+              "bowler": "GA Elwiss",
+              "non_striker": "BA Langston",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.3",
+              "batter": "IL Blackwell",
+              "bowler": "GA Elwiss",
+              "non_striker": "BA Langston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "39.4",
+              "batter": "BA Langston",
+              "bowler": "GA Elwiss",
+              "non_striker": "IL Blackwell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "39.5",
+              "batter": "BA Langston",
+              "bowler": "GA Elwiss",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "IL Blackwell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "39.5",
+              "batter": "BA Langston",
+              "bowler": "GA Elwiss",
+              "non_striker": "IL Blackwell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BA Langston",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "39.6",
+              "batter": "CAR Cooper",
+              "bowler": "GA Elwiss",
+              "non_striker": "IL Blackwell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "actual_delivery": "40.1",
+              "batter": "IL Blackwell",
+              "bowler": "M Andrews",
+              "non_striker": "CAR Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "40.2",
+              "batter": "IL Blackwell",
+              "bowler": "M Andrews",
+              "non_striker": "CAR Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "40.3",
+              "batter": "IL Blackwell",
+              "bowler": "M Andrews",
+              "non_striker": "CAR Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "40.4",
+              "batter": "IL Blackwell",
+              "bowler": "M Andrews",
+              "non_striker": "CAR Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "40.5",
+              "batter": "IL Blackwell",
+              "bowler": "M Andrews",
+              "non_striker": "CAR Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "40.6",
+              "batter": "IL Blackwell",
+              "bowler": "M Andrews",
+              "non_striker": "CAR Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "actual_delivery": "41.1",
+              "batter": "CAR Cooper",
+              "bowler": "GA Elwiss",
+              "non_striker": "IL Blackwell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "41.2",
+              "batter": "CAR Cooper",
+              "bowler": "GA Elwiss",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "IL Blackwell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "41.3",
+              "batter": "IL Blackwell",
+              "bowler": "GA Elwiss",
+              "non_striker": "CAR Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "IL Blackwell",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "41.4",
+              "batter": "LK Randel-Bissell",
+              "bowler": "GA Elwiss",
+              "non_striker": "CAR Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "41.5",
+              "batter": "LK Randel-Bissell",
+              "bowler": "GA Elwiss",
+              "non_striker": "CAR Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "41.6",
+              "batter": "CAR Cooper",
+              "bowler": "GA Elwiss",
+              "non_striker": "LK Randel-Bissell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "actual_delivery": "42.1",
+              "batter": "LK Randel-Bissell",
+              "bowler": "CN Phillips",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CAR Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "42.1",
+              "batter": "LK Randel-Bissell",
+              "bowler": "CN Phillips",
+              "non_striker": "CAR Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "42.2",
+              "batter": "LK Randel-Bissell",
+              "bowler": "CN Phillips",
+              "non_striker": "CAR Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "42.3",
+              "batter": "LK Randel-Bissell",
+              "bowler": "CN Phillips",
+              "non_striker": "CAR Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LK Randel-Bissell",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "The Blaze",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "M Kelly",
+              "bowler": "IL Blackwell",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "M Kelly",
+              "bowler": "IL Blackwell",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "M Kelly",
+              "bowler": "IL Blackwell",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "M Kelly",
+              "bowler": "IL Blackwell",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "M Kelly",
+              "bowler": "IL Blackwell",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "M Kelly",
+              "bowler": "IL Blackwell",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "TT Beaumont",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "TT Beaumont",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "TT Beaumont",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "TT Beaumont",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "TT Beaumont",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "M Kelly",
+              "bowler": "S Glenn",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "TT Beaumont",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "TT Beaumont",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "M Kelly",
+              "bowler": "S Glenn",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "M Kelly",
+              "bowler": "S Glenn",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "M Kelly",
+              "bowler": "S Glenn",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "M Kelly",
+              "bowler": "S Glenn",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "M Kelly",
+              "bowler": "S Glenn",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "M Kelly",
+              "bowler": "S Glenn",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "M Kelly",
+              "bowler": "S Glenn",
+              "non_striker": "TT Beaumont",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "TT Beaumont",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "TT Beaumont",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TT Beaumont",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "CR Knott",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "CR Knott",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "CR Knott",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "CR Knott",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "CR Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "CR Knott",
+              "bowler": "JL Jonassen",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "CR Knott",
+              "bowler": "JL Jonassen",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "CR Knott",
+              "bowler": "JL Jonassen",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "CR Knott",
+              "bowler": "JL Jonassen",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "CR Knott",
+              "bowler": "JL Jonassen",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "CR Knott",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "CR Knott",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "CR Knott",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "CR Knott",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "CR Knott",
+              "bowler": "BA Langston",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "CR Knott",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "CR Knott",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CR Knott",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "GA Elwiss",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "GA Elwiss",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "GA Elwiss",
+              "bowler": "JL Jonassen",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "GA Elwiss",
+              "bowler": "JL Jonassen",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "GA Elwiss",
+              "bowler": "JL Jonassen",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "GA Elwiss",
+              "bowler": "JL Jonassen",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "GA Elwiss",
+              "bowler": "BA Langston",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.1",
+              "batter": "GA Elwiss",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "GA Elwiss",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "GA Elwiss",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GA Elwiss",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "ML Kirk",
+              "bowler": "BA Langston",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "ML Kirk",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "ML Kirk",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "ML Kirk",
+              "bowler": "JL Jonassen",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "ML Kirk",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "ML Kirk",
+              "bowler": "JL Jonassen",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "ML Kirk",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "ML Kirk",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "ML Kirk",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "ML Kirk",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "ML Kirk",
+              "bowler": "JL Jonassen",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "ML Kirk",
+              "bowler": "JL Jonassen",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "M Kelly",
+              "bowler": "IL Blackwell",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "ML Kirk",
+              "bowler": "IL Blackwell",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "M Kelly",
+              "bowler": "IL Blackwell",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "ML Kirk",
+              "bowler": "IL Blackwell",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "ML Kirk",
+              "bowler": "IL Blackwell",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "ML Kirk",
+              "bowler": "IL Blackwell",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "M Kelly",
+              "bowler": "S Glenn",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "ML Kirk",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "ML Kirk",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "ML Kirk",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "ML Kirk",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "ML Kirk",
+              "bowler": "S Glenn",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "ML Kirk",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "M Kelly",
+              "bowler": "IL Blackwell",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "M Kelly",
+              "bowler": "IL Blackwell",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "M Kelly",
+              "bowler": "IL Blackwell",
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "ML Kirk",
+              "bowler": "IL Blackwell",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "ML Kirk",
+              "bowler": "IL Blackwell",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "ML Kirk",
+              "bowler": "IL Blackwell",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "M Kelly",
+              "bowler": "S Glenn",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "ML Kirk",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "ML Kirk",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "ML Kirk",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ML Kirk",
+                  "fielders": [
+                    {
+                      "name": "L Winfield-Hill"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "PV Thanawala",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "PV Thanawala",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "PV Thanawala",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "PV Thanawala",
+              "bowler": "IL Blackwell",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "PV Thanawala",
+              "bowler": "IL Blackwell",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "PV Thanawala",
+              "bowler": "IL Blackwell",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "PV Thanawala",
+              "bowler": "IL Blackwell",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "PV Thanawala",
+              "bowler": "IL Blackwell",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "PV Thanawala",
+              "bowler": "IL Blackwell",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "M Kelly",
+              "bowler": "S Glenn",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "PV Thanawala",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "PV Thanawala",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "PV Thanawala",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "M Kelly",
+              "bowler": "S Glenn",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "M Kelly",
+              "bowler": "S Glenn",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "actual_delivery": "20.1",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.2",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.3",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "20.4",
+              "batter": "PV Thanawala",
+              "bowler": "JL Jonassen",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.5",
+              "batter": "PV Thanawala",
+              "bowler": "JL Jonassen",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "20.6",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "actual_delivery": "21.1",
+              "batter": "PV Thanawala",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "21.2",
+              "batter": "PV Thanawala",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.3",
+              "batter": "M Kelly",
+              "bowler": "S Glenn",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.4",
+              "batter": "PV Thanawala",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.5",
+              "batter": "PV Thanawala",
+              "bowler": "S Glenn",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.6",
+              "batter": "M Kelly",
+              "bowler": "S Glenn",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "actual_delivery": "22.1",
+              "batter": "PV Thanawala",
+              "bowler": "JL Jonassen",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.2",
+              "batter": "PV Thanawala",
+              "bowler": "JL Jonassen",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.3",
+              "batter": "M Kelly",
+              "bowler": "JL Jonassen",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.4",
+              "batter": "PV Thanawala",
+              "bowler": "JL Jonassen",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.5",
+              "batter": "PV Thanawala",
+              "bowler": "JL Jonassen",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.6",
+              "batter": "PV Thanawala",
+              "bowler": "JL Jonassen",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "actual_delivery": "23.1",
+              "batter": "M Kelly",
+              "bowler": "CAR Cooper",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.2",
+              "batter": "M Kelly",
+              "bowler": "CAR Cooper",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.3",
+              "batter": "M Kelly",
+              "bowler": "CAR Cooper",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.4",
+              "batter": "M Kelly",
+              "bowler": "CAR Cooper",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.5",
+              "batter": "PV Thanawala",
+              "bowler": "CAR Cooper",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.6",
+              "batter": "PV Thanawala",
+              "bowler": "CAR Cooper",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "actual_delivery": "24.1",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.2",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.3",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.4",
+              "batter": "PV Thanawala",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.5",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.6",
+              "batter": "PV Thanawala",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "actual_delivery": "25.1",
+              "batter": "M Kelly",
+              "bowler": "CAR Cooper",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.2",
+              "batter": "PV Thanawala",
+              "bowler": "CAR Cooper",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.3",
+              "batter": "PV Thanawala",
+              "bowler": "CAR Cooper",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.4",
+              "batter": "PV Thanawala",
+              "bowler": "CAR Cooper",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.5",
+              "batter": "M Kelly",
+              "bowler": "CAR Cooper",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.6",
+              "batter": "M Kelly",
+              "bowler": "CAR Cooper",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "actual_delivery": "26.1",
+              "batter": "PV Thanawala",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.2",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "26.3",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.4",
+              "batter": "M Kelly",
+              "bowler": "BA Langston",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.5",
+              "batter": "PV Thanawala",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.6",
+              "batter": "PV Thanawala",
+              "bowler": "BA Langston",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "actual_delivery": "27.1",
+              "batter": "M Kelly",
+              "bowler": "CAR Cooper",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.2",
+              "batter": "PV Thanawala",
+              "bowler": "CAR Cooper",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.3",
+              "batter": "M Kelly",
+              "bowler": "CAR Cooper",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "27.4",
+              "batter": "M Kelly",
+              "bowler": "CAR Cooper",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.5",
+              "batter": "M Kelly",
+              "bowler": "CAR Cooper",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.6",
+              "batter": "PV Thanawala",
+              "bowler": "CAR Cooper",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "actual_delivery": "28.1",
+              "batter": "M Kelly",
+              "bowler": "IL Blackwell",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.2",
+              "batter": "M Kelly",
+              "bowler": "IL Blackwell",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.3",
+              "batter": "M Kelly",
+              "bowler": "IL Blackwell",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.4",
+              "batter": "M Kelly",
+              "bowler": "IL Blackwell",
+              "non_striker": "PV Thanawala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.5",
+              "batter": "PV Thanawala",
+              "bowler": "IL Blackwell",
+              "non_striker": "M Kelly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PV Thanawala",
+                  "fielders": [
+                    {
+                      "name": "BA Langston"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "28.6",
+              "batter": "M Kelly",
+              "bowler": "IL Blackwell",
+              "non_striker": "E Claridge",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Kelly",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "actual_delivery": "29.1",
+              "batter": "E Claridge",
+              "bowler": "CAR Cooper",
+              "non_striker": "LF Higham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.2",
+              "batter": "E Claridge",
+              "bowler": "CAR Cooper",
+              "non_striker": "LF Higham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "29.3",
+              "batter": "E Claridge",
+              "bowler": "CAR Cooper",
+              "non_striker": "LF Higham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "29.4",
+              "batter": "E Claridge",
+              "bowler": "CAR Cooper",
+              "non_striker": "LF Higham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.5",
+              "batter": "E Claridge",
+              "bowler": "CAR Cooper",
+              "non_striker": "LF Higham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.6",
+              "batter": "E Claridge",
+              "bowler": "CAR Cooper",
+              "non_striker": "LF Higham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "actual_delivery": "30.1",
+              "batter": "LF Higham",
+              "bowler": "IL Blackwell",
+              "non_striker": "E Claridge",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

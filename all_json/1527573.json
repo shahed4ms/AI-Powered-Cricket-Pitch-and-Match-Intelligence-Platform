@@ -1,0 +1,3326 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-04-13",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Karachi",
+    "dates": [
+      "2026-04-13"
+    ],
+    "event": {
+      "name": "Pakistan Super League",
+      "match_number": 22
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "Ali Naqvi"
+      ],
+      "reserve_umpires": [
+        "Nasir Hussain"
+      ],
+      "tv_umpires": [
+        "CM Brown"
+      ],
+      "umpires": [
+        "AG Wharf",
+        "Rashid Riaz"
+      ]
+    },
+    "outcome": {
+      "winner": "Peshawar Zalmi",
+      "by": {
+        "runs": 24
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Sufiyan Muqeem"
+    ],
+    "players": {
+      "Peshawar Zalmi": [
+        "Mohammad Haris",
+        "Babar Azam",
+        "BKG Mendis",
+        "Farhan Yousaf",
+        "MG Bracewell",
+        "Abdul Samad",
+        "Iftikhar Ahmed",
+        "Aamer Jamal",
+        "Sufiyan Muqeem",
+        "Shoriful Islam",
+        "Nahid Rana"
+      ],
+      "Multan Sultans": [
+        "Sahibzada Farhan",
+        "SPD Smith",
+        "JR Philippe",
+        "Shan Masood",
+        "AJ Turner",
+        "Arafat Minhas",
+        "Mohammad Nawaz",
+        "Mohammad Wasim",
+        "Faisal Akram",
+        "PM Siddle",
+        "Muhammad Ismail"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AG Wharf": "2e0fcc58",
+        "AJ Turner": "ff1e12a0",
+        "Aamer Jamal": "a8e54ef4",
+        "Abdul Samad": "8e554b6b",
+        "Ali Naqvi": "3c89fc88",
+        "Arafat Minhas": "f2e8b37c",
+        "BKG Mendis": "5d1e7582",
+        "Babar Azam": "8a75e999",
+        "CM Brown": "448f4f1c",
+        "Faisal Akram": "14661bf3",
+        "Farhan Yousaf": "2d4dc51e",
+        "Iftikhar Ahmed": "29e253dd",
+        "JR Philippe": "39086549",
+        "MG Bracewell": "e38bce7a",
+        "Mohammad Haris": "ff3f6fc1",
+        "Mohammad Nawaz": "3086f7a4",
+        "Mohammad Wasim": "9e9af5f2",
+        "Muhammad Ismail": "f98481d3",
+        "Muhammad Shahzad": "f59b2121",
+        "Nahid Rana": "5318ee68",
+        "Nasir Hussain": "5b2fe85b",
+        "PM Siddle": "bd93fea4",
+        "Rashid Riaz": "fb82725e",
+        "SPD Smith": "30a45b23",
+        "Sahibzada Farhan": "1aba45cd",
+        "Shan Masood": "6843a783",
+        "Shoriful Islam": "bb34fd31",
+        "Sufiyan Muqeem": "4277234d"
+      }
+    },
+    "season": "2026",
+    "team_type": "club",
+    "teams": [
+      "Peshawar Zalmi",
+      "Multan Sultans"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Multan Sultans"
+    },
+    "venue": "National Stadium, Karachi"
+  },
+  "innings": [
+    {
+      "team": "Peshawar Zalmi",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Mohammad Haris",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Mohammad Haris",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Mohammad Haris",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Mohammad Haris",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Babar Azam",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "Mohammad Haris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Babar Azam",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "Mohammad Haris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Mohammad Haris",
+              "bowler": "Arafat Minhas",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Mohammad Haris",
+              "bowler": "Arafat Minhas",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Mohammad Haris",
+              "bowler": "Arafat Minhas",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Mohammad Haris",
+              "bowler": "Arafat Minhas",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Mohammad Haris",
+              "bowler": "Arafat Minhas",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Babar Azam",
+              "bowler": "Arafat Minhas",
+              "non_striker": "Mohammad Haris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Babar Azam",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "Mohammad Haris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Mohammad Haris",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Babar Azam",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "Mohammad Haris",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Babar Azam",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "Mohammad Haris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Mohammad Haris",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Mohammad Haris",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Babar Azam",
+              "bowler": "Muhammad Ismail",
+              "non_striker": "Mohammad Haris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Babar Azam",
+              "bowler": "Muhammad Ismail",
+              "non_striker": "Mohammad Haris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Mohammad Haris",
+              "bowler": "Muhammad Ismail",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Mohammad Haris",
+              "bowler": "Muhammad Ismail",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Babar Azam",
+              "bowler": "Muhammad Ismail",
+              "non_striker": "Mohammad Haris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Babar Azam",
+              "bowler": "Muhammad Ismail",
+              "non_striker": "Mohammad Haris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Mohammad Haris",
+              "bowler": "PM Siddle",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Mohammad Haris",
+              "bowler": "PM Siddle",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Mohammad Haris",
+              "bowler": "PM Siddle",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Haris",
+                  "fielders": [
+                    {
+                      "name": "JR Philippe"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "BKG Mendis",
+              "bowler": "PM Siddle",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Babar Azam",
+              "bowler": "PM Siddle",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "BKG Mendis",
+              "bowler": "PM Siddle",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "BKG Mendis",
+              "bowler": "Muhammad Ismail",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "BKG Mendis",
+              "bowler": "Muhammad Ismail",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Babar Azam",
+              "bowler": "Muhammad Ismail",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Babar Azam",
+              "bowler": "Muhammad Ismail",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Babar Azam",
+              "bowler": "Muhammad Ismail",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Babar Azam",
+              "bowler": "Muhammad Ismail",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Babar Azam",
+              "bowler": "Arafat Minhas",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "BKG Mendis",
+              "bowler": "Arafat Minhas",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Babar Azam",
+              "bowler": "Arafat Minhas",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "BKG Mendis",
+              "bowler": "Arafat Minhas",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Babar Azam",
+              "bowler": "Arafat Minhas",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "BKG Mendis",
+              "bowler": "Arafat Minhas",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "BKG Mendis",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Babar Azam",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "BKG Mendis",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "BKG Mendis",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Babar Azam",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Babar Azam",
+                  "fielders": [
+                    {
+                      "name": "Muhammad Shahzad",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Farhan Yousaf",
+              "bowler": "Mohammad Nawaz",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Farhan Yousaf",
+              "bowler": "Arafat Minhas",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "BKG Mendis",
+              "bowler": "Arafat Minhas",
+              "non_striker": "Farhan Yousaf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "BKG Mendis",
+              "bowler": "Arafat Minhas",
+              "non_striker": "Farhan Yousaf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Farhan Yousaf",
+              "bowler": "Arafat Minhas",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Farhan Yousaf",
+              "bowler": "Arafat Minhas",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Farhan Yousaf",
+              "bowler": "Arafat Minhas",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "BKG Mendis",
+              "bowler": "Faisal Akram",
+              "non_striker": "Farhan Yousaf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Farhan Yousaf",
+              "bowler": "Faisal Akram",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Farhan Yousaf",
+              "bowler": "Faisal Akram",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Farhan Yousaf",
+              "bowler": "Faisal Akram",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Farhan Yousaf",
+              "bowler": "Faisal Akram",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "BKG Mendis",
+              "bowler": "Faisal Akram",
+              "non_striker": "Farhan Yousaf",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Farhan Yousaf",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "BKG Mendis",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Farhan Yousaf",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "BKG Mendis",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Farhan Yousaf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Farhan Yousaf",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Farhan Yousaf",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "BKG Mendis",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Farhan Yousaf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Farhan Yousaf",
+              "bowler": "Faisal Akram",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Farhan Yousaf",
+              "bowler": "Faisal Akram",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "BKG Mendis",
+              "bowler": "Faisal Akram",
+              "non_striker": "Farhan Yousaf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Farhan Yousaf",
+              "bowler": "Faisal Akram",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "BKG Mendis",
+              "bowler": "Faisal Akram",
+              "non_striker": "Farhan Yousaf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Farhan Yousaf",
+              "bowler": "Faisal Akram",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "BKG Mendis",
+              "bowler": "PM Siddle",
+              "non_striker": "Farhan Yousaf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "BKG Mendis",
+              "bowler": "PM Siddle",
+              "non_striker": "Farhan Yousaf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "BKG Mendis",
+              "bowler": "PM Siddle",
+              "non_striker": "Farhan Yousaf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Farhan Yousaf",
+              "bowler": "PM Siddle",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "BKG Mendis",
+              "bowler": "PM Siddle",
+              "non_striker": "Farhan Yousaf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Farhan Yousaf",
+              "bowler": "PM Siddle",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Farhan Yousaf",
+              "bowler": "Arafat Minhas",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Farhan Yousaf",
+              "bowler": "Arafat Minhas",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "BKG Mendis",
+              "bowler": "Arafat Minhas",
+              "non_striker": "Farhan Yousaf",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "BKG Mendis",
+              "bowler": "Arafat Minhas",
+              "non_striker": "Farhan Yousaf",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "BKG Mendis",
+              "bowler": "Arafat Minhas",
+              "non_striker": "Farhan Yousaf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "BKG Mendis",
+              "bowler": "Arafat Minhas",
+              "non_striker": "Farhan Yousaf",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Farhan Yousaf",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Farhan Yousaf",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Farhan Yousaf",
+                  "fielders": [
+                    {
+                      "name": "Shan Masood"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "MG Bracewell",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "BKG Mendis",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "BKG Mendis",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "BKG Mendis",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "MG Bracewell",
+              "bowler": "Faisal Akram",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "BKG Mendis",
+              "bowler": "Faisal Akram",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "BKG Mendis",
+              "bowler": "Faisal Akram",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "BKG Mendis",
+              "bowler": "Faisal Akram",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "MG Bracewell",
+              "bowler": "Faisal Akram",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "BKG Mendis",
+              "bowler": "Faisal Akram",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "BKG Mendis",
+              "bowler": "PM Siddle",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "MG Bracewell",
+              "bowler": "PM Siddle",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "MG Bracewell",
+              "bowler": "PM Siddle",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "BKG Mendis",
+              "bowler": "PM Siddle",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "MG Bracewell",
+              "bowler": "PM Siddle",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "MG Bracewell",
+              "bowler": "PM Siddle",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "BKG Mendis",
+              "bowler": "Muhammad Ismail",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.1",
+              "batter": "BKG Mendis",
+              "bowler": "Muhammad Ismail",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "MG Bracewell",
+              "bowler": "Muhammad Ismail",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MG Bracewell",
+                  "fielders": [
+                    {
+                      "name": "Shan Masood"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Abdul Samad",
+              "bowler": "Muhammad Ismail",
+              "non_striker": "BKG Mendis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "BKG Mendis",
+              "bowler": "Muhammad Ismail",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "BKG Mendis",
+              "bowler": "Muhammad Ismail",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "BKG Mendis",
+              "bowler": "Muhammad Ismail",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "BKG Mendis",
+              "bowler": "Muhammad Ismail",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BKG Mendis",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Nawaz"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Abdul Samad",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Iftikhar Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "Mohammad Wasim",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Abdul Samad",
+              "bowler": "Mohammad Wasim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Iftikhar Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Abdul Samad",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Iftikhar Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "Mohammad Wasim",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "Mohammad Wasim",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Iftikhar Ahmed",
+              "bowler": "PM Siddle",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Iftikhar Ahmed",
+                  "fielders": [
+                    {
+                      "name": "Mohammad Nawaz"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Aamer Jamal",
+              "bowler": "PM Siddle",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Abdul Samad",
+              "bowler": "PM Siddle",
+              "non_striker": "Aamer Jamal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Aamer Jamal",
+              "bowler": "PM Siddle",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Abdul Samad",
+              "bowler": "PM Siddle",
+              "non_striker": "Aamer Jamal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Abdul Samad",
+              "bowler": "PM Siddle",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Aamer Jamal",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Aamer Jamal",
+              "bowler": "PM Siddle",
+              "non_striker": "Abdul Samad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Multan Sultans",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Sahibzada Farhan",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "SPD Smith",
+              "bowler": "Iftikhar Ahmed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "SPD Smith",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Sahibzada Farhan",
+              "bowler": "Iftikhar Ahmed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Sahibzada Farhan",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Sahibzada Farhan",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Sahibzada Farhan",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "SPD Smith",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Sahibzada Farhan",
+              "bowler": "Shoriful Islam",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "SPD Smith",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Sahibzada Farhan",
+              "bowler": "Shoriful Islam",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Sahibzada Farhan",
+              "bowler": "Shoriful Islam",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "SPD Smith",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Sahibzada Farhan",
+              "bowler": "Shoriful Islam",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "SPD Smith",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "SPD Smith",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Sahibzada Farhan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Sahibzada Farhan",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Sahibzada Farhan",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sahibzada Farhan",
+                  "fielders": [
+                    {
+                      "name": "Abdul Samad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "JR Philippe",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "JR Philippe",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "SPD Smith",
+              "bowler": "Shoriful Islam",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "SPD Smith",
+              "bowler": "Shoriful Islam",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "JR Philippe",
+              "bowler": "Shoriful Islam",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "SPD Smith",
+              "bowler": "Shoriful Islam",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "SPD Smith",
+              "bowler": "Shoriful Islam",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "SPD Smith",
+              "bowler": "Shoriful Islam",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "SPD Smith",
+              "bowler": "MG Bracewell",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "SPD Smith",
+              "bowler": "MG Bracewell",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "JR Philippe",
+              "bowler": "MG Bracewell",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "JR Philippe",
+              "bowler": "MG Bracewell",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "JR Philippe",
+              "bowler": "MG Bracewell",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "SPD Smith",
+              "bowler": "MG Bracewell",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "JR Philippe",
+              "bowler": "Shoriful Islam",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "JR Philippe",
+              "bowler": "Shoriful Islam",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "SPD Smith",
+              "bowler": "Shoriful Islam",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "JR Philippe",
+              "bowler": "Shoriful Islam",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "JR Philippe",
+              "bowler": "Shoriful Islam",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "SPD Smith",
+              "bowler": "Shoriful Islam",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "SPD Smith",
+              "bowler": "MG Bracewell",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "JR Philippe",
+              "bowler": "MG Bracewell",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "JR Philippe",
+              "bowler": "MG Bracewell",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "JR Philippe",
+              "bowler": "MG Bracewell",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "SPD Smith",
+              "bowler": "MG Bracewell",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "JR Philippe",
+              "bowler": "MG Bracewell",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "SPD Smith",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "JR Philippe",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "SPD Smith",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "SPD Smith",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "JR Philippe",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "SPD Smith",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "SPD Smith",
+              "bowler": "Nahid Rana",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "SPD Smith",
+              "bowler": "Nahid Rana",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "SPD Smith",
+              "bowler": "Nahid Rana",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "SPD Smith",
+              "bowler": "Nahid Rana",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "SPD Smith",
+              "bowler": "Nahid Rana",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "SPD Smith",
+              "bowler": "Nahid Rana",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "SPD Smith",
+              "bowler": "Sufiyan Muqeem",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.1",
+              "batter": "SPD Smith",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SPD Smith",
+                  "fielders": [
+                    {
+                      "name": "MG Bracewell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Shan Masood",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "JR Philippe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "JR Philippe",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Shan Masood",
+              "review": {
+                "by": "Multan Sultans",
+                "umpire": "Rashid Riaz",
+                "batter": "JR Philippe",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JR Philippe",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "AJ Turner",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Shan Masood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "AJ Turner",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Shan Masood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "AJ Turner",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Shan Masood",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Shan Masood",
+              "bowler": "Nahid Rana",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Shan Masood",
+              "bowler": "Nahid Rana",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Shan Masood",
+              "bowler": "Nahid Rana",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "AJ Turner",
+              "bowler": "Nahid Rana",
+              "non_striker": "Shan Masood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Shan Masood",
+              "bowler": "Nahid Rana",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "AJ Turner",
+              "bowler": "Nahid Rana",
+              "non_striker": "Shan Masood",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Shan Masood",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "AJ Turner",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Shan Masood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "AJ Turner",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Shan Masood",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "AJ Turner",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Shan Masood",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "AJ Turner",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Shan Masood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Shan Masood",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Shan Masood",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "AJ Turner",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Shan Masood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Shan Masood",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "AJ Turner",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Shan Masood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "AJ Turner",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Shan Masood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Shan Masood",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Shan Masood",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Shan Masood",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "AJ Turner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "AJ Turner",
+              "bowler": "Sufiyan Muqeem",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shan Masood",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "AJ Turner",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Shan Masood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AJ Turner",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Arafat Minhas",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Shan Masood",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Shan Masood",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Arafat Minhas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Arafat Minhas",
+              "bowler": "Sufiyan Muqeem",
+              "non_striker": "Shan Masood",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Shan Masood",
+              "bowler": "Aamer Jamal",
+              "non_striker": "Arafat Minhas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Shan Masood",
+              "bowler": "Aamer Jamal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Arafat Minhas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Shan Masood",
+              "bowler": "Aamer Jamal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Arafat Minhas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Shan Masood",
+              "bowler": "Aamer Jamal",
+              "non_striker": "Arafat Minhas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Shan Masood",
+              "bowler": "Aamer Jamal",
+              "non_striker": "Arafat Minhas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Shan Masood",
+              "bowler": "Aamer Jamal",
+              "non_striker": "Arafat Minhas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Shan Masood",
+              "bowler": "Aamer Jamal",
+              "non_striker": "Arafat Minhas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Arafat Minhas",
+              "bowler": "Aamer Jamal",
+              "non_striker": "Shan Masood",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Shan Masood",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Arafat Minhas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shan Masood",
+                  "fielders": [
+                    {
+                      "name": "Abdul Samad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Mohammad Nawaz",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Arafat Minhas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Mohammad Nawaz",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Arafat Minhas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Mohammad Nawaz",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Arafat Minhas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Arafat Minhas",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Mohammad Nawaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Mohammad Nawaz",
+              "bowler": "Iftikhar Ahmed",
+              "non_striker": "Arafat Minhas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Mohammad Nawaz",
+              "bowler": "Nahid Rana",
+              "non_striker": "Arafat Minhas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Mohammad Nawaz",
+              "bowler": "Nahid Rana",
+              "non_striker": "Arafat Minhas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Arafat Minhas",
+              "bowler": "Nahid Rana",
+              "non_striker": "Mohammad Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Arafat Minhas",
+                  "fielders": [
+                    {
+                      "name": "Babar Azam"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Mohammad Wasim",
+              "bowler": "Nahid Rana",
+              "non_striker": "Mohammad Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Mohammad Wasim",
+              "bowler": "Nahid Rana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammad Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Mohammad Wasim",
+              "bowler": "Nahid Rana",
+              "non_striker": "Mohammad Nawaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Mohammad Nawaz",
+              "bowler": "Nahid Rana",
+              "non_striker": "Mohammad Wasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Mohammad Nawaz",
+              "bowler": "Shoriful Islam",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Mohammad Wasim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Mohammad Wasim",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Mohammad Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Mohammad Wasim",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Mohammad Nawaz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Mohammad Wasim",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Mohammad Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Mohammad Wasim",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Mohammad Nawaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Mohammad Nawaz",
+              "bowler": "Shoriful Islam",
+              "non_striker": "Mohammad Wasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Mohammad Nawaz",
+              "bowler": "Nahid Rana",
+              "non_striker": "Mohammad Wasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Mohammad Nawaz",
+              "bowler": "Nahid Rana",
+              "non_striker": "Mohammad Wasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Mohammad Nawaz",
+              "bowler": "Nahid Rana",
+              "non_striker": "Mohammad Wasim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Mohammad Nawaz",
+              "bowler": "Nahid Rana",
+              "non_striker": "Mohammad Wasim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Mohammad Wasim",
+              "bowler": "Nahid Rana",
+              "non_striker": "Mohammad Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Mohammad Wasim",
+              "bowler": "Nahid Rana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammad Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Mohammad Wasim",
+              "bowler": "Nahid Rana",
+              "non_striker": "Mohammad Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Wasim",
+                  "fielders": [
+                    {
+                      "name": "BKG Mendis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Mohammad Nawaz",
+              "bowler": "Aamer Jamal",
+              "non_striker": "Faisal Akram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Mohammad Nawaz",
+              "bowler": "Aamer Jamal",
+              "non_striker": "Faisal Akram",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Mohammad Nawaz",
+              "bowler": "Aamer Jamal",
+              "non_striker": "Faisal Akram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Nawaz",
+                  "fielders": [
+                    {
+                      "name": "BKG Mendis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "PM Siddle",
+              "bowler": "Aamer Jamal",
+              "non_striker": "Faisal Akram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Faisal Akram",
+              "bowler": "Aamer Jamal",
+              "non_striker": "PM Siddle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Faisal Akram",
+              "bowler": "Aamer Jamal",
+              "non_striker": "PM Siddle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 197
+      }
+    }
+  ]
+}

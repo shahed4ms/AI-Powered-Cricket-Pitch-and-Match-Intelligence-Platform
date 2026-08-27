@@ -1,0 +1,2791 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-09",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 5,
+    "city": "Southampton",
+    "dates": [
+      "2026-08-08"
+    ],
+    "event": {
+      "name": "The Hundred Men's Competition",
+      "match_number": 26
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "Phil Whitticase"
+      ],
+      "reserve_umpires": [
+        "Mark Newell"
+      ],
+      "tv_umpires": [
+        "NJ Llong"
+      ],
+      "umpires": [
+        "M Burns",
+        "SJ O'Shaughnessy"
+      ]
+    },
+    "outcome": {
+      "winner": "Manchester Super Giants",
+      "by": {
+        "runs": 10
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "PI Walter"
+    ],
+    "players": {
+      "Manchester Super Giants": [
+        "TL Seifert",
+        "PI Walter",
+        "JC Buttler",
+        "H Klaasen",
+        "JL du Plooy",
+        "TJ Moores",
+        "MG Bracewell",
+        "LA Dawson",
+        "AAP Atkinson",
+        "Noor Ahmad",
+        "JC Tongue"
+      ],
+      "Southern Brave": [
+        "MS Pepper",
+        "JL Smith",
+        "T Stubbs",
+        "MM Ali",
+        "MP Stoinis",
+        "DA Miller",
+        "Nikhil Chaudhary",
+        "CJ Jordan",
+        "JC Archer",
+        "AU Rashid",
+        "L Wood"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AAP Atkinson": "70d57519",
+        "AU Rashid": "249d60c9",
+        "CJ Jordan": "ffe699c0",
+        "DA Miller": "d67d5f00",
+        "H Klaasen": "235c2bb6",
+        "JC Archer": "5574750c",
+        "JC Buttler": "99b75528",
+        "JC Tongue": "1f1b4c89",
+        "JL Smith": "c834c290",
+        "JL du Plooy": "6e6fb538",
+        "L Wood": "65b6943c",
+        "LA Dawson": "4a461c24",
+        "M Burns": "b3bd0666",
+        "MG Bracewell": "e38bce7a",
+        "MM Ali": "bb351c23",
+        "MP Stoinis": "d9273ee7",
+        "MS Pepper": "270e4c23",
+        "Mark Newell": "b33f0fa1",
+        "NJ Llong": "573fb985",
+        "Nikhil Chaudhary": "1f84183a",
+        "Noor Ahmad": "efc04be7",
+        "PI Walter": "57590dbb",
+        "Phil Whitticase": "99d5f6fa",
+        "SJ O'Shaughnessy": "4d4fdf4a",
+        "T Stubbs": "85b3fab2",
+        "TJ Moores": "85dcb721",
+        "TL Seifert": "4663bd23"
+      }
+    },
+    "season": "2026",
+    "team_type": "club",
+    "teams": [
+      "Manchester Super Giants",
+      "Southern Brave"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Manchester Super Giants"
+    },
+    "venue": "The Rose Bowl, Southampton"
+  },
+  "innings": [
+    {
+      "team": "Manchester Super Giants",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "TL Seifert",
+              "bowler": "JC Archer",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "TL Seifert",
+              "bowler": "JC Archer",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "TL Seifert",
+              "bowler": "JC Archer",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "TL Seifert",
+              "bowler": "JC Archer",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "TL Seifert",
+              "bowler": "JC Archer",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "PI Walter",
+              "bowler": "L Wood",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "PI Walter",
+              "bowler": "L Wood",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "PI Walter",
+              "bowler": "L Wood",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "PI Walter",
+              "bowler": "L Wood",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "PI Walter",
+              "bowler": "L Wood",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "TL Seifert",
+              "bowler": "MP Stoinis",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "TL Seifert",
+              "bowler": "MP Stoinis",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "TL Seifert",
+              "bowler": "MP Stoinis",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "PI Walter",
+              "bowler": "MP Stoinis",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "PI Walter",
+              "bowler": "MP Stoinis",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "TL Seifert",
+              "bowler": "JC Archer",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "TL Seifert",
+              "bowler": "JC Archer",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "PI Walter",
+              "bowler": "JC Archer",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "PI Walter",
+              "bowler": "JC Archer",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "PI Walter",
+              "bowler": "JC Archer",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "TL Seifert",
+              "bowler": "MP Stoinis",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "TL Seifert",
+              "bowler": "MP Stoinis",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "PI Walter",
+              "bowler": "MP Stoinis",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "PI Walter",
+              "bowler": "MP Stoinis",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "PI Walter",
+              "bowler": "MP Stoinis",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "TL Seifert",
+              "bowler": "L Wood",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "PI Walter",
+              "bowler": "L Wood",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "PI Walter",
+              "bowler": "L Wood",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "PI Walter",
+              "bowler": "L Wood",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "PI Walter",
+              "bowler": "L Wood",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "TL Seifert",
+              "bowler": "L Wood",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "TL Seifert",
+              "bowler": "L Wood",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "PI Walter",
+              "bowler": "AU Rashid",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "TL Seifert",
+              "bowler": "AU Rashid",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "PI Walter",
+              "bowler": "AU Rashid",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "TL Seifert",
+              "bowler": "AU Rashid",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "PI Walter",
+              "bowler": "AU Rashid",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "TL Seifert",
+              "bowler": "MM Ali",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "PI Walter",
+              "bowler": "MM Ali",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "TL Seifert",
+              "bowler": "MM Ali",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "PI Walter",
+              "bowler": "MM Ali",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "TL Seifert",
+              "bowler": "MM Ali",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "TL Seifert",
+              "bowler": "CJ Jordan",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "PI Walter",
+              "bowler": "CJ Jordan",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "PI Walter",
+              "bowler": "CJ Jordan",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "TL Seifert",
+              "bowler": "CJ Jordan",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "TL Seifert",
+              "bowler": "CJ Jordan",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "PI Walter",
+              "bowler": "MP Stoinis",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "TL Seifert",
+              "bowler": "MP Stoinis",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "TL Seifert",
+              "bowler": "MP Stoinis",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "PI Walter",
+              "bowler": "MP Stoinis",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "PI Walter",
+              "bowler": "MP Stoinis",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "TL Seifert",
+              "bowler": "AU Rashid",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "TL Seifert",
+              "bowler": "AU Rashid",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "PI Walter",
+              "bowler": "AU Rashid",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "PI Walter",
+              "bowler": "AU Rashid",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "TL Seifert",
+              "bowler": "AU Rashid",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "PI Walter",
+              "bowler": "MM Ali",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "TL Seifert",
+              "bowler": "MM Ali",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "TL Seifert",
+              "bowler": "MM Ali",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "TL Seifert",
+              "bowler": "MM Ali",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "TL Seifert",
+              "bowler": "MM Ali",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "TL Seifert",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "PI Walter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "PI Walter",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "PI Walter",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PI Walter",
+                  "fielders": [
+                    {
+                      "name": "CJ Jordan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "JC Buttler",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "JC Buttler",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "JC Buttler",
+              "bowler": "CJ Jordan",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "TL Seifert",
+              "bowler": "CJ Jordan",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "JC Buttler",
+              "bowler": "CJ Jordan",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JC Buttler",
+                  "fielders": [
+                    {
+                      "name": "MM Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "H Klaasen",
+              "bowler": "CJ Jordan",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "H Klaasen",
+              "bowler": "CJ Jordan",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "TL Seifert",
+              "bowler": "AU Rashid",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "H Klaasen",
+              "bowler": "AU Rashid",
+              "non_striker": "TL Seifert",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TL Seifert",
+                  "fielders": [
+                    {
+                      "name": "MM Ali"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "JL du Plooy",
+              "bowler": "AU Rashid",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "H Klaasen",
+              "bowler": "AU Rashid",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Klaasen",
+                  "fielders": [
+                    {
+                      "name": "MP Stoinis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "TJ Moores",
+              "bowler": "AU Rashid",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "TJ Moores",
+              "bowler": "MM Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.1",
+              "batter": "TJ Moores",
+              "bowler": "MM Ali",
+              "non_striker": "JL du Plooy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "JL du Plooy",
+                  "fielders": [
+                    {
+                      "name": "T Stubbs"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "TJ Moores",
+              "bowler": "MM Ali",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "TJ Moores",
+              "bowler": "MM Ali",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "MG Bracewell",
+              "bowler": "MM Ali",
+              "non_striker": "TJ Moores",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "TJ Moores",
+              "bowler": "MM Ali",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "TJ Moores",
+              "bowler": "AU Rashid",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "TJ Moores",
+              "bowler": "AU Rashid",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "TJ Moores",
+              "bowler": "AU Rashid",
+              "non_striker": "MG Bracewell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "MG Bracewell",
+              "bowler": "AU Rashid",
+              "non_striker": "TJ Moores",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MG Bracewell",
+                  "fielders": [
+                    {
+                      "name": "JC Archer"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "LA Dawson",
+              "bowler": "AU Rashid",
+              "non_striker": "TJ Moores",
+              "review": {
+                "by": "Southern Brave",
+                "umpire": "M Burns",
+                "batter": "LA Dawson",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "LA Dawson",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "TJ Moores",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "LA Dawson",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "TJ Moores",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "TJ Moores",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "LA Dawson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "TJ Moores",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "LA Dawson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "LA Dawson",
+              "bowler": "Nikhil Chaudhary",
+              "non_striker": "TJ Moores",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "LA Dawson",
+              "bowler": "MM Ali",
+              "non_striker": "TJ Moores",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LA Dawson",
+                  "fielders": [
+                    {
+                      "name": "MS Pepper"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "AAP Atkinson",
+              "bowler": "MM Ali",
+              "non_striker": "TJ Moores",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "AAP Atkinson",
+              "bowler": "MM Ali",
+              "non_striker": "TJ Moores",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "AAP Atkinson",
+              "bowler": "MM Ali",
+              "non_striker": "TJ Moores",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "AAP Atkinson",
+              "bowler": "MM Ali",
+              "non_striker": "TJ Moores",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "TJ Moores",
+              "bowler": "JC Archer",
+              "non_striker": "AAP Atkinson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "AAP Atkinson",
+              "bowler": "JC Archer",
+              "non_striker": "TJ Moores",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "AAP Atkinson",
+              "bowler": "JC Archer",
+              "non_striker": "TJ Moores",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "AAP Atkinson",
+              "bowler": "JC Archer",
+              "non_striker": "TJ Moores",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "TJ Moores",
+              "bowler": "JC Archer",
+              "non_striker": "AAP Atkinson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TJ Moores",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 4.5,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Southern Brave",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "MS Pepper",
+              "bowler": "AAP Atkinson",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "MS Pepper",
+              "bowler": "AAP Atkinson",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "MS Pepper",
+              "bowler": "AAP Atkinson",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MS Pepper",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "T Stubbs",
+              "bowler": "AAP Atkinson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "T Stubbs",
+              "bowler": "AAP Atkinson",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "T Stubbs",
+              "bowler": "AAP Atkinson",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "T Stubbs",
+              "bowler": "JC Tongue",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "T Stubbs",
+              "bowler": "JC Tongue",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "JL Smith",
+              "bowler": "JC Tongue",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "JL Smith",
+              "bowler": "JC Tongue",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "JL Smith",
+              "bowler": "JC Tongue",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "JL Smith",
+              "bowler": "JC Tongue",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "JL Smith",
+              "bowler": "AAP Atkinson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "T Stubbs",
+              "bowler": "AAP Atkinson",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "JL Smith",
+              "bowler": "AAP Atkinson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "T Stubbs",
+              "bowler": "AAP Atkinson",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "JL Smith",
+              "bowler": "AAP Atkinson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "JL Smith",
+              "bowler": "JC Tongue",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "JL Smith",
+              "bowler": "JC Tongue",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "T Stubbs",
+              "bowler": "JC Tongue",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "T Stubbs",
+              "bowler": "JC Tongue",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "T Stubbs",
+              "bowler": "JC Tongue",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "T Stubbs",
+              "bowler": "AAP Atkinson",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "T Stubbs",
+              "bowler": "AAP Atkinson",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "JL Smith",
+              "bowler": "AAP Atkinson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "JL Smith",
+              "bowler": "AAP Atkinson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "JL Smith",
+              "bowler": "AAP Atkinson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "T Stubbs",
+              "bowler": "LA Dawson",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "JL Smith",
+              "bowler": "LA Dawson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "T Stubbs",
+              "bowler": "LA Dawson",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "T Stubbs",
+              "bowler": "LA Dawson",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "JL Smith",
+              "bowler": "LA Dawson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "T Stubbs",
+              "bowler": "Noor Ahmad",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "JL Smith",
+              "bowler": "Noor Ahmad",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "JL Smith",
+              "bowler": "Noor Ahmad",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "T Stubbs",
+              "bowler": "Noor Ahmad",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "JL Smith",
+              "bowler": "Noor Ahmad",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "T Stubbs",
+              "bowler": "LA Dawson",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "JL Smith",
+              "bowler": "LA Dawson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "T Stubbs",
+              "bowler": "LA Dawson",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "JL Smith",
+              "bowler": "LA Dawson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "T Stubbs",
+              "bowler": "LA Dawson",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "T Stubbs",
+              "bowler": "PI Walter",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "JL Smith",
+              "bowler": "PI Walter",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "T Stubbs",
+              "bowler": "PI Walter",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "T Stubbs",
+              "bowler": "PI Walter",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "JL Smith",
+              "bowler": "PI Walter",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "JL Smith",
+              "bowler": "Noor Ahmad",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "JL Smith",
+              "bowler": "Noor Ahmad",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "JL Smith",
+              "bowler": "Noor Ahmad",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "T Stubbs",
+              "bowler": "Noor Ahmad",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "JL Smith",
+              "bowler": "Noor Ahmad",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "T Stubbs",
+              "bowler": "LA Dawson",
+              "non_striker": "JL Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "JL Smith",
+              "bowler": "LA Dawson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JL Smith",
+                  "fielders": [
+                    {
+                      "name": "H Klaasen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "MM Ali",
+              "bowler": "LA Dawson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "MM Ali",
+              "bowler": "LA Dawson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "MM Ali",
+              "bowler": "LA Dawson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MM Ali",
+                  "fielders": [
+                    {
+                      "name": "TJ Moores"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "MP Stoinis",
+              "bowler": "Noor Ahmad",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "T Stubbs",
+              "bowler": "Noor Ahmad",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "T Stubbs",
+              "bowler": "Noor Ahmad",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "MP Stoinis",
+              "bowler": "Noor Ahmad",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "T Stubbs",
+              "bowler": "Noor Ahmad",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "MP Stoinis",
+              "bowler": "PI Walter",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "MP Stoinis",
+              "bowler": "PI Walter",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "T Stubbs",
+              "bowler": "PI Walter",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "MP Stoinis",
+              "bowler": "PI Walter",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "MP Stoinis",
+              "bowler": "PI Walter",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "MP Stoinis",
+              "bowler": "Noor Ahmad",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "MP Stoinis",
+              "bowler": "Noor Ahmad",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "T Stubbs",
+              "bowler": "Noor Ahmad",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "MP Stoinis",
+              "bowler": "Noor Ahmad",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "T Stubbs",
+              "bowler": "Noor Ahmad",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "T Stubbs",
+              "bowler": "LA Dawson",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "T Stubbs",
+              "bowler": "LA Dawson",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "MP Stoinis",
+              "bowler": "LA Dawson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "MP Stoinis",
+              "bowler": "LA Dawson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "T Stubbs",
+              "bowler": "LA Dawson",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "MP Stoinis",
+              "bowler": "JC Tongue",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MP Stoinis",
+                  "fielders": [
+                    {
+                      "name": "LA Dawson"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "DA Miller",
+              "bowler": "JC Tongue",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "DA Miller",
+              "bowler": "JC Tongue",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "DA Miller",
+              "bowler": "JC Tongue",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "T Stubbs",
+              "bowler": "JC Tongue",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "T Stubbs",
+              "bowler": "MG Bracewell",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "DA Miller",
+              "bowler": "MG Bracewell",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "DA Miller",
+              "bowler": "MG Bracewell",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "DA Miller",
+              "bowler": "MG Bracewell",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "T Stubbs",
+              "bowler": "MG Bracewell",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "DA Miller",
+              "bowler": "MG Bracewell",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "T Stubbs",
+              "bowler": "MG Bracewell",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "T Stubbs",
+              "bowler": "MG Bracewell",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "DA Miller",
+              "bowler": "MG Bracewell",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DA Miller",
+                  "fielders": [
+                    {
+                      "name": "JL du Plooy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Nikhil Chaudhary",
+              "bowler": "MG Bracewell",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Nikhil Chaudhary",
+              "bowler": "JC Tongue",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.1",
+              "batter": "Nikhil Chaudhary",
+              "bowler": "JC Tongue",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Nikhil Chaudhary",
+              "bowler": "JC Tongue",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "T Stubbs",
+              "review": {
+                "by": "Manchester Super Giants",
+                "umpire": "M Burns",
+                "batter": "Nikhil Chaudhary",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Nikhil Chaudhary",
+              "bowler": "JC Tongue",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Nikhil Chaudhary",
+              "bowler": "JC Tongue",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Nikhil Chaudhary",
+              "bowler": "JC Tongue",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Nikhil Chaudhary",
+              "bowler": "AAP Atkinson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Nikhil Chaudhary",
+              "bowler": "AAP Atkinson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Nikhil Chaudhary",
+              "bowler": "AAP Atkinson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Nikhil Chaudhary",
+              "bowler": "AAP Atkinson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nikhil Chaudhary",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "CJ Jordan",
+              "bowler": "AAP Atkinson",
+              "non_striker": "T Stubbs",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 4.5,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 150
+      }
+    }
+  ]
+}
