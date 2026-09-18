@@ -6,6 +6,26 @@ from app.config import config, validate_configuration
 from app.extensions import db, migrate, login_manager, csrf, limiter
 
 
+def _ensure_demo_user():
+    from app.models import User
+
+    demo_email = os.getenv("DEMO_EMAIL", "demo@cricketlens.example")
+    demo_password = os.getenv("DEMO_PASSWORD", "CricketLensDemo123!")
+    user = User.query.filter(db.func.lower(User.email) == demo_email.lower()).first()
+    if user is None:
+        legacy = User.query.filter_by(email="demo@cricketlens.local").first()
+        if legacy:
+            legacy.email = demo_email
+            user = legacy
+        else:
+            user = User(email=demo_email, username="demo")
+            db.session.add(user)
+    user.username = user.username or "demo"
+    user.set_password(demo_password)
+    db.session.commit()
+    return user
+
+
 def create_app(config_name=None):
     if config_name is None:
         config_name = os.getenv("FLASK_ENV", "development")
@@ -22,7 +42,10 @@ def create_app(config_name=None):
     csrf.init_app(app)
     limiter.init_app(app)
 
-    from app.models import User
+    from pathlib import Path
+    from app.models import User, Venue, VenueFormatStats
+    from app.services.venue_seed import seed_venues
+    from app.services.cricsheet_importer import import_cricsheet_json
 
     @login_manager.user_loader
     def load_user(user_id):
@@ -52,6 +75,12 @@ def create_app(config_name=None):
     with app.app_context():
         db.create_all()
         _upgrade_local_schema()
+        seed_venues()
+        if not VenueFormatStats.query.first():
+            json_dir = Path(__file__).resolve().parent.parent / "all_json"
+            if json_dir.exists():
+                import_cricsheet_json(json_dir)
+        _ensure_demo_user()
 
     @app.route("/")
     def index():

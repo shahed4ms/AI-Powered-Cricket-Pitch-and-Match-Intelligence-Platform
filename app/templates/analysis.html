@@ -19,13 +19,6 @@
             class="px-6 py-3 bg-pink-500 hover:bg-pink-400 text-white font-semibold rounded-xl transition whitespace-nowrap">
             Review Match
         </a>
-        {% elif not analysis %}
-        <button @click="generateAnalysis()" :disabled="generating"
-            class="px-6 py-3 bg-brand-600 hover:bg-brand-500 disabled:bg-brand-800 text-white font-semibold rounded-xl transition flex items-center gap-2 whitespace-nowrap">
-            <svg x-show="!generating" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
-            <svg x-show="generating" class="animate-spin w-5 h-5" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"/><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"/></svg>
-            <span x-text="generating ? 'Analyzing...' : 'Generate Analysis'"></span>
-        </button>
         {% endif %}
     </div>
 
@@ -43,6 +36,8 @@
         </div>
 
         {% set wd = analysis.weather_data %}
+        {% if wd and wd.current %}
+        {% endif %}
         {% if wd and wd.current %}
         <div x-show="weatherDays.length > 1" x-cloak class="flex items-center justify-between mb-4">
             <button type="button" @click="moveWeatherDay(-1)" :disabled="weatherDayIndex <= 0"
@@ -76,6 +71,11 @@
                 <p class="text-2xl font-bold text-white"><span x-text="weatherCurrent.humidity ?? '--'"></span>%</p>
                 <p class="text-gray-500 text-sm">relative</p>
             </div>
+        </div>
+        {% elif wd and wd.error %}
+        <div class="text-center py-8 text-red-300">
+            <p>{{ wd.error }}</p>
+            <p class="text-gray-500 text-sm mt-1">Regenerate the analysis to retry the forecast.</p>
         </div>
         {% else %}
         <div class="text-center py-8 text-gray-500">
@@ -141,7 +141,15 @@
             </div>
 
             {% set pa = analysis.pitch_analysis %}
-            {% if pa and pa.pitch_type %}
+            {% if pa and pa.error %}
+            <div class="text-center py-10 text-gray-500">
+                {% if match.pitch_image_path %}
+                <img src="{{ url_for('static', filename=match.pitch_image_path) }}" alt="Uploaded pitch image" class="w-full max-h-52 object-cover rounded-xl border border-gray-700 mb-4">
+                {% endif %}
+                <p class="text-red-300">{{ pa.error }}</p>
+                <p class="text-sm mt-1">Check the configured AI provider and try generating the analysis again.</p>
+            </div>
+            {% elif pa and pa.pitch_type %}
             <div class="space-y-4">
                 {% if match.pitch_image_path %}
                 <img src="{{ url_for('static', filename=match.pitch_image_path) }}" alt="Uploaded pitch image" class="w-full max-h-52 object-cover rounded-xl border border-gray-700">
@@ -188,11 +196,18 @@
                 {% endif %}
 
             </div>
+            {% elif match.pitch_image_path %}
+            <div class="text-center py-10 text-gray-500">
+                <img src="{{ url_for('static', filename=match.pitch_image_path) }}" alt="Uploaded pitch image" class="w-full max-h-52 object-cover rounded-xl border border-gray-700 mb-4">
+                <p>Pitch analysis has not been generated yet.</p>
+                <p class="text-sm mt-1">Generate the analysis to inspect the uploaded image.</p>
+            </div>
             {% else %}
             <div class="text-center py-10 text-gray-500">
                 <svg class="w-16 h-16 mx-auto mb-3 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
                 <p>No pitch image was provided</p>
-                <p class="text-sm mt-1">Upload a pitch image in the dashboard for detailed analysis</p>
+                <p class="text-sm mt-1">Select a pitch image on the dashboard before creating the match</p>
+                    <p class="text-sm mt-1">Upload a pitch image on the dashboard before generating analysis</p>
             </div>
             {% endif %}
         </section>
@@ -209,13 +224,12 @@
                 </div>
             </div>
 
-            {% set vs = (analysis.venue_stats.get('historical') or analysis.venue_stats) if analysis.venue_stats else {} %}
-            {% if vs %}
+            {% set venue_data = analysis.venue_stats or {} %}
+            {% set vs = venue_data.get('historical') or venue_data or {} %}
+            {% set format_comparison = venue_data.get('format_comparison') or {} %}
+            {% if vs or format_comparison %}
             {% set batting_first = vs.get('batting_first') or {} %}
             {% set bowling_first = vs.get('bowling_first') or {} %}
-            {% set scores = vs.get('scores') or {} %}
-            {% set first_scores = scores.get('first_innings') or {} %}
-            {% set second_scores = scores.get('second_innings') or {} %}
             <div class="space-y-5">
                 <!-- Win % -->
                 <div>
@@ -224,41 +238,21 @@
                         <div>
                             <div class="flex justify-between text-sm mb-1">
                                 <span class="text-gray-300">Batting 1st</span>
-                                <span class="text-white font-semibold">{{ batting_first.get('win_percentage', vs.get('batting_first_win_pct')) or '--' }}%</span>
+                                <span class="text-white font-semibold">{{ batting_first.get('win_percentage') if batting_first.get('win_percentage') is not none else (vs.get('batting_first_win_pct') if vs.get('batting_first_win_pct') is not none else '--') }}%</span>
                             </div>
                             <div class="h-4 rounded-full bg-gray-700 overflow-hidden">
-                                <div class="h-full rounded-full bg-gradient-to-r from-blue-600 to-blue-400" style="width: {{ batting_first.get('win_percentage', vs.get('batting_first_win_pct')) or 0 }}%"></div>
+                                <div class="h-full rounded-full bg-gradient-to-r from-brand-600 to-brand-400" style="width: {{ batting_first.get('win_percentage') if batting_first.get('win_percentage') is not none else (vs.get('batting_first_win_pct') if vs.get('batting_first_win_pct') is not none else 0) }}%"></div>
                             </div>
                         </div>
                         <div>
                             <div class="flex justify-between text-sm mb-1">
                                 <span class="text-gray-300">Bowling 1st / Batting 2nd</span>
-                                <span class="text-white font-semibold">{{ bowling_first.get('win_percentage', vs.get('batting_second_win_pct')) or '--' }}%</span>
+                                <span class="text-white font-semibold">{{ bowling_first.get('win_percentage') if bowling_first.get('win_percentage') is not none else (vs.get('batting_second_win_pct') if vs.get('batting_second_win_pct') is not none else '--') }}%</span>
                             </div>
                             <div class="h-4 rounded-full bg-gray-700 overflow-hidden">
-                                <div class="h-full rounded-full bg-gradient-to-r from-orange-600 to-orange-400" style="width: {{ bowling_first.get('win_percentage', vs.get('batting_second_win_pct')) or 0 }}%"></div>
+                                <div class="h-full rounded-full bg-gradient-to-r from-violet-600 to-violet-400" style="width: {{ bowling_first.get('win_percentage') if bowling_first.get('win_percentage') is not none else (vs.get('batting_second_win_pct') if vs.get('batting_second_win_pct') is not none else 0) }}%"></div>
                             </div>
                         </div>
-                    </div>
-                </div>
-
-                <!-- Innings scores -->
-                <div>
-                    <p class="text-gray-400 text-xs uppercase tracking-wide mb-3">Innings Score Range</p>
-                    <div class="grid grid-cols-2 gap-3">
-                        {% for label, score_data in [
-                            ('1st Innings', first_scores),
-                            ('2nd Innings', second_scores)
-                        ] %}
-                        <div class="bg-gray-800/50 rounded-xl p-4 border border-gray-700/50">
-                            <p class="text-gray-300 text-sm font-semibold mb-3">{{ label }}</p>
-                            <div class="space-y-2 text-sm">
-                                <div class="flex justify-between"><span class="text-gray-500">Average</span><span class="text-white font-semibold">{{ score_data.get('average') or '--' }}</span></div>
-                                <div class="flex justify-between"><span class="text-gray-500">Maximum</span><span class="text-green-300 font-semibold">{{ score_data.get('maximum') or '--' }}</span></div>
-                                <div class="flex justify-between"><span class="text-gray-500">Minimum</span><span class="text-orange-300 font-semibold">{{ score_data.get('minimum') or '--' }}</span></div>
-                            </div>
-                        </div>
-                        {% endfor %}
                     </div>
                 </div>
 
@@ -273,13 +267,6 @@
 
     <!-- AI PREDICTIONS & SUGGESTIONS -->
     {% set ai = analysis.ai_suggestions %}
-    {% if ai and ai.source == 'fallback' %}
-    <div class="bg-yellow-900/30 border border-yellow-700/50 rounded-xl p-4 text-yellow-200 text-sm">
-        <p class="font-semibold">AI provider unavailable — local analysis shown</p>
-        <p class="mt-1 text-yellow-300/80">{{ ai.fallback_reason }}</p>
-        <p class="mt-1 text-yellow-300/80">Configure GEMINI_API_KEY or OPENAI_API_KEY for provider-powered suggestions on new analyses.</p>
-    </div>
-    {% endif %}
     {% if ai and ai.error is not defined %}
     <section class="bg-gray-900 rounded-2xl p-6 card-shadow border border-gray-800">
         <div class="flex items-center gap-2 mb-6">
@@ -410,7 +397,6 @@
     {% elif ai and ai.error %}
     <div class="bg-red-900/30 border border-red-700/50 rounded-xl p-6 text-center">
         <p class="text-red-300">AI analysis could not be generated: {{ ai.error }}</p>
-        <button @click="generateAnalysis()" class="mt-4 px-6 py-2 bg-brand-600 hover:bg-brand-500 text-white rounded-xl transition">Retry</button>
     </div>
     {% endif %}
 
@@ -429,9 +415,9 @@
         <div class="bg-gray-800/40 rounded-xl border border-gray-700/50 p-4 max-h-80 overflow-y-auto space-y-3">
             <template x-for="(message, index) in chatMessages" :key="index">
                 <div class="flex" :class="message.role === 'user' ? 'justify-end' : 'justify-start'">
-                    <div class="max-w-[85%] rounded-xl px-4 py-3 text-sm whitespace-pre-wrap"
+                    <div class="max-w-[85%] rounded-xl px-4 py-3 text-sm"
                         :class="message.role === 'user' ? 'bg-violet-600 text-white' : 'bg-gray-700/70 text-gray-200'"
-                        x-text="message.content"></div>
+                        x-html="renderChatMessage(message)"></div>
                 </div>
             </template>
             <div x-show="chatSending" x-cloak class="text-gray-500 text-sm">PitchVisionAI is thinking...</div>
@@ -585,7 +571,7 @@ function analysisApp() {
                 ? [...new Set(this.weatherHourly.map(point => point.time.split('T')[0]))]
                 : (this.weatherHourly.length ? ['match-window'] : []);
             this.updateWeatherDay();
-            {% if not analysis %}
+            {% if not analysis or not analysis.ai_suggestions or (not analysis.weather_data and not analysis.pitch_analysis) or (analysis and match.pitch_image_path and not analysis.pitch_analysis) %}
             this.$nextTick(() => this.generateAnalysis());
             {% endif %}
             {% if analysis and analysis.weather_data and analysis.weather_data.hourly %}
@@ -628,6 +614,76 @@ function analysisApp() {
             if (this.timeFormat === '24h') return `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}`;
             const suffix = hours >= 12 ? 'PM' : 'AM';
             return `${hours % 12 || 12}:${String(minutes).padStart(2, '0')} ${suffix}`;
+        },
+
+        escapeChatHtml(value) {
+            return String(value || '').replace(/[&<>\"']/g, character => ({
+                '&': '&amp;', '<': '&lt;', '>': '&gt;', '\"': '&quot;', "'": '&#39;'
+            }[character]));
+        },
+
+        formatChatInline(value) {
+            return value
+                .replace(/`([^`]+)`/g, '<code class="px-1 py-0.5 rounded bg-gray-900/70 text-cyan-200">$1</code>')
+                .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+                .replace(/\*([^*]+)\*/g, '<em>$1</em>');
+        },
+
+        formatChatMessage(content) {
+            const lines = this.escapeChatHtml(content).split('\n');
+            const output = [];
+            let paragraph = [];
+            let listType = null;
+            let listItems = [];
+
+            const flushParagraph = () => {
+                if (paragraph.length) {
+                    output.push(`<p class="mb-3 last:mb-0">${this.formatChatInline(paragraph.join('<br>'))}</p>`);
+                    paragraph = [];
+                }
+            };
+            const flushList = () => {
+                if (!listItems.length) return;
+                const tag = listType === 'ordered' ? 'ol' : 'ul';
+                const className = listType === 'ordered' ? 'list-decimal' : 'list-disc';
+                output.push(`<${tag} class="${className} pl-5 mb-3 last:mb-0 space-y-1">${listItems.map(item => `<li>${this.formatChatInline(item)}</li>`).join('')}</${tag}>`);
+                listType = null;
+                listItems = [];
+            };
+
+            lines.forEach(line => {
+                const heading = line.match(/^(#{1,3})\s+(.+)$/);
+                const bullet = line.match(/^[-*]\s+(.+)$/);
+                const ordered = line.match(/^\d+[.)]\s+(.+)$/);
+                if (heading) {
+                    flushParagraph();
+                    flushList();
+                    const level = heading[1].length;
+                    const tag = level === 1 ? 'h3' : level === 2 ? 'h4' : 'h5';
+                    output.push(`<${tag} class="font-bold text-white ${level === 1 ? 'text-base' : 'text-sm'} mb-2">${this.formatChatInline(heading[2])}</${tag}>`);
+                } else if (bullet || ordered) {
+                    flushParagraph();
+                    const nextType = bullet ? 'unordered' : 'ordered';
+                    if (listType && listType !== nextType) flushList();
+                    listType = nextType;
+                    listItems.push((bullet || ordered)[1]);
+                } else if (!line.trim()) {
+                    flushParagraph();
+                    flushList();
+                } else {
+                    flushList();
+                    paragraph.push(line);
+                }
+            });
+            flushParagraph();
+            flushList();
+            return output.join('');
+        },
+
+        renderChatMessage(message) {
+            return message.role === 'assistant'
+                ? this.formatChatMessage(message.content)
+                : this.escapeChatHtml(message.content).replace(/\n/g, '<br>');
         },
 
         renderWeatherChart() {

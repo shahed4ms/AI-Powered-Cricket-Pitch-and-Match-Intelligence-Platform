@@ -14,6 +14,11 @@ from app.models import Match, Analysis, Review, Venue
 from app.services import weather_service, venue_service, pitch_analyzer, ai_suggestions
 
 
+@analysis_bp.errorhandler(429)
+def analysis_rate_limit_error(error):
+    return jsonify({"error": "Analysis is being generated too often. Please wait a moment and try again."}), 429
+
+
 def _build_review_questions(analysis):
     suggestions = analysis.ai_suggestions or {}
     questions = []
@@ -38,12 +43,15 @@ def index(match_id):
 
     venue = Venue.query.get(match.venue_id)
     analysis = Analysis.query.filter_by(match_id=match.id).first()
+    if analysis and analysis.weather_data and "confidence" not in analysis.weather_data:
+        analysis.weather_data = weather_service.enrich_weather_data(analysis.weather_data)
+        db.session.commit()
     if analysis and venue:
         current_venue_stats = venue_service.get_venue_stats(match.venue_id, match.format)
         if current_venue_stats and analysis.venue_stats != current_venue_stats:
             analysis.venue_stats = current_venue_stats
             db.session.commit()
-    if analysis and venue and venue.latitude and venue.longitude and match.time_start:
+    if analysis and venue and match.time_start:
         stored_hourly = (analysis.weather_data or {}).get("hourly", [])
         expected_date_end = _weather_date_end(match).isoformat()
         stored_date_end = (analysis.weather_data or {}).get("date_end")
@@ -120,10 +128,9 @@ def download_analysis(match_id):
     filename = f"{match.match_name.replace(' ', '_')}_analysis.pdf"
     return send_file(buffer, as_attachment=True, download_name=filename, mimetype="application/pdf")
 
-
 @analysis_bp.route("/<int:match_id>/generate", methods=["POST"])
 @login_required
-@limiter.limit("5/minute")
+@limiter.limit("20/minute")
 def generate(match_id):
     match = Match.query.get_or_404(match_id)
     if match.user_id != current_user.id:
@@ -133,17 +140,16 @@ def generate(match_id):
 
     warnings = []
     weather_data = None
-    if venue and venue.latitude and venue.longitude:
+    if venue:
         weather_data = _fetch_match_weather(match, venue)
         if weather_data and weather_data.get("error"):
             warnings.append(weather_data["error"])
-            weather_data = None
         else:
             weather_data = weather_service.enrich_weather_data(weather_data)
 
     pitch_analysis = None
     if match.pitch_image_path:
-        image_path = os.path.join(os.path.dirname(__file__), "..", "static", match.pitch_image_path)
+        image_path = os.path.join(current_app.config["UPLOAD_FOLDER"], os.path.basename(match.pitch_image_path))
         if os.path.exists(image_path):
             try:
                 pitch_analysis = pitch_analyzer.analyze_pitch_image(image_path)
@@ -152,7 +158,9 @@ def generate(match_id):
                 pitch_analysis = {"error": "Pitch analysis failed."}
             if pitch_analysis and pitch_analysis.get("error"):
                 warnings.append(pitch_analysis["error"])
-                pitch_analysis = None
+        else:
+            pitch_analysis = {"error": "Pitch image could not be found. Upload it again and retry."}
+            warnings.append(pitch_analysis["error"])
 
     venue_stats = venue_service.get_venue_stats(
     match.venue_id,
@@ -246,6 +254,17 @@ def generate(match_id):
 
 
 def _fetch_match_weather(match, venue):
+    if venue.latitude is None or venue.longitude is None:
+        search_term = venue.city or venue.name
+        geocoded = venue_service.search_city_geocoding(search_term)
+        if geocoded:
+            venue.latitude = geocoded[0].get("latitude")
+            venue.longitude = geocoded[0].get("longitude")
+            db.session.commit()
+
+    if venue.latitude is None or venue.longitude is None:
+        return {"error": "Weather coordinates are unavailable for this venue", "provider": "open_meteo"}
+
     weather_end = match.time_end
     weather_date_end = _weather_date_end(match) if match.time_start else match.date_end
     if match.time_start:
@@ -429,8 +448,6 @@ def chat(match_id):
     result = ai_suggestions.generate_chat_response(
         match_context, analysis_context, question, payload.get("history")
     )
-    if result.get("error"):
-        return jsonify(result), 502
     return jsonify(result)
 
 

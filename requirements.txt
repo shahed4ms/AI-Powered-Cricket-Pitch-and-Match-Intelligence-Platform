@@ -11,6 +11,7 @@ gunicorn==23.0.0
 bcrypt==4.3.0
 requests==2.32.3
 Pillow==11.1.0
+opencv-python-headless==4.11.0.86
 reportlab==4.4.3
 openai==1.68.2
 oauthlib==3.2.2

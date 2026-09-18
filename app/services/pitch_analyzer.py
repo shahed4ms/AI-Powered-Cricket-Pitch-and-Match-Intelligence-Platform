@@ -1,81 +1,82 @@
-import base64, json
-from openai import APIConnectionError, APIStatusError, APITimeoutError, AuthenticationError, OpenAI, RateLimitError
+import os
+
+try:
+    import cv2
+    import numpy as np
+except ImportError:  # pragma: no cover - dependency is declared in requirements.txt
+    cv2 = None
+    np = None
 from flask import current_app
-from app.services.ai_provider import create_ai_client, get_ai_settings
 
 
 def analyze_pitch_image(image_path, api_key=None):
-    settings = get_ai_settings(api_key)
-    if not settings:
-        return {"error": "No AI provider key configured"}
-
-    try:
-        with open(image_path, "rb") as f:
-            image_data = base64.b64encode(f.read()).decode("utf-8")
-    except OSError:
+    if cv2 is None or np is None:
+        return {"error": "Pitch prediction is currently unavailablegit status."}
+    if not image_path or not os.path.isfile(image_path):
         current_app.logger.warning("Pitch analysis unavailable: image could not be read")
         return {"error": "Pitch image could not be read"}
 
-    ext = image_path.rsplit(".", 1)[-1].lower()
-    mime = "image/png" if ext == "png" else "image/jpeg"
+    image = cv2.imread(image_path)
+    if image is None:
+        return {"error": "Pitch image could not be decoded"}
 
-    try:
-        client = create_ai_client(settings)
-        response = client.chat.completions.create(
-            model=settings["model"],
-            messages=[
-                {
-                    "role": "system",
-                    "content": (
-                        "You are an expert cricket pitch analyst. Analyze the provided pitch image "
-                        "and return a JSON object with the following fields:\n"
-                        "- pitch_type: one of 'green', 'dry', 'dusty', 'dead', 'sporting', 'unknown'\n"
-                        "- bounce_estimate: one of 'high', 'medium', 'low'\n"
-                        "- bounce_percentage: integer 0-100\n"
-                        "- spin_estimate: one of 'high', 'medium', 'low'\n"
-                        "- spin_percentage: integer 0-100\n"
-                        "- surface_condition: one of 'cracked', 'smooth', 'abrasive', 'moist'\n"
-                        "- grass_coverage: one of 'none', 'sparse', 'moderate', 'heavy'\n"
-                        "- confidence: integer 0-100\n"
-                        "- reasoning: brief explanation\n\n"
-                        "Return ONLY valid JSON, no other text."
-                    ),
-                },
-                {
-                    "role": "user",
-                    "content": [
-                        {"type": "text", "text": "Analyze this cricket pitch image."},
-                        {"type": "image_url", "image_url": {"url": f"data:{mime};base64,{image_data}"}},
-                    ],
-                },
-            ],
-            max_tokens=1000,
-            response_format={"type": "json_object"},
-        )
-    except AuthenticationError:
-        current_app.logger.warning("%s pitch analysis unavailable: authentication failed", settings["provider"])
-        return {"error": f"{settings['provider'].title()} authentication failed. Check its API key."}
-    except RateLimitError:
-        current_app.logger.warning("OpenAI pitch analysis unavailable: rate limit reached")
-        return {"error": "AI provider rate limit reached. Try again later."}
-    except (APIConnectionError, APITimeoutError):
-        current_app.logger.warning("OpenAI pitch analysis unavailable: connection or timeout")
-        return {"error": "AI provider could not be reached."}
-    except APIStatusError as exc:
-        current_app.logger.warning("OpenAI pitch analysis unavailable: status=%s", exc.status_code)
-        return {"error": "AI provider returned an error."}
-    except Exception as exc:
-        current_app.logger.warning("OpenAI pitch analysis unavailable: %s", exc.__class__.__name__)
-        return {"error": "AI pitch analysis failed."}
+    height, width = image.shape[:2]
+    # The central 80% avoids most sky, stands, and boundary advertising.
+    crop = image[int(height * 0.1):int(height * 0.9), int(width * 0.1):int(width * 0.9)]
+    hsv = cv2.cvtColor(crop, cv2.COLOR_BGR2HSV)
+    gray = cv2.cvtColor(crop, cv2.COLOR_BGR2GRAY)
+    saturation = hsv[:, :, 1]
+    value = hsv[:, :, 2]
+    green_mask = cv2.inRange(hsv, np.array([30, 35, 25]), np.array([95, 255, 230]))
+    brown_mask = cv2.inRange(hsv, np.array([5, 35, 20]), np.array([30, 255, 220]))
+    green_ratio = float(np.mean(green_mask > 0))
+    brown_ratio = float(np.mean(brown_mask > 0))
+    texture = float(np.std(gray))
+    edges = cv2.Canny(gray, 60, 140)
+    edge_ratio = float(np.mean(edges > 0))
+    mean_brightness = float(np.mean(value))
+    dark_ratio = float(np.mean(value < 65))
+    crack_mask = cv2.adaptiveThreshold(gray, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY_INV, 15, 5)
+    crack_ratio = float(np.mean((crack_mask > 0) & (edges > 0)))
 
-    raw = response.choices[0].message.content.strip()
-    if raw.startswith("```"):
-        raw = raw.split("```")[1]
-        if raw.startswith("json"):
-            raw = raw[4:]
+    if green_ratio >= 0.28 and brown_ratio >= 0.08:
+        pitch_type = "sporting"
+    elif green_ratio >= 0.22:
+        pitch_type = "green"
+    elif brown_ratio >= 0.32 and texture >= 35:
+        pitch_type = "dusty"
+    elif brown_ratio >= 0.18:
+        pitch_type = "dry"
+    elif texture < 22 and edge_ratio < 0.08:
+        pitch_type = "dead"
+    else:
+        pitch_type = "unknown"
 
-    try:
-        return json.loads(raw)
-    except json.JSONDecodeError:
-        current_app.logger.warning("%s pitch analysis unavailable: response was not valid JSON", settings["provider"])
-        return {"error": "AI provider returned an invalid pitch response."}
+    bounce_percentage = int(np.clip(42 + texture * 0.8 + edge_ratio * 100, 10, 90))
+    spin_percentage = int(np.clip(35 + brown_ratio * 80 + crack_ratio * 250, 10, 92))
+    surface_condition = "cracked" if crack_ratio > 0.025 else "abrasive" if texture > 42 else "moist" if dark_ratio > 0.3 else "smooth"
+    grass_coverage = "heavy" if green_ratio > 0.35 else "moderate" if green_ratio > 0.18 else "sparse" if green_ratio > 0.06 else "none"
+    confidence = int(np.clip(45 + abs(green_ratio - brown_ratio) * 80 + min(texture, 60) * 0.35, 35, 88))
+
+    return {
+        "source": "opencv",
+        "pitch_type": pitch_type,
+        "bounce_estimate": "high" if bounce_percentage >= 68 else "medium" if bounce_percentage >= 42 else "low",
+        "bounce_percentage": bounce_percentage,
+        "spin_estimate": "high" if spin_percentage >= 68 else "medium" if spin_percentage >= 42 else "low",
+        "spin_percentage": spin_percentage,
+        "surface_condition": surface_condition,
+        "grass_coverage": grass_coverage,
+        "confidence": confidence,
+        "metrics": {
+            "green_ratio": round(green_ratio, 3),
+            "brown_ratio": round(brown_ratio, 3),
+            "texture": round(texture, 2),
+            "edge_ratio": round(edge_ratio, 3),
+            "crack_ratio": round(crack_ratio, 3),
+        },
+        "reasoning": (
+            f"OpenCV measured {green_ratio:.0%} green coverage, {brown_ratio:.0%} brown soil, "
+            f"texture {texture:.1f}, and edge density {edge_ratio:.1%}."
+        ),
+    }

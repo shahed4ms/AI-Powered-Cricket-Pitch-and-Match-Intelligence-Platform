@@ -75,18 +75,60 @@ def generate_suggestions(match_data, weather_data, pitch_analysis, venue_stats, 
         return {"error": "AI provider returned an invalid response. Local fallback analysis was used."}
 
 
+def _fallback_chat_reply(match_data, analysis_data, question):
+    venue = (match_data or {}).get("venue") or {}
+    venue_name = venue.get("name") or "the venue"
+    format_name = (match_data or {}).get("format") or "the match"
+    weather = (analysis_data or {}).get("weather") or {}
+    pitch = (analysis_data or {}).get("pitch") or {}
+    venue_stats = (analysis_data or {}).get("venue_stats") or {}
+    score_prediction = ((analysis_data or {}).get("predictions") or {}).get("score_prediction") or {}
+
+    first_pred = score_prediction.get("first_innings") or {}
+    second_pred = score_prediction.get("second_innings") or {}
+    weather_text = "Weather is not strongly indicating a major swing, so focus on the toss and team plan."
+    if weather:
+        hourly = (weather.get("hourly") or [])
+        if hourly:
+            rain_prob = max(float(item.get("rain_probability") or 0) for item in hourly)
+            if rain_prob >= 40:
+                weather_text = "Rain risk is meaningful, so keep the plan flexible and prepare for a shorter, more adaptive innings."
+            else:
+                weather_text = "Conditions look stable, which supports a measured approach rather than a chaotic chase."
+
+    if pitch:
+        pitch_type = pitch.get("pitch_type") or pitch.get("surface") or "balanced"
+        weather_text += f" The pitch profile suggests a {pitch_type} surface, so match-ups and early rotation matter."
+
+    avg_score = venue_stats.get("avg_score") or ((venue_stats.get("scores") or {}).get("all_innings") or {}).get("average")
+    score_hint = f"Your venue baseline is around {int(round(float(avg_score))) if avg_score is not None else 'a moderate'} runs." if avg_score is not None else "Use the local venue baseline as your anchor rather than chasing a number too early."
+
+    first_range = first_pred.get("low") and first_pred.get("high")
+    second_range = second_pred.get("low") and second_pred.get("high")
+    range_text = ""
+    if first_range and second_range:
+        range_text = f" For the current match profile, a first-innings range of {first_pred['low']}-{first_pred['high']} and a second-innings range of {second_pred['low']}-{second_pred['high']} is a reasonable planning window."
+
+    return (
+        f"Local strategy view for {format_name} at {venue_name}: {score_hint}{range_text} "
+        f"{weather_text} Keep the first 6-8 overs disciplined, prioritize wicket preservation, and then accelerate only when the matchup is clear. "
+        f"If your question is about the toss, target the conditions and the venue trend rather than one fixed rule; if it is about batting, build a stable platform before pushing the scoring rate."
+    )
+
+
 def generate_chat_response(match_data, analysis_data, question, history=None):
     settings = get_ai_settings()
     if not settings:
-        return {"error": "No AI provider key configured"}
+        return {"reply": _fallback_chat_reply(match_data, analysis_data, question), "provider": "fallback"}
 
     context = (
-        "You are PitchVisionAI, a practical cricket strategy assistant. Answer the user's question "
-        "using only the supplied match context. Be specific, concise, and explain uncertainty. "
+        "You are PitchVisionAI, a tactical cricket strategy assistant. Use only the supplied match context. "
+        "Answer short, practical cricket questions about tactics, matchups, bowling changes, powerplay plans, and conditions. "
+        "Keep answers concise and decision-oriented. Explain uncertainty when conditions or form are unclear. "
         "Never claim certainty about a toss, outcome, injury, or weather event.\n\n"
         f"MATCH CONTEXT:\n{json.dumps(match_data, indent=2)}\n\n"
         f"CURRENT ANALYSIS:\n{json.dumps(analysis_data, indent=2)}\n\n"
-        "Give actionable cricket advice for the selected format and conditions."
+        "Return clear tactical advice suitable for a live cricket match situation."
     )
     messages = [{"role": "system", "content": context}]
     for item in (history or [])[-8:]:
@@ -102,14 +144,14 @@ def generate_chat_response(match_data, analysis_data, question, history=None):
         )
         answer = (response.choices[0].message.content or "").strip()
         if not answer:
-            return {"error": "AI returned an empty response"}
+            return {"reply": _fallback_chat_reply(match_data, analysis_data, question), "provider": "fallback"}
         return {"reply": answer, "provider": settings["provider"]}
     except (AuthenticationError, RateLimitError, APIConnectionError, APITimeoutError, APIStatusError) as exc:
         current_app.logger.warning("%s chat unavailable: %s", settings["provider"], exc.__class__.__name__)
-        return {"error": "AI chat is temporarily unavailable. Please try again."}
+        return {"reply": _fallback_chat_reply(match_data, analysis_data, question), "provider": "fallback"}
     except Exception as exc:
         current_app.logger.warning("%s chat failed: %s", settings["provider"], exc.__class__.__name__)
-        return {"error": "AI chat could not answer that question."}
+        return {"reply": _fallback_chat_reply(match_data, analysis_data, question), "provider": "fallback"}
 
 
 def _is_valid_suggestions(value):
@@ -143,7 +185,12 @@ def build_fallback_suggestions(match_data, weather_data, pitch_analysis, venue_s
     format_baselines = {"Test": 300, "ODI": 265, "T20": 175, "Custom": 240}
     format_name = match_data.get("format") or "Custom"
     format_baseline = format_baselines.get(format_name, format_baselines["Custom"])
-    average_score = venue_stats.get("avg_score")
+    historical = venue_stats.get("historical") or venue_stats
+    first_batting = historical.get("batting_first") or {}
+    first_bowling = historical.get("bowling_first") or {}
+    score_history = historical.get("scores") or {}
+    first_innings = score_history.get("first_innings") or {}
+    average_score = first_innings.get("average") or venue_stats.get("avg_score")
     try:
         average_score = int(round(float(average_score))) if average_score is not None else 240
     except (TypeError, ValueError):
@@ -151,14 +198,8 @@ def build_fallback_suggestions(match_data, weather_data, pitch_analysis, venue_s
     else:
         average_score = round((average_score * 0.65) + (format_baseline * 0.35))
 
-    first_win_pct = float(venue_stats.get("batting_first_win_pct") or 50)
-    second_win_pct = float(venue_stats.get("batting_second_win_pct") or 50)
-    decision = "bat_first" if first_win_pct >= second_win_pct else "bowl_first"
-    decision_reason = (
-        f"Historical venue results favor batting first ({first_win_pct:.0f}% wins)."
-        if decision == "bat_first"
-        else f"Historical venue results favor chasing ({second_win_pct:.0f}% wins batting second)."
-    )
+    first_win_pct = float(first_batting.get("win_percentage") or venue_stats.get("batting_first_win_pct") or 50)
+    second_win_pct = float(first_bowling.get("win_percentage") or venue_stats.get("batting_second_win_pct") or 50)
 
     current_weather = weather_data.get("current") or {}
     hourly_weather = weather_data.get("hourly") or []
@@ -178,6 +219,28 @@ def build_fallback_suggestions(match_data, weather_data, pitch_analysis, venue_s
     average_score = max(80, average_score + weather_adjustment)
 
     pitch_type = pitch_analysis.get("pitch_type") or venue_stats.get("pitch_type") or "unknown"
+    pitch_reasons = []
+    if pitch_type in {"green", "sporting"}:
+        pitch_reasons.append("the green or sporting surface should offer early movement, which favors bowling first")
+    elif pitch_type in {"dry", "dusty"}:
+        pitch_reasons.append("the dry or dusty surface should become harder to score on as it wears, which favors batting first")
+    if dew_expected:
+        pitch_reasons.append("humidity and likely dew should improve the chase later")
+    if rain_probability >= 35:
+        pitch_reasons.append(f"rain probability reaches {rain_probability:.0f}%, so using the shorter favorable window matters")
+    if first_win_pct >= second_win_pct + 5:
+        pitch_reasons.append(f"the venue favors batting first historically ({first_win_pct:.0f}% wins)")
+    elif second_win_pct >= first_win_pct + 5:
+        pitch_reasons.append(f"the venue favors chasing historically ({second_win_pct:.0f}% wins batting second)")
+
+    bowl_score = 0
+    if pitch_type in {"green", "sporting"}: bowl_score += 2
+    if dew_expected or rain_probability >= 35: bowl_score += 2
+    if second_win_pct >= first_win_pct + 5: bowl_score += 2
+    if pitch_type in {"dry", "dusty"}: bowl_score -= 2
+    if first_win_pct >= second_win_pct + 5: bowl_score -= 2
+    decision = "bowl_first" if bowl_score > 0 else "bat_first"
+    decision_reason = "Toss plan: " + "; ".join(pitch_reasons or ["the available venue, pitch, and weather signals are balanced; choose based on player matchups"]) + "."
     pitch_note = f"The venue profile suggests a {pitch_type} pitch; adjust batting tempo to the early movement."
     weather_note = (
         "High humidity may make the ball harder to grip later, so keep a reliable death-overs option ready."

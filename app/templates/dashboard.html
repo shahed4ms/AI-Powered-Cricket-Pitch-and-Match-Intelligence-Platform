@@ -23,12 +23,11 @@
             </div>
 
             <!-- Venue Search -->
-            <div class="mb-6" x-data="{ open: false }">
+            <div class="mb-6">
                 <label class="block text-sm font-semibold text-gray-300 mb-2">Venue</label>
                 <div class="flex gap-2">
                     <div class="flex-1 relative">
                         <input type="text" name="venue_search" x-model="venueQuery" @input.debounce.300ms="searchVenues()" @focus="open = true" required
-                            :value="selectedVenueName"
                             class="w-full px-4 py-3 bg-gray-800 border border-gray-700 rounded-xl text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:border-transparent transition"
                             placeholder="Search stadium or city name...">
                         <!-- Dropdown -->
@@ -40,7 +39,7 @@
                                         <div class="text-white font-medium" x-text="v.name"></div>
                                         <span class="text-xs text-brand-400" x-text="v.kind || 'Stadium'"></span>
                                     </div>
-                                    <div class="text-gray-400 text-sm" x-text="v.city + ', ' + v.country"></div>
+                                    <div class="text-gray-400 text-sm" x-text="v.label || [v.city, v.country].filter(Boolean).join(', ')"></div>
                                 </button>
                             </template>
                         </div>
@@ -202,6 +201,7 @@ function dashboardApp() {
         pitchPreview: null,
         dragging: false,
         submitted: false,
+        open: false,
 
         init() { this.updateEndDate(); },
 
@@ -215,18 +215,29 @@ function dashboardApp() {
         },
 
         async searchVenues() {
-            if (this.venueQuery.length < 1) { this.venueResults = []; return; }
+            if (this.venueQuery.trim().length < 1) {
+                this.venueResults = [];
+                this.open = false;
+                return;
+            }
             try {
                 const resp = await fetch(`/dashboard/api/venues?q=${encodeURIComponent(this.venueQuery)}`);
                 this.venueResults = await resp.json();
+                this.open = this.venueResults.length > 0;
             } catch (e) { console.error(e); }
+        },
+
+        venueDisplay(v) {
+            const labelParts = [v.name, v.city, v.country].filter(Boolean);
+            return labelParts.join(', ');
         },
 
         selectVenue(v) {
             this.selectedVenueId = v.id;
-            this.selectedVenueName = v.name + ' - ' + v.city;
-            this.venueQuery = v.name + ' - ' + v.city;
+            this.selectedVenueName = this.venueDisplay(v);
+            this.venueQuery = this.selectedVenueName;
             this.venueResults = [];
+            this.open = false;
         },
 
         handleFileSelect(e) {
@@ -236,7 +247,12 @@ function dashboardApp() {
 
         handleDrop(e) {
             const file = e.dataTransfer.files[0];
-            if (file && file.type.startsWith('image/')) this.previewFile(file);
+            if (file && file.type.startsWith('image/')) {
+                const transfer = new DataTransfer();
+                transfer.items.add(file);
+                this.$refs.fileInput.files = transfer.files;
+                this.previewFile(file);
+            }
         },
 
         previewFile(file) {

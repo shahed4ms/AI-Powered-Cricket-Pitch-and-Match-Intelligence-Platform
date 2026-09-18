@@ -33,6 +33,10 @@ def get_weather_forecast(latitude, longitude, date_obj, time_start=None, time_en
     times = hourly.get("time", [])
     result = []
 
+    def value_at(name, index):
+        values = hourly.get(name) or []
+        return values[index] if index < len(values) else None
+
     start_clock = _as_time(time_start)
     end_clock = _as_time(time_end)
     continuous_start = datetime.combine(start_date, start_clock) if continuous and start_clock else None
@@ -47,12 +51,12 @@ def get_weather_forecast(latitude, longitude, date_obj, time_start=None, time_en
         result.append({
             "time": timestamp,
             "hour": forecast_time.hour,
-            "temperature": hourly.get("temperature_2m", [None])[i],
-            "humidity": hourly.get("relative_humidity_2m", [None])[i],
-            "wind_speed": hourly.get("wind_speed_10m", [None])[i],
-            "wind_direction": hourly.get("wind_direction_10m", [None])[i],
-            "rain_probability": hourly.get("precipitation_probability", [None])[i],
-            "weather_code": hourly.get("weather_code", [None])[i],
+            "temperature": value_at("temperature_2m", i),
+            "humidity": value_at("relative_humidity_2m", i),
+            "wind_speed": value_at("wind_speed_10m", i),
+            "wind_direction": value_at("wind_direction_10m", i),
+            "rain_probability": value_at("precipitation_probability", i),
+            "weather_code": value_at("weather_code", i),
         })
 
     current = None
@@ -107,7 +111,20 @@ def enrich_weather_data(data):
     for hourly in data.get("hourly", []):
         hourly["description"] = get_weather_description(hourly.get("weather_code"))
         hourly["compass"] = degrees_to_compass(hourly.get("wind_direction"))
+    data["confidence"] = weather_confidence(data)
     return data
+
+
+def weather_confidence(data):
+    """Estimate forecast confidence from provider completeness, not match accuracy."""
+    hourly = data.get("hourly") or []
+    if not hourly:
+        return 0
+    fields = ("temperature", "humidity", "wind_speed", "rain_probability", "weather_code")
+    complete = sum(all(point.get(field) is not None for field in fields) for point in hourly)
+    completeness = complete / len(hourly)
+    window_score = min(len(hourly), 7) / 7
+    return int(round((completeness * 70) + (window_score * 30)))
 
 
 def get_weather_description(code):

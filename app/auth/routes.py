@@ -8,14 +8,15 @@ from app.models import User
 
 
 @auth_bp.route("/login", methods=["GET", "POST"])
-@limiter.limit("20/minute")
+@limiter.limit("20/minute", methods=["POST"])
 def login():
     if current_user.is_authenticated:
         return redirect(url_for("dashboard.index"))
 
     form = LoginForm()
     if form.validate_on_submit():
-        user = User.query.filter_by(email=form.email.data).first()
+        email = (form.email.data or "").strip().lower()
+        user = User.query.filter(db.func.lower(User.email) == email).first()
         if user and user.check_password(form.password.data):
             login_user(user, remember=form.remember_me.data)
             next_page = request.args.get("next")
@@ -34,7 +35,8 @@ def signup():
 
     form = SignupForm()
     if form.validate_on_submit():
-        user = User(email=form.email.data, username=form.username.data)
+        email = (form.email.data or "").strip().lower()
+        user = User(email=email, username=form.username.data.strip())
         user.set_password(form.password.data)
         db.session.add(user)
         db.session.commit()

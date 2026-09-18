@@ -7,7 +7,7 @@ from app import create_app
 from app.extensions import db
 from app.models import User
 from app.services.venue_seed import seed_venues
-from app.services.cricsheet_importer import import_cricsheet_venues
+from app.services.cricsheet_importer import import_cricsheet_json
 
 
 DEMO_EMAIL = os.getenv("DEMO_EMAIL", "demo@cricketlens.example")
@@ -33,10 +33,10 @@ def seed():
     with app.app_context():
         db.create_all()
         venue_count = seed_venues()
-        imported_count = import_cricsheet_venues(Path(__file__).parent / "venuedata")
+        imported_count = import_cricsheet_json(Path(__file__).parent / "all_json")
         seed_demo_user()
         print(f"Seeded {venue_count} venues.")
-        print(f"Imported Cricsheet data for {imported_count} venues.")
+        print(f"Imported Cricsheet data for {imported_count} venue-format records.")
         print(f"Demo login: {DEMO_EMAIL} / {DEMO_PASSWORD}")
 
 
